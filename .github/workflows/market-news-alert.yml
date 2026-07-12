@@ -1,0 +1,66 @@
+name: 글로벌 시장영향 5분 속보
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 24시간, 5분마다 새 뉴스 확인
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-news-alert-5min
+  cancel-in-progress: true
+
+jobs:
+  alert:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+      NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+      DART_API_KEY: ${{ secrets.DART_API_KEY }}
+
+    steps:
+      - name: 코드 받기
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 파이썬 준비
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: 필요한 부품 설치
+        run: python -m pip install -r requirements.txt
+
+      - name: 텔레그램 비밀값 확인
+        shell: bash
+        run: |
+          test -n "$TELEGRAM_BOT_TOKEN" || (echo "TELEGRAM_BOT_TOKEN 비밀값이 비어 있습니다." && exit 1)
+          test -n "$TELEGRAM_CHAT_ID" || (echo "TELEGRAM_CHAT_ID 비밀값이 비어 있습니다." && exit 1)
+
+      - name: 수동 실행 때 연결 시험
+        if: github.event_name == 'workflow_dispatch'
+        run: python market_news_alert.py --config config.github.yaml --test-telegram
+
+      - name: 새 뉴스 확인 및 텔레그램 발송
+        run: python market_news_alert.py --config config.github.yaml --once
+
+      - name: 중복방지 기록 저장
+        shell: bash
+        run: |
+          if [ -f data/seen_news.sqlite3 ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/seen_news.sqlite3
+            if ! git diff --cached --quiet; then
+              git commit -m "chore: update alert state [skip ci]"
+              git push
+            fi
+          fi
