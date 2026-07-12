@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # 24시간, 5분마다 새 뉴스 확인
-    - cron: '*/5 * * * *'
+   - cron: "2-59/5 * * * *"
 
 permissions:
   contents: write
