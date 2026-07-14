@@ -25,11 +25,12 @@ from dataclasses import dataclass, field
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
 from typing import Any, Iterable, Mapping
-from urllib.parse import quote_plus
+from urllib.parse import quote, quote_plus
 
 import feedparser
 import requests
 import yaml
+from deep_translator import GoogleTranslator
 from dateutil import parser as date_parser
 from dateutil import tz
 
@@ -81,6 +82,17 @@ class MarketNewsAlertBot:
         self.session.headers.update({"User-Agent": self.config["runtime"].get("user_agent", "MarketNewsAlertBot/1.0")})
         self.db_path = Path(self.config["runtime"].get("sqlite_path", "data/seen_news.sqlite3"))
         self.db_path.parent.mkdir(parents=True, exist_ok=True)
+        self._translation_cache: dict[str, str] = {}
+        translation_conf = self.config.get("translation", {})
+        self.translation_enabled = bool(translation_conf.get("enabled", True))
+        self.translation_target = str(translation_conf.get("target_language", "ko"))
+        self.translation_summary_chars = int(translation_conf.get("summary_max_chars", 260))
+        self.translation_open_page = bool(translation_conf.get("open_translated_page", True))
+        self._translator = (
+            GoogleTranslator(source="auto", target=self.translation_target)
+            if self.translation_enabled
+            else None
+        )
         self._init_db()
 
     @staticmethod
@@ -566,6 +578,55 @@ class MarketNewsAlertBot:
         delta = now - published_at
         return max(0, int(delta.total_seconds() // 60))
 
+    def translate_to_korean(self, text: str) -> str:
+        """영문 텍스트를 한국어로 번역한다. 실패 시 원문을 반환한다."""
+        cleaned = clean_text(text)
+        if not cleaned or not self.translation_enabled or not needs_korean_translation(cleaned):
+            return cleaned
+        cached = self._translation_cache.get(cleaned)
+        if cached is not None:
+            return cached
+        if self._translator is None:
+            return cleaned
+        try:
+            # 번역 서비스의 단일 요청 길이 제한을 피하기 위해 짧게 자릅니다.
+            source_text = cleaned[:4500]
+            translated = clean_text(self._translator.translate(source_text))
+            result = translated or cleaned
+        except Exception as exc:  # noqa: BLE001 - 번역 실패가 전체 알림을 막으면 안 됨
+            self.logger.warning("한글 번역 실패: %s", exc)
+            result = cleaned
+        self._translation_cache[cleaned] = result
+        return result
+
+    def make_korean_summary(self, item: NewsItem, translated_title: str) -> list[str]:
+        """RSS 설명을 한국어로 바꾸고 최대 두 줄로 정리한다.
+
+        원문에 설명이 없으면 내용을 지어내지 않고 제목 기반 안내문을 반환한다.
+        """
+        raw_summary = clean_text(item.summary)
+        if raw_summary and normalize_for_hash(raw_summary) != normalize_for_hash(item.title):
+            translated = self.translate_to_korean(raw_summary)
+            lines = split_summary_lines(translated, max_lines=2, max_chars=self.translation_summary_chars)
+            if lines:
+                return lines
+        return [
+            f"{truncate(translated_title, 170)} 관련 기사입니다.",
+            "원문 요약을 제공하지 않는 피드이므로 세부 내용은 링크에서 확인하세요.",
+        ]
+
+    def make_display_link(self, item: NewsItem) -> tuple[str, str | None]:
+        """영문 기사면 한국어 웹번역 링크와 원문 링크를 함께 반환한다."""
+        if not item.link:
+            return "", None
+        if self.translation_open_page and needs_korean_translation(f"{item.title} {item.summary}"):
+            translated_url = (
+                "https://translate.google.com/translate"
+                f"?sl=auto&tl=ko&u={quote(item.link, safe='')}"
+            )
+            return translated_url, item.link
+        return item.link, None
+
     def format_message(self, items: list[ScoredItem]) -> str:
         now = dt.datetime.now(self.timezone).strftime("%Y-%m-%d %H:%M")
         title = self.config["runtime"].get("mode_name", "시장영향 속보")
@@ -579,12 +640,17 @@ class MarketNewsAlertBot:
             sector_text = ", ".join(scored.sectors) if scored.sectors else "미분류"
             related_text = " / ".join(scored.related_stocks[:2]) if scored.related_stocks else "직접 확인"
             keyword_text = ", ".join(scored.matched_keywords[:6]) if scored.matched_keywords else "없음"
-            clean_title = truncate(item.title, 120)
+            translated_title = self.translate_to_korean(item.title)
+            clean_title = truncate(translated_title, 150)
+            summary_lines = self.make_korean_summary(item, translated_title)
+            display_link, original_link = self.make_display_link(item)
 
             lines.extend(
                 [
                     f"{idx}) {grade_icon(scored.grade)} {scored.grade} / 점수 {scored.score}",
-                    f"제목: {clean_title}",
+                    f"제목(한글): {clean_title}",
+                    "한글 요약:",
+                    *[f"- {line}" for line in summary_lines],
                     f"출처: {item.source} / {time_text}",
                     f"영향: {scored.bias}",
                     f"섹터: {sector_text}",
@@ -594,8 +660,11 @@ class MarketNewsAlertBot:
                     f"해석: {scored.reason}",
                 ]
             )
-            if item.link:
-                lines.append(f"링크: {item.link}")
+            if display_link:
+                link_label = "한글로 열기" if original_link else "링크"
+                lines.append(f"{link_label}: {display_link}")
+            if original_link:
+                lines.append(f"원문: {original_link}")
             lines.append("")
 
         lines.append("※ 자동 필터링 알림입니다. 매수/매도 결정 전 원문·차트·수급을 반드시 확인하세요.")
@@ -636,6 +705,47 @@ def clean_text(value: Any) -> str:
     text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"\s+", " ", text)
     return text.strip()
+
+
+def needs_korean_translation(text: str) -> bool:
+    """한글보다 영문 비중이 큰 텍스트인지 판단한다."""
+    cleaned = clean_text(text)
+    if not cleaned:
+        return False
+    hangul_count = len(re.findall(r"[가-힣]", cleaned))
+    latin_count = len(re.findall(r"[A-Za-z]", cleaned))
+    return latin_count >= 5 and latin_count > hangul_count * 1.5
+
+
+def split_summary_lines(text: str, max_lines: int = 2, max_chars: int = 260) -> list[str]:
+    """번역문을 읽기 쉬운 최대 두 줄 요약으로 자른다."""
+    cleaned = clean_text(text)
+    if not cleaned:
+        return []
+    sentences = [
+        part.strip(" -•")
+        for part in re.split(r"(?<=[.!?。])\s+|[\r\n]+", cleaned)
+        if part.strip(" -•")
+    ]
+    if not sentences:
+        sentences = [cleaned]
+    result: list[str] = []
+    used = 0
+    for sentence in sentences:
+        if len(result) >= max_lines or used >= max_chars:
+            break
+        remaining = max_chars - used
+        clipped = truncate(sentence, max(30, remaining))
+        result.append(clipped)
+        used += len(clipped)
+    if len(result) == 1 and len(result[0]) > 150:
+        midpoint = min(len(result[0]) // 2, 130)
+        split_at = result[0].rfind(" ", 50, midpoint + 20)
+        if split_at > 50:
+            first = result[0][:split_at].strip()
+            second = result[0][split_at:].strip()
+            result = [first, truncate(second, max_chars - len(first))]
+    return result[:max_lines]
 
 
 def keyword_in_text(keyword: str, lower_text: str) -> bool:
