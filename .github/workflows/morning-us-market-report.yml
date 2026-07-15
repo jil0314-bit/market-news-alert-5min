@@ -1,0 +1,44 @@
+name: 미국장 마감·국내장 영향 7시 브리핑
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 미국 월~금 장 마감 후, 한국시간 화~토 오전 7시 실행(UTC 월~금 22:00)
+    - cron: '0 22 * * 1-5'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: morning-us-market-report
+  cancel-in-progress: true
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 7
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+    steps:
+      - name: 코드 받기
+        uses: actions/checkout@v4
+
+      - name: 파이썬 준비
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: 필요한 부품 설치
+        run: python -m pip install -r requirements.txt
+
+      - name: 텔레그램 비밀값 확인
+        shell: bash
+        run: |
+          test -n "$TELEGRAM_BOT_TOKEN" || (echo "TELEGRAM_BOT_TOKEN 비밀값이 비어 있습니다." && exit 1)
+          test -n "$TELEGRAM_CHAT_ID" || (echo "TELEGRAM_CHAT_ID 비밀값이 비어 있습니다." && exit 1)
+
+      - name: 미국장 마감 브리핑 생성 및 발송
+        run: python morning_us_market_report.py
