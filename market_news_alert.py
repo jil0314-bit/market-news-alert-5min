@@ -86,7 +86,7 @@ class MarketNewsAlertBot:
         translation_conf = self.config.get("translation", {})
         self.translation_enabled = bool(translation_conf.get("enabled", True))
         self.translation_target = str(translation_conf.get("target_language", "ko"))
-        self.translation_summary_chars = int(translation_conf.get("summary_max_chars", 260))
+        self.translation_summary_chars = max(520, int(translation_conf.get("summary_max_chars", 520)))
         self.translation_open_page = bool(translation_conf.get("open_translated_page", True))
         self._translator = (
             GoogleTranslator(source="auto", target=self.translation_target)
@@ -600,19 +600,21 @@ class MarketNewsAlertBot:
         return result
 
     def make_korean_summary(self, item: NewsItem, translated_title: str) -> list[str]:
-        """RSS 설명을 한국어로 바꾸고 최대 두 줄로 정리한다.
+        """RSS 설명을 한국어로 바꾸고 최대 네 줄로 정리한다.
 
         원문에 설명이 없으면 내용을 지어내지 않고 제목 기반 안내문을 반환한다.
         """
         raw_summary = clean_text(item.summary)
         if raw_summary and normalize_for_hash(raw_summary) != normalize_for_hash(item.title):
             translated = self.translate_to_korean(raw_summary)
-            lines = split_summary_lines(translated, max_lines=2, max_chars=self.translation_summary_chars)
+            lines = split_summary_lines(translated, max_lines=4, max_chars=self.translation_summary_chars)
             if lines:
                 return lines
         return [
             f"{truncate(translated_title, 170)} 관련 기사입니다.",
-            "원문 요약을 제공하지 않는 피드이므로 세부 내용은 링크에서 확인하세요.",
+            "원문 피드에 충분한 본문 요약이 없어 제목을 중심으로 분류했습니다.",
+            "시장 영향·관련 종목은 자동 키워드 분석 결과이므로 실제 기사 내용과 다를 수 있습니다.",
+            "세부 사실과 수치는 한글로 열기 또는 원문 링크에서 확인하세요.",
         ]
 
     def make_display_link(self, item: NewsItem) -> tuple[str, str | None]:
@@ -717,8 +719,8 @@ def needs_korean_translation(text: str) -> bool:
     return latin_count >= 5 and latin_count > hangul_count * 1.5
 
 
-def split_summary_lines(text: str, max_lines: int = 2, max_chars: int = 260) -> list[str]:
-    """번역문을 읽기 쉬운 최대 두 줄 요약으로 자른다."""
+def split_summary_lines(text: str, max_lines: int = 4, max_chars: int = 520) -> list[str]:
+    """번역문을 읽기 쉬운 최대 네 줄 요약으로 자른다."""
     cleaned = clean_text(text)
     if not cleaned:
         return []
