@@ -1,16 +1,17 @@
-name: 글로벌 시장영향 5분 속보
+name: 글로벌 시장영향 1시간 속보
 
 on:
   workflow_dispatch:
   schedule:
-    # 24시간, 5분마다 새 뉴스 확인
-   - cron: "2-59/5 * * * *"
+    # 평일 오전 7시~오후 7시 59분, 1시간마다 새 뉴스 확인
+    # (토큰 절감 + 야간 차단: 20시~6시59분)
+    - cron: "0 7-19 * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: market-news-alert-5min
+  group: market-news-alert-hourly
   cancel-in-progress: true
 
 jobs:
