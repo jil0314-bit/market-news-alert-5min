@@ -7,13 +7,20 @@ telegram:
 
 runtime:
   timezone: "Asia/Seoul"
-  mode_name: "글로벌 시장영향 5분 속보"
+  mode_name: "글로벌 시장영향 1시간 속보"
   sqlite_path: "data/seen_news.sqlite3"
   log_path: "logs/market_news_alert.log"
   max_items_per_message: 3
   max_news_age_minutes: 90
   request_timeout_sec: 15
   user_agent: "Mozilla/5.0 MarketNewsAlertBot/2.0 (+personal market monitoring)"
+
+# 번역 설정: 영문 기사를 한국어로 번역하고 요약합니다
+translation:
+  enabled: true
+  target_language: "ko"
+  summary_max_chars: 850  # 기존 520 → 850으로 증가 (더 긴 요약)
+  open_translated_page: true  # 한글 웹번역 링크 제공
 
 polling:
   market_open: "08:30"
@@ -386,3 +393,4 @@ sectors:
   금융_금리:
     related: "은행주, 증권주, 보험주, 성장주, 코스피200 선물"
     keywords: ["연준", "FOMC", "금리", "국채금리", "Federal Reserve", "interest rate", "Treasury yield", "inflation"]
+
