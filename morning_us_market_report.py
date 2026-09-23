@@ -72,28 +72,61 @@ class MorningUSMarketReport:
         "KRW=X": "원·달러",
     }
 
-    WATCHLIST: dict[str, str] = {
-        "NVDA": "엔비디아",
-        "AMD": "AMD",
-        "AVGO": "브로드컴",
-        "MU": "마이크론",
-        "TSM": "TSMC ADR",
-        "ASML": "ASML",
-        "QCOM": "퀄컴",
-        "AAPL": "애플",
-        "MSFT": "마이크로소프트",
-        "GOOGL": "알파벳",
-        "AMZN": "아마존",
-        "META": "메타",
-        "TSLA": "테슬라",
-        "NFLX": "넷플릭스",
-        "LLY": "일라이릴리",
-        "MRNA": "모더나",
-        "XOM": "엑슨모빌",
-        "CVX": "셰브론",
-        "BA": "보잉",
-        "PLTR": "팔란티어",
+    # 섹터별 감시 종목. 국내 관련 테마와 짝이 맞도록 묶었다.
+    # 티커는 모두 야후 파이낸스 응답을 실제로 확인한 것이다.
+    SECTOR_WATCHLIST: dict[str, dict[str, str]] = {
+        "반도체": {
+            "NVDA": "엔비디아", "AMD": "AMD", "AVGO": "브로드컴", "TSM": "TSMC",
+            "ASML": "ASML", "QCOM": "퀄컴", "INTC": "인텔", "ARM": "ARM",
+            "MRVL": "마벨", "LRCX": "램리서치", "AMAT": "어플라이드머티리얼즈", "KLAC": "KLA",
+        },
+        "메모리": {
+            "MU": "마이크론", "WDC": "웨스턴디지털", "STX": "씨게이트", "SNDK": "샌디스크",
+        },
+        "광통신": {
+            "COHR": "코히런트", "LITE": "루멘텀", "AAOI": "어플라이드옵토",
+            "CIEN": "시에나", "FN": "파브리넷", "POET": "POET테크",
+        },
+        "제약바이오": {
+            "LLY": "일라이릴리", "NVO": "노보노디스크", "PFE": "화이자", "MRK": "머크",
+            "ABBV": "애브비", "AMGN": "암젠", "MRNA": "모더나", "REGN": "리제네론",
+            "VRTX": "버텍스", "GILD": "길리어드",
+        },
+        "전력전선": {
+            "GEV": "GE버노바", "ETN": "이튼", "PWR": "콴타서비스", "VRT": "버티브",
+            "POWL": "파월인더스트리", "NEE": "넥스트에라", "AES": "AES",
+        },
+        "원전": {
+            "CEG": "콘스텔레이션", "VST": "비스트라", "SMR": "뉴스케일파워", "OKLO": "오클로",
+            "LEU": "센트루스", "CCJ": "카메코", "BWXT": "BWX테크", "NNE": "나노뉴클리어",
+        },
+        "양자": {
+            "IONQ": "아이온큐", "RGTI": "리게티", "QBTS": "디웨이브",
+            "QUBT": "퀀텀컴퓨팅", "ARQQ": "아르킷퀀텀",
+        },
+        "AI·빅테크": {
+            "MSFT": "마이크로소프트", "GOOGL": "알파벳", "AMZN": "아마존", "META": "메타",
+            "AAPL": "애플", "TSLA": "테슬라", "PLTR": "팔란티어", "SMCI": "슈퍼마이크로",
+            "ANET": "아리스타", "DELL": "델", "CRWV": "코어위브",
+        },
     }
+
+    # 시세 수집은 평평한 목록으로 한 번에 돌린다.
+    WATCHLIST: dict[str, str] = {
+        symbol: name
+        for tickers in SECTOR_WATCHLIST.values()
+        for symbol, name in tickers.items()
+    }
+
+    # 티커 -> 섹터 역색인. 폭등·폭락 종목에 섹터를 붙여 보여주기 위해 쓴다.
+    SYMBOL_SECTOR: dict[str, str] = {
+        symbol: sector
+        for sector, tickers in SECTOR_WATCHLIST.items()
+        for symbol in tickers
+    }
+
+    # 이 폭 이상 움직이면 "폭등/폭락"으로 따로 모은다.
+    BIG_MOVE_PCT: float = 5.0
 
     NEWS_QUERIES: tuple[tuple[str, int], ...] = (
         ('US stocks Nasdaq Dow S&P 500 market close Reuters Bloomberg CNBC when:1d', 5),
@@ -372,6 +405,44 @@ class MorningUSMarketReport:
         translated = self.translate(text)
         return split_sentences(translated, max_lines=2, max_chars=300)
 
+    def summarize_sectors(self, stocks: list[Quote]) -> list[dict[str, Any]]:
+        """섹터별 평균 등락률과 대표 종목을 정리한다.
+
+        평균만 보면 한 종목이 크게 튀었을 때 섹터 전체가 오른 것처럼 보인다.
+        그래서 오른 종목 수와 내린 종목 수를 함께 담아 실제 폭을 판단할 수 있게 한다.
+        """
+        by_symbol = {quote.symbol: quote for quote in stocks}
+        summaries: list[dict[str, Any]] = []
+        for sector, tickers in self.SECTOR_WATCHLIST.items():
+            members = [by_symbol[s] for s in tickers if s in by_symbol]
+            if not members:
+                continue
+            members.sort(key=lambda q: q.change_pct, reverse=True)
+            changes = [q.change_pct for q in members]
+            summaries.append({
+                "sector": sector,
+                "average": sum(changes) / len(changes),
+                "count": len(members),
+                "up": sum(1 for c in changes if c > 0),
+                "down": sum(1 for c in changes if c < 0),
+                "top": members[:3],
+                "bottom": members[-1],
+            })
+        summaries.sort(key=lambda x: x["average"], reverse=True)
+        return summaries
+
+    @staticmethod
+    def sector_icon(average: float) -> str:
+        if average >= 3.0:
+            return "🔥"
+        if average > 0.5:
+            return "▲"
+        if average <= -3.0:
+            return "🧊"
+        if average < -0.5:
+            return "▼"
+        return "－"
+
     def format_report(
         self,
         indices: list[Quote],
@@ -404,18 +475,72 @@ class MorningUSMarketReport:
             )
         lines.append("")
 
-        movers = sorted(stocks, key=lambda x: abs(x.change_pct), reverse=True)
-        notable = [quote for quote in movers if abs(quote.change_pct) >= 1.5][:7]
-        lines.append("🚀 3. 특이 급등락·한국 연관 종목")
-        if notable:
-            for quote in notable:
-                direction = "급등" if quote.change_pct > 0 else "급락"
-                lines.append(f"- {quote.name}({quote.symbol}): {quote.change_pct:+.2f}% · {direction}")
+        sector_summaries = self.summarize_sectors(stocks)
+        lines.append("🏭 3. 섹터별 등락 (강한 순)")
+        if sector_summaries:
+            for summary in sector_summaries:
+                icon = self.sector_icon(summary["average"])
+                lines.append(
+                    f"{icon} {summary['sector']} 평균 {summary['average']:+.2f}%"
+                    f"  (상승 {summary['up']} / 하락 {summary['down']}, {summary['count']}종목)"
+                )
+                strong = " · ".join(
+                    f"{q.name} {q.change_pct:+.1f}%" for q in summary["top"]
+                )
+                lines.append(f"   강세: {strong}")
+                weakest = summary["bottom"]
+                if weakest not in summary["top"]:
+                    label = "약세" if weakest.change_pct < 0 else "최저"
+                    lines.append(f"   {label}: {weakest.name} {weakest.change_pct:+.1f}%")
+            lines.append("")
+            top_sector = sector_summaries[0]
+            worst_sector = sector_summaries[-1]
+            lines.append(
+                f"→ 가장 강한 섹터: {top_sector['sector']} {top_sector['average']:+.2f}%"
+                f" / 가장 약한 섹터: {worst_sector['sector']} {worst_sector['average']:+.2f}%"
+            )
         else:
-            lines.append("- 감시 종목 중 ±1.5% 이상 특이 변동을 확인하지 못했습니다.")
+            lines.append("- 무료 시세 응답 지연으로 섹터 집계를 만들지 못했습니다.")
         lines.append("")
 
-        lines.append("📰 4. 미국장을 움직인 핵심 이슈")
+        threshold = self.BIG_MOVE_PCT
+        surged = sorted(
+            [q for q in stocks if q.change_pct >= threshold],
+            key=lambda q: q.change_pct, reverse=True,
+        )
+        plunged = sorted(
+            [q for q in stocks if q.change_pct <= -threshold], key=lambda q: q.change_pct
+        )
+        lines.append(f"🚀 4. 폭등·폭락 종목 (±{threshold:.0f}% 이상)")
+        if surged:
+            lines.append(f"[폭등 {len(surged)}종목]")
+            for quote in surged[:8]:
+                sector = self.SYMBOL_SECTOR.get(quote.symbol, "기타")
+                lines.append(
+                    f"- {quote.name}({quote.symbol}) {quote.change_pct:+.2f}%"
+                    f" · {sector} · {quote.price:,.2f}"
+                )
+            if len(surged) > 8:
+                lines.append(f"  (외 {len(surged) - 8}종목 더 있음)")
+        if plunged:
+            lines.append(f"[폭락 {len(plunged)}종목]")
+            for quote in plunged[:8]:
+                sector = self.SYMBOL_SECTOR.get(quote.symbol, "기타")
+                lines.append(
+                    f"- {quote.name}({quote.symbol}) {quote.change_pct:+.2f}%"
+                    f" · {sector} · {quote.price:,.2f}"
+                )
+            if len(plunged) > 8:
+                lines.append(f"  (외 {len(plunged) - 8}종목 더 있음)")
+        if not surged and not plunged:
+            movers = sorted(stocks, key=lambda q: abs(q.change_pct), reverse=True)[:5]
+            lines.append(f"- ±{threshold:.0f}% 이상 종목 없음. 변동이 큰 순서는 아래와 같습니다.")
+            for quote in movers:
+                sector = self.SYMBOL_SECTOR.get(quote.symbol, "기타")
+                lines.append(f"- {quote.name}({quote.symbol}) {quote.change_pct:+.2f}% · {sector}")
+        lines.append("")
+
+        lines.append("📰 5. 미국장을 움직인 핵심 이슈")
         if news:
             for item in news[:6]:
                 title_ko = truncate(self.translate(item.title), 150)
@@ -428,7 +553,7 @@ class MorningUSMarketReport:
             lines.append("- 최근 기사 피드에서 조건을 통과한 주요 이슈가 없었습니다.")
         lines.append("")
 
-        lines.append("📅 5. 오늘 밤·다음 미국장 확인 일정")
+        lines.append("📅 6. 오늘 밤·다음 미국장 확인 일정")
         combined_schedule = events + earnings
         if combined_schedule:
             for event in combined_schedule[:10]:
@@ -437,7 +562,7 @@ class MorningUSMarketReport:
             lines.append("- 공식 일정 응답이 없거나 주요 일정이 확인되지 않았습니다.")
         lines.append("")
 
-        lines.append("🇰🇷 6. 다음 국내장 체크포인트")
+        lines.append("🇰🇷 7. 다음 국내장 체크포인트")
         for point in self.build_korea_points(quote_map, stocks, news):
             lines.append(f"- {point}")
         lines.append("")
