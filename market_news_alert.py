@@ -796,7 +796,9 @@ class MarketNewsAlertBot:
     def format_message(self, items: list[ScoredItem]) -> str:
         now = dt.datetime.now(self.timezone).strftime("%Y-%m-%d %H:%M")
         title = self.config["runtime"].get("mode_name", "시장영향 속보")
-        lines = [f"🚨 [{title}] {now}", ""]
+        # HTML 모드로 보내므로 링크를 뺀 모든 글자는 이스케이프한다.
+        esc = html.escape
+        lines = [f"🚨 [{esc(title)}] {now}", ""]
 
         for idx, scored in enumerate(items, start=1):
             item = scored.item
@@ -806,12 +808,12 @@ class MarketNewsAlertBot:
 
             head = f"{idx}) {grade_icon(scored.grade)} {scored.grade} {scored.score}점"
             if scored.sectors:
-                head += " · " + ", ".join(scored.sectors[:3])
+                head += " · " + esc(", ".join(scored.sectors[:3]))
             lines.append(head)
-            lines.append(truncate(translated_title, 150))
-            lines.extend(f"   {line}" for line in summary_lines)
+            lines.append(f"<b>{esc(truncate(translated_title, 150))}</b>")
+            lines.extend(f"   {esc(line)}" for line in summary_lines)
 
-            origin = f"출처: {item.source}"
+            origin = f"출처: {esc(item.source)}"
             if item.published_at:
                 published = item.published_at.astimezone(self.timezone)
                 today = dt.datetime.now(self.timezone).date()
@@ -823,16 +825,18 @@ class MarketNewsAlertBot:
                 origin += f" (같은 내용 {item.dup_count}건 생략)"
             lines.append(origin)
 
-            detail = f"영향: {scored.bias}"
+            detail = f"영향: {esc(scored.bias)}"
             if scored.related_stocks:
-                detail += f" · 관련주: {truncate(scored.related_stocks[0], 70)}"
+                detail += f" · 관련주: {esc(truncate(scored.related_stocks[0], 70))}"
             lines.append(detail)
             if scored.signals:
-                lines.append(f"신호: {', '.join(scored.signals[:2])}")
+                lines.append(f"신호: {esc(', '.join(scored.signals[:2]))}")
 
-            # 링크는 한 줄만 넣는다. 구글뉴스 주소가 길어 두 줄이면 메시지가 두 배가 된다.
+            # 구글뉴스 주소는 500자가 넘어 그대로 쓰면 화면을 다 잡아먹는다.
+            # 누르면 열리는 짧은 글자 링크로 바꾼다.
             if display_link:
-                lines.append(("한글로 열기: " if original_link else "링크: ") + display_link)
+                label = "한글로 열기" if original_link else "기사 원문 보기"
+                lines.append(f'<a href="{esc(display_link, quote=True)}">▶ {label}</a>')
             lines.append("")
 
         lines.append("※ 자동 필터 알림. 매매 전 원문·차트·수급을 반드시 확인하세요.")
@@ -854,10 +858,21 @@ class MarketNewsAlertBot:
             payload = {
                 "chat_id": chat_id,
                 "text": chunk,
+                "parse_mode": "HTML",
                 "disable_web_page_preview": bool(telegram.get("disable_web_page_preview", True)),
             }
             timeout = int(self.config["runtime"].get("request_timeout_sec", 10))
             response = self.session.post(url, json=payload, timeout=timeout)
+            if response.status_code >= 400:
+                # 태그가 어긋나 HTML 해석이 실패하면 알림 자체가 끊긴다.
+                # 그런 경우 태그를 걷어낸 평문으로 한 번 더 시도한다.
+                self.logger.warning(
+                    "HTML 모드 발송 실패(%s). 평문으로 재시도합니다: %s",
+                    response.status_code, response.text[:200],
+                )
+                payload.pop("parse_mode", None)
+                payload["text"] = strip_html_tags(chunk)
+                response = self.session.post(url, json=payload, timeout=timeout)
             if response.status_code >= 400:
                 raise RuntimeError(f"텔레그램 발송 실패: {response.status_code} {response.text[:300]}")
             time.sleep(0.4)
@@ -1073,6 +1088,67 @@ def content_tokens(title: str) -> set[str]:
     return result
 
 
+# 어느 기사에나 붙는 상투어. 이 단어들이 겹치는 것은 같은 사건이라는 근거가 못 된다.
+# ("엔비디아 3분기 실적 발표 임박"과 "엔비디아 3분기 실적 발표 결과"는 다른 기사다)
+_GENERIC_TOKENS = {
+    "실적", "발표", "전망", "예상", "기대", "상향", "하향", "목표주가", "주가", "종목",
+    "상승", "하락", "급등", "급락", "강세", "약세", "돌파", "경신", "최고치", "최저치",
+    "가격", "확대", "축소", "검토", "추진", "개최", "공개", "출시", "계획", "방침",
+    "분석", "보고서", "리포트", "의견", "시장", "국내", "해외", "글로벌", "업계",
+}
+
+
+# 같은 기업의 비슷한 소식이라도 나라가 다르면 다른 사건이다.
+# ("두산에너빌리티 체코 원전 수주"와 "두산에너빌리티 폴란드 원전 수주"는 별개 계약)
+_COUNTRY_TOKENS = {
+    "한국", "국내", "미국", "중국", "일본", "대만", "러시아", "우크라이나", "이란",
+    "이스라엘", "사우디", "인도", "독일", "프랑스", "영국", "체코", "폴란드", "베트남",
+    "호주", "캐나다", "멕시코", "브라질", "튀르키예", "터키", "북한", "유럽", "중동",
+    "인도네시아", "태국", "말레이시아", "싱가포르", "네덜란드", "이탈리아", "스페인",
+    "스웨덴", "노르웨이", "핀란드", "덴마크", "스위스", "오스트리아", "헝가리",
+    "루마니아", "그리스", "포르투갈", "아일랜드", "벨기에", "카타르", "이라크",
+    "시리아", "예멘", "리비아", "이집트", "나이지리아", "칠레", "페루", "아르헨티나",
+    "콜롬비아", "필리핀", "아프리카", "남미", "동남아",
+}
+
+
+def countries_conflict(words_a: set[str], words_b: set[str]) -> bool:
+    """두 제목이 서로 다른 나라만 언급하면 다른 사건으로 본다.
+
+    한쪽에만 나라 이름이 있는 경우는 판단 근거로 쓰지 않는다.
+    (한 기사는 나라를 적고 다른 기사는 생략했을 수 있다)
+    """
+    countries_a = words_a & _COUNTRY_TOKENS
+    countries_b = words_b & _COUNTRY_TOKENS
+    if not countries_a or not countries_b:
+        return False
+    return not (countries_a & countries_b)
+
+
+def distinctive_tokens(title: str) -> set[str]:
+    """사건을 실제로 구분해 주는 단어만 남긴다."""
+    return {t for t in content_tokens(title) if t not in _GENERIC_TOKENS}
+
+
+def count_shared_tokens(a: set[str], b: set[str]) -> int:
+    """겹치는 단어 수. 한쪽이 다른 쪽의 앞부분이면 같은 단어로 센다.
+
+    매체마다 "항공"과 "항공기", "9조"와 "9조원"처럼 표기가 조금씩 달라서,
+    완전일치만 세면 같은 사건인데도 겹치는 단어가 거의 없는 것처럼 보인다.
+    """
+    matched = 0
+    used: set[str] = set()
+    for token_a in a:
+        for token_b in b:
+            if token_b in used:
+                continue
+            if _tokens_match(token_a, token_b):
+                matched += 1
+                used.add(token_b)
+                break
+    return matched
+
+
 def _tokens_match(a: str, b: str) -> bool:
     if not a or not b:
         return False
@@ -1146,7 +1222,7 @@ def title_fingerprint(title: str) -> dict[str, Any]:
         "grams": bigrams_of_normalized(normalize_for_hash(headline_core(title))),
         "heads": head_tokens(title),
         "numbers": number_units(title),
-        "words": content_tokens(title),
+        "words": distinctive_tokens(title),
     }
 
 
@@ -1161,6 +1237,7 @@ def is_near_duplicate(
 
     관문 1: 주체가 겹쳐야 한다.
     관문 2: 같은 단위의 숫자가 충돌하면 안 된다.
+    관문 3: 언급된 나라가 서로 어긋나면 안 된다.
     본판정(셋 중 하나): 자카드 유사도 / 포함율 / 공유 내용어 수.
     공유 내용어 수는 문장 표현이 아주 달라도 같은 사건이면 핵심 단어가 여러 개
     겹친다는 점을 이용한다. 관문을 통과한 뒤에만 보므로 오판 위험이 낮다.
@@ -1172,6 +1249,8 @@ def is_near_duplicate(
         return False
     if numbers_conflict(fp_a["numbers"], fp_b["numbers"]):
         return False
+    if countries_conflict(fp_a.get("words", set()), fp_b.get("words", set())):
+        return False
 
     shared = grams_a & grams_b
     if len(shared) < 4:
@@ -1179,8 +1258,7 @@ def is_near_duplicate(
     if jaccard_sim(grams_a, grams_b) >= threshold:
         return True
 
-    shared_words = fp_a.get("words", set()) & fp_b.get("words", set())
-    if len(shared_words) >= min_shared_words:
+    if count_shared_tokens(fp_a.get("words", set()), fp_b.get("words", set())) >= min_shared_words:
         return True
 
     smaller = grams_a if len(grams_a) <= len(grams_b) else grams_b
@@ -1239,6 +1317,13 @@ def grade_icon(grade: str) -> str:
     if "B급" in grade:
         return "🟠"
     return "⚪"
+
+
+def strip_html_tags(message: str) -> str:
+    """HTML 발송이 실패했을 때 쓰는 평문 변환. 링크는 주소를 그대로 드러낸다."""
+    text = re.sub(r'<a href="([^"]+)">([^<]*)</a>', r"\2: \1", message)
+    text = re.sub(r"</?b>", "", text)
+    return html.unescape(text)
 
 
 def split_telegram_message(message: str, max_len: int = 3900) -> list[str]:

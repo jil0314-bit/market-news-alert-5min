@@ -13,7 +13,7 @@ runtime:
   max_items_per_message: 8   # 중복을 실제로 걷어내므로 건수를 늘려도 도배되지 않는다
   max_items_per_topic: 2     # 한 주제(섹터·신호)가 메시지를 독차지하지 않게 제한
   max_items_per_source: 2    # 한 피드가 메시지를 독차지하지 않게 제한
-  max_news_age_minutes: 120  # 1시간 주기 실행이라 앞뒤로 여유를 둔다
+  max_news_age_minutes: 150  # 2시간 간격 실행이라 누락 구간이 없도록 30분 여유를 둔다
   request_timeout_sec: 15
   user_agent: "Mozilla/5.0 MarketNewsAlertBot/2.0 (+personal market monitoring)"
 
@@ -40,11 +40,11 @@ filters:
   # 아래 값들은 '주체(첫 단어)가 같고 숫자가 충돌하지 않는' 기사끼리만 적용된다.
   # 그 관문을 이미 통과했기 때문에 유사도 기준 자체는 낮게 잡아도 안전하다.
   # 중복이 여전히 보이면 0.30까지 낮추고, 다른 뉴스가 묶이면 0.45까지 올린다.
-  duplicate_title_similarity: 0.34
+  duplicate_title_similarity: 0.40
   duplicate_containment_ratio: 0.75  # 짧은 속보가 긴 제목에 포함되는 경우 판정
   duplicate_window_hours: 48         # 과거 몇 시간치 발송분과 비교할지
   duplicate_retention_days: 30       # 발송기록 보관 기간
-  duplicate_min_shared_words: 5      # 표현이 달라도 핵심 단어 N개가 겹치면 같은 사건
+  duplicate_min_shared_words: 3      # 표현이 달라도 핵심 단어 N개가 겹치면 같은 사건
 
 # 매체/공식기관 이름이 source에 들어가면 소폭 가산
 source_bonuses:
@@ -545,7 +545,9 @@ sources:
 keyword_scores:
   critical:
     score: 9
-    words: ["거래정지", "상장폐지", "감사의견 거절", "횡령", "배임", "부도", "전쟁", "공습", "미사일", "금융위기", "emergency", "war", "attack"]
+    # "전쟁"/"war"는 제외: AI칩 전쟁, 냉각 전쟁, price war 처럼 비유로 쓰이는 일이 많아
+    # 평범한 산업기사가 A급 긴급으로 분류된다. 실제 전쟁은 geopolitical_breaking 규칙이 잡는다.
+    words: ["거래정지", "상장폐지", "감사의견 거절", "횡령", "배임", "부도", "공습", "미사일", "폭격", "금융위기", "emergency", "airstrike", "invasion"]
   bad:
     score: 6
     words: ["유상증자", "전환사채", "감자", "리콜", "임상 실패", "FDA 반려", "수출규제", "관세", "제재", "금리 급등", "환율 급등", "유가 급등", "downgrade", "recession", "tariff", "sanction"]
