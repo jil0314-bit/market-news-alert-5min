@@ -21,7 +21,7 @@ import re
 import sqlite3
 import sys
 import time
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, replace as dc_replace
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
 from typing import Any, Iterable, Mapping
@@ -47,6 +47,8 @@ class NewsItem:
     raw: dict[str, Any] = field(default_factory=dict)
     priority: int = 1
     item_type: str = "news"  # news, disclosure
+    dup_count: int = 0                 # 같은 사건으로 묶여 생략된 기사 수
+    dup_sources: tuple[str, ...] = ()  # 생략된 기사의 매체 이름
 
 
 @dataclass
@@ -93,6 +95,14 @@ class MarketNewsAlertBot:
             if self.translation_enabled
             else None
         )
+
+        # 근접중복 판정 기준. config.filters 에서 조정한다.
+        filters_conf = self.config.get("filters", {})
+        self._dup_threshold = float(filters_conf.get("duplicate_title_similarity", 0.34))
+        self._dup_containment = float(filters_conf.get("duplicate_containment_ratio", 0.75))
+        self._dup_window_hours = int(filters_conf.get("duplicate_window_hours", 48))
+        self._dup_retention_days = int(filters_conf.get("duplicate_retention_days", 30))
+        self._dup_min_shared_words = int(filters_conf.get("duplicate_min_shared_words", 4))
         self._init_db()
 
     @staticmethod
@@ -162,6 +172,8 @@ class MarketNewsAlertBot:
                 )
                 """
             )
+            # 과거 발송분과 제목을 비교할 때 기간으로 먼저 걸러내기 위한 인덱스
+            conn.execute("CREATE INDEX IF NOT EXISTS idx_seen_items_sent_at ON seen_items(sent_at)")
             conn.commit()
 
     def run_once(self, dry_run: bool = False, force_send: bool = False) -> list[ScoredItem]:
@@ -175,7 +187,9 @@ class MarketNewsAlertBot:
         scored = self._sort_items(scored)
 
         max_items = int(self.config["runtime"].get("max_items_per_message", 5))
-        scored = scored[:max_items]
+        max_per_topic = int(self.config["runtime"].get("max_items_per_topic", 2))
+        max_per_source = int(self.config["runtime"].get("max_items_per_source", 2))
+        scored = self._limit_per_topic(scored, max_per_topic, max_per_source)[:max_items]
 
         if not scored:
             self.logger.info("발송 대상 없음")
@@ -419,7 +433,7 @@ class MarketNewsAlertBot:
             score += 4
             matched.append("공시")
 
-        sectors, related = self.detect_sectors(text)
+        sectors, related = self.detect_sectors(text, item.title.lower())
         if sectors:
             score += min(5, len(sectors) * 2)
 
@@ -432,7 +446,11 @@ class MarketNewsAlertBot:
         # 너무 오래된 것은 점수 감점
         if item.published_at is not None:
             age_min = self.age_minutes(item.published_at)
-            if age_min > int(self.config["runtime"].get("max_news_age_minutes", 180)):
+            future_min = self.minutes_ahead(item.published_at)
+            if future_min > 120:
+                # 발행시각이 미래로 찍힌 피드는 신선도를 신뢰할 수 없다.
+                score -= 10
+            elif age_min > int(self.config["runtime"].get("max_news_age_minutes", 180)):
                 score -= 20
             elif age_min <= 30:
                 score += 2
@@ -458,15 +476,27 @@ class MarketNewsAlertBot:
             signals=unique_keep_order(signals),
         )
 
-    def detect_sectors(self, text: str) -> tuple[list[str], list[str]]:
-        sectors: list[str] = []
-        related: list[str] = []
-        for sector_name, info in self.config.get("sectors", {}).items():
-            for kw in info.get("keywords", []):
-                if keyword_in_text(str(kw), text):
-                    sectors.append(str(sector_name))
-                    related.append(str(info.get("related", "")))
-                    break
+    def detect_sectors(self, text: str, title_text: str = "") -> tuple[list[str], list[str]]:
+        """기사에 해당하는 섹터를 찾는다.
+
+        제목만 본다. 요약까지 같이 보면 본문에 한 번 스친 단어로 엉뚱한 섹터가 붙는다.
+        (예: 집값 기사의 요약에 "반도체 수출 호조"가 있어 반도체로 분류되던 문제)
+        제목이 없을 때만 요약을 쓴다.
+        """
+        configured = self.config.get("sectors", {})
+
+        def scan(haystack: str) -> tuple[list[str], list[str]]:
+            names: list[str] = []
+            stocks: list[str] = []
+            for sector_name, info in configured.items():
+                for kw in info.get("keywords", []):
+                    if keyword_in_text(str(kw), haystack):
+                        names.append(str(sector_name))
+                        stocks.append(str(info.get("related", "")))
+                        break
+            return names, stocks
+
+        sectors, related = scan(title_text) if title_text else scan(text)
         return unique_keep_order(sectors), [x for x in unique_keep_order(related) if x]
 
     @staticmethod
@@ -506,6 +536,15 @@ class MarketNewsAlertBot:
         """
         if force_send:
             return not self.is_seen(scored)
+
+        # 속보 알림이므로 오래된 기사는 점수가 아무리 높아도 내보내지 않는다.
+        # 감점(-20)만으로는 가점이 큰 기사가 그대로 통과해 몇 달 전 뉴스가 나갔다.
+        max_age = int(self.config["runtime"].get("max_news_age_minutes", 180))
+        published = scored.item.published_at
+        if max_age > 0 and published is not None and scored.item.item_type != "disclosure":
+            if self.age_minutes(published) > max_age:
+                return False
+
         if scored.score < int(self.config["filters"].get("min_score_to_send", 8)):
             return False
         require_signal = bool(self.config["filters"].get("require_relevance_signal", True))
@@ -522,10 +561,39 @@ class MarketNewsAlertBot:
         return True
 
     def is_seen(self, scored: ScoredItem) -> bool:
+        """이미 보낸 기사인지 확인한다. 완전일치와 근접중복을 모두 본다.
+
+        실행 주기가 1시간이라, 같은 사건이 몇 시간 뒤 다른 제목으로 다시 올라오는
+        경우를 막으려면 과거 발송분과도 제목을 비교해야 한다.
+        """
         item_hash = self.make_hash(scored.item)
         with sqlite3.connect(self.db_path) as conn:
             row = conn.execute("SELECT 1 FROM seen_items WHERE item_hash = ?", (item_hash,)).fetchone()
-        return row is not None
+            if row is not None:
+                return True
+            if self._dup_window_hours <= 0:
+                return False
+            since = (
+                dt.datetime.now(self.timezone) - dt.timedelta(hours=self._dup_window_hours)
+            ).isoformat()
+            past_titles = conn.execute(
+                "SELECT title FROM seen_items WHERE sent_at >= ?", (since,)
+            ).fetchall()
+
+        fingerprint = title_fingerprint(scored.item.title)
+        if not fingerprint["grams"]:
+            return False
+        for (past_title,) in past_titles:
+            if is_near_duplicate(
+                fingerprint,
+                title_fingerprint(past_title or ""),
+                self._dup_threshold,
+                self._dup_containment,
+                self._dup_min_shared_words,
+            ):
+                self.logger.info("과거 발송건과 중복이라 생략: %s", truncate(scored.item.title, 70))
+                return True
+        return False
 
     def mark_as_seen(self, scored_items: Iterable[ScoredItem]) -> None:
         now = dt.datetime.now(self.timezone).isoformat()
@@ -539,12 +607,57 @@ class MarketNewsAlertBot:
                     """,
                     (item_hash, scored.item.title, scored.item.link, scored.item.source, now, scored.score),
                 )
+            # 기록이 무한히 쌓이지 않도록 오래된 행은 정리한다.
+            if self._dup_retention_days > 0:
+                cutoff = (
+                    dt.datetime.now(self.timezone) - dt.timedelta(days=self._dup_retention_days)
+                ).isoformat()
+                conn.execute("DELETE FROM seen_items WHERE sent_at < ?", (cutoff,))
             conn.commit()
 
     @staticmethod
     def make_hash(item: NewsItem) -> str:
-        key = normalize_for_hash(f"{item.title}|{item.link}")
+        # 링크는 같은 기사라도 매체·추적파라미터마다 달라지므로 제목만으로 해시한다.
+        key = normalize_for_hash(headline_core(item.title))
         return hashlib.sha256(key.encode("utf-8")).hexdigest()
+
+    @staticmethod
+    def _topic_key(scored: ScoredItem) -> str:
+        """한 메시지가 한 주제로 도배되지 않도록 묶을 기준."""
+        if scored.sectors:
+            return "sector:" + scored.sectors[0]
+        if scored.signals:
+            return "signal:" + scored.signals[0]
+        return "source:" + scored.item.source
+
+    def _limit_per_topic(
+        self, items: list[ScoredItem], max_per_topic: int, max_per_source: int = 0
+    ) -> list[ScoredItem]:
+        """한 주제나 한 피드가 메시지를 독차지하지 않게 건수를 제한한다.
+
+        섹터만으로 묶으면 같은 사건이 여러 섹터로 흩어져 제한을 빠져나간다.
+        (예: 이란 뉴스가 조선·에너지·금융으로 각각 분류되어 네 건이 모두 통과)
+        그래서 피드 출처 기준 제한을 함께 건다.
+        점수가 높은 순으로 먼저 채우고, 자리가 남으면 밀린 것을 뒤에 붙인다.
+        """
+        if max_per_topic <= 0 and max_per_source <= 0:
+            return items
+        topic_counts: dict[str, int] = {}
+        source_counts: dict[str, int] = {}
+        picked: list[ScoredItem] = []
+        overflow: list[ScoredItem] = []
+        for scored in items:
+            topic_key = self._topic_key(scored)
+            source_key = scored.item.source
+            topic_full = 0 < max_per_topic <= topic_counts.get(topic_key, 0)
+            source_full = 0 < max_per_source <= source_counts.get(source_key, 0)
+            if topic_full or source_full:
+                overflow.append(scored)
+                continue
+            topic_counts[topic_key] = topic_counts.get(topic_key, 0) + 1
+            source_counts[source_key] = source_counts.get(source_key, 0) + 1
+            picked.append(scored)
+        return picked + overflow
 
     def _sort_items(self, items: list[ScoredItem]) -> list[ScoredItem]:
         return sorted(
@@ -557,16 +670,54 @@ class MarketNewsAlertBot:
         )
 
     def _dedupe_in_memory(self, items: list[NewsItem]) -> list[NewsItem]:
-        seen: set[str] = set()
+        """같은 사건을 다룬 기사들을 한 건으로 묶는다.
+
+        제목이 완전히 같은 경우만이 아니라, 매체마다 표현이 다른 근접중복까지 묶는다.
+        대표 기사는 (소스 우선순위 -> 최신 -> 제목이 자세한 것) 순으로 고른다.
+        """
+        candidates = [x for x in items if x.title]
+        ranked = sorted(
+            candidates,
+            key=lambda x: (
+                x.priority,
+                x.published_at or dt.datetime.min.replace(tzinfo=dt.timezone.utc),
+                len(x.title),
+            ),
+            reverse=True,
+        )
+
+        clusters: list[dict[str, Any]] = []
+        for item in ranked:
+            fingerprint = title_fingerprint(item.title)
+            if not fingerprint["grams"]:
+                continue
+            target = None
+            for cluster in clusters:
+                if is_near_duplicate(
+                    fingerprint,
+                    cluster["fp"],
+                    self._dup_threshold,
+                    self._dup_containment,
+                    self._dup_min_shared_words,
+                ):
+                    target = cluster
+                    break
+            if target is None:
+                clusters.append({"item": item, "fp": fingerprint, "dups": []})
+            else:
+                target["dups"].append(item)
+
         result: list[NewsItem] = []
-        for item in items:
-            if not item.title:
-                continue
-            key = normalize_for_hash(item.title)
-            if key in seen:
-                continue
-            seen.add(key)
-            result.append(item)
+        for cluster in clusters:
+            base = cluster["item"]
+            dups = cluster["dups"]
+            if dups:
+                sources = unique_keep_order([d.source for d in dups if d.source])
+                base = dc_replace(base, dup_count=len(dups), dup_sources=tuple(sources[:4]))
+            result.append(base)
+
+        if len(result) < len(candidates):
+            self.logger.info("근접중복 병합: %s건 -> %s건", len(candidates), len(result))
         return result
 
     def age_minutes(self, published_at: dt.datetime) -> int:
@@ -577,6 +728,15 @@ class MarketNewsAlertBot:
             published_at = published_at.astimezone(self.timezone)
         delta = now - published_at
         return max(0, int(delta.total_seconds() // 60))
+
+    def minutes_ahead(self, published_at: dt.datetime) -> int:
+        """발행시각이 현재보다 얼마나 미래인지. 정상 기사는 0이다."""
+        now = dt.datetime.now(self.timezone)
+        if published_at.tzinfo is None:
+            published_at = published_at.replace(tzinfo=self.timezone)
+        else:
+            published_at = published_at.astimezone(self.timezone)
+        return max(0, int((published_at - now).total_seconds() // 60))
 
     def translate_to_korean(self, text: str) -> str:
         """영문 텍스트를 한국어로 번역한다. 실패 시 원문을 반환한다."""
@@ -600,28 +760,32 @@ class MarketNewsAlertBot:
         return result
 
     def make_korean_summary(self, item: NewsItem, translated_title: str) -> list[str]:
-        """RSS 설명을 한국어로 바꾸고 최대 네 줄로 정리한다.
+        """RSS 설명을 한국어로 바꾸고 최대 세 줄로 정리한다.
 
-        원문에 설명이 없으면 내용을 지어내지 않고 제목 기반 안내문을 반환한다.
+        본문이 없거나 제목 반복·안내문구뿐이면 빈 목록을 돌려준다.
+        내용을 지어내지 않고, 메시지에서 그 줄을 아예 빼기 위해서다.
         """
         raw_summary = clean_text(item.summary)
-        if raw_summary and normalize_for_hash(raw_summary) != normalize_for_hash(item.title):
-            translated = self.translate_to_korean(raw_summary)
-            lines = split_summary_lines(translated, max_lines=4, max_chars=self.translation_summary_chars)
-            if lines:
-                return lines
-        return [
-            f"{truncate(translated_title, 170)} 관련 기사입니다.",
-            "원문 피드에 충분한 본문 요약이 없어 제목을 중심으로 분류했습니다.",
-            "시장 영향·관련 종목은 자동 키워드 분석 결과이므로 실제 기사 내용과 다를 수 있습니다.",
-            "세부 사실과 수치는 한글로 열기 또는 원문 링크에서 확인하세요.",
-        ]
+        if not raw_summary or looks_like_junk_summary(raw_summary, item.title):
+            return []
+        translated = self.translate_to_korean(raw_summary)
+        if normalize_for_hash(translated) == normalize_for_hash(translated_title):
+            return []
+        return split_summary_lines(translated, max_lines=3, max_chars=self.translation_summary_chars)
 
     def make_display_link(self, item: NewsItem) -> tuple[str, str | None]:
-        """영문 기사면 한국어 웹번역 링크와 원문 링크를 함께 반환한다."""
+        """메시지에 넣을 링크를 정한다.
+
+        구글뉴스 RSS 링크는 본문이 아니라 리다이렉트 주소라서 웹번역을 걸어도 동작하지
+        않고 주소만 500자 넘게 길어진다. 그런 링크는 번역 래핑을 하지 않는다.
+        """
         if not item.link:
             return "", None
-        if self.translation_open_page and needs_korean_translation(f"{item.title} {item.summary}"):
+        is_google_redirect = "news.google.com" in item.link
+        wants_translation = self.translation_open_page and needs_korean_translation(
+            f"{item.title} {item.summary}"
+        )
+        if wants_translation and not is_google_redirect:
             translated_url = (
                 "https://translate.google.com/translate"
                 f"?sl=auto&tl=ko&u={quote(item.link, safe='')}"
@@ -636,40 +800,42 @@ class MarketNewsAlertBot:
 
         for idx, scored in enumerate(items, start=1):
             item = scored.item
-            time_text = "시간미상"
-            if item.published_at:
-                time_text = item.published_at.astimezone(self.timezone).strftime("%H:%M")
-            sector_text = ", ".join(scored.sectors) if scored.sectors else "미분류"
-            related_text = " / ".join(scored.related_stocks[:2]) if scored.related_stocks else "직접 확인"
-            keyword_text = ", ".join(scored.matched_keywords[:6]) if scored.matched_keywords else "없음"
-            translated_title = self.translate_to_korean(item.title)
-            clean_title = truncate(translated_title, 150)
+            translated_title = self.translate_to_korean(headline_core(item.title))
             summary_lines = self.make_korean_summary(item, translated_title)
             display_link, original_link = self.make_display_link(item)
 
-            lines.extend(
-                [
-                    f"{idx}) {grade_icon(scored.grade)} {scored.grade} / 점수 {scored.score}",
-                    f"제목(한글): {clean_title}",
-                    "한글 요약:",
-                    *[f"- {line}" for line in summary_lines],
-                    f"출처: {item.source} / {time_text}",
-                    f"영향: {scored.bias}",
-                    f"섹터: {sector_text}",
-                    f"관련: {related_text}",
-                    f"핵심신호: {', '.join(scored.signals) if scored.signals else '일반 시장뉴스'}",
-                    f"키워드: {keyword_text}",
-                    f"해석: {scored.reason}",
-                ]
-            )
+            head = f"{idx}) {grade_icon(scored.grade)} {scored.grade} {scored.score}점"
+            if scored.sectors:
+                head += " · " + ", ".join(scored.sectors[:3])
+            lines.append(head)
+            lines.append(truncate(translated_title, 150))
+            lines.extend(f"   {line}" for line in summary_lines)
+
+            origin = f"출처: {item.source}"
+            if item.published_at:
+                published = item.published_at.astimezone(self.timezone)
+                today = dt.datetime.now(self.timezone).date()
+                # 오늘 기사가 아니면 날짜까지 보여줘야 묵은 뉴스를 구분할 수 있다.
+                stamp = published.strftime("%H:%M") if published.date() == today \
+                    else published.strftime("%m/%d %H:%M")
+                origin += " " + stamp
+            if item.dup_count:
+                origin += f" (같은 내용 {item.dup_count}건 생략)"
+            lines.append(origin)
+
+            detail = f"영향: {scored.bias}"
+            if scored.related_stocks:
+                detail += f" · 관련주: {truncate(scored.related_stocks[0], 70)}"
+            lines.append(detail)
+            if scored.signals:
+                lines.append(f"신호: {', '.join(scored.signals[:2])}")
+
+            # 링크는 한 줄만 넣는다. 구글뉴스 주소가 길어 두 줄이면 메시지가 두 배가 된다.
             if display_link:
-                link_label = "한글로 열기" if original_link else "링크"
-                lines.append(f"{link_label}: {display_link}")
-            if original_link:
-                lines.append(f"원문: {original_link}")
+                lines.append(("한글로 열기: " if original_link else "링크: ") + display_link)
             lines.append("")
 
-        lines.append("※ 자동 필터링 알림입니다. 매수/매도 결정 전 원문·차트·수급을 반드시 확인하세요.")
+        lines.append("※ 자동 필터 알림. 매매 전 원문·차트·수급을 반드시 확인하세요.")
         return "\n".join(lines).strip()
 
     def send_telegram(self, message: str) -> None:
@@ -750,12 +916,27 @@ def split_summary_lines(text: str, max_lines: int = 4, max_chars: int = 520) -> 
     return result[:max_lines]
 
 
+# 영문 키워드는 단어 경계를 지켜서 찾는다. 정규식은 한 번만 만들어 재사용한다.
+_ASCII_KEYWORD_CACHE: dict[str, re.Pattern[str]] = {}
+
+
 def keyword_in_text(keyword: str, lower_text: str) -> bool:
-    """키워드 포함 여부. 대소문자와 공백 잡음을 완화한다."""
+    """키워드 포함 여부. 대소문자와 공백 잡음을 완화한다.
+
+    영문 키워드를 단순 부분일치로 찾으면 "war"가 "warning", "awarded", "warrant"에
+    걸려 평범한 기사가 전쟁 뉴스로 분류된다. 그래서 영문은 단어 경계를 요구한다.
+    한글은 조사가 붙어 형태가 변하므로 부분일치를 유지한다.
+    """
     kw = keyword.strip().lower()
     if not kw:
         return False
-    return kw in lower_text
+    if not kw.isascii():
+        return kw in lower_text
+    pattern = _ASCII_KEYWORD_CACHE.get(kw)
+    if pattern is None:
+        pattern = re.compile(r"(?<![a-z0-9])" + re.escape(kw) + r"(?![a-z0-9])")
+        _ASCII_KEYWORD_CACHE[kw] = pattern
+    return pattern.search(lower_text) is not None
 
 
 def parse_entry_time(entry: Any) -> dt.datetime | None:
@@ -795,6 +976,247 @@ def normalize_for_hash(value: str) -> str:
     text = re.sub(r"https?://\S+", "", text)
     text = re.sub(r"[^0-9a-z가-힣]+", "", text)
     return text
+
+
+# ---------------------------------------------------------------------------
+# 근접중복 판정
+#
+# 매체마다 같은 사건을 다른 제목으로 쓰기 때문에 제목 완전일치만으로는 중복이 걸러지지
+# 않는다. 그렇다고 글자 유사도만 보면 "구리 가격 3개월 만에 최고치 경신"과
+# "금 가격 3개월 만에 최고치 경신"처럼 핵심 단어 하나만 다른 기사가 0.78로 붙어버린다.
+# 그래서 먼저 (1) 주체가 같은지, (2) 숫자가 충돌하지 않는지 확인하고,
+# 그 관문을 통과한 것끼리만 (3) 글자 유사도로 비교한다.
+# ---------------------------------------------------------------------------
+
+# 구글뉴스 RSS 제목 끝의 " - Reuters" 같은 매체명 꼬리
+_SOURCE_SUFFIX_RE = re.compile(r"\s+[-\u2013\u2014|]\s+[^-\u2013\u2014|]{2,30}$")
+# 제목 앞의 [속보] <단독> 【표】 같은 말머리
+_LEAD_TAG_RE = re.compile(r"^\s*[\[\(<\u3010][^\]\)>\u3011]{0,12}[\]\)>\u3011]\s*")
+# 주체 판별에서 빼야 할 말머리성 단어
+_HEAD_NOISE = {"속보", "단독", "긴급", "종합", "장중", "마감", "특징주", "표", "영상", "사진", "1보", "2보"}
+# 조사 (긴 것부터 떼어낸다)
+_JOSA = ("으로", "에서", "에게", "까지", "부터", "보다", "라고", "와의", "과의",
+         "의", "은", "는", "이", "가", "을", "를", "에", "도", "로", "와", "과", "만")
+_NUMBER_RE = re.compile(r"(\d[\d,.]*)\s*([%가-힣a-z]?)")
+
+
+def strip_source_suffix(title: str) -> str:
+    """제목 끝에 붙은 매체명 꼬리를 제거한다."""
+    cleaned = clean_text(title)
+    if not cleaned:
+        return ""
+    stripped = _SOURCE_SUFFIX_RE.sub("", cleaned).strip()
+    return stripped or cleaned
+
+
+def headline_core(title: str) -> str:
+    """매체명 꼬리와 말머리를 떼어낸 제목 본문."""
+    core = strip_source_suffix(title)
+    for _ in range(3):
+        trimmed = _LEAD_TAG_RE.sub("", core).strip()
+        if trimmed == core:
+            break
+        core = trimmed
+    return core or strip_source_suffix(title)
+
+
+def _strip_josa(token: str) -> str:
+    for josa in _JOSA:
+        if len(token) > len(josa) + 1 and token.endswith(josa):
+            return token[: -len(josa)]
+    return token
+
+
+def title_tokens(title: str) -> list[str]:
+    """제목을 단어 단위로 자른다."""
+    parts = re.split(r"[^0-9a-z가-힣]+", headline_core(title).lower())
+    return [p for p in parts if p]
+
+
+def head_tokens(title: str) -> list[str]:
+    """제목의 주체로 볼 앞쪽 단어 두 개.
+
+    한국어 기사 제목은 거의 항상 주체(기업·인물·품목)로 시작한다.
+    이 값이 다르면 문장 구조가 비슷해도 다른 사건이다.
+    """
+    tokens = []
+    for raw in title_tokens(title):
+        token = _strip_josa(raw)
+        if not token or token in _HEAD_NOISE:
+            continue
+        if len(token) == 1 and token.isascii():
+            continue  # 영문 한 글자는 주체가 아니다 ("fed's" -> "fed", "s")
+        tokens.append(token)
+        if len(tokens) >= 2:
+            break
+    return tokens
+
+
+# 어느 기사에나 흔히 나와서 사건을 구분해주지 못하는 단어들
+_STOPWORD_TOKENS = {
+    "관련", "오늘", "내일", "지난", "올해", "작년", "이번", "최근", "전날", "가운데",
+    "대한", "위해", "따른", "따라", "대해", "통해", "함께", "우리", "모두", "다시",
+    "하는", "한다", "했다", "있다", "없다", "된다", "예정", "기자", "종합", "속보",
+    "the", "and", "for", "with", "from", "that", "this", "says", "said", "new",
+    "after", "over", "into", "amid", "its", "his", "her", "their", "more", "than",
+}
+
+
+def content_tokens(title: str) -> set[str]:
+    """사건을 구분해주는 내용어만 남긴 집합."""
+    result = set()
+    for raw in title_tokens(title):
+        token = _strip_josa(raw)
+        if len(token) < 2 or token in _STOPWORD_TOKENS:
+            continue
+        result.add(token)
+    return result
+
+
+def _tokens_match(a: str, b: str) -> bool:
+    if not a or not b:
+        return False
+    if a == b:
+        return True
+    if len(a) >= 2 and len(b) >= 2:
+        return a.startswith(b) or b.startswith(a)
+    return False
+
+
+def heads_overlap(heads_a: list[str], heads_b: list[str]) -> bool:
+    """두 제목의 주체가 겹치는지 본다."""
+    if not heads_a or not heads_b:
+        return False
+    pairs = [(heads_a[0], heads_b[0])]
+    if len(heads_b) > 1:
+        pairs.append((heads_a[0], heads_b[1]))
+    if len(heads_a) > 1:
+        pairs.append((heads_a[1], heads_b[0]))
+    return any(_tokens_match(x, y) for x, y in pairs)
+
+
+def number_units(title: str) -> dict[str, set[str]]:
+    """제목 속 숫자를 단위별로 모은다. 9조 -> {"조": {"9"}}"""
+    found: dict[str, set[str]] = {}
+    for digits, unit in _NUMBER_RE.findall(headline_core(title).lower()):
+        found.setdefault(unit, set()).add(digits.replace(",", "").rstrip("."))
+    return found
+
+
+def numbers_conflict(a: dict[str, set[str]], b: dict[str, set[str]]) -> bool:
+    """같은 단위인데 숫자가 전혀 겹치지 않으면 다른 사건으로 본다.
+
+    "영업익 9조"와 "영업익 7조"를 갈라놓기 위한 장치다.
+    한쪽에만 있는 단위는 판단 근거로 쓰지 않는다.
+    """
+    for unit, values_a in a.items():
+        if not unit:
+            continue
+        values_b = b.get(unit)
+        if values_b and not (values_a & values_b):
+            return True
+    return False
+
+
+def bigrams_of_normalized(value: str) -> set[str]:
+    """정규화된 문자열을 글자 두 개씩 잘라 집합으로 만든다.
+
+    한국어는 띄어쓰기와 조사가 매체마다 달라 단어 단위 비교가 잘 맞지 않는다.
+    글자 두 개 단위로 보면 표현이 달라도 같은 사건이면 겹치는 조각이 많다.
+    """
+    text = value or ""
+    if len(text) < 2:
+        return {text} if text else set()
+    return {text[i : i + 2] for i in range(len(text) - 1)}
+
+
+def jaccard_sim(a: set[str], b: set[str]) -> float:
+    """두 집합이 겹치는 비율."""
+    if not a or not b:
+        return 0.0
+    intersection = len(a & b)
+    if not intersection:
+        return 0.0
+    return intersection / len(a | b)
+
+
+def title_fingerprint(title: str) -> dict[str, Any]:
+    """중복 비교에 쓰는 제목 지문."""
+    return {
+        "grams": bigrams_of_normalized(normalize_for_hash(headline_core(title))),
+        "heads": head_tokens(title),
+        "numbers": number_units(title),
+        "words": content_tokens(title),
+    }
+
+
+def is_near_duplicate(
+    fp_a: dict[str, Any],
+    fp_b: dict[str, Any],
+    threshold: float,
+    containment: float,
+    min_shared_words: int = 4,
+) -> bool:
+    """두 제목이 같은 사건을 다루는지 판정한다.
+
+    관문 1: 주체가 겹쳐야 한다.
+    관문 2: 같은 단위의 숫자가 충돌하면 안 된다.
+    본판정(셋 중 하나): 자카드 유사도 / 포함율 / 공유 내용어 수.
+    공유 내용어 수는 문장 표현이 아주 달라도 같은 사건이면 핵심 단어가 여러 개
+    겹친다는 점을 이용한다. 관문을 통과한 뒤에만 보므로 오판 위험이 낮다.
+    """
+    grams_a, grams_b = fp_a["grams"], fp_b["grams"]
+    if not grams_a or not grams_b:
+        return False
+    if not heads_overlap(fp_a["heads"], fp_b["heads"]):
+        return False
+    if numbers_conflict(fp_a["numbers"], fp_b["numbers"]):
+        return False
+
+    shared = grams_a & grams_b
+    if len(shared) < 4:
+        return False
+    if jaccard_sim(grams_a, grams_b) >= threshold:
+        return True
+
+    shared_words = fp_a.get("words", set()) & fp_b.get("words", set())
+    if len(shared_words) >= min_shared_words:
+        return True
+
+    smaller = grams_a if len(grams_a) <= len(grams_b) else grams_b
+    if len(smaller) < 6:
+        return False
+    return len(shared) / len(smaller) >= containment
+
+
+# 본문 대신 관련기사 목록·안내문구가 들어오는 피드를 걸러내기 위한 표시들
+_JUNK_SUMMARY_MARKERS = (
+    "view full coverage",
+    "opens in a new window",
+    "read more",
+    "continue reading",
+    "subscribe to",
+    "sign up for",
+    "전체 기사 보기",
+    "자세히 보기",
+    "무단전재",
+    "재배포 금지",
+)
+
+
+def looks_like_junk_summary(summary: str, title: str) -> bool:
+    """요약이 실제 본문이 아니라 잡동사니인지 판단한다."""
+    body = clean_text(summary)
+    if len(body) < 45:
+        return True
+    lowered = body.lower()
+    if any(marker in lowered for marker in _JUNK_SUMMARY_MARKERS):
+        return True
+    norm_body = normalize_for_hash(body)
+    norm_title = normalize_for_hash(title)
+    if norm_title and norm_title in norm_body and len(norm_body) < len(norm_title) * 1.6:
+        return True  # 제목만 그대로 반복한 요약은 쓸모가 없다
+    return False
 
 
 def unique_keep_order(values: Iterable[str]) -> list[str]:
@@ -884,4 +1306,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

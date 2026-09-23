@@ -10,8 +10,10 @@ runtime:
   mode_name: "글로벌 시장영향 1시간 속보"
   sqlite_path: "data/seen_news.sqlite3"
   log_path: "logs/market_news_alert.log"
-  max_items_per_message: 3
-  max_news_age_minutes: 90
+  max_items_per_message: 8   # 중복을 실제로 걷어내므로 건수를 늘려도 도배되지 않는다
+  max_items_per_topic: 2     # 한 주제(섹터·신호)가 메시지를 독차지하지 않게 제한
+  max_items_per_source: 2    # 한 피드가 메시지를 독차지하지 않게 제한
+  max_news_age_minutes: 120  # 1시간 주기 실행이라 앞뒤로 여유를 둔다
   request_timeout_sec: 15
   user_agent: "Mozilla/5.0 MarketNewsAlertBot/2.0 (+personal market monitoring)"
 
@@ -19,8 +21,8 @@ runtime:
 translation:
   enabled: true
   target_language: "ko"
-  summary_max_chars: 850  # 기존 520 → 850으로 증가 (더 긴 요약)
-  open_translated_page: true  # 한글 웹번역 링크 제공
+  summary_max_chars: 600     # 세 줄 요약 기준. 너무 길면 오히려 읽기 나쁘다
+  open_translated_page: true # 한글 웹번역 링크 제공
 
 polling:
   market_open: "08:30"
@@ -30,10 +32,19 @@ polling:
   weekend_interval_sec: 900
 
 filters:
-  min_score_to_send: 4
-  urgent_score: 12
+  min_score_to_send: 8
+  urgent_score: 22
   require_relevance_signal: true
-  duplicate_title_similarity: 0.88
+
+  # ---- 근접중복 제거 ----
+  # 아래 값들은 '주체(첫 단어)가 같고 숫자가 충돌하지 않는' 기사끼리만 적용된다.
+  # 그 관문을 이미 통과했기 때문에 유사도 기준 자체는 낮게 잡아도 안전하다.
+  # 중복이 여전히 보이면 0.30까지 낮추고, 다른 뉴스가 묶이면 0.45까지 올린다.
+  duplicate_title_similarity: 0.34
+  duplicate_containment_ratio: 0.75  # 짧은 속보가 긴 제목에 포함되는 경우 판정
+  duplicate_window_hours: 48         # 과거 몇 시간치 발송분과 비교할지
+  duplicate_retention_days: 30       # 발송기록 보관 기간
+  duplicate_min_shared_words: 5      # 표현이 달라도 핵심 단어 N개가 겹치면 같은 사건
 
 # 매체/공식기관 이름이 source에 들어가면 소폭 가산
 source_bonuses:
@@ -42,7 +53,6 @@ source_bonuses:
   "SEC": 3
   "Reuters": 3
   "Financial Times": 3
-  "FT-Alphaville": 3
   "한국경제": 2
   "매일경제": 2
   "인베스팅": 1
@@ -56,36 +66,72 @@ source_bonuses:
 combination_rules:
   policy_speaker:
     label: "미국 정책결정자 발언"
-    score: 8
+    score: 10
     subjects:
-      - "Kevin Warsh"
-      - "캐빈 워시"
-      - "케빈 워시"
+      # 연준 의장·이사 (FOMC 투표권자 중심)
       - "Jerome Powell"
       - "제롬 파월"
       - "파월"
-      - "Scott Bessent"
-      - "스콧 베선트"
-      - "베선트"
+      - "Kevin Warsh"
+      - "케빈 워시"
+      - "캐빈 워시"
+      - "John Williams"
+      - "존 윌리엄스"
+      - "Christopher Waller"
+      - "크리스토퍼 월러"
+      - "Michelle Bowman"
+      - "미셸 보먼"
+      - "Philip Jefferson"
+      - "필립 제퍼슨"
+      - "Lisa Cook"
+      - "리사 쿡"
+      - "Austan Goolsbee"
+      - "굴스비"
+      - "Neel Kashkari"
+      - "카시카리"
+      - "Mary Daly"
+      - "메리 데일리"
+      - "Raphael Bostic"
+      - "보스틱"
+      - "Beth Hammack"
+      - "Fed governor"
+      - "연준 이사"
+      - "연은 총재"
       - "Federal Reserve"
       - "연준"
       - "FOMC"
+      # 재무부·백악관·통상
+      - "Scott Bessent"
+      - "스콧 베선트"
+      - "베선트"
+      - "Treasury Secretary"
+      - "재무장관"
       - "미 재무부"
       - "U.S. Treasury"
+      - "Howard Lutnick"
+      - "러트닉"
+      - "상무장관"
+      - "Jamieson Greer"
+      - "USTR"
+      - "무역대표부"
       - "White House"
       - "백악관"
       - "U.S. President"
       - "미국 대통령"
-      - "Treasury Secretary"
-      - "재무장관"
+      - "트럼프"
+      - "Trump"
+      # 해외 중앙은행
       - "Christine Lagarde"
       - "크리스틴 라가르드"
       - "ECB"
       - "European Central Bank"
       - "Bank of Japan"
       - "BOJ"
+      - "우에다"
       - "People's Bank of China"
       - "PBOC"
+      - "한국은행"
+      - "이창용"
     triggers: &statement_triggers
       - "says"
       - "said"
@@ -100,12 +146,18 @@ combination_rules:
       - "remarks"
       - "speech"
       - "testimony"
+      - "comments"
       - "발언"
       - "경고"
       - "전망"
       - "예상"
       - "시사"
       - "강조"
+      - "연설"
+      - "기자회견"
+      - "언급"
+      - "밝혀"
+
   global_bank_view:
     label: "글로벌 IB·펀드 전망"
     score: 7
@@ -131,34 +183,30 @@ combination_rules:
       - "KKR"
       - "Vanguard"
       - "Fidelity"
-      - "State Street"
       - "Citadel"
-      - "Millennium"
       - "Berkshire Hathaway"
       - "워런 버핏"
       - "Warren Buffett"
       - "hedge fund"
       - "fund manager"
-      - "portfolio manager"
       - "애널리스트"
       - "펀드매니저"
+      - "목표주가"
+      - "투자의견"
     triggers: *statement_triggers
+
   global_ceo_view:
     label: "글로벌 CEO·산업방향 발언"
     score: 7
     subjects:
-      - "Jamie Dimon"
-      - "제이미 다이먼"
-      - "Larry Fink"
-      - "래리 핑크"
-      - "David Solomon"
-      - "Ted Pick"
-      - "Brian Moynihan"
-      - "Jane Fraser"
       - "Jensen Huang"
       - "젠슨 황"
       - "Elon Musk"
       - "일론 머스크"
+      - "Sam Altman"
+      - "샘 올트먼"
+      - "Lisa Su"
+      - "리사 수"
       - "Satya Nadella"
       - "사티아 나델라"
       - "Sundar Pichai"
@@ -167,13 +215,13 @@ combination_rules:
       - "팀 쿡"
       - "Mark Zuckerberg"
       - "마크 저커버그"
-      - "Sam Altman"
-      - "샘 올트먼"
-      - "Lisa Su"
-      - "리사 수"
-      - "Cristiano Amon"
-      - "Pat Gelsinger"
-      - "Arvind Krishna"
+      - "Jamie Dimon"
+      - "제이미 다이먼"
+      - "Larry Fink"
+      - "래리 핑크"
+      - "C.C. Wei"
+      - "TSMC"
+      - "ASML"
       - "CEO"
       - "chief executive"
     triggers:
@@ -196,6 +244,8 @@ combination_rules:
       - "전망"
       - "가이던스"
       - "발언"
+      - "증설"
+      - "수주"
 
   geopolitical_breaking:
     label: "전쟁·지정학 긴급변수"
@@ -219,6 +269,8 @@ combination_rules:
       - "중국"
       - "Taiwan"
       - "대만"
+      - "North Korea"
+      - "북한"
     triggers:
       - "attack"
       - "strike"
@@ -228,6 +280,8 @@ combination_rules:
       - "sanction"
       - "blockade"
       - "ceasefire"
+      - "drone"
+      - "nuclear"
       - "공격"
       - "공습"
       - "미사일"
@@ -235,7 +289,72 @@ combination_rules:
       - "제재"
       - "봉쇄"
       - "휴전"
+      - "드론"
+      - "핵"
 
+  commodity_move:
+    label: "원자재·지수 급변"
+    score: 8
+    subjects:
+      - "구리"
+      - "전기동"
+      - "copper"
+      - "LME"
+      - "유가"
+      - "WTI"
+      - "브렌트"
+      - "Brent"
+      - "crude"
+      - "금값"
+      - "gold price"
+      - "은값"
+      - "silver"
+      - "니켈"
+      - "nickel"
+      - "알루미늄"
+      - "aluminum"
+      - "우라늄"
+      - "uranium"
+      - "밀 가격"
+      - "밀값"
+      - "소맥"
+      - "옥수수"
+      - "대두"
+      - "wheat"
+      - "corn"
+      - "soybean"
+      - "필라델피아 반도체"
+      - "필라델피아반도체"
+      - "SOX"
+      - "Philadelphia Semiconductor"
+      - "반도체지수"
+      - "비트코인"
+      - "bitcoin"
+      - "이더리움"
+      - "ethereum"
+    triggers:
+      - "급등"
+      - "급락"
+      - "상승"
+      - "하락"
+      - "최고"
+      - "최저"
+      - "돌파"
+      - "경신"
+      - "강세"
+      - "약세"
+      - "폭등"
+      - "폭락"
+      - "surge"
+      - "jump"
+      - "plunge"
+      - "soar"
+      - "rally"
+      - "slump"
+      - "record high"
+      - "record low"
+      - "tumble"
+      - "climb"
 
 sources:
   naver:
@@ -245,14 +364,19 @@ sources:
     display: 30
     sort: "date"
     queries:
-      - "미국 연준 파월 캐빈 워시 베선트 발언"
+      - "연준 이사 파월 베선트 발언 금리"
       - "골드만삭스 JP모건 모건스탠리 블랙록 전망"
-      - "글로벌 CEO 산업 전망 반도체 AI 에너지"
-      - "삼성전자 SK하이닉스 엔비디아 반도체"
-      - "미국 금리 환율 달러 유가 관세 수출규제"
-      - "FDA 임상 승인 실패 바이오"
-      - "2차전지 배터리 전기차 테슬라"
-      - "원전 조선 방산 로봇 AI 전력기기"
+      - "필라델피아 반도체지수 엔비디아 마이크론"
+      - "구리 가격 LME 전기동 원자재"
+      - "광통신 광모듈 실리콘포토닉스 CPO"
+      - "원전 SMR 두산에너빌리티 한전기술"
+      - "제약바이오 FDA 임상 신약 승인"
+      - "비만치료제 GLP-1 위고비 마운자로 탈모"
+      - "전력기기 변압기 해저케이블 전선"
+      - "양자컴퓨터 양자암호 큐비트"
+      - "곡물 밀 옥수수 대두 식량"
+      - "비트코인 이더리움 가상자산 스테이블코인"
+      - "이란 이스라엘 호르무즈 중동 유가"
 
   dart:
     enabled: false
@@ -275,7 +399,7 @@ sources:
   rss:
     enabled: true
     feeds:
-      # 국내 종합
+      # ---------------- 국내 종합 ----------------
       - name: "한국경제-증권"
         url: "https://www.hankyung.com/feed/finance"
         priority: 3
@@ -297,8 +421,11 @@ sources:
       - name: "인베스팅-경제지표"
         url: "https://www.investing.com/rss/news_95.rss"
         priority: 2
+      - name: "인베스팅-원자재"
+        url: "https://www.investing.com/rss/news_11.rss"
+        priority: 3
 
-      # 미국 공식기관: 뉴스보다 원문이 빠르고 신뢰도가 높음
+      # ---------------- 미국 공식기관 (뉴스보다 원문이 빠르다) ----------------
       - name: "Federal Reserve-전체보도"
         url: "https://www.federalreserve.gov/feeds/press_all.xml"
         priority: 5
@@ -308,6 +435,9 @@ sources:
       - name: "Federal Reserve-연설증언"
         url: "https://www.federalreserve.gov/feeds/speeches_and_testimony.xml"
         priority: 5
+      - name: "미국 재무부-보도자료"
+        url: "https://home.treasury.gov/news/press-releases/feed"
+        priority: 5
       - name: "SEC-보도자료"
         url: "https://www.sec.gov/news/pressreleases.rss"
         priority: 4
@@ -315,38 +445,102 @@ sources:
         url: "https://www.sec.gov/news/speeches-statements.rss"
         priority: 4
 
-      # Reuters/FT 원문을 무단 크롤링하지 않고 Google News의 제목·링크 검색 피드로 보조 수집
+      # ---------------- 고위관직자 발언 ----------------
+      - name: "GoogleNews-연준인사발언"
+        url: "https://news.google.com/rss/search?q=%28%22Jerome+Powell%22+OR+%22Fed+governor%22+OR+%22Christopher+Waller%22+OR+%22John+Williams%22+OR+%22Michelle+Bowman%22+OR+%22Lisa+Cook%22+OR+%22Austan+Goolsbee%22+OR+%22Neel+Kashkari%22+OR+%22Mary+Daly%22%29+%28says+OR+warns+OR+expects+OR+speech+OR+outlook+OR+testimony%29&hl=en-US&gl=US&ceid=US:en"
+        priority: 5
+      - name: "GoogleNews-재무장관백악관"
+        url: "https://news.google.com/rss/search?q=%28%22Scott+Bessent%22+OR+%22Treasury+Secretary%22+OR+%22Howard+Lutnick%22+OR+%22Jamieson+Greer%22+OR+%22White+House%22%29+%28says+OR+announces+OR+warns+OR+tariff+OR+outlook+OR+policy%29&hl=en-US&gl=US&ceid=US:en"
+        priority: 5
+      - name: "GoogleNews-연준발언-한글"
+        url: "https://news.google.com/rss/search?q=%28%ED%8C%8C%EC%9B%94+OR+%22%EC%97%B0%EC%A4%80+%EC%9D%B4%EC%82%AC%22+OR+%22%EC%97%B0%EC%9D%80+%EC%B4%9D%EC%9E%AC%22+OR+%EB%B2%A0%EC%84%A0%ED%8A%B8+OR+%22%EC%9E%AC%EB%AC%B4%EC%9E%A5%EA%B4%80%22%29+%28%EB%B0%9C%EC%96%B8+OR+%EC%A0%84%EB%A7%9D+OR+%EA%B2%BD%EA%B3%A0+OR+%EC%8B%9C%EC%82%AC%29&hl=ko&gl=KR&ceid=KR:ko"
+        priority: 5
+
+      # ---------------- 원자재·지수 ----------------
+      - name: "GoogleNews-구리가격"
+        url: "https://news.google.com/rss/search?q=%28copper+prices+OR+%22copper+futures%22+OR+LME+copper%29+%28surge+OR+jump+OR+plunge+OR+rally+OR+record+OR+supply+OR+demand%29&hl=en-US&gl=US&ceid=US:en"
+        priority: 4
+      - name: "GoogleNews-구리가격-한글"
+        url: "https://news.google.com/rss/search?q=%28%EA%B5%AC%EB%A6%AC+OR+%EC%A0%84%EA%B8%B0%EB%8F%99+OR+%EA%B5%AC%EB%A6%AC%EA%B0%92%29+%28%EA%B0%80%EA%B2%A9+OR+%EA%B8%89%EB%93%B1+OR+%EA%B8%89%EB%9D%BD+OR+%EC%B5%9C%EA%B3%A0%EC%B9%98+OR+%EC%8B%9C%EC%84%B8%29+-%EA%B5%AC%EB%A6%AC%EC%8B%9C+-%EA%B5%AC%EB%A6%AC%EC%8B%9C%EC%9E%A5+-%EB%8F%84%EB%A7%A4%EC%8B%9C%EC%9E%A5+-%EA%B5%AC%EB%A6%AC%EB%8F%84%EB%A7%A4&hl=ko&gl=KR&ceid=KR:ko"
+        priority: 4
+      - name: "GoogleNews-필라델피아반도체지수"
+        url: "https://news.google.com/rss/search?q=%28%22Philadelphia+Semiconductor%22+OR+%22SOX+index%22+OR+%22chip+stocks%22%29+%28surge+OR+rally+OR+plunge+OR+record+OR+jump+OR+slump%29&hl=en-US&gl=US&ceid=US:en"
+        priority: 4
+      - name: "GoogleNews-반도체지수-한글"
+        url: "https://news.google.com/rss/search?q=%28%22%ED%95%84%EB%9D%BC%EB%8D%B8%ED%94%BC%EC%95%84+%EB%B0%98%EB%8F%84%EC%B2%B4%22+OR+%22%EB%B0%98%EB%8F%84%EC%B2%B4%EC%A7%80%EC%88%98%22+OR+%22SOX+%EC%A7%80%EC%88%98%22%29&hl=ko&gl=KR&ceid=KR:ko"
+        priority: 4
+      - name: "GoogleNews-곡물식량"
+        url: "https://news.google.com/rss/search?q=%28wheat+OR+corn+OR+soybean+OR+%22grain+prices%22+OR+%22food+prices%22%29+%28surge+OR+plunge+OR+export+ban+OR+drought+OR+harvest+OR+shortage%29&hl=en-US&gl=US&ceid=US:en"
+        priority: 3
+      - name: "GoogleNews-식량곡물-한글"
+        url: "https://news.google.com/rss/search?q=%28%EA%B3%A1%EB%AC%BC+OR+%EC%86%8C%EB%A7%A5+OR+%EC%98%A5%EC%88%98%EC%88%98+OR+%EB%8C%80%EB%91%90+OR+%EC%8B%9D%EB%9F%89%29+%28%EA%B0%80%EA%B2%A9+OR+%EA%B8%89%EB%93%B1+OR+%EC%88%98%EA%B8%89+OR+%EC%88%98%EC%B6%9C%EA%B8%88%EC%A7%80%29&hl=ko&gl=KR&ceid=KR:ko"
+        priority: 3
+      - name: "GoogleNews-비트코인가상자산"
+        url: "https://news.google.com/rss/search?q=%28bitcoin+OR+ethereum+OR+%22crypto+ETF%22+OR+stablecoin%29+%28surge+OR+plunge+OR+record+OR+SEC+OR+approval+OR+regulation%29&hl=en-US&gl=US&ceid=US:en"
+        priority: 3
+      - name: "GoogleNews-비트코인-한글"
+        url: "https://news.google.com/rss/search?q=%28%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8+OR+%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80+OR+%EA%B0%80%EC%83%81%EC%9E%90%EC%82%B0+OR+%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%29+%28%EA%B8%89%EB%93%B1+OR+%EA%B8%89%EB%9D%BD+OR+%EA%B7%9C%EC%A0%9C+OR+ETF%29&hl=ko&gl=KR&ceid=KR:ko"
+        priority: 3
+
+      # ---------------- 섹터별 (한글 우선) ----------------
+      - name: "GoogleNews-광통신"
+        url: "https://news.google.com/rss/search?q=%28%EA%B4%91%ED%86%B5%EC%8B%A0+OR+%EA%B4%91%EB%AA%A8%EB%93%88+OR+%EC%8B%A4%EB%A6%AC%EC%BD%98%ED%8F%AC%ED%86%A0%EB%8B%89%EC%8A%A4+OR+%22%EA%B4%91%ED%8A%B8%EB%9E%9C%EC%8B%9C%EB%B2%84%22%29&hl=ko&gl=KR&ceid=KR:ko"
+        priority: 4
+      - name: "GoogleNews-Optical-Networking"
+        url: "https://news.google.com/rss/search?q=%28%22optical+transceiver%22+OR+%22silicon+photonics%22+OR+%22co-packaged+optics%22+OR+%221.6T+optics%22%29+%28demand+OR+orders+OR+shortage+OR+capacity+OR+AI%29&hl=en-US&gl=US&ceid=US:en"
+        priority: 3
+      - name: "GoogleNews-원전SMR"
+        url: "https://news.google.com/rss/search?q=%28%EC%9B%90%EC%A0%84+OR+SMR+OR+%EC%9B%90%EC%9E%90%EB%A0%A5+OR+%EC%86%8C%ED%98%95%EB%AA%A8%EB%93%88%EC%9B%90%EC%9E%90%EB%A1%9C%29+%28%EC%88%98%EC%A3%BC+OR+%EA%B3%84%EC%95%BD+OR+%EC%A0%95%EC%B1%85+OR+%EC%8A%B9%EC%9D%B8+OR+%ED%88%AC%EC%9E%90%29&hl=ko&gl=KR&ceid=KR:ko"
+        priority: 4
+      - name: "GoogleNews-Nuclear-SMR"
+        url: "https://news.google.com/rss/search?q=%28%22small+modular+reactor%22+OR+%22nuclear+power%22+OR+uranium%29+%28contract+OR+order+OR+approval+OR+investment+OR+data+center%29&hl=en-US&gl=US&ceid=US:en"
+        priority: 3
+      - name: "GoogleNews-제약바이오"
+        url: "https://news.google.com/rss/search?q=%28%EC%A0%9C%EC%95%BD+OR+%EB%B0%94%EC%9D%B4%EC%98%A4+OR+%EC%8B%A0%EC%95%BD+OR+%EC%9E%84%EC%83%81%29+%28FDA+OR+%EC%8A%B9%EC%9D%B8+OR+%ED%92%88%EB%AA%A9%ED%97%88%EA%B0%80+OR+%EA%B8%B0%EC%88%A0%EC%88%98%EC%B6%9C+OR+%EC%84%B1%EA%B3%B5+OR+%EC%8B%A4%ED%8C%A8%29&hl=ko&gl=KR&ceid=KR:ko"
+        priority: 4
+      - name: "GoogleNews-비만탈모신약"
+        url: "https://news.google.com/rss/search?q=%28%EB%B9%84%EB%A7%8C%EC%B9%98%EB%A3%8C%EC%A0%9C+OR+%EC%9C%84%EA%B3%A0%EB%B9%84+OR+%EB%A7%88%EC%9A%B4%EC%9E%90%EB%A1%9C+OR+%22GLP-1%22+OR+%ED%83%88%EB%AA%A8%EC%B9%98%EB%A3%8C%29&hl=ko&gl=KR&ceid=KR:ko"
+        priority: 4
+      - name: "GoogleNews-Obesity-Drugs"
+        url: "https://news.google.com/rss/search?q=%28%22obesity+drug%22+OR+%22GLP-1%22+OR+Wegovy+OR+Zepbound+OR+%22weight+loss+drug%22+OR+%22hair+loss+treatment%22%29+%28trial+OR+FDA+OR+approval+OR+results+OR+sales%29&hl=en-US&gl=US&ceid=US:en"
+        priority: 3
+      - name: "GoogleNews-전력전선"
+        url: "https://news.google.com/rss/search?q=%28%EB%B3%80%EC%95%95%EA%B8%B0+OR+%EC%A0%84%EB%A0%A5%EB%A7%9D+OR+%ED%95%B4%EC%A0%80%EC%BC%80%EC%9D%B4%EB%B8%94+OR+%EC%B4%88%EA%B3%A0%EC%95%95+OR+%EC%A0%84%EB%A0%A5%EA%B8%B0%EA%B8%B0%29+%28%EC%88%98%EC%A3%BC+OR+%EA%B3%84%EC%95%BD+OR+%EC%A6%9D%EC%84%A4+OR+%EB%B6%80%EC%A1%B1+OR+%EC%88%98%EC%9A%94%29&hl=ko&gl=KR&ceid=KR:ko"
+        priority: 4
+      - name: "GoogleNews-Power-Grid"
+        url: "https://news.google.com/rss/search?q=%28%22power+grid%22+OR+transformer+OR+%22submarine+cable%22+OR+%22grid+investment%22%29+%28shortage+OR+order+OR+backlog+OR+data+center+OR+demand%29&hl=en-US&gl=US&ceid=US:en"
+        priority: 3
+      - name: "GoogleNews-양자"
+        url: "https://news.google.com/rss/search?q=%28%EC%96%91%EC%9E%90%EC%BB%B4%ED%93%A8%ED%84%B0+OR+%EC%96%91%EC%9E%90%EC%95%94%ED%98%B8+OR+%ED%81%90%EB%B9%84%ED%8A%B8+OR+%EC%96%91%EC%9E%90%EA%B8%B0%EC%88%A0%29&hl=ko&gl=KR&ceid=KR:ko"
+        priority: 4
+      - name: "GoogleNews-Quantum"
+        url: "https://news.google.com/rss/search?q=%28%22quantum+computing%22+OR+%22quantum+chip%22+OR+IonQ+OR+%22quantum+encryption%22%29+%28breakthrough+OR+milestone+OR+investment+OR+partnership+OR+order%29&hl=en-US&gl=US&ceid=US:en"
+        priority: 3
+      - name: "GoogleNews-반도체수급"
+        url: "https://news.google.com/rss/search?q=%28HBM+OR+%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%B0%98%EB%8F%84%EC%B2%B4+OR+%EC%97%94%EB%B9%84%EB%94%94%EC%95%84+OR+%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%A0+OR+TSMC%29+%28%EA%B0%80%EA%B2%A9+OR+%EC%88%98%EA%B8%89+OR+%EC%A6%9D%EC%84%A4+OR+%EC%88%98%EC%A3%BC+OR+%EC%8B%A4%EC%A0%81%29&hl=ko&gl=KR&ceid=KR:ko"
+        priority: 4
+
+      # ---------------- 지정학 ----------------
+      - name: "GoogleNews-이란중동"
+        url: "https://news.google.com/rss/search?q=%28Iran+OR+%22Middle+East%22+OR+Hormuz+OR+Israel%29+%28attack+OR+strike+OR+missile+OR+sanctions+OR+ceasefire+OR+oil+OR+nuclear%29&hl=en-US&gl=US&ceid=US:en"
+        priority: 4
+      - name: "GoogleNews-이란-한글"
+        url: "https://news.google.com/rss/search?q=%28%EC%9D%B4%EB%9E%80+OR+%ED%98%B8%EB%A5%B4%EB%AC%B4%EC%A6%88+OR+%EC%A4%91%EB%8F%99+OR+%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%97%98%29+%28%EA%B3%B5%EA%B2%A9+OR+%EC%A0%9C%EC%9E%AC+OR+%EB%B4%89%EC%87%84+OR+%ED%9C%B4%EC%A0%84+OR+%EC%9C%A0%EA%B0%80%29&hl=ko&gl=KR&ceid=KR:ko"
+        priority: 4
+
+      # ---------------- 해외 주요 매체 ----------------
       - name: "GoogleNews-Reuters-시장"
         url: "https://news.google.com/rss/search?q=site%3Areuters.com+%28markets+OR+stocks+OR+Fed+OR+inflation+OR+tariffs+OR+semiconductors+OR+oil%29&hl=en-US&gl=US&ceid=US:en"
         priority: 3
-      - name: "GoogleNews-Financial-Times"
-        url: "https://news.google.com/rss/search?q=site%3Aft.com+%28markets+OR+central+banks+OR+investment+banks+OR+technology+OR+energy%29&hl=en-US&gl=US&ceid=US:en"
-        priority: 3
-      - name: "GoogleNews-주요인사"
-        url: "https://news.google.com/rss/search?q=%22Kevin+Warsh%22+OR+%22Jerome+Powell%22+OR+%22Scott+Bessent%22+OR+%22Jamie+Dimon%22+OR+%22Larry+Fink%22+OR+%22David+Solomon%22+OR+%22Ted+Pick%22+OR+%22Brian+Moynihan%22+OR+%22Jane+Fraser%22+OR+%22Jensen+Huang%22+OR+%22Elon+Musk%22+OR+%22Satya+Nadella%22+OR+%22Sundar+Pichai%22&hl=en-US&gl=US&ceid=US:en"
-        priority: 3
-      - name: "GoogleNews-글로벌IB전망"
-        url: "https://news.google.com/rss/search?q=%28%22Goldman+Sachs%22+OR+JPMorgan+OR+%22Morgan+Stanley%22+OR+BlackRock+OR+PIMCO+OR+Bridgewater+OR+Apollo+OR+KKR%29+%28outlook+OR+forecast+OR+warns+OR+expects+OR+says%29&hl=en-US&gl=US&ceid=US:en"
-        priority: 3
-
-      - name: "GoogleNews-Reuters-긴급국제"
-        url: "https://news.google.com/rss/search?q=site%3Areuters.com+%28breaking+OR+attack+OR+strike+OR+war+OR+sanctions+OR+oil+OR+Hormuz%29&hl=en-US&gl=US&ceid=US:en"
-        priority: 4
       - name: "GoogleNews-Bloomberg-시장"
         url: "https://news.google.com/rss/search?q=site%3Abloomberg.com+%28markets+OR+Fed+OR+rates+OR+inflation+OR+oil+OR+technology+OR+tariffs%29&hl=en-US&gl=US&ceid=US:en"
         priority: 3
       - name: "GoogleNews-CNBC-시장속보"
         url: "https://news.google.com/rss/search?q=site%3Acnbc.com+%28markets+OR+stocks+OR+Fed+OR+CEO+OR+earnings+OR+oil%29&hl=en-US&gl=US&ceid=US:en"
         priority: 3
-      - name: "GoogleNews-WSJ-시장"
-        url: "https://news.google.com/rss/search?q=site%3Awsj.com+%28markets+OR+economy+OR+central+bank+OR+technology+OR+energy%29&hl=en-US&gl=US&ceid=US:en"
+      - name: "GoogleNews-글로벌IB전망"
+        url: "https://news.google.com/rss/search?q=%28%22Goldman+Sachs%22+OR+JPMorgan+OR+%22Morgan+Stanley%22+OR+BlackRock+OR+PIMCO%29+%28outlook+OR+forecast+OR+warns+OR+expects+OR+upgrade+OR+downgrade%29&hl=en-US&gl=US&ceid=US:en"
         priority: 3
-      - name: "GoogleNews-중동긴급"
-        url: "https://news.google.com/rss/search?q=%28Middle+East+OR+Iran+OR+Israel+OR+Hormuz+OR+Gulf%29+%28attack+OR+strike+OR+missile+OR+ceasefire+OR+sanctions+OR+oil%29&hl=en-US&gl=US&ceid=US:en"
-        priority: 4
-      - name: "GoogleNews-중앙은행인사"
-        url: "https://news.google.com/rss/search?q=%28%22Kevin+Warsh%22+OR+%22Jerome+Powell%22+OR+%22Christine+Lagarde%22+OR+%22Treasury+Secretary%22+OR+%22Fed+governor%22%29+%28says+OR+warns+OR+expects+OR+speech+OR+outlook%29&hl=en-US&gl=US&ceid=US:en"
-        priority: 4
 
 keyword_scores:
   critical:
@@ -357,40 +551,67 @@ keyword_scores:
     words: ["유상증자", "전환사채", "감자", "리콜", "임상 실패", "FDA 반려", "수출규제", "관세", "제재", "금리 급등", "환율 급등", "유가 급등", "downgrade", "recession", "tariff", "sanction"]
   good:
     score: 5
-    words: ["단일판매", "공급계약", "수주", "FDA 승인", "품목허가", "임상 성공", "실적 서프라이즈", "자사주 매입", "투자 확대", "수출 호조", "upgrade", "beats estimates", "approval"]
+    words: ["단일판매", "공급계약", "수주", "FDA 승인", "품목허가", "임상 성공", "기술수출", "실적 서프라이즈", "자사주 매입", "투자 확대", "증설", "수출 호조", "upgrade", "beats estimates", "approval"]
   market:
     score: 4
     words: ["FOMC", "파월", "연준", "CPI", "PCE", "고용지표", "미국 10년물", "국채금리", "달러인덱스", "원달러", "나스닥 선물", "S&P500 선물", "엔비디아", "마이크론", "테슬라", "Federal Reserve", "inflation", "interest rates", "Treasury yields"]
+  # 주가가 이미 움직인 뒤에 쓰는 사후 보도·읽을거리는 감점한다.
+  noise:
+    score: -5
+    words: ["오늘의 운세", "부고", "인사말", "포토", "화보", "사설", "칼럼", "신간", "주간 전망대", "마감시황", "증시 마감", "코스피 마감", "코스닥 마감", "개장 시황", "장 마감", "이 시각 주요뉴스", "주요 뉴스 브리핑", "MAI부동산", "신고가 [MAI", "아파트 실거래", "농수산물도매시장", "구리시장", "군수", "시의회", "구청장", "추석 성수품"]
 
 sectors:
   반도체:
-    related: "삼성전자, SK하이닉스, 한미반도체, 이수페타시스, HPSP"
-    keywords: ["반도체", "엔비디아", "마이크론", "HBM", "AI칩", "수출규제", "TSMC", "AMD", "semiconductor", "Nvidia", "Micron"]
-  바이오:
-    related: "삼성바이오로직스, 셀트리온, 알테오젠, 리가켐바이오"
-    keywords: ["바이오", "FDA", "임상", "신약", "품목허가", "ADC", "제약", "clinical trial", "drug approval"]
+    related: "삼성전자, SK하이닉스, 한미반도체, 이수페타시스, HPSP, 리노공업"
+    keywords: ["반도체", "엔비디아", "마이크론", "HBM", "AI칩", "수출규제", "TSMC", "ASML", "필라델피아 반도체", "반도체지수", "semiconductor", "Nvidia", "Micron", "SOX"]
+  광통신:
+    related: "대한광통신, 오이솔루션, 라이트론, 이수페타시스, 옵티코어, 코위버"
+    keywords: ["광통신", "광모듈", "광트랜시버", "실리콘포토닉스", "CPO", "800G", "1.6T", "optical transceiver", "silicon photonics", "co-packaged optics"]
+  원전:
+    related: "두산에너빌리티, 한전기술, 한전KPS, 우진, 비에이치아이"
+    keywords: ["원전", "SMR", "원자력", "소형모듈원자로", "우라늄", "nuclear", "small modular reactor", "uranium"]
+  제약바이오:
+    related: "삼성바이오로직스, 셀트리온, 알테오젠, 리가켐바이오, 유한양행"
+    keywords: ["바이오", "제약", "FDA", "임상", "신약", "품목허가", "ADC", "기술수출", "clinical trial", "drug approval", "biotech"]
+  신약_비만탈모:
+    related: "한미약품, 펩트론, 디앤디파마텍, 대웅제약, 인벤티지랩, JW중외제약"
+    keywords: ["비만치료제", "위고비", "마운자로", "젭바운드", "GLP-1", "세마글루타이드", "티르제파타이드", "탈모", "obesity drug", "Wegovy", "Zepbound", "hair loss"]
+  전력_전선:
+    related: "HD현대일렉트릭, LS ELECTRIC, 효성중공업, 대한전선, LS마린솔루션, 가온전선"
+    keywords: ["변압기", "전력망", "전력기기", "해저케이블", "초고압", "전선", "송전", "power grid", "transformer", "submarine cable", "switchgear"]
+  양자:
+    related: "우리넷, 엑스게이트, 케이씨에스, 코위버, 드림시큐리티"
+    keywords: ["양자컴퓨터", "양자암호", "양자기술", "큐비트", "QKD", "quantum computing", "quantum chip", "IonQ", "qubit"]
+  식량:
+    related: "대한제분, 사조동아원, 한탑, CJ제일제당, 팜스코"
+    keywords: ["곡물", "소맥", "옥수수", "대두", "식량", "밀 가격", "농산물", "wheat", "corn", "soybean", "grain price", "food price"]
+  가상자산:
+    related: "우리기술투자, 티사이언티픽, 갤럭시아머니트리, 다날, 한화투자증권"
+    keywords: ["비트코인", "이더리움", "가상자산", "스테이블코인", "코인 ETF", "bitcoin", "ethereum", "stablecoin", "crypto"]
+  원자재_구리:
+    related: "풍산, LS, 대창, 서원, 이구산업"
+    keywords: ["구리", "전기동", "LME", "니켈", "알루미늄", "copper", "nickel", "aluminum"]
   이차전지:
     related: "LG에너지솔루션, 삼성SDI, 에코프로, 포스코퓨처엠"
     keywords: ["2차전지", "이차전지", "배터리", "전기차", "리튬", "테슬라", "양극재", "battery", "electric vehicle", "lithium"]
   조선:
     related: "HD현대중공업, 한화오션, 삼성중공업"
-    keywords: ["조선", "LNG선", "선박", "수주", "해운", "운임", "shipbuilding", "shipping"]
-  원전:
-    related: "두산에너빌리티, 한전기술, 한전KPS, 우진"
-    keywords: ["원전", "SMR", "원자력", "원전 수주", "nuclear", "small modular reactor"]
+    keywords: ["조선", "LNG선", "선박", "해운", "운임", "shipbuilding", "shipping"]
   방산:
     related: "한화에어로스페이스, 현대로템, LIG넥스원"
-    keywords: ["방산", "무기", "전쟁", "미사일", "국방", "defense", "missile"]
-  AI_전력:
+    keywords: ["방산", "무기", "국방", "미사일", "defense", "missile"]
+  AI_데이터센터:
     related: "HD현대일렉트릭, LS ELECTRIC, 효성중공업, 일진전기"
-    keywords: ["AI", "데이터센터", "전력기기", "변압기", "전력망", "냉각", "data center", "power grid", "transformer"]
+    keywords: ["데이터센터", "AI 인프라", "냉각", "액침냉각", "data center", "AI infrastructure", "liquid cooling"]
   로봇:
     related: "레인보우로보틱스, 두산로보틱스, 로보티즈"
     keywords: ["로봇", "휴머노이드", "자동화", "robot", "humanoid", "automation"]
   자동차:
     related: "현대차, 기아, 현대모비스"
-    keywords: ["자동차", "전기차", "자율주행", "리콜", "판매량", "automaker", "autonomous driving"]
+    keywords: ["자동차", "자율주행", "리콜", "판매량", "automaker", "autonomous driving"]
   금융_금리:
     related: "은행주, 증권주, 보험주, 성장주, 코스피200 선물"
     keywords: ["연준", "FOMC", "금리", "국채금리", "Federal Reserve", "interest rate", "Treasury yield", "inflation"]
-
+  에너지:
+    related: "S-Oil, GS, SK이노베이션, 한국석유"
+    keywords: ["유가", "WTI", "브렌트", "OPEC", "원유", "천연가스", "crude", "Brent", "natural gas"]
