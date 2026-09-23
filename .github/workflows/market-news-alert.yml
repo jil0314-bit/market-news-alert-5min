@@ -3,9 +3,12 @@ name: 글로벌 시장영향 1시간 속보
 on:
   workflow_dispatch:
   schedule:
-    # 평일 오전 7시~오후 7시 59분, 1시간마다 새 뉴스 확인
-    # (토큰 절감 + 야간 차단: 20시~6시59분)
-    - cron: "0 7-19 * * *"
+    # GitHub Actions의 cron은 UTC 기준입니다. 한국시간 = UTC + 9시간.
+    # (이전 설정 "0 7-19"는 UTC 7~19시라서 한국시간 16시~새벽 4시에 실행됐습니다.)
+    # 아래는 한국시간 07, 09, 11, 13, 15, 17, 19시 = 2시간 간격 하루 7회입니다.
+    #   UTC 22시 -> 한국 07시 / UTC 0,2,4,6,8,10시 -> 한국 09,11,13,15,17,19시
+    # 분을 17로 둔 이유: 정시(:00)는 전 세계 예약이 몰려 실행이 자주 건너뛰어집니다.
+    - cron: "17 0,2,4,6,8,10,22 * * *"
 
 permissions:
   contents: write
@@ -17,7 +20,7 @@ concurrency:
 jobs:
   alert:
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 10
     env:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
