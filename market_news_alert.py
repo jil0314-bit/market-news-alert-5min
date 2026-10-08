@@ -21,6 +21,7 @@ import re
 import sqlite3
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass, field, replace as dc_replace
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
@@ -259,15 +260,16 @@ class MarketNewsAlertBot:
         """RSS 피드 수집."""
         rss_conf = self.config["sources"].get("rss", {})
         timeout = int(self.config["runtime"].get("request_timeout_sec", 10))
-        items: list[NewsItem] = []
-        for feed in rss_conf.get("feeds", []):
+        def fetch_feed(feed: Mapping[str, Any]) -> list[NewsItem]:
+            items: list[NewsItem] = []
             name = str(feed.get("name", "RSS"))
             url = str(feed.get("url", ""))
             priority = int(feed.get("priority", 1))
             if not url:
-                continue
+                return items
             try:
-                response = self.session.get(url, timeout=timeout)
+                # Each worker uses its own connection; do not share a mutable Session.
+                response = requests.get(url, headers=dict(self.session.headers), timeout=timeout)
                 response.raise_for_status()
                 parsed = feedparser.parse(response.content)
                 for entry in parsed.entries:
@@ -275,9 +277,13 @@ class MarketNewsAlertBot:
                     link = str(entry.get("link", ""))
                     summary = clean_text(entry.get("summary", entry.get("description", "")))
                     published_at = parse_entry_time(entry)
+                    if feed.get("publisher_watch") and published_at is None:
+                        continue
+                    publisher = str(entry.get("source", {}).get("title", "")).strip()
+                    source = f"{publisher} (Google News 검색)" if feed.get("publisher_watch") and publisher else name
                     items.append(
                         NewsItem(
-                            source=name,
+                            source=source,
                             title=title,
                             link=link,
                             published_at=published_at,
@@ -288,6 +294,13 @@ class MarketNewsAlertBot:
                     )
             except Exception as exc:  # noqa: BLE001
                 self.logger.warning("RSS 수집 실패: %s / %s", name, exc)
+            return items
+
+        items: list[NewsItem] = []
+        # Keep feed order deterministic and bound concurrent RSS requests.
+        with ThreadPoolExecutor(max_workers=4) as pool:
+            for feed_items in pool.map(fetch_feed, rss_conf.get("feeds", [])):
+                items.extend(feed_items)
         return items
 
     def fetch_naver_items(self) -> list[NewsItem]:
@@ -1391,3 +1404,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
