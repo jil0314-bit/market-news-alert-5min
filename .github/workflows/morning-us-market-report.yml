@@ -2,9 +2,6 @@ name: 미국장 마감·국내장 영향 8시 브리핑
 
 on:
   workflow_dispatch:
-  schedule:
-    # 미국 월~금 장 마감 후, 한국시간 화~토 오전 8시 실행(UTC 월~금 23:00)
-    - cron: '0 23 * * 1-5'
 
 permissions:
   contents: read
