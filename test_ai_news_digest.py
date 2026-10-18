@@ -136,7 +136,7 @@ class DigestTests(unittest.TestCase):
             def entries(self):return self['entries']
         with patch.object(ai.feedparser,'parse',return_value=Feed(parsed)):
             items,failures=ai.collect(self.session,NOW,NOW-dt.timedelta(hours=3))
-        self.assertEqual(len(items),len(ai.TOPICS));self.assertFalse(failures)
+        self.assertEqual(len(items),len(ai.intel.sources(ai.TOPICS)));self.assertFalse(failures)
         self.assertTrue(all(it['title']=='AI launch' for it in items))
 
     def test_all_feed_failure_is_error(self):

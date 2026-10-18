@@ -16,6 +16,8 @@ from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
+import ai_news_intelligence as intel
+from ai_news_translation import translated_record
 
 UTC = dt.timezone.utc
 KST = ZoneInfo("Asia/Seoul")
@@ -92,8 +94,8 @@ def save_state(path, state):
 
 def collect(session, now, cutoff):
     found, successes, failures = [], 0, []
-    for topic, query, language, country, edition in TOPICS:
-        url = "https://news.google.com/rss/search?" + urlencode({"q": query, "hl": language, "gl": country, "ceid": edition})
+    for source_config in intel.sources(TOPICS):
+        topic, url = source_config["name"], source_config["url"]
         try:
             response = session.get(url, timeout=20)
             response.raise_for_status()
@@ -106,14 +108,20 @@ def collect(session, now, cutoff):
                 if published is None or published < cutoff or published > now + dt.timedelta(minutes=5):
                     continue
                 title = clean(entry.get("title"))
-                source = clean(entry.get("source", {}).get("title", ""))
+                source = clean(entry.get("source", {}).get("title", "")) or (
+                    source_config["name"] if source_config["kind"] in ("official","specialist") else "")
                 if source and title.endswith(" - " + source):
                     title = title[:-(len(source)+3)].strip()
                 link = safe_link(entry.get("link", ""))
-                if not title or not link or not AI_PATTERN.search(title):
+                excerpt = clean(entry.get("summary", ""))
+                if source and excerpt.endswith(" "+source):
+                    excerpt = excerpt[:-(len(source)+1)]
+                if not title or not link or not (AI_PATTERN.search(title) or intel.RELEVANT.search(title)):
                     continue
                 found.append({"title": title[:400], "source": source[:100] or "출처 미제공",
-                              "link": link, "published_at": published.isoformat(), "topic": topic})
+                              "link": link, "published_at": published.isoformat(), "topic": topic,
+                              "excerpt": excerpt[:220] if excerpt and excerpt != title else "",
+                              "source_kind": source_config["kind"], "region": source_config["region"]})
         except (requests.RequestException, ValueError, TypeError):
             failures.append(topic)
     if not successes:
@@ -138,7 +146,8 @@ def merge_pending(state, items):
     for group in groups:
         if group["keys"] & sent:
             continue
-        item = dict(min(group["items"], key=lambda x:x["published_at"]))
+        item = dict(min(group["items"], key=lambda x:(intel.profile(x)["source_rank"],
+                                                     -len(x.get("excerpt","")), x["published_at"])))
         item["duplicate_keys"] = sorted(group["keys"])
         pending.append(item)
     state["pending"] = sorted(pending, key=lambda x:x["published_at"])
@@ -172,12 +181,25 @@ def format_pages(items, now, backlog=0, failures=(), translate=None):
     pages, blocks, group = [], [], []
     translate = translate or (lambda title: title)
     for item in items:
-        title = clean(translate(item["title"]))[:210]
+        translated = translated_record(item) if translate is translate_title else {
+            "title":translate(item["title"]), "excerpt":translate(item.get("excerpt","")), "quality":"검사용 번역"}
+        title = clean(translated["title"])[:210]
+        if translated["quality"]=="번역 미검수·원문 표시":
+            title="번역 미검수 · "+(", ".join(intel.profile(item)["products"][:2]) or "AI")+" 관련 소식"
         published = dt.datetime.fromisoformat(item["published_at"]).astimezone(KST).strftime("%m/%d %H:%M")
         link = item["link"]
         # Abnormally long URLs remain archived but must not break all delivery.
         displayed_link = link if utf16_length(link) < 2200 else "원문 URL이 너무 길어 발송문에서 제외했습니다."
-        block = f"• {title}\n{item['source']} · {published}\n{displayed_link}"
+        details = "\n".join(intel.briefing_lines(item, lambda text:translated["excerpt"]))
+        details += "\n번역: " + translated["quality"]
+        if translated["title"]!=item["title"] or translated["quality"]=="번역 미검수·원문 표시":
+            details += "\n원제: " + item["title"][:130]
+        block = f"• {title}\n{details}\n{item['source']} · {published}\n{displayed_link}"
+        if utf16_length(prefix+"\n\n"+block)>3800:
+            # Preserve an intact URL when ordinary; very long evidence URLs stay
+            # in the state file rather than crowding out useful briefing lines.
+            displayed_link="긴 원문 URL은 발송 대기 기록에 보관됨"
+            block=f"• {title}\n{details}\n{item['source']} · {published}\n{displayed_link}"
         candidate = prefix+"\n\n"+"\n\n".join(blocks+[block])
         if blocks and utf16_length(candidate) > 3800:
             pages.append((prefix+"\n\n"+"\n\n".join(blocks), group))
@@ -210,7 +232,7 @@ def run(path=STATE_PATH, dry_run=False, session=None, now=None, translate=None):
     cutoff = max(now-dt.timedelta(hours=24), previous-dt.timedelta(minutes=30))
     items, failures = collect(session, now, cutoff)
     merge_pending(state, items)
-    selected = state["pending"][:MAX_ITEMS]
+    selected = intel.select_items(state["pending"], MAX_ITEMS, now)
     pages = format_pages(selected, now, len(state["pending"])-len(selected), failures,
                          translate if translate is not None else translate_title)
     if dry_run:
