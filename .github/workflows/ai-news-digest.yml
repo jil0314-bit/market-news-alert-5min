@@ -1,0 +1,56 @@
+name: AI 뉴스 두시간 모음
+
+on:
+  workflow_dispatch:
+  schedule:
+    # UTC 짝수 시각 = 한국시간 01:37, 03:37, ... 23:37 (매일).
+    - cron: '37 */2 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-news-digest-two-hourly
+  cancel-in-progress: false
+
+jobs:
+  ai-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - name: 코드와 AI 전용 발송 기록 받기
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: 파이썬 준비
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+      - name: 기존 공통 부품 설치
+        run: python -m pip install -r requirements.txt
+      - name: AI 뉴스 전용 오프라인 검사
+        run: python -B -m unittest test_ai_news_digest
+      - name: 새 AI 뉴스 수집 및 기존 텔레그램으로 발송
+        run: python ai_news_digest.py
+      - name: AI 전용 발송 기록만 저장
+        if: always()
+        shell: bash
+        run: |
+          if [ -f data/ai_news_state.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -- data/ai_news_state.json
+            if ! git diff --cached --quiet; then
+              git commit -m "chore: update AI news state [skip ci]"
+              for attempt in 1 2 3; do
+                git pull --rebase origin main
+                if git push origin HEAD:main; then exit 0; fi
+                sleep 3
+              done
+              exit 1
+            fi
+          fi
