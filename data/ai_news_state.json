@@ -72,8 +72,2893 @@
     "6514ae394e525765f9c4a9c4847b8857a828808642ff4b12e9b94617a8bc2c93": "2026-10-18T00:56:22.377866+00:00",
     "72c40e349bd86499ddcc95a7c68f3fa9fa087d0272b89c03b972352011e9f8f7": "2026-10-18T00:56:22.377866+00:00",
     "4272c3dc247add535c6429cbba58a2223e2c7f847d2070bfaa9d57c4d8287a53": "2026-10-18T00:56:22.377866+00:00",
-    "461207d62cd40632ef4d946604f40542b3ed7445ac98a0f5b0dfae7c8deaf5ca": "2026-10-18T00:56:22.377866+00:00"
+    "461207d62cd40632ef4d946604f40542b3ed7445ac98a0f5b0dfae7c8deaf5ca": "2026-10-18T00:56:22.377866+00:00",
+    "43855c220e4143afab0001218f4574cac87ba704e7e3fd6836dae71bd7bd14f2": "2026-10-18T07:24:21.723321+00:00",
+    "bdde7d726b74252b37c91b1f7d87733cbbec3368e8a4544221a005d84ab7c52b": "2026-10-18T07:24:21.723321+00:00",
+    "99d885a693ca1d79f72369c57c47f44dcff7b24c88663a4c108ec2215cb3d30c": "2026-10-18T07:24:21.723321+00:00",
+    "06bf911588a6e1ae453b7e57290a9f3af41b9654447a8267e588ffa349a24c2b": "2026-10-18T07:24:21.723321+00:00",
+    "3ae9e00f1a9a42e2bcd56833c7ffc341b180c014281eb362db4c594a69029f13": "2026-10-18T07:24:21.723321+00:00",
+    "6ffd6f2d8c3406264954f003715c8ca107a15e9cc9665f40a87d2e9f8c435b37": "2026-10-18T07:24:21.723321+00:00",
+    "3df2489c82e1c8747f25b7ef6dafa8729ca49308db79cb4bed65a9ba2e22c5eb": "2026-10-18T07:24:21.723321+00:00",
+    "9013a19b9bf3049b934b0c3cae38b6637095d39948382eeee14878436adb07ef": "2026-10-18T07:24:21.723321+00:00",
+    "7152714cad9118c21ae74947a35993f5b8fa5305f84a545eff6c947fc67cb4eb": "2026-10-18T07:24:21.723321+00:00",
+    "b7d721c098add92e793dbf9ad2846fa0334858873c67ca9d2484bf56cd75dff9": "2026-10-18T07:24:21.723321+00:00",
+    "1b39544ec3bb470f0d0692732f00229ae2cc9a22bc0a57ce46a546955583daca": "2026-10-18T07:24:21.723321+00:00",
+    "841163efda5852729b3d40b9a88fe48bbd3f4fb877c97c5a06928e10ecc170b6": "2026-10-18T07:24:21.723321+00:00",
+    "93dd425114a770115e95b16012f034e7ad3d4efe9fbf2379b6fd5d25efbb0ae6": "2026-10-18T07:24:21.723321+00:00",
+    "2f30c02e40f2f11d9933d576f6f43a12c7b0412d9e6e97709d6950b04b136a35": "2026-10-18T07:24:21.723321+00:00",
+    "75e1b2b79f9022ff311a138f3d2aca2364504740cc4c150b6975620b075fb38a": "2026-10-18T07:24:21.723321+00:00",
+    "74242fb3b8cb0261a48c47c65c89bd973ee035a915c8f1cdc01519b7b755e3c2": "2026-10-18T07:24:21.723321+00:00",
+    "a70d0b225457ca9ee88fb4e287a092cff0bff640c80e23d3cc153eaa44ad0d65": "2026-10-18T07:24:21.723321+00:00",
+    "ddb3feee8c417946fb8c17109fff5c30cac6b7387da6c9da8d18ba0ecaa7a668": "2026-10-18T07:24:21.723321+00:00",
+    "aac477567666309cb2fc86b3cd1c87eca83ed45d8641f25cc4f9ff4d510d60b8": "2026-10-18T07:24:21.723321+00:00",
+    "5e3804e9bcaf37ee49b7f2b8f5fa1853999881a3d6eef33aabd9d1d90c5bc552": "2026-10-18T07:24:21.723321+00:00",
+    "258d1441fd74054eb29961ac133ed851b666146d00c8faaba903a060aaa97ad2": "2026-10-18T07:24:21.723321+00:00",
+    "ec5db3fc061f1fc1709594fd236190aa40511d3f6bfa488458c33f98101d780f": "2026-10-18T07:24:21.723321+00:00",
+    "a428f2f1947b6b81ae74e380db709266fdf2ac18696d60e34f8343e82ea7e195": "2026-10-18T07:24:21.723321+00:00",
+    "e00e0d72a81517a4ca71b3ba6b7db2c4afce5e91484afdea28372fc2f2c05e5c": "2026-10-18T07:24:21.723321+00:00",
+    "6fa7884cc909081eb1771d5860eb4a600ccc84c3b359bdf6fb9d5e8c71977db0": "2026-10-18T07:24:21.723321+00:00",
+    "36f7bdc1ff278e0365ac924959240fa84dfe199eec5001203f1cb97e68b10bba": "2026-10-18T07:24:21.723321+00:00",
+    "33c09f6e60610a18d08f4f48bdae2a352f1034e4c3925de238003954c369de8c": "2026-10-18T07:24:21.723321+00:00",
+    "48a0590d406cebbbb2ecad2df64b3b0c2f0103af82b396913642e47312dd9799": "2026-10-18T07:24:21.723321+00:00",
+    "13f1ed8034a7b71a86afa668da79796c769440e883896854d90af9b3c2f53033": "2026-10-18T07:24:21.723321+00:00",
+    "5bae109ad00358c0bca4a7e65b4d92cf76dd210d639c415a0eb0ba1009a63095": "2026-10-18T07:24:21.723321+00:00",
+    "67b210405878b5c7b5f77786bbef34c1fc2f727d261f4aeebc57fa9baf99802e": "2026-10-18T07:24:21.723321+00:00",
+    "98632f3175a8f5cb8623d56424f94ed12966d5204eef773b1bb19e45691b0c89": "2026-10-18T07:24:21.723321+00:00",
+    "1b891a826d7cc7676a982601c18ed08e3dfc6b8086a2862b210f719eea90131a": "2026-10-18T07:24:21.723321+00:00",
+    "e9436953915a69cfff206d88ab09297b63a5f375da21d86d07ce8135fbf0a5a7": "2026-10-18T07:24:21.723321+00:00",
+    "3baaaa9ffb72d57eee61d4889b00b46e4429a09c22c7fe968b1e34f9a4846794": "2026-10-18T07:24:21.723321+00:00",
+    "9225075637ec2886fe16b194efc08fd335b2e0f61fd3cef4b1c3168f04a42c48": "2026-10-18T07:24:21.723321+00:00",
+    "5e8722dbee58c7c815ef6935df128bbe7bc0d731406569825ae4807ea9f81da9": "2026-10-18T07:24:21.723321+00:00",
+    "7ef288788d18fb4e05b03f5b35ed9270283ababc07fe440fb5570004756e0ef8": "2026-10-18T07:24:21.723321+00:00",
+    "29179f9c3cdf000fc073c40cbf81f89890ffb2a8cdeb53fd11d2d4e6de7408ff": "2026-10-18T07:24:21.723321+00:00",
+    "9d6ad97fbf149bb6d131efa900386f747d9c98036fff140e4b86fedf5727be5c": "2026-10-18T07:24:21.723321+00:00",
+    "635420a85f149f479b4e3638fa7a0273be53e8054cab206fb418e185477f81d5": "2026-10-18T07:24:21.723321+00:00",
+    "9e76c0421095f19a3657003c2adeb2a2cc20c0ee48a468ece14463fea7de35e0": "2026-10-18T07:24:21.723321+00:00",
+    "b5d34eb2a4351265847230b821db4d6a8b2243f8fae68910b0c1304efd804ba1": "2026-10-18T07:24:21.723321+00:00",
+    "eb525b9b0b193e6151a0f10e3864c4018db6f76e9b615173bd64e87fda396bbd": "2026-10-18T07:24:21.723321+00:00",
+    "80dd8883815a0b4e3d5e6b033db92f5c1fd528a3a5407ffe04e4221f40d630eb": "2026-10-18T07:24:21.723321+00:00",
+    "eaf06409025db647b1ce7b653cc1e9229904458307164aea7cb416445a5d9f28": "2026-10-18T07:24:21.723321+00:00",
+    "d5b1ed9e3f445c97c41215199138f03a5afc6f65ab34079f49a56f8dceae7f5a": "2026-10-18T07:24:21.723321+00:00",
+    "bfd1386e5609ee10af016e382ba6d9a14338a7449193d9796f46e897e81dbb37": "2026-10-18T07:24:21.723321+00:00",
+    "94369550673b995f7f1300b080eb3c02e05c0a36ebecf2d7d5deb00bcad8b3cd": "2026-10-18T07:24:21.723321+00:00",
+    "54c8e322a78d629c972bf5791744fc9b2117c9abb20c923f3a0c6202e3b095e8": "2026-10-18T07:24:21.723321+00:00",
+    "d11c3c9655c0e430a54a20499cd4adb103e85f79b898c680e37a10a1906f22fa": "2026-10-18T07:24:21.723321+00:00",
+    "82e227e9d056cddb0fd1d558afd04ef1b6089bd6a2fa91b38af5e9b85a6bfe76": "2026-10-18T07:24:21.723321+00:00",
+    "1faf1f1fec5b66e6c9be16cc77c84b34b9b5c90679520e8642b3056488f9df02": "2026-10-18T07:24:21.723321+00:00",
+    "5583064f0a6713019a58bbb546ac6b05a4f9ca9054005154aa4fab253fb1f969": "2026-10-18T07:24:21.723321+00:00",
+    "ff2ce57baa0c2d32971129d056b58d139e0fb717c1d44decc0aa6ddb1d3e3508": "2026-10-18T07:24:21.723321+00:00",
+    "663a1c375f2f5a6fc6fc63630d1e10332b6626f2eef4ba5fbb64c25392bc44a9": "2026-10-18T07:24:21.723321+00:00",
+    "9c6728501a46a0031fe001635c36fca963f41fc6a561e7dc6648179baea74ebb": "2026-10-18T07:24:21.723321+00:00",
+    "f0cf637ae48e1654e306ba9ef873e14c6c1b1a02fa4aeb40f3956eb9834f9baf": "2026-10-18T07:24:21.723321+00:00",
+    "b778105bad738925cb591c0b0c8e079cdc2e8f57bfaac4c20fbc9abbc2cf97b3": "2026-10-18T07:24:21.723321+00:00",
+    "d3ce44cf46a866780d313b33af2368d3efb189246ff52e950c6a98c9d717e178": "2026-10-18T07:24:21.723321+00:00"
   },
-  "pending": [],
-  "last_success_at": "2026-10-18T00:56:22.377866+00:00"
+  "pending": [
+    {
+      "title": "Elon Musk Says Jensen Huang 'Rocks' as SpaceX, Nvidia Team Up on AI Data Centers in Space: ‘Far Better Than Almost Anyone Expects’",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdDZlRzVyQ1ZRaHRqajVXVFNJckVBeE4xaFR2bUVFcVF0OEVVWVNPakZTcThwRXREY01QY2c0SzdXQXM2RGZvSTdIRzVGY3ZHWWpmSzlMeEhhQnpoUVF6bVdRWmhFblRxOU5iUmdKYmdaTGo4emRVSmExTFdqbWdNM1JlUnRmSURfU01JNEVJNWtldkpRRmc?oc=5",
+      "published_at": "2026-10-18T00:30:00+00:00",
+      "topic": "AI infrastructure",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "89e7f24608e11b00804710a836e6cd085d4e5d1f10c5e01ecb620f34066a1458",
+        "fb8fd1b7f01f206fe5c289dfb2d348ca8f773cbbed7753951f93b6712ada4ea9"
+      ]
+    },
+    {
+      "title": "OpenAI Says Model Spent Third-Party Sepolia Test Funds",
+      "source": "FindArticles",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMeHRyckFrM2M0UnFrNlc5b1NobWxZZk1tTEhRYkFxQTJfZFpQd0JVd1dNQk1VNkg4eHRsaklqTFJ2Qm9nbXpwRS1WTVNXanZ5ZTJXTFFlbjNnZkhlNW5YVzdSNHhkS192Qk5pQ1Fkdk56enVaWkFNVFFqbXBPZ9IBhgFBVV95cUxQMjFELVFtVFVVRk0xVG9OaW5wd2RPN2hEZzExaHhEc2k4MEZwdHoySEdXQVpISEFCeFk2YTBvMk1ieDZsUE5OMUsxR1R5enNDTkUzRjFsVjU1ZEVkNUpaTkJsUGJreGstRDMzOWx5VWU3eHAxT3Y5bUZOTGhQeWdlM0luRDVnQQ?oc=5",
+      "published_at": "2026-10-18T00:30:29+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "e9c4d6fd832292b017ddeb5c56cef26dcfea003653defa9d63c4d7b9412da09c",
+        "f2c2d9a3ecd2fdaee82d31497238688ee056045db4b76415ab190c4125f0f283"
+      ]
+    },
+    {
+      "title": "Grok 4.7 vs Gemini 4 Argon vs Qwen3.8-Max: 28-Pt Gap [2026]",
+      "source": "tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHZWbmdOZ1hUWkV4ak4xN3ZuZXNiUHR1Y1pOeFA5OXhaX01UUFdtUUZCeHdnRXFXMDhyb05laVU1eTdLWk5SNHl1QTVTSk9OMS0tUlZVVkJvLTAyaVB0WVViTlA1Nmhyb1lXMlQ3dmhvV21LYVNBdExOV1o2RGZsNQ?oc=5",
+      "published_at": "2026-10-18T00:31:37+00:00",
+      "topic": "AI 툴·연동 활용",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "d8bfa80bd0f8e9a84e84c547057501bda473754064b3720806ad5c9662bd39c0",
+        "ef1b335925974a95bb80ed2f61c530f0ee1af133ba109a9341b12abb55dd61e7"
+      ]
+    },
+    {
+      "title": "Pentagon Escalates Anthropic Dispute Over Claude Military Safeguards",
+      "source": "FindArticles",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNEVZcV9SMlhzWnlVbHFhZ0NNSERXNW9vNkZrOHhNWm5EVEVfMnBqbktuaXVXY3Fnd1Q0MmFMdFZmNnV2TU12XzhLUi02a3czLWozQ1ZlS0tSYU0xamhyS3BJVHhOTzc2bklWSU9qejVOX25UcG5rMWhicmR1V21KMFI3QVZJRDBDT3ByOFFEZTlMNDTSAZMBQVVfeXFMTzRFWXFfUjJYc1p5VWxxYWdDTUhEVzVvbzZGazh4TVpuRFRFXzJwam5Lbml1V2NxZ3dUNDJhTHRWZjZ1dk1Ndl84S1ItNmt3My1qM0NWZUtLUmFNMWpocktwSVR4Tk83Nm5JVklPano1Tl9uVHBuazFoYnJkdVdtSjBSN0FWSUQwQ09wcjhRRGU5TDQ0?oc=5",
+      "published_at": "2026-10-18T00:37:31+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "0f3c50e3db9e9dfeb9c2bf8486ef05fd1619e4d24a3cbc9fc250e000896761fb",
+        "2c39c430bf6d595e229a8806c664147beed1585ce8ddb9c27148bc76a200537d"
+      ]
+    },
+    {
+      "title": "미국 은행들, 메타 ‘뮤즈’ 계좌 접근 차단…“AI가 옮긴 돈, 누가 책임지나”",
+      "source": "AI타임스",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216373",
+      "published_at": "2026-10-18T00:41:18+00:00",
+      "topic": "AI타임스",
+      "excerpt": "미국 주요 은행들이 메타의 개인용 AI 에이전트 ‘뮤즈’ 등의 고객 계좌 접근과 자금 이체를 제한하고 있다. 고객이 맡긴 AI라도 은행 계좌에 직접 접속해 돈을 움직이도록 허용하기에는 보안과 사고 책임 문제가 해결되지 않았다는 설명이다. AI가 낮은 금리의 예금을 찾아 다른 금융상품으로 옮기면서 은행의 수익 구조를 흔들 수 있다는 관측도 나온다.블룸버그와 파이낸셜타임스(FT)는 16일(현지시",
+      "source_kind": "specialist",
+      "region": "KR",
+      "duplicate_keys": [
+        "9c5ed05db7c887fc015d11092f5ac055daf4f498a5c75156d30a225e3555015f",
+        "a3e0bf744a7b78860992bb8370cdd6e8818252bc9f35c15053ed08bfb814d4f8"
+      ]
+    },
+    {
+      "title": "Gemini in Google Keep vs Samsung Notes AI [2026]",
+      "source": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GSGJFaGlWRVB0T1ZiRFpMUGttRkZ6Uk5UOHVxYW1keC1pYk40OGNUNmFrM1J3dkZhYkd1TWh3OTNzaXQybUdPbTNUajBkSEtKYllQSkVFWXRuV2M0dmMxSTBiZXA5Q0dLaGN0Nllya0dxQ0x3R2h6NWlOX1YxbFU?oc=5",
+      "published_at": "2026-10-18T00:48:53+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "93665b6798ec79dd4e6d8c7f6eafe4e46b855c110bf78e8c0b3de0eb22015852",
+        "9a57fd547322ea7f4ece5660469103e34b1f718a63bebfade3334f36bee33203"
+      ]
+    },
+    {
+      "title": "Anthropic Co-Founder Predicts US GDP to Surge 50% in 4 Years Through AI",
+      "source": "news.sbs.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PTW56MDlhd1htdjVkQlBzVnhvM3hibnFZd0dLVGxUOHVoYzE2NlY1VXdQd1daWm03RS0wRjh5TUVSclY3Wk5hbkhvaHExbW9DaGR0T08wdmdvb0lqZ3VFSnEwekNBUQ?oc=5",
+      "published_at": "2026-10-18T00:51:00+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "0073ce14c708becc8cba85dcdc3e101bc36adc64e56b72b17f889c84426ed02d",
+        "989b1535fe31e9ac6b0ebb285b8723b50886023b34ac9735c20da561f9042a59"
+      ]
+    },
+    {
+      "title": "삼성SDS 구미 AI 데이터센터 3조 원 투자…구미시, 지역 건설업체 30% 이상 참여 요청",
+      "source": "미디어디펜스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xRnpnUjZ3U3p0ZmtHREs5ZENVbFhsLWRFendSTkFXZmhvbGNXSU5pS21PWXREYlpFWHg0Q2swS2RDLUZVVEVrQnZBZ1NGRFprZkZ1MVY1ZmpiT2RjNXFwbEo4SW9fdWpOb29Z?oc=5",
+      "published_at": "2026-10-18T00:51:05+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "4b12f8775c78c266dfdd096d79f3f1763e0dca0b064680e7007d07fbc0480451",
+        "a7675fd5d1c2ee6c3a3fc762732e357fc8186eef549c0769bf03be42899a8bf8"
+      ]
+    },
+    {
+      "title": "'AI Hackers' Go This Far... AI Agents Team Up to Find and Infiltrate Internal Networks on Their Own",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6NVJfZU9HSnhyUlZuX040bm5lMGtySktDaGdjS3dnM2VXaHl5ZmxCTHJEeGoyNms0S2xHWE8tdE9rOFp0anhqTkdaSWRoYXlqbXQxZDQyNGk0dkxSWkRlbGtFVVI?oc=5",
+      "published_at": "2026-10-18T00:55:54+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "c4210f3df4825ee9cb9bb052afde4d8b798de3377f961a6fc408e2fd2232cbe4",
+        "f868d20f066513af5d2be4b04c6cb1b07bd3812328cb682bb38b53138acc80cc"
+      ]
+    },
+    {
+      "title": "DeepSeek发布AI模型更新 向所有用户开放搜索API",
+      "source": "e南洋",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmdFRwOVU5eF9uandvVlVBVlpXeVZxeWJhVDlxVFBQbzVMSmEtR0VhWXNJX2FxanQtcV9Vb0JxZDhMSS1neEg1Q2x4Vmo4QV9wdUhwX1NQa1BSd3ZvMHpHZENiUQ?oc=5",
+      "published_at": "2026-10-18T00:59:55+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "1cce792f39671e2a50b3482a35f7d894e53bf31fc70b1c537369fdd5bab12199",
+        "e1e4a4f19dd855b0ed13f67b2486743db941df8af7a75f65dfb27a0cfe6ae88a",
+        "fb567f21f2b9efbdcc14f0049f4af6303bc7c573ec2bd3c6dbdc90a10ad8e397"
+      ]
+    },
+    {
+      "title": "안랩, 싱가포르서 AI 에이전트 협업 기반 보안관제 전시",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VNnNJbFlXYkp2ekdkRFk2NHQxUmFpbGdpRHl2bGtWVGVPN3dHYjhON08wLU9nclpnMERYd1F0eVpHazhGQ2E5WnVOSEp2MXNfQUZHa3NoMkwwWUxKdERpUkQtWEhQQlQyMlJtbnY0ZmVIdjVxZ3FBZtIBeEFVX3lxTE9VNnNJbFlXYkp2ekdkRFk2NHQxUmFpbGdpRHl2bGtWVGVPN3dHYjhON08wLU9nclpnMERYd1F0eVpHazhGQ2E5WnVOSEp2MXNfQUZHa3NoMkwwWUxKdERpUkQtWEhQQlQyMlJtbnY0ZmVIdjVxZ3FBZg?oc=5",
+      "published_at": "2026-10-18T01:00:00+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2ee72d84ee8632258f56ca70ac29b65cad061b61383cd6421c990861d79c8e38",
+        "a268b3070570cc32102d55c15aa3b76a9de676a67522bf4a919dbfc9704a443a"
+      ]
+    },
+    {
+      "title": "[기자수첩] 울산 AI 데이터센터 짓는다는데…전기는 언제 들어오나",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VbFJSQ05hbkh6Y2oxRlJ1Rlg3bERVc3pqOVNZQXRSX3cxUTFOMXItSjJUeDJyZXh5ZDhua1BaRGUzYmtvY2U4MDR3bGZOV1E2c2g3Sk1VSTR4WDIwQ29QY2lPaDdVZDA?oc=5",
+      "published_at": "2026-10-18T01:00:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "327cffcbdda20e4a0a0f0dea8dd469494157af834ad0c63c41ae3d5e7e468c19",
+        "8d62d6cab1e36753feac9403ac0a75412a2fca45a7f3a3478ef6faf94a326f34"
+      ]
+    },
+    {
+      "title": "AI 쓰라면서 토큰은 아껴라?..삼성도 고민하는 'AX 청구서'[이슈속으로] - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZdEZVWmdPUG9ubGJMTnBqbC1KcWdMNHo0ZVgtQmozMGx3VUlwTHRvQWowT1hMWUdfQkhaUUxVcWNfQ2lROVBDdXJhQ05FYXRDUXJtTWRKTlhTek5fLTdDeF9Oa1h6cjRkOGJLT19fYjl0QdIBckFVX3lxTE5ZdEZVWmdPUG9ubGJMTnBqbC1KcWdMNHo0ZVgtQmozMGx3VUlwTHRvQWowT1hMWUdfQkhaUUxVcWNfQ2lROVBDdXJhQ05FYXRDUXJtTWRKTlhTek5fLTdDeF9Oa1h6cjRkOGJLT19fYjl0QQ?oc=5",
+      "published_at": "2026-10-18T01:00:01+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "3c6889368749aec287cc8e7e0ccfa6be2118cfbeb605dae403e2e1478fd406d3",
+        "515636ae9ff62b8a758ddbfcf5e0248da3675b26e9494ff9d71a2da8174cc37c"
+      ]
+    },
+    {
+      "title": "Harvard, Anthropic, and QuEra Use LLMs to Discover Quantum Circuits with Up to 9,100x Lower Resource Costs",
+      "source": "Quantum Computing Report",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcDU5NkpYXy1WM0tsV2xnWWI5YjAzODhXYy0zRGROVnJyazRsbkdXa2hqUTE5VkR3aDg3c0c4MU1OcnRyM0plOUF3UWw2YlBDcU9LS3gwLXBFNTNreVlibkozUmx5UGJwZndUbGpsUGlsTGxQS3FzYTVtRlZhQW9jOGkzZ2lINEdXOTF5ZzlpcVlyUk1vSExoaFQxd1l6Yi1EVVJybHl2MXVTMWZUVUgyOGpBcWU1ZGlJdzFlX0pXWE15X0x1YjJNQk5RSUFRR1lsSkFTbEdB0gHbAUFVX3lxTFB0Y3daeEg5YnQydmozWTB6cDQxUmZTdXc0a1Q0NkpEdHZxYnpEdWpvVjVTdkhSOGt4TklranFhQjBhcGJIaDRBSDdBTGpXa2p4M2tnalY2RTA1dzFKRVprYWVSaDBMdDd4M1ZyNEhhaUwzSWVxeVpoN3JQbV96V09PVmJPOFlzS0NrYm5vZ3ExeEFkUzVWRlFmQXc3RTN0RFpaNEFFSHEwTVNuaDg4UE5kUmlIcXBLUG9KcVFkblRQWGJXS3dfRHJzU2otSXF0eVZGNXY5MnJtN0ZzWQ?oc=5",
+      "published_at": "2026-10-18T01:00:45+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "6cd9718debe65669ceb196cd8f2370290f0f5a528171eba03db90b101bd1b9cd",
+        "6f2d2ca786dcafcc03031464d0f02921b195a6385c6fdb7dde762e246dfc6ee1"
+      ]
+    },
+    {
+      "title": "국립창원대 앵커사업단-양산인공지능고, ’고교연계 AI교육·평생교육 활성화 업무협약‘ 체결",
+      "source": "뉴스경남",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2VXJqT3BYdGFpZFM4T0NTLWNIdktkUFdEcF9HUFZFVnRIblh3dk8xMlpDY19va1g2S1ljMVplWE9tQWxKTEU3dUV3b1h2eXBaOFBESXFGSnJSbjFNS1RqWkwzSGh5U0JJ?oc=5",
+      "published_at": "2026-10-18T01:02:00+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "b23fa022f3f395877fe399e8dd6ebd5d7d7384e26f40fb71eb5768dbfb81b55a",
+        "f0ba8e376706df88a0d56ad229a78a2315f2bcfdc73bb37286e293b81dc8ed34"
+      ]
+    },
+    {
+      "title": "Gemini 3.8 Flash Lifted GOOGL 0.7%, Scored 59 on AA [2026]",
+      "source": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ua2t4dFNtR2pURTBaQXVDMnJtX3RSano5ZmFHRUZVZ1ltaEJwM2g1UWJwb1ZoTHA0dUxYbS1qWlRhSGVNSFZtcjRLR25IelRBdmZxV2dkd3VScDJva2JnSmJIQ25CbjVHMnhLVWtSY2I3a3hQY0E?oc=5",
+      "published_at": "2026-10-18T01:05:21+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "02b4c2f930409453d7721cdb644fca1f4b3979780a7374af8d802a3227f3576b",
+        "cd639d6f2e8582d7324937472afdaa8e5f69e4b1c939cf9480a4c3b7419783af"
+      ]
+    },
+    {
+      "title": "AI 생산성 향상되자, 기업들 신입사원 채용 중단",
+      "source": "초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BU2xtU3FDbnNSRFp4ZHZiMlA1eU4tWDBuSnlsc1lYWVk4QmQ2UmYyM2hUQ0JuSzR2M3M2R3pMVHg4MTdFeV9YdGZlajFBNHl3NHFNaS0zWkphZklNZHBUQVJzV3B0R0dzTExyOGxXRFhPNHPSAXNBVV95cUxPQVNsbVNxQ25zUkRaeGR2YjJQNXlOLVgwbkp5bHNZWFlZOEJkNlJmMjNoVENCbks0djNzNkd6TFR4ODE3RXlfWHRmZWoxQTR5dzRxTWktM1pKYWZJTWRwVEFSc1dwdEdHc0xMcjhsV0RYTzRz?oc=5",
+      "published_at": "2026-10-18T01:05:30+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "72e600d118a879d762bce8f2d686e8075c9a4f3c55d2b64bdad8c9753ab8df77",
+        "c8b372d0438a9980ee683700d6791b81faf53a755e3790465fad4f3319417be3"
+      ]
+    },
+    {
+      "title": "日, 방위비 증액 위해 AI·반도체기업 등 법인세 올리나",
+      "source": "한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CbU1sUjJ3UWUxU3hMTVNOVHY0T1VhSzV0VnotZ2ZIQlBjckszZ2lUak1NTUxReTMwUG5HTWE0SnRkaVFsbU9iNUhseGFTX1VwUWxCUmkyOHFkTDZkSUQ5RnBBRVpDNkM1ay11WHNJX05sNi1fUTZ0VVNZd0I?oc=5",
+      "published_at": "2026-10-18T01:07:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "0c5d2a079c25a53b3baebe8d66f62fce8ac74afa5b32ef84fa9ed2b5419bcd2a",
+        "60718b79aa7d03939b7a3adf91b18b5d269bfaeaff3f005842664f9c63b9774d",
+        "aa4d6279235e77a1aa1a0d7bb283d5d6babe5d1232ad6a4002c66c350f2cf166"
+      ]
+    },
+    {
+      "title": "Anthropic’s Jack Clark Sees AI Supercharging Science—and Governments Need to Prepare",
+      "source": "Kingy AI",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRWRwU3BURy1DS19abGktU3VBYndMUEFpbWFRRXo1WUx1WFVfRUFXZlJZcWluSUhHYm5mUWxRRU9iV0xzSUhDeHM1ME8yYm5lamZWSEhaRXd4WVUyS0Y4UndySGVESFhTZUZ5ZnFjQmc1V3VDNHo4SW5RX1Yxa3d5WTlB?oc=5",
+      "published_at": "2026-10-18T01:10:12+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "8a1b4f7ebd0411899ec7919f157976841e0c6b041fb3f30f75c10ce6c6ace044",
+        "ffb0bf1423f6bd3fe2b3766a45c1a37c31ab7dd4ca84fc0bbf0bd6370ea67b5a"
+      ]
+    },
+    {
+      "title": "Anthropic's Junk Rating Sparks a Bigger Bitcoin Debate",
+      "source": "BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52cEU2TnpTb3ctYXhlRVQ0X3dKcUszeHJRUS11TzF2aU1IU0xmNGg3T2xXOEpaUnNqOFdwa3puRGR2SFQtNGY2NE10Tk1xbkVhRG5ZV0ZMWEZkd2MwOXNwZHIyM2RZajRsdHJPa2t0aw?oc=5",
+      "published_at": "2026-10-18T01:11:00+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5dc11aaf9eea3aa56d9864e92e4f27beaaf2b33dc31daff32227dfae0d74e69d",
+        "7c6f190b0f123761e76971478766d976dbcb4e7123ad3f6bd2bbab89d0f7fd8b",
+        "854aa32f54b02ec9ed21877b1df64906c2e0b921b3818baa70f828c5c95d821e"
+      ]
+    },
+    {
+      "title": "한국폴리텍Ⅱ대학 평생교육원, ‘AI-POT’ 교육 성료…생성형 AI 실무역량 키웠다",
+      "source": "매일뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NSTloS1dHRmFIQ0tyTmRLN3NPSWsyU3JWMFZ6RWlBUVBIX3RZdkVNdTB4VUVTWkpDRlgzUDY2X29LUThRM295YnRjcF9uZHBaeUQwalhwSVNmSkoya3Y2Vw?oc=5",
+      "published_at": "2026-10-18T01:12:10+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "22aa2eabb11db042ea97569a4088d61541d2bc6c4fee93fb9cb2726027a65a5e",
+        "b94511d726c2589415106ebadd8cf01eae74ba61df048ace045034b6f73f5af9"
+      ]
+    },
+    {
+      "title": "Is this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock",
+      "source": "OnlineKhabar English News",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwbGd5bTRHbDhDd1RZVzJMLVZWTVRTdnNQZEhwY3JyajJQYnNSQmNQQWxEMVZpVDEwNl9GX3BMTkpxSVFYZjdKRUNsQk8yclNkalNiZldKZ2lCRWkyVWY3eEZldjhzTTEyRmNTZUN6SWRZSzg?oc=5",
+      "published_at": "2026-10-18T01:15:00+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "9f94d8a69d3fdf8b24023b95eae6593437a003d539c8b9ceb1a0b6b96ff1b130",
+        "b9c913318ba566197f8c8166050ff7d2f94fa5e2be64c899a909f37037db44e9"
+      ]
+    },
+    {
+      "title": "超过四分之一的新锐AI公司，出自他们之手",
+      "source": "36Kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5heGFsMTl0c3Zhc29oZklEN0RFTG9lZWhUVGRaNmhsNE5qdHRoMlltQXVlamNqZnhFSldHekZ2V0JNV09ZTnRDNjI5akhPdw?oc=5",
+      "published_at": "2026-10-18T01:17:18+00:00",
+      "topic": "중국 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "CN",
+      "duplicate_keys": [
+        "668b77f278c846bdecfec2f7d1b4ecdc9dec834d3b6173d911bd8efc7093aa50",
+        "b110e226ee26742b6594ddebe9b386bceea78fdeb95abf9dc00e65d8154968c6",
+        "f6d7ee709f5b950c73ffab0d41211d462fe966430a6eb3ab817b2c8e35857150"
+      ]
+    },
+    {
+      "title": "Modular’s MAX Tops vLLM by 5.5x on Kimi K2.5 [2026]",
+      "source": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4U25NQURDdXNwclRhdFBWS1U3SkNhbWVSM0VmSnlpX245WHAwRUZtNUNrRTZPUFNkREE5amtOcGlObXkxNkVrR0N2VmRDdUVuUUNsYnlFZGJtRlZGZFlLWHIxWmVsRlRqMWZzbzk1MVM?oc=5",
+      "published_at": "2026-10-18T01:18:32+00:00",
+      "topic": "중국 AI 해외보도",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "948b818f3eb710f5ced5bf092c45da38272098af24133d359b8ea851d3e92660",
+        "c6a4e0fdccf2cd37c5c9971ab4de8d27c64abb16a61ba16b8d1444fb871bc569"
+      ]
+    },
+    {
+      "title": "태백시 '탄탄태백교육축제' 24일 개최…AI·로봇 체험 다채",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1dGszdEtHT3RlR0ZSQVFEc3h6UE14bTBvdXY0N2R2ZVN1RDNMczA1eE1RX1JxblpkSVc3eEplTGFvUk1Ocnl1WFhJT3VPcjNVQ1E?oc=5",
+      "published_at": "2026-10-18T01:20:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "284a14305dad51aef77004fd5740d014a229b0c4ec80363186041940556d4a4a",
+        "b4150e224fe5ca2227fe9725e8719b955eadab5803b6c5c609f398e6ec3db35f",
+        "e2e3280310a9d40b45779ad2355c37e2ea7c50857179f27a6b468637025ff88d"
+      ]
+    },
+    {
+      "title": "DeepSeek V4.1 Flash成本低到发指：1美元13亿Token",
+      "source": "3DM",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5URGJpTUNaRDRSa0Y0VmtxNnhFV05hVllCQzlRNmlKOHVBTVVnS2xhNk9RcnUwOWFBaWluOWRRYUhYZFRuYS1qVTU5TF9mQ3JuYWRNaWtPRHduQ3ZM?oc=5",
+      "published_at": "2026-10-18T01:21:15+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "0c0efd898cd8dca6582e5880f9a09ff7232fc2156123c110215c81931e75a5d1",
+        "694a06a3b552c80b590849a985053d0a3d8c863ea5ea4638eaa97af090e4850a",
+        "d2dabd97df864e734e4830d057e96ed85806fc475af2ae5d36c95eb2139140dd"
+      ]
+    },
+    {
+      "title": "학벌의 종말과 AI 교육 혁명 => 암기식 입시의 몰락이 시작되었다 > 지식 축적의 시대는 끝났다 -> 인공지능을 부리는 역량이 미래다 = 대치동 입시 열풍의 균열 >> 예체능과 고유성으로 몰리는 교육 지형",
+      "source": "데일리머니",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HbzUwcVhnbWJ3Ympkek9ucW5NaVBDNElwVW14cW12MGZJU1NWeG80akd6bzRnRDFZYUJ2Y0ZaME04am91OXBoUlhhbkpTNFRIWDFJdG1vMmJzOGRUOGNXcGZwbWpxME1FeG5BNW1LLXVDdmM?oc=5",
+      "published_at": "2026-10-18T01:22:03+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "7c28eec499e529137c412ee321a3e298426965ff1bdd1d6cf7477109df21dc0d",
+        "f16657b8631ece41a195919157bc69fe3b7bae1f89ae085ec2ac481d139d2b2c"
+      ]
+    },
+    {
+      "title": "[T나는 과학]명령 한 줄에 내부망 4대 침투…인공지능(AI) 자동 해킹 현실로",
+      "source": "티제이비",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VeWh1Si1DZ3Q0cU5sVnFfYUplNWVzT1UxUHJHcWVOenc0empmZmNyNFpFOUVjMDFSNHRBTEEyY1B1eGFKNFhTb1pLTkdaalVPZ1hLN0c1dG5WNjdJVDV4U0RB?oc=5",
+      "published_at": "2026-10-18T01:24:42+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "a6d57cf02dfb731c88ae1f7a57d2132a864c0f9d3efd1686a4e3d87d60ead0bd",
+        "ad2b8cb08d0575df702c63a3e6233056ed07c49eb78c21f85eb25046a7c648c5"
+      ]
+    },
+    {
+      "title": "AI Agents Learn to Read Power Grid Alarms and Catch Faults in Milliseconds",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM2xCU0pCOWo1SVZFMVVhSGlVQ2hSZmNnWUdjZDBFaHNqOEZhcGtBTmZ4QVZpUTlQam9zWkpuMXZqaHlqMnpBSWRidkkzRDEtSXRVTGkzSnZLZ1pkN1k4Z3RUV2p3RzN5b1dWSmd4LXRGSzg2bXl5T0N3N0hSWEZqR0pqalRzbkJwbFJ5UjFQb0NKVXBuVUxJQllUY2RHcXZs?oc=5",
+      "published_at": "2026-10-18T01:26:50+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "045895817abd2715d481f817da2ef89aaadb0b96d3e329244858df483594ae7c",
+        "fa9e2409fa27d21e8742c75c71a5bb27012c82e955b545c16091200c3809069b"
+      ]
+    },
+    {
+      "title": "AI Could Reshape White-Collar Employment by 2030—and Wages May Be the Bigger Risk",
+      "source": "CEOWORLD magazine",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVXlvX1ozVFdyZHV0UWhDNE9YTkFFUWtaOGhpQm9ubENtYVJsTzY0VnBGRi1XWkppUm5XbGM0NVNjRngyVzlUdF82M1FTVkFVbENiR3NlTDJOQ1dzd2xKVUUzSDZlcXJjSU1oZjgwN0oxeVdJOWs5aGxRYXBhV2V4QUN6d3VCYjZLcEU0Qjk3YUw4ak50ZzBBTXFFR0dNT20tcENzR2lJUFQwamw3eEhpYTJLSUU?oc=5",
+      "published_at": "2026-10-18T01:27:47+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "24bb0c6032922c6ee1779a2cfcc728e4158cda5c8090c607dbc56879c8d8d40c",
+        "fcc942878e90dfb709b96d80ce2f86ba7b9c8201a8f33809b794eca1b36791f7"
+      ]
+    },
+    {
+      "title": "美 자국 AI 기업 제재의 역설…\"기술 혁신 발등 찍을 우려\"",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xVlpRd3hmVUN0RmJremE3M0tjSGtvdVVGd1B5OV8xWGV3cGdLaWFFLUJPY3lsdDhraEZmdjBJQzZrUF9BWWUxVkRBTm9KYUhfRHUyWmdR?oc=5",
+      "published_at": "2026-10-18T01:28:19+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "a27089aab19f1ea7fc23fb2559571e11d2e9d499008be84b25b78ecb68f28cc5",
+        "dc7258d8992a8323337aa9d98f3ad769600de71303a10e3e979a248654fa25ec"
+      ]
+    },
+    {
+      "title": "AI 기업 부채 과도 우려에 시장 공포심 최고치",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MLTFyQTdnNDlnQUFKWW5jVFBvOHRjSVRsX1VuRG03ZnZxLURCbEtUbUNTRk5qRUNMUDJCdmlETnRkbnlFTnVtN29SWU9WVVZuRmpaUUdn?oc=5",
+      "published_at": "2026-10-18T01:29:53+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "06c65a11f654033c710d6c3eae3cfd21e4e979f050f2a0a40c2a49d4c07f425e",
+        "9a6edb03877a255a2277954f4ab4d47bc4e5b2400669352a4adcfc79a6bcbc4c"
+      ]
+    },
+    {
+      "title": "AI周报| DeepSeek更新模型；151款应用拒绝接入豆包手机助手",
+      "source": "搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNTlNYWFmZnBKYnVmb0t4elBURWI1bWpXdHR1Y05XSkk2TnprUm9GY0FObE80Q1p5ZFJLSGk3eEl4T2RhR09uWDFlbC1pRzJFQ1g2cWVsYUJsM1NOZDlhdGZYX2pVSGNxWGxoUExUVTc2SGw3TllFQzVLNm5uZ2xnVVdET1JyRWVZ?oc=5",
+      "published_at": "2026-10-18T01:30:00+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "3874b94a12683cc127dbb246afc4f35bc213b7740fc4e2c7ea515521eb9e75cd",
+        "dd8bb91d029487d7b7738b6dd7b18203531ffcc29d86dbce458c6b0c2e98e4b8"
+      ]
+    },
+    {
+      "title": "DeepSeek 卷麻了！新版 Flash 性能暴涨，实测有点东西",
+      "source": "CSDN博客",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02NEt5R0VWUXFoVF9BRHk2VXNURUdPa2xGeENuNUN4dVFKZGtHV0VQRGtvbXhLZEljblRZaDRWRFFhMGN1X2I1MnJwbWV3cGVDWFUyaVdELWpKYUpUeDFoQzlNT0MydGxRV3B4aU5LcVE?oc=5",
+      "published_at": "2026-10-18T01:30:11+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "1ef9116bc9d9d893aa8c9c61ab99d749ef2a751f4c65aaa88f9cfd30aef1c985",
+        "db68f8850d7c58cc9f15614d9bc8efc1f72bdbffeeb0d56112c21c606ee79a18"
+      ]
+    },
+    {
+      "title": "Microsoft CEO on rogue AI agents, super laptops and Clippy",
+      "source": "The New Things",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3Q0U1hfU1ZEUE1FS1AtS3hJdVgyTTVtSWljWUNFaE5zcTdtTGZScmdaZVdZazYtWmxLQ3ZCaEtNeWVSc2VzNGpLbUxNd3pBLUdlTUVKMHlFU3F1WkVvRU13Rmw5WF9IbHpwZGV5RXdUSUI4a0JVVVB4Q00xRU1FTUpaUGxMTDRsdmZyYQ?oc=5",
+      "published_at": "2026-10-18T01:30:26+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "70ff2a377a386ee1f9ef030188d611e023ebec0f30bc7d384a11f2a1896265a2",
+        "ef75ddf87a3467fcc14ba2236ca64d2acf2d2496f0c26f66ab53c1c35b2760bb"
+      ]
+    },
+    {
+      "title": "딥시크, AI 모델 성능 높이고 비용 줄였다…미 빅테크에 ‘저가 공세’",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HZlVyc0puT0UtXzNTNHVWVXhRMFdEcVdCaUpZTm4wZHBtZTZyZ243SnA5MFFVUkFQT3FJb0VkLTRqZVUyZTkwYXctSURRUzFQRjJNbnhYTXFZZ9IBX0FVX3lxTE5nU05Idkhta0pxSGkyMzE0WldlclFLUmJDd2UyTmdndEh3c3I3b09tc1UxWGdHeEFjeEgwNU5DcmFhMTgwWC1NZ3hYSHBQblJGVlh4ZEpZTndMME9LV2ZV?oc=5",
+      "published_at": "2026-10-18T01:35:00+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "01a75f49f009b7f69a7f0ac33a9a65e496de5502035ba34aef512533e752a06f",
+        "b191c8078f5ecc325b3e7234ad2933e3a475a9636db73fe8207b5262c3d4f5c6"
+      ]
+    },
+    {
+      "title": "[강추] AI융합교육연구원, ‘AI리터러시과정’ 운영…3만원으로 시작하는 AI 이해와 활용",
+      "source": "코리아아트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yRGhjeEl5NWxSa2lkeGJxQ1JlOXpaSVZYbU1mMHlGQ2JnS3V3enV2WjR3dHhwYTJHUklyYXZzQUVZdXpjVVZtRW1Ub19Mb28?oc=5",
+      "published_at": "2026-10-18T01:35:53+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "17fc2df5a7c7c2df619df07a798d52b63203d4c33b197cfcb8450b8be88efc3c",
+        "6d4ffb29cdc91c23f5c05af0a5bb5ddfe2d2e99cd196bd4695af2b11efe23311"
+      ]
+    },
+    {
+      "title": "최태원이 청년에게…\"AI가 할 수 없는 일 해야\"",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwRE96aVB0enlyQ1hNRmxtNUFYckxwbXdlU1ZTemRfMEVlQXYtUlNaSEZKOVFKcXNON1hKQWlERGhDSldBOVU5d3dfWkZfeGlYZ2FnWXBB?oc=5",
+      "published_at": "2026-10-18T01:36:26+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "37a0833b13acfc6587e78d28dfa97c00ebba39c9c2f074eb8213dac2c300f300",
+        "532250d9b2af2b255c0e6dad21ab84d48fe5d975a028bf59f9f8b55fce74618a"
+      ]
+    },
+    {
+      "title": "Creativity versus artificial intelligence: 3 crises shaking the world of literature",
+      "source": "صوت الإمارات",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWWE3ZTlJTFV6YXI5MnF5eFRMaGJfWDJoZEt1OEszSmVaTXBBMnpZTVBWVWxDV29lVTB2MEFFRC16bzRtY2xJa01icy0tSkJRUS1HSW9lVzQ4UDBuSjROekJzMkxvS0tUbjhmdmpidkJmcHZnNzY4Y1FfbTFXX1JEMFUtM3YtLUF3UE5CcEJqOWtuQnJRZ3dLV2xMencxdlFXazJib2Q4RWtGVW9CRUtuNkZhRnlnTnlmUkNMdDB5djZseElfUFJuQXl2alY2RXFzQTVMOVpoLUVlamIwb21HVVJDMGJ1RGtDSHhLQkVOLTFFaDVtU1JPTlNtVmxTSHZtX0pOXzNkdmtPTG9sMktLdU1XZG1jR3RZU0NZTQ?oc=5",
+      "published_at": "2026-10-18T01:37:24+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "18f8d2a25c3a28da3bebba746a242ba6cd0e887f87fa541e4d56cb8224d9333c",
+        "63f2ce9b1a8238eec50f498e855020776afe54b47d269622f053ce61537d4968"
+      ]
+    },
+    {
+      "title": "日, AI·반도체기업 법인세 올려 방위비 충당 고려",
+      "source": "www.dt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xM1RjMnZWZDlVSHVKX25UUmpMUE9mOEY0UjdXdnhnODRWUUE2WlRWUC1CVHBCMkFaSHhDSXBkclN0c2ZaeEpIcE9jRDdaUQ?oc=5",
+      "published_at": "2026-10-18T01:37:57+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2e96db8ac6ee2417648c9f816477dd3a75ae8ca071d645da74be030c31477818",
+        "900eaea4a9d7942871a22c150f06d3660d68c9cf1cce230b301c23081bb257a9"
+      ]
+    },
+    {
+      "title": "[주간AI노트] AI가 다 그려버리네…‘이미지 왕국’ 게티이미지의 몰락",
+      "source": "인더뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82NUI5TGNUYUlwNHNqTmdTNlByUkVlYWF0WmVRQTRRc3o2c1pkamt1eFlQWF96U0JoVHlzbGxuOUJwQzZiWUJ3MEItc1g1dGs1TUJyV0xVelcxWEFFb0JCRGdXYXE?oc=5",
+      "published_at": "2026-10-18T01:38:51+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "997791136469aa992a90249f5de16010a4534b58b5fba5f08d29719d3b72830e",
+        "9ee4b157dac431efd0327a68b6ec029d9df02b7ae8580ebce459928a37e9c29d"
+      ]
+    },
+    {
+      "title": "\"1GW AI 데이터센터 한 곳에 연간 세수 9109억원 가능…지역경제 성장 엔진\" - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1obU9sODZIY2hnRkJTYm5ia0NtN3JEVURJMmhvWGF6SXFpdUNkeC1jLVpTQUNrVWcwUFlWZ1NQX0cxT0lkUnVGQ3M3czBOQkhlTTZEc0Z4OHZ3R1Q1UU11VzNtckxvRUnSAWxBVV95cUxOazg5dm5nX3dNXy1VNXlVZHRVT2RfSmFEemRjdU9QV0FOd2JRRnk1ZEZWeTFVS3NhdVlpQzFNTEVpUkVUZ1E0a1gwcVVhM2I4aWt0cEw2b2NGSGlZVWQtU2QyX2VReGx1TzN0MGM?oc=5",
+      "published_at": "2026-10-18T01:39:37+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5d1fefd322b4094e3bbbcea1cdde34cf7dc2e9bfbdc4aedecd8e9a1ac3aeadd8",
+        "ad3b0a993fe27737ddd166c2597386932f105eaef6be826b82b499cd516830d1"
+      ]
+    },
+    {
+      "title": "\"A single 1GW AI data center could generate 910.9 billion won in annual tax revenue… an engine for regional economic growth\"",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LSkhhQVJSeGZVSWQ3ZXNPVllHdk9ZcnkyUWE1WlN0ZUdfQzZfM21tNkVTYTZXNmliamxzM2xmYmNEV2VmMk5lTFQ3NTNoaG1Kd1pPMmFQczd5VFJQOGFoak9ueENVODhCM2F1RktxU1Rqamlkam5lMg?oc=5",
+      "published_at": "2026-10-18T01:39:37+00:00",
+      "topic": "AI infrastructure",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5e64ca33fd724d5aadf267cdc0250ca37a543f85f21d2d19025dd365217ef627",
+        "d9ba43ca3b6cf07b49d0e0b9c352fcc0df40c35a3ea063961bb3d0e6a5d86334"
+      ]
+    },
+    {
+      "title": "特斯拉终于接入豆包AI,全新OTA推送28项功能大更新",
+      "source": "汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pQkJid1dKb1NZa1BhY1VWeW12VFpUaVRkclMxMFU0TUZPNTBmamcwellHY1h4V212ZlF6Nk1MZGlDeVhRZDNwWmhjWTBsMlFBU0tJaE9VNWpDUjA?oc=5",
+      "published_at": "2026-10-18T01:40:11+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "07449652447caefc8590ed7f07e6ff4cd80aba37f07bb6b1c0b57b49146f673a",
+        "3e7dbfa1330c3a8270cd3a0b84bc3d632488bcc32016fb1f08010a72cd6ae861"
+      ]
+    },
+    {
+      "title": "“자네 내 밑에서 일해볼 생각 없나?”…예약·결제까지 척척 ‘AI비서 시대’",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBjU0FKcGI5alZ6S0t6UGtQenN1ZlY3M2lwRy1MMWx2RmIyOTl3Z25aNktVSDY5cWJaVE4wWVhTWFhPRGkxdFE?oc=5",
+      "published_at": "2026-10-18T01:41:07+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "f6695158ccc82c65cf486f279114c6fda14c05e1db33d08674c51667587612fe",
+        "fd56a0ae28a4d26cda5af2ae5c1b010e5f6de3ed99ab157458e3f98326633112"
+      ]
+    },
+    {
+      "title": "“인공지능 시대, 예술가는 끊임없이 증언해야 합니다”",
+      "source": "경남도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IVDZCd0FBU0lCMmEtcDI0Zkg1YkluOUI0YUdiRzNJMFpxUm1tc2VPODB5cDZiY0FfRG1jTDRna1VTYlBBRHFielo3aDdBYk9YcHhnTU5ON2Vqd2Rub3BfLTl0blVCS0RweGc?oc=5",
+      "published_at": "2026-10-18T01:41:45+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "435d25c61a4c230bab4b4b6b3919dd0ccf3a5b1b53c899c2f6d4cd74d319cdc4",
+        "8cb4667aa2f9e65f8a2c2e5699e6ca3cef08352884f89e686fc2cbfc639372c4"
+      ]
+    },
+    {
+      "title": "일본 방위비 증액 위해...AI·반도체기업 등 법인세 인상 카드 만지작",
+      "source": "진일보 | 전남일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1idjk3YlhsMVJWQjlGb01rZGJnN3pmNnNZQVRJQlNVYl9XUG5GZWZPNnRlbndaVUhxR01jRzFlUzFncmdhT2hpdV9DYjFlWWNRc0h2QUtMLTBHbXJqTEVmS2lfZVJKSkxlaEtIMjQxWQ?oc=5",
+      "published_at": "2026-10-18T01:45:40+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "14752a10c0f37b820600c302497ca39002476d29a80298f438785c97cf5ec423",
+        "a59add943cbfc72098abaf6a14aa48b8e640d387eeabd1b63be7e80e29a70122"
+      ]
+    },
+    {
+      "title": "Build a Fast-Apply Patch Engine Like Cursor [2026]",
+      "source": "https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU2xaNERUMThDQkFsMkVyZGZYT0pBZWdYZE1xcWZUOElvWFpLVDZETnp4RWNwUnl4RTVBVllTQzI5Rl9XN182dXpRNGFtSTl3cGhZZ3BCOEhCNzV4TUtzUVdCRXhwRTVRY2psMzhsMGF0anZkNURodmpTZHZsQm1Lbi1n?oc=5",
+      "published_at": "2026-10-18T01:47:54+00:00",
+      "topic": "AI 툴·연동 활용",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2d8d23fcc798ea2d4eceb11a26849e730c9c514c4e4d60d75fdc1617b6e7f63f",
+        "e32001d092f8c85eb87ae6fa7692b500c8ad457325f1319684b0b61376b35be2"
+      ]
+    },
+    {
+      "title": "현대차·기아, AI·로봇으로 공장 바꾼다…‘소프트웨어 중심 제조’ 속도",
+      "source": "폴리스TV",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40ZVlDbFp0c0VWTzN1S0lUdDNaeUpKdHo3ZjJNYXZmcEJ0Rkl5MEYxcC0yV1VEeVJ2SUxYTlh2YlhzNzhfWEtUajVaRTNvZndyYzVEUzdDWkdYUjB4LXU1TG5jYTdBeURzeFJjMQ?oc=5",
+      "published_at": "2026-10-18T01:49:42+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "0c883d201da0f72458592146e0eb77bbf621425db63790d97094f1295434d406",
+        "b9191264d2243f4c3400479665e815f82b367d7e8bd2201654269080f49bb690"
+      ]
+    },
+    {
+      "title": "17岁天才少年离职月之暗面赴美 曾参与Kimi核心论文获马斯克大赞",
+      "source": "香港01",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNbDVwZjd6dFdmcHZQb1NaanUzWnpTNXA3NTRORWtFcGJnNlNOaUlqbWdaY2pWTzItYzJRRDVPd1JDMUFObHdDNmJkNFAyejUwTVBVQkVhMUpxMXg0M0dmbWNuMUgwUVdITWpYQXRsZk4zOUlLb3VMS1F6UHVFcG1SdVNUQk52SWRES1NzUmZFX0JESnRKYkk3TjlhSl9yVTYtbnRsTXJneUNXRTJib3p1WDRoeFJ2YjEzbFpscmtkdUhjMU8xR1JZV1pwODVkWmtXSnNpczBlTkdSN3pibkxNREZTNlVWQzVhdVl5OFJxampOX3gtRzBhbHVnUnhSa1V6LUxRSGtsZ05hdkRmSllaZTRJeTZ4MS15RVVQaFhoMUpIcndrM0pzVVVKYjdPZWh6Y0tfSzVPcTJVSGlPWUlOMGxiWTBHbVRIdkQtaHFLUXB1RWJOSkNFQVgybDhKeS15blNqVVVfeVl3cXB2UlI5Y2I1X3BhSVNuSzY3c3hlNDAzczh2ejNuYm94ZDB1S0tSeUtuRFYwWXA4VnNHVXM3Q2I1Tk1GSmt4MVBjaFZranRiclJoMGxpc1lsSQ?oc=5",
+      "published_at": "2026-10-18T01:53:00+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "25c942bffb9514333529c4ac9295b95a6e64d5845ec628de5d40d28ddb09444f",
+        "c47cc9157fe383c237fd35d1d73bd664810a4fd4f4ee83d5fd64fb329a742c73"
+      ]
+    },
+    {
+      "title": "Teens are turning to AI for dating advice and even companionship",
+      "source": "NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWtRZ3FRSTFCTDJaQTF0cHNXNGRXdFAtYVN2dDlQNm1RSXg0cWJNWXVQQkZTY21kRElkRUNxTWFWcnFwVmF3T3RWeTl5clZvUWRfd2djTjZDRDZYb1Fncmc0TjZ6NzN4X0FNcEJhZlZsYzBwLUhZU0VKUi0wLUNITWc3eEZvLVh1YXlBRGRTLTcwVXhNQzhwaTlnYW52a3cz0gGmAUFVX3lxTE1sUm9Nc1B1clB0eGR1UFRDRDZzYXlLTHRId3lUYVNWckpQV1BRSnBlWVFVNmkzSXZ6RExTbFVvUVozN1FXS25laG1ocGQta3lmcDFMaTgzOFdpUjREcDRLUEhaS3VBRGctUERBY1VQd0F4WW5ETXFpOGlqdWhaV3MxR2oyY3ZVOXRnRTRISmVuLVVpMlI4V0huUlZyN2hxV1RMajlUZ0E?oc=5",
+      "published_at": "2026-10-18T01:53:32+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "b521f59bf7e964129a785a352e1f0efe56f5bd99e0807f176b762faa8ab73303",
+        "d923ba6611933dce3d114c7c0534072da6cc693986d193565789793570b38304"
+      ]
+    },
+    {
+      "title": "메타, 3분기 실적 발표 앞두고 주목…인공지능 투자 성과가 관건",
+      "source": "제민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fQUFIVHU2dm1JUlFlcHpCQ3ppTTFaRTRBaklGTFRUNXI2RnV3SjlWLXpSR0hnRUFVclZEYUtIQ2U0ZGdQS3cydElRbGhvYzc1RUxCejlHdHkwWlFpYWhFcmRhNkRWdDA?oc=5",
+      "published_at": "2026-10-18T01:55:14+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "6b49aeea84cdc74b7b2055ee93fc2c12776b35017e86325480383518963dac9a",
+        "91e025c56282fa2e4b5c0d4e87f7ed4b0f7b80c594a7bfc2c05a9741b9f0ef71"
+      ]
+    },
+    {
+      "title": "[현장] 씨이랩 안전AI에 시선...'엑스아이바' 큰 관심",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tZWdvYVpLSDhLeEZZd0xFdmRUYTR5NmF2d19WTVU5ZEZrUmIyNnljYkczRVczZzVLbW5lRkM1QzVqSTFXYWRFQkkxZDRNbEU1NllqRDVR?oc=5",
+      "published_at": "2026-10-18T01:58:14+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "7fa707c3dcd1737afb4ec78d35ccdead13860f03c6e235311835cf6099fc4cb5",
+        "b63930c481af17b85d7a672a23876b38a500e988c620c0b917bc4b880c948d44"
+      ]
+    },
+    {
+      "title": "[기획] 사번 받은 AI 에이전트, 조직까지 바꿨다...구본욱 KB손보 대표 'AI 경영'",
+      "source": "오늘경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0clFMWXhjRDZPYmFKelJPcml4aTd6SVJuTjI1dTNFQjN3XzlNbnlDUjJXTW9PeF9ScDVxcl9XMVBSc1NLVEc2QzJDeUE3WE9pRm0teDhFSFYxR3JsME1VTHMxTjlVNzZsS0VFa3pyUjc5M0E?oc=5",
+      "published_at": "2026-10-18T02:00:00+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2b1e8ffbd66d0e76bae9b4cd15af7f744f10d9a433b58db913cf14485b769184",
+        "33e06bc8b3ab240afc1ed78cc21f5290c5bfb931120188d34afbcce52b9a9fa7"
+      ]
+    },
+    {
+      "title": "US state attorney general sues ChatGPT founders over child safety",
+      "source": "The Star",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDZRdEFZY0dXY180bFBIOE81R0p6UTgzOFZYVEhRZnAyb1A5MjNrSHlzbndfaTNlZjA2dWtsSGdUbmNXZWZ0LVFiRDNwZWh3UGU0OTdWY0ZHclBhNkFYblBpZ3FlWG9LREp6Nkl0c3ltYlhkbjFfVjhaaDlJaXdGWkVOUDFwaG91TmstVWNaT2EwLU9ZSU9xVW1pNnY1V0dlSUtBQmN4bDFPWHZ0bG1VZ05icXdFSkZ6SlE?oc=5",
+      "published_at": "2026-10-18T02:00:00+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "4cf1b82830499bb8e2ded8033f80acf6fc52c1d5224e6a6f15f4ee37d56f4d75",
+        "f449b3cd6e579c690971f7a1ba74aef53b9dc43049a673bfae7bee04f696c8b8"
+      ]
+    },
+    {
+      "title": "DeepSeek Makes V4.1-Flash-1017 Official With MIT-Licensed Weights and Stronger Agentic Coding",
+      "source": "Pandaily",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFJSQnFUblpoMzFFcmczVjFZSlFxVW1lV3gzRDFrRlZYOGRLekdrMnpVZU00UDBXQmxiZm9UbVJuanN2WFVzdXFRZmFnYzFGdVJDN29VZElBMGRkNURrZjJCd3VMZ29SS0V6WUJIUVVmU2dFTkEyMWJlaGQ5T2NRYWNoQmI5ZkF0VVVsbFlwX1gtS181andydksyTXhuZ2JBOWxkM1drSWoydzljcXNGZTFn?oc=5",
+      "published_at": "2026-10-18T02:00:38+00:00",
+      "topic": "중국 AI 해외보도",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "de40efe331d9dfc1117e7013c04efe98461a8f88a65c2551d3e30f18cf46b911",
+        "f37369d8f7989da22c2d45d5f4924c38b992e5a8c5d0af7c1db568511045d649"
+      ]
+    },
+    {
+      "title": "Anthropic pitches own AI Safety Bill",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemFjRklpVzhhLXdsTmRoNDIyaUhTNUZIM0FKUHZxRFJlb3VqTXdtNmp2aEx2VDVUV1pFLVVVeWdRV2xyd1VrcU1jN3lIZjRDUUx6UlRRR21VUlczVVN5RTlMMGV1SVFsa2NQb1RUMHJ1UHJ0ZG1rdDNyT2kwUjlaNmxiMkp0STJUZkZCX1ZqTEIyRkFZUUhkUUVnYk5xU1ZKZ1BPX1htRjBVdkHSAbABQVVfeXFMTUlLUmo4cm4xM2duOEpJWWNmZElqeFNTVjdETTJWX1R1ZGxkNVJFQldJMTd0X1pYUVYwMDdMUEZtU3JLdGdKdXdkV0lJaTcyRExxZFNNVDI0RU1lbzl1b1ZhT0NwYXlxaWxMVVBMeXhENy1MU1FjY294SFpkQXRDUVMzb1BfT3U4OF92NlhIY1gzMHZhSVkwekwwY0dVbUQ4Z3RiNlF2Sy1iR1EyNFNVVHo?oc=5",
+      "published_at": "2026-10-18T02:02:00+00:00",
+      "topic": "AI policy & research",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "6a999eb7688e16ac4066afe5141c535fca37bb50828a7a64cab8980484813500",
+        "e30baf0271b50e7f273cffe9fff7e0feaf9f5e13023c303575e1c780e0bed5b5"
+      ]
+    },
+    {
+      "title": "[AI는 지금] 메타, 기사 AI 학습 논란에 약관 수정…\"광고·비즈니스만 적용\"",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKSFhZV2dhSzFHeXk3bUlqNnFlUUc0a09melNrZ2xnOEhQUFNReXZkXzhISW9OblFfSGNsblp6Z2dCUFlZLVlNb3B6NzFBZy1ES1dMbmNB?oc=5",
+      "published_at": "2026-10-18T02:03:16+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "aad14b793bb6408349c4be10832a6b76c20540b6928fe0bfe6e28ef46a32e4b9",
+        "dee4ddedebcf651c6cc302c52379ea7cbe7f6cb3f06fb036f5645b10896c40ad"
+      ]
+    },
+    {
+      "title": "Kimi Code 为何无人问津？模型能力尚可却遭冷落的国产 AI 编程工具",
+      "source": "https://www.80aj.com/",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NcEw2UHQ2cWJObGFwRGNuajBRMVhUeU12eHBRbW5PajZNT24tc2l6a0lZRUVfZVhjanlxdjAxcy0wemlOR24wN0p6aS1UMHpqSGloWUJ0R0RuSkItcmdlVDlhS2Jpd1FZX0NuZmx5bw?oc=5",
+      "published_at": "2026-10-18T02:04:20+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "43d123a7e08211a89d317ec41fa8a3b306463721701abd4d405676554c62b02f",
+        "7fe220465e49dab94a8e06fbc8a82ee39142115a310e96e69ea7085c85c72992"
+      ]
+    },
+    {
+      "title": "\"데이터·AI 연결 쉽게\"…데이터브릭스, 네트워크 서비스 출시",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tbEdNVVJvMEtaaXhZQ1J0RmhXZV9HakxnZnN6TVhzYi04ZlFKSG1fNXlaRkg5cFhGZEs3T045LXFScUV4VlpFOTk3TnZGcnNDRVo5V3Fn?oc=5",
+      "published_at": "2026-10-18T02:06:00+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "07f49ac0791a611769e4ed9a2eec4e9c4862f1a283bdf9adf97c4c962761783c",
+        "b37433e4bfd82a4c89c13bfb8931cfe19dc0a3f99ef1787c76d6ec8402bed1e8"
+      ]
+    },
+    {
+      "title": "[부음] 조준희(한국인공지능·소프트웨어산업협회 회장)씨 모친상",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGUC1kRG9BdVJhR0pZRzNza1RqcjkxNWl0RDlxcExlTlk1Ty11MC00LW1MajVRcEhzTzU4WXFWc2J2emVvanppU3BMLVgzQQ?oc=5",
+      "published_at": "2026-10-18T02:10:48+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "31b5d509301ab37c6a0bd0e9a3298e8979d11e22f9c9ad518539f50e441e5f7e",
+        "b24587d8c375c039a48ed4cd5ab9f50d20d6d77e958d2d432f7db0db71b45ea2"
+      ]
+    },
+    {
+      "title": "Tencent Music (TME) Stock May Be 15% Undervalued After DeepSeek AI News",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmlBbHVfU0s0bFJuS2RhS0RQcExTR2R1aWpCemJjcVZJSjE4UWJxQThVcV9ycVhYUExxVWY1NEZ4TnJuWkZObm55N0NIX3hqUnhrWnhHQnhkMGRuNTZZRm9RSzhPVlUwbHVlcDM0azMyQS1ramZiQXd0SkZaY05meldvYTFsZm41aEhMN0xPQ2U2V2diZ21z?oc=5",
+      "published_at": "2026-10-18T02:11:00+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "340501430e2a301715ede9cb43a7073327a587dc0352c2b85f9b613d99160e94",
+        "99c1e54df908ee94a7a2bf8f5feec8b5027f168ab6cf57124ad305b681c30360"
+      ]
+    },
+    {
+      "title": "[이슈국감] AI데이터센터 1GW당 법인세 8281억원 추산",
+      "source": "한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yNWdhNHd1OGVSRnozdjJJZ1Q1UXRtVXZoQ0l0U1J2Z29MQnpwcFdkdzVuS1ZDTDFHeVlSdFI3VGZIaFdyNTN2bHM4dTFJLWVldFhXb0VLbXNncm15X1hDS1RHbGdCbzBNcHdj?oc=5",
+      "published_at": "2026-10-18T02:13:41+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "214ed3be6b5e2665a8d5c972327f0e21c1c2a1322bfa510342baa8ba4617cd24",
+        "5d8ce6e7e09cd828503306b623fafa00b3ed69682d8e8f7b0caeec749e1f7003",
+        "ed22d9668a8687c8ace633ff9d8cb8a5e1cbb582f8f87649f710ef9edf137484"
+      ]
+    },
+    {
+      "title": "AI 로봇부터 미래생존법까지…내달 3일 '서울 AI 인사이트 포럼'",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1waVJjYk5EMXZZaWRWbzZnZDl1Y2xqUk9qV0pIMW01OHJFNDIxek5wWi1Sb2JMMkY5ZnByci0xSXRLOUxoS1hsWmMzZnZHQVBKSEE?oc=5",
+      "published_at": "2026-10-18T02:15:01+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "043a803690533f7a575b949d29806572b0e26d0db0ebbb36faab64c2483d4326",
+        "152aefd69228a468cacad3cc203206a5a3be1f4dd92850b582dc69a3433b4e13"
+      ]
+    },
+    {
+      "title": "Trump Calls AI Warnings ‘HOAX’, Nasdaq Drops 0.9% [2026]",
+      "source": "tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBucEtlZHo2Tm52RDRtVFVyOFlfRGlYQi1pcy1XWjYwLVNZTkFjcWkzS05xSEppN3NFbElnRE5xZ2UwS0pTVHcxMEIxay1nUXdfV3MzYXlINjhVWmstV25EcU96LWdSbGQtb1VlMHlwenYyaFRIRDNr?oc=5",
+      "published_at": "2026-10-18T02:16:10+00:00",
+      "topic": "AI policy & research",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5b22833c0c7a9517d87c66386ea7cae14fd9e4e5d1cfeb0996e61f2053c05b03",
+        "b4172bc7dbde6e44095710dff7db0333ca28838b1a49327185db4e7916d4e137"
+      ]
+    },
+    {
+      "title": "[국감자료] AI데이터센터(AIDC) 1GW당 세수 9천억 규모 추정",
+      "source": "투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uT3lJZEpKR0p6WXVrZTdKaWt4ZV82dEt4TzVHRlRpenV3X2NIOW4yWmpiOEotM0hxbHpWUE5uSVVwQTlSY3pVZTRrbU16emhuUkxXRGluVnhVeDk0Mkoxb0hVVDZXUF9HZ1VzMDNR?oc=5",
+      "published_at": "2026-10-18T02:17:24+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "e723548d6db6881da896e254fe3bf39a34c48ccf088dded5d47ccff26cc67967",
+        "f53bbbe62fd0b77b259378d20c5a897b7bb1a17bcf6e6b5aa2e2349a36d3a0bd"
+      ]
+    },
+    {
+      "title": "현대차·기아, ‘이포레스트 테크데이 2026’ 개최…AI·디지털 트윈 등 미래 제조기술 200여 건 공개",
+      "source": "소셜밸류",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vc0FwREY2Tms1X1lLQ1p1M0t4UEs3ZDUtT3g1amdjbEl6bndlRWxiMm1DQWVCZW9vLVUxYUgwX19WMHBGcmZxcHZCNWw5aVI1MjJQYW5jNll3bm5FVTh0WkZ1UdIBbEFVX3lxTE5YNF9rM2ZyWkhNeURhMXRQQXlUblhWbkRic2xjTkR3elVGb3M2SWc5N0VEeUxBQzVtUFRUenU3cVpSYUlnakRaN2VZN2RELW5UeXhSRDNsX0dicENyLXdpd0NqSnlCdHczYVg2dg?oc=5",
+      "published_at": "2026-10-18T02:17:26+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "d80bd01ca8e0ca2178d5f7421d37ee644ea2b5e078db74600b81cae6d5a14e51",
+        "ea69d2ded894fdbd8794c8f020ac73bf0c585102bc5052e90c89c9cda4117356"
+      ]
+    },
+    {
+      "title": "[인터뷰] “로그라이크 재미 꼭 살린다” 1주년 맞은 카제나 개발진의 약속",
+      "source": "바이라인네트워크",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3ajhDelZvVlhFOUE3M1o1OHFEa1FxNlJWcC02eDZwamdiSHl6TkJlRmZZcUpoTm9rYkE4OTBUUGoyb3llMnZxOUxaVkV2VUk?oc=5",
+      "published_at": "2026-10-18T02:18:46+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "0fb4db421f24109f33a714726ab85568ac6b8709ebe523b298986130f6714eb7",
+        "56b233dbfe5108852a0bace0f3fb46052f98cff1073d14b15848182b66b21a13"
+      ]
+    },
+    {
+      "title": "Nvidia Pushes Deeper Into AI Agents, Open Source Infrastructure And Model Optimisation Across Latest Developer Updates – SMBtech",
+      "source": "SMBtech",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX1lKQmlxbWEtdGoxS0VUc1BINDROdHZvRjdrbnpVOHc3MC1Fdy1CejQ0MXBoN083RU9LWnhVOThPdzdLdXRXenpIaGdkSTFQV1pmMXVsSENRNEVSX1ZLUU5lQlVFQTd3UzZzNGEtMU54UTlQUjJzNXV4Mi1aaEwzRUl5eWVxQ19STzl1eEJfWEY2R3dJdGJJYmY4NUZfVGxjX25EdGhxZ1ZPSjdJdWQtSGh5NHM1REFONlhNX1JZQ1QxOXJ6c2JUMFBMWFZURktZQjFFbnIxZ0p4QQ?oc=5",
+      "published_at": "2026-10-18T02:23:03+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "3ff601cc2dbe73694090fd30ad37e045cc45d56202977c18bdbdfac8c2e50c2c",
+        "79425fb789f9591aaa3a01de6cf5d5cbad2fd8559affdcc193c0af5f9a76ea7c"
+      ]
+    },
+    {
+      "title": "AI Agents Crypto Payments 2026: 138M Deals, US Pays 88%",
+      "source": "Memeburn",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1SFZoZmNsOGoya3ctS2pDaGxsY25zejJGWmdkdkpPN3lINGxZVXVWaTBoNE9tVTRNblFDVFdZZkIyMzZGS2ZVT3JTQkpsVjhtRW9US1JVZW1xYzA?oc=5",
+      "published_at": "2026-10-18T02:25:57+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "21faa79e3810e0e50d204afbaea94b23a26757bb68339e198addadae59651fe7",
+        "dfffd6fec90110a29bbade2e23f8feafeda6075b4cb0735f5506ee290193aa94"
+      ]
+    },
+    {
+      "title": "소수민족 학생들이 노동 시장에 적응하기 위해 인공지능을 공부하고 있다.",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWWZyS083UVM1THMzcUlUVl80WUhLVHFfVXNwUmw5VElZbDdKbkd4b3NJVXB3clQxcVRRTGVWZVZRWFREbXJleTl5WDNyN3NUY0ZBRHNJVlJkbjhZaUo2NXdQSGgwT1FZbWV5QVh6di1NbXdRUU9SU0xrU1F1a0RVVDJyaTE4RldZUUVxc3NiczR1eUlCOGsw?oc=5",
+      "published_at": "2026-10-18T02:29:03+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "45ac800ba0e6391b323955bc78657ee44ac9e982297f28da4a19161ee51dddd6",
+        "d24a8319093e7fa41ee57d63c653ca85beb2ca710d46e582fdb685f58ef13b24"
+      ]
+    },
+    {
+      "title": "Anthropic Proposes 'AI Safety Act' to Congress Amid Government Sanctions",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzUThFY1ZISU9MU0ZmYjNTdGRYZXhnQ0EyQ3Q4N2RoajhNdk9JZ2pVZUlCQ2RGMUhPdm1jdzJIZFh0UnNFbkt3T3VsemFVci0xSGo5Qjh0NTN2YWFLVC03eVgtc0o1UWRhZGNLdEYxZERnSl9jUkE?oc=5",
+      "published_at": "2026-10-18T02:35:00+00:00",
+      "topic": "AI policy & research",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "103c384dd60ec9ebe4cc6334a6c62ed18ec36347c808dfe0c688f9dd5bf5ad59",
+        "fc2014a8c3193a128bd3a6d6776eb86566b3bfa03fa64e8f38ba7b93660d18fb"
+      ]
+    },
+    {
+      "title": "Dashboard billing - Cursor",
+      "source": "Cursor",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5",
+      "published_at": "2026-10-18T02:36:48+00:00",
+      "topic": "공식 Cursor·Suno",
+      "excerpt": "",
+      "source_kind": "official_search",
+      "region": "US",
+      "duplicate_keys": [
+        "95d9ba58532806614848cd15127d50a29f618adac9eaa6ed8ec5ec33a6201aef",
+        "ad6a12cb7549aea14799538aba33d88de33035e22d9c7b95fb1c3922519d1a8c"
+      ]
+    },
+    {
+      "title": "Meet Vijaye Raji: Statsig founder and OpenAI CTO now joining Amplitude’s board of directors",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN19fNmpfRzNaancxNjZuN3hfRldBNHRFakY0WmtnMXpyNE9tV0FWNWdMdVZzTTk3NFI4WmFfd3p4eXlrdXUxcmRhXzR1YWpjeUNhZjVuWW83ME5qRDJ6R2RENng1REM4RDY5QVMzaXpqOXhXcDNSaENJT1NjWVBvU0l5U25uYXl4LVhOSXpMcUtjZHp1RGVPaWZfbENMaHNPdTZKUURXR1pzaTVVcGswX20xR3FtT1d1RXY2TGxwUTNjVHVEYVJ0bko1RWpJVmR1Vk5PbkpoRkpYYlViQkZhYmc0M0FWRzDSAewBQVVfeXFMT2xGcUZuR2plcjBGV3JsM0NYcC1WTUJvRUxKSUdxZmh5NURvd2V4MHJYc2VWc0NaX08xbjJsQkJLaDNGRHRfakU2Z3htRUJKdldSai11Ry1fRi1rOTZxaEI3N3VYdzhDczVzZC1jZGZ5UWI1WFpCRFVzYks0XzRITWRDXzFCMUM1bVVpU0c0aGs2LVJsZVhHZ1RibElHd3hwQVdvcGh6VlhhQVlYU2x0Qm1HdFNnbVgyNUdCZ24wQS1jblJiQ0tSM3MyN2lxVjN0NzVwNzlrT056M3pkVy1Cek1XelllTkJJaGQ2dzQ?oc=5",
+      "published_at": "2026-10-18T02:37:18+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "881c4459ca55921cb0b736081e2b693948d6f08f758d5dae3688d2f006d004f1",
+        "ad973677277e7a8b4f1c50aab753a6a2fde33ece05714ef304e21efb42c74815"
+      ]
+    },
+    {
+      "title": "Project Runway Season 23 | Latest Update, Renewal News & What Fans Need To Know Mtl (i1PtreBhJ0)",
+      "source": "Unisba Media",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lWmNhZXg1ZlV4Nm42dEJzTUd5ZGplTFVyeGw5VklXaW1aZ3FqbDhaVFFLWnFYb2VsVDQzMDBPMHhIcFpIT1IzMHdSS2VSYzliODgyUl9YeFdKMEs1MEhnRE5XSGhpUQ?oc=5",
+      "published_at": "2026-10-18T02:37:32+00:00",
+      "topic": "AI 툴·연동 활용",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "b77de627d9220b7230686f4ab40e8cd6eee77c8c55751b1ecf55fd2ca1852b17",
+        "fbd4dc22e0122412ef318e2286a737ac38052f414755b57bfd7e84ad8d1b4b3f"
+      ]
+    },
+    {
+      "title": "ChatGPT Falls Short at Spotting Children’s Elbow Fractures on X-rays",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEhBTW1vX3RvbkY2ZjJwZjdhMlEwNFg2N2JvNjU4WTVaMEwtazMxREFtV29kMUt3TUxkcW5DRnFXN05mTlduLVNscmVqZF95QlZmS0FfOFNVd2FKeUZkQ2FoUE9wOFNEZzFXcWhwUnJoaXhabzRRRVYyd2NvRWxNR1RIMmhtYVVud1JoVTBwa3VLektsc1JJ?oc=5",
+      "published_at": "2026-10-18T02:41:03+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "25e5d451ea397f6a3c2b62e4c3f1f11827cffa7d93e19e2e72de246717ed74bb",
+        "7fbf54104fbf48efef1479c9e78b50b2789fb0263f9213892e87150584944d53"
+      ]
+    },
+    {
+      "title": "1년 새 81% 내달린 신흥시장 인공지능주 숨고르기… 제프리스 \"아시아 장바구니 바꾼다\"",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHRzMDlOb0Z4dmJDWlRQNy01MHJ0dWh0OXNycm5QVWVmOTJRX0xjaGFQTjY4RDdBNFpVSy1PbkFYV2VFWWt6WWhPNVl5N3dYaGM2Mms2c1ZWdlVncEhkS3FoSURoNW9oTmxrclJCWF9YX1F6R1lXQllBaGJsWTlReWQ0YXlFX0lo?oc=5",
+      "published_at": "2026-10-18T02:43:00+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "0604f71203e6653cedb3e425da584f75c5e70e225eacaa50559cc2a42c339b22",
+        "3787d1a49e3583cce0526d381849666873cbf7b1035daea64c23cbde793017ca"
+      ]
+    },
+    {
+      "title": "开盘前，重要消息！DeepSeek模型更新，美股AI板块遭遇剧烈抛售",
+      "source": "新浪网",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQk9BVzdVRHlJcERhclpHTnJxWEF1d3ZLNXlnVlZ2a0ZleVFwUzh1TVYyQV9pVGZkeWpRbW9iYWN6TVlrSUV1M0NEemozVXlXWnEzcEo4RUdfWGtIbVFydmpvb2k0bGxxNU5BNXEzNUlxSGxrWk1mSndxSW80bVc0SXIwOA?oc=5",
+      "published_at": "2026-10-18T02:43:11+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "cacc57485b2338cbd85d1542bc3412a48cc8eb6d5debd8221fc67f536fad5a30",
+        "ebe969e03c63481c7b63c4d57309b9b29945ef76dcf800e65a45236410c3c97d"
+      ]
+    },
+    {
+      "title": "Since Tesla unveiled its flying car, the Roadster, AI-generated 'What if the Roadster existed?' videos have become a huge hit on social media.",
+      "source": "GIGAZINE",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTSjNUd1Q5TUVVV3oyb1VGTVNJYnVnM1loU3J3bTNkd0RMa1BSaFdtNjZuVE1tNFh1UmVsVnRVb2k5cHdiZVZTZkxPaUxQclRaTndhbXZkb0FOTUpfWk9OQ1RrUXJ5a1RZeUVydTNjalNxc00?oc=5",
+      "published_at": "2026-10-18T02:45:00+00:00",
+      "topic": "AI 툴·연동 활용",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2adaa768292202d40359b89ac8f6bb0f40e52cd7fb5cc27373ddb2c9dfa94221",
+        "e49097a7c7d3735a7ea3999126e52dba85366ce92f55c2cf3a54128e27fde93e"
+      ]
+    },
+    {
+      "title": "DeepSeek Opens Search and Fetch APIs, Giving AI Apps a Fresh Connection to the Web",
+      "source": "Kingy AI",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uY2xMcmMzSXdNa3N2V2xLRWhRNk16X0pkSWV4cTFGcThlc1pQeDM4dDduOWd5MFZ4NWdpc0w4cW1jbEwtWkhwc1IxR1VPSTdiMGlGWjBhLU5STjVUXy05ZGhNSlJuQVFRSWRYQXZyS1dPT0Vp?oc=5",
+      "published_at": "2026-10-18T02:48:45+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "251315324f95bc2a90cd1d728a6e568f67c5494907308e4fe2e0d010030523ab",
+        "5be87569c186d8ca6a252def10fd20d2337a9d65425f511fe1d56ae726c2e9f8"
+      ]
+    },
+    {
+      "title": "从宇树科技到Winverse AI，DeepSeek梁文锋的物理世界新棋局",
+      "source": "PANews",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TYW1kTWNaTU8zaFhOb1h4Sk9HamdvaXAyWms1eHF3VGRrUXNnMm1wQkNKOGdKd2FaMWZKeGNVQ1E3Y3hUQzFKbmNKMm5aclNYbUFxN2lVN3otXzRqcEYxb1Q1M0xEeXlUQ3pyZklXeG51OWpEbFg0cU9KRDU3RjQ?oc=5",
+      "published_at": "2026-10-18T02:50:18+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "602f6220256ac1aa21a0042c97c8b116d37120528da32ad5525115ae363bd110",
+        "b88ecc67b309e07634f403cc9d388b226691d7745c396fceca9608d61a475e8d"
+      ]
+    },
+    {
+      "title": "HD현대일렉트릭-LG CNS, AI 데이터센터·스마트 제조 협력 맞손",
+      "source": "파이낸셜신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzTDJ1bTZpNWljbkJBQjF6VTRwcS10U0FvY2hKeXlwZTBQUUIzRXJvY3ZBTzVqUVVFWDJfN05jaU1SaDgyQzdaNnpGS2llN2lOZHhzMmcxMWo4YmF2MU5EVDlUZ3VwQ0xFenlr?oc=5",
+      "published_at": "2026-10-18T02:50:37+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "515560c83597dd56a9cd6326d356b5d400c39c803a9bbc5de90e9e00a5484cb4",
+        "74ae10f1d25a1fb201908dd3da97cf36cd7c05c6a76a5e70292263eae1dc0628"
+      ]
+    },
+    {
+      "title": "영남이공대, 남구 주민 대상 생성형 AI 활용 교육",
+      "source": "경북신문",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWVXN2cHNpNE1NdUVldy1wek1NRHJydVdZRndja2tpNHR5X2ZZM1JXa0c4UDc2QmFCclVDQnlhZWVwbVJQa2lnMFN5LUZ5bEdXYkpfdS1DaGU?oc=5",
+      "published_at": "2026-10-18T02:50:46+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "679e640fb0576570733ca83bf466446aa980d1d5d3e21a24119f4244b5ff7a3a",
+        "78f3012d7c19428a43680cbbd1963c34c0935d76addf543f3e7456fa2a816e83"
+      ]
+    },
+    {
+      "title": "AI 에이전트의 시대가 본격 열리고 있다",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjdHNNcHBPeVJCSnA0LVNhc19XWmtudTNTc2ZUN3RFdVl3YkdFNUhfX0pESi03NVBLTnV1eE9MYXhyejRlVEJ6Q0ZfVW5mOTNBQzlBaWt5a0dKdw?oc=5",
+      "published_at": "2026-10-18T03:00:02+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "06ddda1edb76438c3b029ae4289232f03976ba6507f4004750e201589902e801",
+        "ce571490952500780ef7df52b6f2c9a98ed0d2f5c3114d83e8c8fe44b3763bc0"
+      ]
+    },
+    {
+      "title": "코미디 ‘웃으면 복이와요’ 인공지능으로 부활",
+      "source": "경남도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXM1drQWJCenJycFppTjdfRGZVa0R3a05ZLUVJcUpqaTNnWGNReXk0WjV5dUxocHhFRWlSTEpTamUyb0hhX0tRM0l5cGNqU0xfaHVaR1puVEtSaVRJajBwX0pvdk0xbHJPX2c?oc=5",
+      "published_at": "2026-10-18T03:01:38+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "9298251714b2523f9b57997591b08661d6c7a36ac53b497526c90e99012f14fa",
+        "e82ada3cc56ed062af07e6944024c7df4cd57f3b1f9b5915bf1abcbb2fdef7b0"
+      ]
+    },
+    {
+      "title": "Grok Bot Can Now Shop With a Credit Card Screenshot",
+      "source": "BASENOR - Tesla Accessories",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlNsZ1RXSkFUbXZxdGFqVHdEVm02VmdtenpVdkdKZjlGWGlabEt2N0FfcG5mQUJ2ZUJ6YS1CWTVfVjNiNWFKdkVVRUx4NXU0SkluSWJVRF9GSDdRRnVKSTVXUnA3LUMzaGMzOUxYRlVoTENpOHhSdlRMb2NYTUVocFAxV3pWVV9Sbl9WblpRNA?oc=5",
+      "published_at": "2026-10-18T03:04:07+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "2cd10193c1e0a6a4cf07254a321728d78ca1a4fd2eda2ee7f98fbb936cc9ea17",
+        "93f25bd609aacddd82b216187a377ee0c2c49590066143b97b644024c7950cec"
+      ]
+    },
+    {
+      "title": "초지능 인공지능이 어떻게 세계를 지배할 수 있을까?",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGZ0cmNRSVdyTkp6OHRHcHZHckNpSlI3TTUwRWNzUHh4bExJbm5XYV9jOVYtTi1QSjVJZzNETEdDUVZOU2FHbkx6NHRCbVhVUVlRaHZxWlA5WHRGbFA2RHBkNlJCb1NIQ1JBVkJNZ2w4ZnFJcDN4OUd6RlNBLTJvdFExN0ZSSnZ4cThZ?oc=5",
+      "published_at": "2026-10-18T03:04:14+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "3b154ab6463099cc9b8850a0a950cf383063ac9bb8769ed28bcbd67e8c01f56c",
+        "4ddbec664d73ee16caf183869ac902611995b87b96b947886700703c2b0eec33"
+      ]
+    },
+    {
+      "title": "초대형 AI 데이터센터에 연간 법인세 8000억원 추산…지역경제 새 동력될까",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrSDhnNjh4Uk9qN3lOM1VQM2ktLUJXUVo3Q29icDdyUm52MmFVd0VWaGphUXQ5Sk9IcGNRSC1YbnF3SHFCaG1TZ3oxNUQ5Nm9GMnlJV3NoU1VTSFJlalZ4NA?oc=5",
+      "published_at": "2026-10-18T03:09:27+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "b6162786167fa433a9b1347e25a556062e9cbad6c1acab91339bb1da25220f87",
+        "fd2230aca64f2f73967df819fb5692bb8da0404034b93fd891b56fb0678234f8"
+      ]
+    },
+    {
+      "title": "Hyperscale AI Data Centers Could Generate an Estimated 800 Billion Won in Annual Corporate Tax Revenue ... Could They Become a New Engine for Regional Economies?",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVTWdaUkxvTEVYR2wwemV2TjhmOGJXakpDUmZ2dGExc2RQMGd6TWpmZjNFU1kwX2lRY0JodUh4WjlRUldUVy0wWXBSUnJjUDNjZU00VEVrR1hBTFJUbHcxY2hjUmk?oc=5",
+      "published_at": "2026-10-18T03:09:27+00:00",
+      "topic": "AI infrastructure",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "9ef772db620f8c925afe9956c12944145395bb7f047bd0413ec43d3b8781ebf0",
+        "e3108b7af6ac5d4a4a1db2478b97646d2fcdfbd90c0fdc515571d04ad756035b"
+      ]
+    },
+    {
+      "title": "[부고] 조준희(한국인공지능·소프트웨어산업협회 회장)씨 모친상",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BRnREeFlWR2Rjb2xXbGFBaVN3M3JBZGtZQkg0TzQ5WUl2LTkyM29PYmxWX0ZJcS1JOW42LXFFa3Zoel9lVEpQclc2alBRa3J1N0diR3RiUnJOWDdFUU5iWdIBYEFVX3lxTE1BRnREeFlWR2Rjb2xXbGFBaVN3M3JBZGtZQkg0TzQ5WUl2LTkyM29PYmxWX0ZJcS1JOW42LXFFa3Zoel9lVEpQclc2alBRa3J1N0diR3RiUnJOWDdFUU5iWQ?oc=5",
+      "published_at": "2026-10-18T03:14:13+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "3a9c58c73046caefd90c49dc16d9dc841afb613abe3fd1d017e365a18d12b8d6",
+        "cd172a297f99f247cdc6d69a10a0f45943a600da02c682848ec8b6d6aeae8a52",
+        "fb519f0923674560f9795b5849638035a3d1b4d0f9c1f2cb7a70aab2ed7643a6"
+      ]
+    },
+    {
+      "title": "\"1GW 규모 AI 데이터센터 법인세 8,281억 원 예측\"",
+      "source": "한국일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tV3N3bzVZbTFUNlRpbFhjb0Z5clE5MUJISlg5QzllUE5NVUtRb055ZXV0Q2ZTMUFMVUlkeDBxVFMwVmh3QWVvZXBzcW85MnZlZmxOV1BtSnhBRGlmRFVOeDF5Q3RuNDF2UWtqbUFn0gFzQVVfeXFMTjZIS2ZUWmNFcVNuSmdmMEluOEktM0RncHRCckktUXpPUkNfNGpzWDNMWFZBaUlfY2ZYeE1uSHpHN04tU1JBNTZBRW91aUNqZTROVXZrQ05GajJXVEhYWmFOZllueFVnTXhveTd5a0V4STU3OA?oc=5",
+      "published_at": "2026-10-18T03:16:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "1c0f058ad5e3660c158027a73d4aeaa82845a80787416ef2484b7d23e5891c5b",
+        "4cda223b87e7aeb52ccee664ad63690f4b217c89a977e58d041e12f958dd92ed"
+      ]
+    },
+    {
+      "title": "클루닉스, 네오에이아이클라우드와 손잡고 포항 AI 데이터센터 AI·HPC 통합 운영 나선다",
+      "source": "미디어픽",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92RHNvcnlYdkk0MUtTQUlNZGF4dHFlS2xjWDBWLVdGMVVDODZENk9FUnZWclVkNVFLU2Y5ZGVBeGZyQkxQRlV4RVdhTzB6Uk42Ym00MDBld1d6MFYzYS1maDRsamxwV3ZGdkU0?oc=5",
+      "published_at": "2026-10-18T03:16:27+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "30881867aa29ecbcb3db65db7aa1f62e7e77cc6fe3baf15c46b951c9865865f1",
+        "eead62c7a711345294e1edb8b61fe3dd04ebf40583420ae9deee6dddf15a018a"
+      ]
+    },
+    {
+      "title": "앤트로픽 BB+ 등급…AI 투자 위험에 비트코인 주목",
+      "source": "블록미디어",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuRVl3ekdscnV0VV9KeVRqVG5jM3lqYWFTRFFSS0U4N01GbnVobGo5MEs3NGkwU29uUHUxU3ZQaGVoU2RCYTM0XzVKQlROMEQzODR4MmlzZWU?oc=5",
+      "published_at": "2026-10-18T03:16:52+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "07ea054df29f44d22b85bb01dd1979068547b49f2a9be89cebdbebe9f9013989",
+        "c36d3a7a20a0b68fc044d6dc7d898c391a431cbd7e55d831fdcd31bd3793083c"
+      ]
+    },
+    {
+      "title": "\"선생님부터 미래산업 체질 바꾼다\"… 충남교육청, AI·로봇 직업교육 고삐",
+      "source": "신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KeG4wR0piR2VxU3NSWVFMZGpOYWdhMDVRbjNwZ2tKUi1Va2hvSm1qTVdJUGJIWldnNVFpcXBFLWpGQ3NzOTZzRk9uTHBxd2p2Uzl4ZThCQXhtQ1doUk5RSi02UWR4SThtR19mNlg1dkg?oc=5",
+      "published_at": "2026-10-18T03:17:47+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "0933088da0ad2cf0ea7d7f7932fc7a8d84ea1f079f4212e2b30180936abaec3b",
+        "e4de7a8ea0a22be85a418874357bb0364be85838ff9958f53a0cb0862429c7c0"
+      ]
+    },
+    {
+      "title": "최태원 회장, \"AI 시대, 정답 찾는 인재보다 문제 푸는 인재가 필요하다\"",
+      "source": "인공지능신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vQW1BOUZuS2s1RjBEVkcwdndZZ0Y0ZU9IZC1PNGxoanlvRllRc2lUalBDblZFYzFySGFKSGVyWDFnWFA4S0RxaUpFaDNmcm9tRWNWa0Nka0Y3RFB0U2Ywc1pOS1ZLbVk?oc=5",
+      "published_at": "2026-10-18T03:19:14+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "53b31b7541bdd04ef5591773b2be131b2fd7e5b080b316f1201ad6a1be025894",
+        "de8024024d082dbc14e2e569e2c37f8ecf0c06d0c8b7576d2f7696edaa6a5e85"
+      ]
+    },
+    {
+      "title": "许愿式编程发布，谁说梁文锋不宠“小白”？",
+      "source": "风闻",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lblhRMkc0cGVRRHJOVDRwaHVLVnVBeDZkYmZObXhPcHZxYTFMOFRnN2d6TTNOOEh6RXBtbVdMbmxGbDdxRDczb1lNLTl6cGoyNW5oaEVfeFRwM01lVV85TEMwdnBIMkdJQmFMekV0b0xZWTVv?oc=5",
+      "published_at": "2026-10-18T03:20:04+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "80c1f48d34ec9ad42b3f0d8d92378b6926ac66bb798f0a87f771d90ccf4dadfd",
+        "97cda67ece97bf27063fbbef2d6342997608d73a6a3aab2ce1f7128054d216df"
+      ]
+    },
+    {
+      "title": "OpenAI to bring in $20 billion less than previously expected",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wRW5JWTFpTG5WZ0taSEZ0YUkwUlJhV3Z2S19uNElZV3BoYnVpQVJHaVBrU00xLU80S2dYdFZNUV9NQlJxMEhzOXRQN2tSNTZtaHh5ODJRSXdENXdMOXZEV1c0MDRMc2c?oc=5",
+      "published_at": "2026-10-18T03:27:48+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "6d73064bc603bc95ca8c813a12442d4b12341c533018f9acf6a01dc2b9d97c93",
+        "a88cfc5b60033f1476fe89f5ffb11917d0ed996737fa631b7272258dc60dc7a2"
+      ]
+    },
+    {
+      "title": "경남교육청, `인공지능(AI)·디지털 맞춤형 학생 평가 역량 강화 연수` 개최",
+      "source": "매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hZjUwOGRZbUJremozbjhjRGZXVXZkQm1jN3k3cU1LWkVTcl83S182UmZ5WjdSM2NaRnpCbEp6WVZfbDZwSm0yUk5hS1VWMHRKa05wS1NUcERBWUVjaVgtN0FR?oc=5",
+      "published_at": "2026-10-18T03:27:56+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "48872fc8da9b76631050e6bb0edc1014ebe22ab6a634eaf74f2cd66ebda4ae52",
+        "feafea3b2daa6d1d0eb2b90240d349cdb4eba331a4d1b1aa1312d5567cda6cab"
+      ]
+    },
+    {
+      "title": "“AI데이터센터 운영 인재 키운다”…강원대 등 5개 대학, 교육·산학협력 성과 공유",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93Z0RjTjJhbjYzaXdjSG82NHdDb09EWXVzYWdoTFVweDVvR3ZnYUxmenJVT1FjQ2UybFZJZkVFeVVkWmRYZnZGWnAyRXA4QQ?oc=5",
+      "published_at": "2026-10-18T03:28:42+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "eac866b79a72cc5c76e3aa2f36a43f5ebb4dfd142afcf36376eeb9f35d4f7b43",
+        "ff5b5a1f4b0d488b8bece26278b1e55b19f0aa439aeb535c01a3cf20275c0e1d"
+      ]
+    },
+    {
+      "title": "AI boom sustains Korea's growth despite global headwinds: IMF official",
+      "source": "The Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFNXZUxjQjhKQW1PTFBHN1pzTXRsdXJmWWhLWnRiMGRJcmFEazhyaFRLbU1LQ2hhVnRpb3N3czFIVW5qTHlMdmt5QmhNUzVWZUVWR1pLcWdCSnA5WEo1VFowZkdDdktNa0s2eTRhTmdkeHExNVluM2pOUlh5OG5XVE94VUpYWFFSZnRZMnBxbXdXTFBfNVFuTGwzblp4SGY3WkVVZVdadG5WTEF3Y3VfTDZQelQ3b3FPU0HSAboBQVVfeXFMTjBTV2VMY0I4SkFtT0xQRzdac010bHVyZlloS1p0YjBkSXJhRGs4cmhUS21NS0NoYVZ0aW9zd3MxSFVuakx5THZreUJoTVM1VmVFVkdaS3FnQkpwOVhKNVRaMGZHQ3ZLTWtLNnk0YU5nZHhxMTVZbjNqTlJYeThuV1RPeFVKWFhRUmZ0WTJwcW13V0xQXzVRbkxsM25aeEhmN1pFVWVXWnRuVkxBd2N1X0w2UHpUN29xT1NB?oc=5",
+      "published_at": "2026-10-18T03:35:03+00:00",
+      "topic": "AI infrastructure",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "03df4e3e50b11ddc4107c7a512020100e6adf1f9af7a9135c9c32287bb0b5e60",
+        "cec309f49245e81742acbd1c972e22b667b109dcbb88a0f7ff8569f9d53ba836"
+      ]
+    },
+    {
+      "title": "AI Agents Now Hack Systems Autonomously in Landmark Cybersecurity Study",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRnpja1RkUEhSbWdmM3pwQ1VwWG4wMTlmS3dCYTFZc043QVExaTJwUGo2dGFrTkVxMWphb2Jhb1BuYUU3blE3Rkx3eDlYaDNiNndzeE9WM2U1VG9GR0xHNzZwZDJMSFFpRGdjV2htc0FKWmVCbkQtdDNxQ0NfWVA1R3RZblVaOHdaNDFaaHlzNDd4SGQ3amNaellaWDM?oc=5",
+      "published_at": "2026-10-18T03:36:18+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "1ea43b1db9a87d309cc9ef3a80adf0de299bee0276de76f8466e4814084d1f6e",
+        "c6748f0b3e5536c8de5938339ac1455bfebfcc1be531d9665c36c2a87613e129"
+      ]
+    },
+    {
+      "title": "레저 아톰 출시, 한 기기로 일상 앱 쓰며 AI 에이전트·돈 승인 보호",
+      "source": "스페셜타임스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00eTRraDFyZ2xOZzU0dW9kbGxhYUxyVS0wYkJqdU41RVE2VnVHdjZQTDlMMDBIMkpSckdzR2h3V2FucWNPQVRxeWtYajJWS2JHLU5mMzUyaWxGWU1LWVZyd2ppV0tyWUpZaFZOQzdBYW5UTFk?oc=5",
+      "published_at": "2026-10-18T03:37:13+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2eca150730633d295e7c9f6f535cfbc6b2eb87b520da480648b6e02872867218",
+        "f78715e1bb850aa3c07a8c815003b9fc2d16fb8a627683b3fbd8d1366f1a7b9a"
+      ]
+    },
+    {
+      "title": "'前 효율부 수장' 일론 머스크 \"美 국가부채 해결책은 AI·로봇 뿐\"",
+      "source": "한국일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54UUFfUXJFT0tlMlJ2bEtFdFlZY0tTNDlsZURFdG52d2p0RXhVMmw0MFMyYzUwdTJHM09sSVg2bDFORWdDVHhrNGVjZXJ6WHNyT3dxeVozYTFzSWlaVlhNQUJsY3BoaEU4bmoxM0xUbTR4dW_SAXNBVV95cUxOeFFBX1FyRU9LZTJSdmxLRXRZWWNLUzQ5bGVERXRudndqdEV4VTJsNDBTMmM1MHUyRzNPbElYNmwxTkVnQ1R4azRlY2Vyelhzck93cXlaM2Exc0lpWlZYTUFCbGNwaGhFOG5qMTNMVG00eHVv?oc=5",
+      "published_at": "2026-10-18T03:39:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "aac62eaa407691fa58869b447096001d2bb3d7781fa44264625d266881388b15",
+        "e9ea2451f0af564d29281b9895be6a64b42269fd50deb5c0a708ce93957e65af"
+      ]
+    },
+    {
+      "title": "SK하이닉스 영업이익률 77%, 지켜질까…AI 반도체의 위기와 기회",
+      "source": "PRESS9",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OYld2LS02V0c1ZW95WnRFSC00aVFNcVU5TzFOR0pUNUVNemdQenpvcWRDeEN2U2htM1NoU01MNDJmUGQxZGtGc0Y1elFzakdwYm1WUFpXWVFPYmRZWUhDTFplcEpCUQ?oc=5",
+      "published_at": "2026-10-18T03:40:57+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "1f16c533bc322b98b9565428f9ed73e6a0b20e83a2ab5963163fa44492f8341a",
+        "f465d0385a7a843ee603a7b271f1e111dcecfcf281d353cf574b436d51f8fe38"
+      ]
+    },
+    {
+      "title": "모빌린트 NPU 누리호 5차 탑재…국산 AI 반도체 첫 우주행",
+      "source": "ER 이코노믹리뷰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90aFg4Q1puam5fb2ZqYWxIckpFNHhFRTZONnZxNU5ySHBPUzF0c1JUd1dXZ0Q0a1NoWEFwdnFKMkZiVVY3cnp6eDdDZTlDU19UVnNBbEh6YlVIN1cyc0owdmVGUDNva0RWeThIRg?oc=5",
+      "published_at": "2026-10-18T03:46:06+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "4365cd807e0709f4033957f3a060ddb9584e81e3e73f216d2c8c1ed3e89dbded",
+        "49c0032c4fa25416f83ed810c2a64b023be0e094d7f4c6a72dbc3561816245da"
+      ]
+    },
+    {
+      "title": "Venture Global Targets 10 GW of Gas-Fired Power for AI Data Centers",
+      "source": "Energy News Beat",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHQyZy11aDRPODh5dW5OLUs3WlQtZ2tHZXJ2SUxNZ0ttdFg4SG9Oc09MdHJCVll1QVdiOGRzRU4zTDNVSUFVOUM5eV81Z0ViNGxkb1BXQ19iWmRHbWVRYWFQa1FuUEN6Si1WRzNsWVFUNHNhWkpFekVBSzRpR0dKZkVHN2xLV2dZam13Smx3UFdLeTJpU1dSd3o1dFZZc0xDZ2RJcmtkQ3Faa2U3SVF0U3lR?oc=5",
+      "published_at": "2026-10-18T03:51:04+00:00",
+      "topic": "AI infrastructure",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "814c7d271f471dfff3c0ba8df38278b16a5c0ab5ba5bd3891c3d8c1c963ebfad",
+        "aa5a85e2bb3a0ee2ce317a112c35c148786b7d1a4917092008a8b8a10e47413e"
+      ]
+    },
+    {
+      "title": "제미나이 4 아르곤: 가장 까다로운 난제를 해결하도록 설계된 모델",
+      "source": "blog.google",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51czdyblRzU3U2a2lYWTQyQXhPYjJCTmxWVjE2RS13NVlySzBZQ0VVRjRVSkFLYVZKZTlJLWZfSmxlT3g3TFRNS09KRE1waEhKd1lCSWI3TWo5OUxXRFBlVU9EdUlEU3d3VjFfR21ySjVCZlNpbFEyTFlR?oc=5",
+      "published_at": "2026-10-18T03:54:35+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "22d760277a60bdefce09a78fbce41b9454243d32cc1af93197e4fa8a974e675b",
+        "745a2ff0222d46f9f959a35c3af0434fcb7372dc8cc72db2685d1c1b15ff9c91"
+      ]
+    },
+    {
+      "title": "Ottawa announces $162 million for 10,000 AI work placements across Canada",
+      "source": "WestCentralOnline",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmxzWXJNenkyZ2lmTkphV1ptTFFPU21NS3Y0YlQ0cTJpdHhRUnVmZDRfQ0ZoOV84U2xCMG12R2llTnBWNUpYclN1NUpXTjRsN2FuVVJyOHp6S0tWU2VCWkRSTVZRVjNrWkt6cFlRaHpCa01fa3d6OUNmRk9Wb014Yi1sdDUwcXY1WmJHaGQwalJmWXlKSWVQVXhlaHlpWE1SMXQzQU9XRzVtWUdmV0ZHNHJXcmo?oc=5",
+      "published_at": "2026-10-18T03:55:21+00:00",
+      "topic": "AI policy & research",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "3dc12fc93d1b9a7d18fce35789e4f9dd4dee81cc60beecd296acfdf0b03ff474",
+        "add09b1b9b3ead1ab081019c4381ac28073401acd9a3924c92dcd8b715e1447e"
+      ]
+    },
+    {
+      "title": "AI Revolution: Anthropic's Insights on Economic Impact and Future Challenges",
+      "source": "GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWFUUFd4WUZPNXdlMU9qLWdZODYyUmlxUTFBdkxib2cwRzFSYXhUazFXOGZzRXphOVk2Yk9lZzkzVjI4YWpid19ScnlZUVA1cy03VFZ5dkRZM1FvUUcxa3dZRWlGbU1rZ3JHRkt4dlBrQ3M5ekstUDBrYURJZHVrYnc4YVdHVnVwNG9uVkJyRkMxRFVsNGJ0NzVTX3lTbVZmMFR4Q2oxUEcwS3NsUjJ2TGlHUQ?oc=5",
+      "published_at": "2026-10-18T03:57:38+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "250e0118715183cc9f43950cc751cf4f830df6379dacb13e1e864322244a2bf2",
+        "3ebd8db07b7c120c00b0706170c65fd7775644ce132c686a24d22b4f5d978f7d"
+      ]
+    },
+    {
+      "title": "'제2의 딥시크 쇼크' 오나…美 AI 일부 성능 넘고 가격은 40분의 1 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DUHJJUE9zVTZYMVVzSVJHZnZkWDQyWEVodU82YWc0UU1hdHczMFpPMzc3SzBnVzNJeFpZX05WQ1g3eDB5ejRNUHRzcXZZRTZUeWN0VWxHUy0xYjJTbU9WeE9Sd1pRQVJJWjdredIBbEFVX3lxTE9DUHJJUE9zVTZYMVVzSVJHZnZkWDQyWEVodU82YWc0UU1hdHczMFpPMzc3SzBnVzNJeFpZX05WQ1g3eDB5ejRNUHRzcXZZRTZUeWN0VWxHUy0xYjJTbU9WeE9Sd1pRQVJJWjdreQ?oc=5",
+      "published_at": "2026-10-18T04:00:07+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "22ef7ed37330ded86d1ea66df71f1130b6d3a26efeb0a8ea51f431cf28e2e176",
+        "bb05615f94cb00577fee78576c485d0af2585d5d0e691328de1f4c5ac19963b7"
+      ]
+    },
+    {
+      "title": "Will a 'Second DeepSeek Shock' Arrive?…Chinese AI Surpasses Some U.S. Models in Performance at One-Fortieth the Price",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fbkFqNFUtS2wtZ0ZRelRFMVpwclRNQTBnTjItS1hfRTdhU1N1eExYZHBCSGZUdTN4alBJMkFNNkU5b2N0YUNjVjlLVWMzU3h5SE5lS1Mwd09FYmM2U2RYbEJBRi1Td2o1YWtZ?oc=5",
+      "published_at": "2026-10-18T04:00:07+00:00",
+      "topic": "중국 AI 해외보도",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "2d0812bd42ed9f727998fe36cceab14a3b0f3fc14dd87d50bb548ec46636aebd",
+        "f0e19d93fbf058b942017598dbcdb656556b16fae78fde75cdc4cf72d08b0aeb"
+      ]
+    },
+    {
+      "title": "Anthropic turns to lawyers to help AI agents strike deals",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmFlM0p6TV9oV3pMdGVaZ3ZVWkpDaU1oZV9JMEVGdkk4dXZoSVhiX2dERjhYRUJjQ252bW9VeVliam5Kemd5YzZjQXVqMlVsRlc2RkM2QUZELWdPTFJSTjk3MkxvUWg1STdiSkVIQWd2ZFU0ZXhhdWI4RGNLTm4yYzVER2c?oc=5",
+      "published_at": "2026-10-18T04:00:09+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "6fb92e2ccc2f7724e431a4ba3201a4639f41df021d300c3691826d06b2e9efa1",
+        "7beca5ad7b6447ed077f68b299e961020dcbfcac33bbbca4ef66dd4393cddcf7"
+      ]
+    },
+    {
+      "title": "인공지능에게 \"자신의 얼굴을 파는 것\"에 대한 환멸.",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDcGlpTTBEMkFQRTdnS1o3Zzk0NXFoY0NQUXNIejR5ZzM1R2IzWmZsTjVXaUNfcGhZU25DUU9rRWpIbVBwWnN4akhBYXJobVFyQWM0MGlqZHR4dW1p?oc=5",
+      "published_at": "2026-10-18T04:03:35+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "33338c2d8b7f84cf5be658146e610d52053a0c69f3624ebe6b7aec11e7011894",
+        "424b683f442552e2389caf96c30643b77db8c1a43c94525ee644d0df8e5a2cde"
+      ]
+    },
+    {
+      "title": "[나는 몇 명일까?] 인공지능은 우리 각자가 동시에 열두 군데에 존재할 수 있도록 해줄 것. 하지만 더 어려운 문제는 이러한 복제본들이 원본과 더 이상 일치하지 않을 때 어떤 일이 벌어질 것인가 하는 점",
+      "source": "AI넷",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5ualRENllPc2lMZllaLTBaSnBtUmJReXBiN2haUmowUGpjcHdKSW1BX0hLaHl4XzRKLXZEVHozMlg?oc=5",
+      "published_at": "2026-10-18T04:04:00+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "62ad7d24fe88e09e76e1ddcfa5897155e1d6172e154034a07b27ded3e0963233",
+        "fcca5929a8b613f6b4c6c393397cecd3c9a13d112528ce40b76a8a02b87fb1b8"
+      ]
+    },
+    {
+      "title": "Anthropic’s Reported AI Regulation Proposal Explained",
+      "source": "NeoTeo",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGt4ZFlNYUUybUxsdEJRSmVNcUVzVGd1SHZFNGxBNmJDUjFrZVdRUEpsOEZtOFAzcTc1RlVncy1yMEtrZ19HRUZpVkF1ZzViV0pXLU85eXNTb0oxaGI2UXBqakpjLWY4TUx4RkhxelQ1UWwyRlZCT1dRbF9Zby1zb3RZS05CbEkxRDVNZWlSZF9nMXotZzRfV0oyM05CUS1STkRZOUNtVmR5UXc?oc=5",
+      "published_at": "2026-10-18T04:05:34+00:00",
+      "topic": "AI policy & research",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "7382ffff47e06e126309b978b98ca4586adb25bd1fa170dbee4e8f6fb73e8209",
+        "e0a9ef3c388eff45aaccaacdc1adb95527ff6d86ab7682add5065fe499f7f724"
+      ]
+    },
+    {
+      "title": "Anthropic cofounder forecasts AI to boost U.S. GDP 50% by 2030 - CHOSUNBIZ",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tV1drT1d4U09NcHRUV0hXdUFrNThzMEtORkdqYzhNVHExQm9OU3lfTzF3VDlNR2szcXE2ak9iTnZ2N05wN0FMbF83N0Jsd1hPY0g5VU5jaGI3QTExYW5ESFpRU1ZGVElqYXpuaG1HMDJJaVNTaDZoUEZ30gGOAUFVX3lxTE1EMVREdEo0aTJPNk1TcURaX0kxYWRqd3pudXdKZVNDdXJHRkFqZVBpRW0wenJ3Wm5TYXVRM3JwT0tISVB3dlZKbEhFaGRCQTZnVTZMck4zWUhEbFJKa0p3NXhKTFZCdnlLNm5hVTJoNmoxQ0dsRWg0WEUzMHZCek5JTmdMUnBnVlFSMmpTTVE?oc=5",
+      "published_at": "2026-10-18T04:07:00+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "41cee93400a0d0617104fbcc2f3ab12ec99c7bbbeb42198accd0ea97b08f1022",
+        "c16b567e58dfc9fac46b00c16d61c46fd5c7a4ea17ef7678456a181d335e3ef0"
+      ]
+    },
+    {
+      "title": "일본, 방위비 증액 위해 AI·반도체기업 등 법인세 올리나",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GRktleEFWeTNORzVzc1ZNX3BzMkRuaFpoWGllZEhrelN1S3lVOGxES1k5QzJpeXg5RHhDeS1fTDJ6NjZYcTUzSm9MX0lDdi1KSmRHZUJFakJmOTVqaXc?oc=5",
+      "published_at": "2026-10-18T04:09:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "0c42ebbf901763f8469246cf1c32c823c045c7bb94cbab5fe68b4fb08983f362",
+        "4ccbee42eee26aa0980ea9ee1825ab3aadb3365e4cabe1db5eb5ad9358eb6615"
+      ]
+    },
+    {
+      "title": "미국에서 인공지능을 활용한 정치 광고가 급증하고 있다.",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wOHdJMzFpNFJTVk9KOVVxbTROdzdaeU5vVTBiLWFxZ2tPdTNtTE9GamN4V1AtbFRuUVljNE5mdWxxOW9FZERESFFpNlFZdWxKVVRfMEx1bzBTN2RwU1lldTdOSlJvTENhMklGeHczOXg2Q3RrNmdZZ25yWQ?oc=5",
+      "published_at": "2026-10-18T04:11:00+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "116875c782d4e25e9e875c99c18e0c9195dd306e0a33e01e45c413911c498f6d",
+        "f8d993ce9e0d1fad1b6418927897775d3247cd2e08d40f6bcf71317c97de6242"
+      ]
+    },
+    {
+      "title": "“어떻게 쓰는 물건인고?”…AI 비서를 대하는 CEO들의 올바른 자세",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WREwxV004NWtvME9DcElmQlExZFV3cU9sOWk0eFJoMzJjdWlIUTU1UXFlVERWdlN2SGFfQTJIUUM4TlZkVGg5ZnlIVW5ldw?oc=5",
+      "published_at": "2026-10-18T04:11:29+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "40196467908a086867d2b8fe6a83fa5d422a0e8d7ed3624c4d7e069aafc6ff04",
+        "6746717275798c63f39937eaf532bfdf442c20279b4a1bc516620835c2136871"
+      ]
+    },
+    {
+      "title": "Norfolk uses artificial intelligence to handle thousands of non-emergency calls",
+      "source": "WTKR",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnpLaFM3N2JXVmZHd19CZEdrLVFMOGRJdVdyeE5XOHVmY3dpWThXRmp3UlFTakNmUGktdnAtWEQyR2tPZDM0dzY5RmJHSHJsLWdVVVI5SmRIQUdDd0NEYTRvTlFiLThGZzRkN0sxTlZWYVhZR2RfYnN0UTRWWDlISzEweTNzTndIVEljalktdzJ3c0lza2lxVUtsa2REbzlYbVZkMkdvaVU2WkFYTjNqSVRWWFZMdzZ3TlVWNDg1cUJzQkNmQjRTd3lB?oc=5",
+      "published_at": "2026-10-18T04:12:11+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "205391fe6c3fe1e1d0518c19bcc74cd0949512f1ed9b4d95bb50240387cc1328",
+        "2e36063d63b5fc2f06235093a874f9f48c911f05d64b319a9fc23e9206d04eca",
+        "3e3829c1fa5417b730131ef1d4f4d08e25b3e7093034ff939177b7a4dcab178d"
+      ]
+    },
+    {
+      "title": "손정의 300억弗 승부수…美 최대 경비업체 사서 AI 로봇 깐다",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUk8xaEhoWHlYM25BN0o4ZGxBbFhxdEdvRzFSbXQ4NVRrRHp2SzFOODJGc2VVMHJkMEVjWHY5ZDJCS1U2UHFOa0JfWUV6eUV5RUNFVHAyY3VXUGdhQXk5Yi1qZVp3OC1SLWdiclZUdTN6RFZlV015Q3AtNW5fVXBPS3B4cGRuX2x5?oc=5",
+      "published_at": "2026-10-18T04:13:24+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "912ec8677c1f0ca6f98aeecce402d353e872c82922ae5cd2680c744ec6f2ef0f",
+        "96f67946dfd581d9c706348840dceccb339bbc4306515d6c9e1a2deea7ef1982"
+      ]
+    },
+    {
+      "title": "[COVER STORY] Korea focuses on AI majors while global universities rewrite rules of education",
+      "source": "The Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbEFwcC1tNDVZZWRXOXhySGlWWjk0b0RUckl1V1JScHFwbkNBejlmZlEwLWtzVHF6NmlpRGc3NEJaa1BvS1pWckZLQWExT1AxaTcyM1V0WXNsMkMyeTNwbXdaZWlKaTFaQmhlZVgyM0ZfNzJmeUpiVHFXMzRNWk9ZNWNSTHpNbHA0ODRQOFU4SThMczhHTWx0THFsUmJVRERNOGJfRFFWd3lwSGFtNjBpQjR2Znc5Nk5EdlN4VXJmaVRZU1c2WWttQzN3X2hZcE1CMnktbjNmd0JSd2dIUFVHT1hpR2YwbW9PSEHSAeoBQVVfeXFMTWxBcHAtbTQ1WWVkVzl4ckhpVlo5NG9EVHJJdVdSUnBxcG5DQXo5ZmZRMC1rc1RxejZpaURnNzRCWmtQb0taVnJGS0FhMU9QMWk3MjNVdFlzbDJDMnkzcG13WmVpSmkxWkJoZWVYMjNGXzcyZnlKYlRxVzM0TVpPWTVjUkx6TWxwNDg0UDhVOEk4THM4R01sdExxbFJiVURETThiX0RRVnd5cEhhbTYwaUI0dmZ3OTZORHZTeFVyZmlUWVNXNllrbUMzd19oWXBNQjJ5LW4zZndCUndnSFBVR09YaUdmMG1vT0hB?oc=5",
+      "published_at": "2026-10-18T04:16:03+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "b7e2a1d370f738b4fdab64bfb48cfe693d19aff4554b56803f9b47fe0dfe222f",
+        "f1b5b6e1c46ce81269b6c0c4508612af5cd0865a560ec3425399e70109be1c5b"
+      ]
+    },
+    {
+      "title": "AI가 AI를 검증하면? 풀이 Haiku 12/30 → 검증 Opus가 틀린 풀이 18/18 잡았다 (멀티에이전트 실측) Gloria Trevi (fJnyNtlbBj)",
+      "source": "Unisba Media",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYk1oNlhvVGwyX3N2dV9ib3dGc3VTMElYMC0ycG1tRFR0aHNrMUlHMHhRTGJtVlRxN0VUOUVEOVBzWjVRZUxhUGxUTXhZYlhuZ0JSVWpiYnNwSC02ZFhzdnhvTnRibXMzQVk0VXkybVRQNy1EZXU5cEVOeXctdEx5Tm13?oc=5",
+      "published_at": "2026-10-18T04:19:02+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5baaf28f640a30ecac81f58420f733f44156e5d325c315bb9efcbde9c661bcc5",
+        "b7101527a516e485705a7b50e2bf3cf3953804b42886ba8c092a89353faf401e"
+      ]
+    },
+    {
+      "title": "DeepSeek崩溃后更新版本，可“许愿式编程”，自研搜索API千次调用收费5元",
+      "source": "搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdVZWMGl1OXBYUjlad1NFTlc2UUluQ01xTE54QjZRUEZjLXczMFpDdXNsNUE5dnhNSzVNSFVvRmx5Rjdxc3hZTnVWdENhNVRZc0p3dVpDbEhNa2ZOX05JNVA5TnlTN3NZQkR4WHJJMm9QN0dRLWlXSGp1QkFrSHlqckRqR3NqOUFpUDBmVw?oc=5",
+      "published_at": "2026-10-18T04:19:29+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "0a5583ea9bf8834508769e305e3e9e81616976763a121127c32141399962731b",
+        "35ee123ae492bb92c4d6a86668a0985ea014e82cc87331141ccee2200c8609b8"
+      ]
+    },
+    {
+      "title": "[포토] 충남교육청, 인공지능 직업교육 배움 자리 운영",
+      "source": "충남일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yQl9JLTBpdEhoWHFVUUNZX0hwUDU5cjlrZmpMT2JrbXBoUkhEaG9mSmRoLUt3TldMUFZBY1llQ0Jwa0hiMnpENUZaby1oczNWVl9WVmtpRUM5eFBpT3JObDFlZjdPS3hRckk5UXJKSjMzb2s?oc=5",
+      "published_at": "2026-10-18T04:21:03+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "1fa023c4322c78699ea5e771e986cdc3170609338d8ba797cbb9118a4182e4df",
+        "e8fc9ebad6e267ebabe5e2ed051450b23844c469cce1370478e90bd1477b4d67"
+      ]
+    },
+    {
+      "title": "Anthropic Taps 2,800 Lawyers to Watch AI Agent Deals [2026]",
+      "source": "https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PWERsakVaT0tELTFnWEZLSW0yUVFXWXBYdndoY2FxZktKdXBJM3FBMFdSbFdkSFg0dHBEVEpyX01LM1RTMDlhSC1sbVNfRjkwaGM1SU9JeGFXTW1JYWNlWWtDdWkyNGdsdFZEcnF4SU9nV1NoVFVLNmJMM0t5YXM?oc=5",
+      "published_at": "2026-10-18T04:22:54+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "28455499f8d7bc5ad5cc11e3b8cea817be951c3f7c1edac1b4b7f63c1ed57ed5",
+        "b96eb5dfc24ef97ccfe4d1636325bc0e62bf65469b9465d2ce317370c7b684e9"
+      ]
+    },
+    {
+      "title": "충남교육청, 서울·세종·경북교육청과 인공지능 서·논술형 평가 시스템 공동 운영 맞손",
+      "source": "충남일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iTFlpS1ZGRTdsNkI0UXA5ZXEtY0Z0UWp5Y0JwUHBoWW1HLWdzNWlIQVVlb3NLT3U3Uk43NGEySHpzcldzZmNOUU1idEI2WDNGTHpUOV9pcFpyd3JvZnhCZDNmU2tWbkd3bmhKUWpURkdNVlE?oc=5",
+      "published_at": "2026-10-18T04:25:33+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "a1e6baf91e6caf9484f3e7d5e1aefa6b51316c76999bd23d7577745924bb78e3",
+        "c7f6c89948f0fc43c6200018d6bcc79b209cc2289038907908cd64bbd1016089"
+      ]
+    },
+    {
+      "title": "5,400명이 넘는 소수민족 학생들이 인공지능 수업에 참여하고 있습니다.",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGtramNrQjNlWUFUSjRrd0JNaUo1akdISnQxcWphWlFVSDdMYUJla01SbWpBb2pHLVM1NXUwY2JLYlFJWWZxSVV3UG9HQ2l1QTdQZlEyNXJsNnpwdU15eEY5WEdvbDlhLU9UZHBGZEFPMmdDaTZGYlhRbGRSZzQ5TkVSZ0JDdEk5XzJQbldaamxxc3BjWmM5QmJGaHU?oc=5",
+      "published_at": "2026-10-18T04:26:24+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "396404285629be875701ebbdb2a48d74c9d5da4dc0f7d7395967c18a929d2c9f",
+        "3fa37c220b467065ae026a031bfd9002ef2b8855e62ed39e39ecaf4318a33e9c"
+      ]
+    },
+    {
+      "title": "경남교육청, 해커톤 한마당…일상속 불편 AI·SW로 결과물 도출",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MU2hhdG5rQnJXTkpiV3ViZTBLbnQwbmxXTktzWEJoYUVRLTlIb2JQbkRHTHJSSDhnYm1xV2NmWE1MOXZRVjBkZ3RsOUxjOFlQX0hIY0lLMWRNRVVqaGZTTm1Cc3ZWWHpPMHVjUVdKa1RHQlZBM1duWNIBeEFVX3lxTE5MU2hhdG5rQnJXTkpiV3ViZTBLbnQwbmxXTktzWEJoYUVRLTlIb2JQbkRHTHJSSDhnYm1xV2NmWE1MOXZRVjBkZ3RsOUxjOFlQX0hIY0lLMWRNRVVqaGZTTm1Cc3ZWWHpPMHVjUVdKa1RHQlZBM1duWA?oc=5",
+      "published_at": "2026-10-18T04:30:23+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "8309587e98eda04763e8430f5edb068a4088bc0ae12c6f66b19e6b12613c21ad",
+        "a0017ba7048d3a7ba275e3423517b202ea5f27a7e77a82bee6b654ce743fc168"
+      ]
+    },
+    {
+      "title": "AI 에이전트, 변호사와 협력해 협상 능력 강화 모색 (CRYPTO, AI, Anthropic, 협상)",
+      "source": "민심뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kTDVCdGZ4R1hBY0p0U0JMRk1NaWlWRDBPSnJTNnVBYnJGd0Nyck5xUjVWYkhQQTExd0trNzFINUlYbVVmNVIyNkJBOWpJNGZueWlWam9nSndPd2huVHJJZDJvbVV6V0dxQkxqLQ?oc=5",
+      "published_at": "2026-10-18T04:31:43+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "98de57392644b255cd05f58158138dd2db341e6d0d1556049729f593f3da386d",
+        "9d5983f531460e825e52e767407c901c8613478ab257dcf7e68835a6b8df9048"
+      ]
+    },
+    {
+      "title": "Anthropic's Junior Hiring Share Falls as Agent Hours Surpass Staff Time",
+      "source": "GitHub",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN1RSS0xnRzBNQzFRWU9VSkF6ZGk2bTZiM2FJeElWa3dCNVl1djFfU2NtLTZaYnBrSVZKLUE3QzQzRVMtOUNqZzlfcVVKQ3k1OWxwcUJaZVg2SV90RHBJV2hwVFNPdHlQaFc4TDA2aGd3YlZKLUR4STh5dW1aSG5zUkgzQndvZw?oc=5",
+      "published_at": "2026-10-18T04:31:48+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "596b4bd8fad6ee1f5300e90787e0fd0213aa02cde0ce2e6a6607d78ee29ff362",
+        "cefe5a9f43c949490de6f5fe307e8ed31bf63334f7f34bb240118bca9e779e7d"
+      ]
+    },
+    {
+      "title": "DeepSeek V4.1-Flash-1017: Faster, Leaner Model Update",
+      "source": "tbreak.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSXRnQkRaN2NacDhHbWV3a1hvaC1VUFdGdlQzQVNuLXZIT2ZKWUlicUxFSklJclBUblRjaHFucmo1Tm9DRG9UOGxIMUlUWUxmTm1oMUtyNTF3Sy1XMzU4RQ?oc=5",
+      "published_at": "2026-10-18T04:34:27+00:00",
+      "topic": "중국 AI 해외보도",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "2af46ce2016c4df828e29c1d70712b3cdf9a97a4ef8d82cfd6e21d63c72209fd",
+        "e414a76c7177915c3c4a356dfd671a4e9b97839451f5a475dbaef3b51498a83e"
+      ]
+    },
+    {
+      "title": "China struggles to lure foreign AI talent despite incentives: Report",
+      "source": "EdexLive",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYlZyMzc0cXB6Q29FOHkzdHNKbFI5dXZPUWNieGZ6NEotdEptbFBENF9wbXdNc2tBZER0ZnllOFBzX1Z3MzNHVXZqLW5BTUY2SW5YSnJUbXdfdXF1M1pDUy02akgxN3JyYXFzQVZvTzZENUNaN3ZzUGRFTFpkbjBsSE5JdlJHRDloRnNTWGRiUTZaX0N0ektydkVHbVRhZ9IBqwFBVV95cUxQaTd1cDl2bVdIZ2JiLUFDMXRkTWgyYk9pX2hMUHZKTUhMZTRMT0l6ZUt4Z2NRM3Z1THNnaVVTcWFEcTExS3FfSmJyQzdXTV9GRXJreWFqUUxTeEhSa3prU1hQWk14OTdJOUFhLU1KNGEtMm5mb3Q2Qmo3VEdBWW95cndnRjctUVZDRlZYeExIeTRTVnFZWFBwUERMSkFRRlJmS2tqdldGZXdtcDg?oc=5",
+      "published_at": "2026-10-18T04:35:19+00:00",
+      "topic": "AI policy & research",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "8df3d5e724b908ffa41973d285792a29bbc849e7a1befdf6b5052d0656816c92",
+        "f1a898332f5637f32a7700b67b1c8dd5155792646e8ef104b8c93ca3397e59c0"
+      ]
+    },
+    {
+      "title": "JetBrains Java LSP Hits VS Code, Cursor: 84% vs 31% [2026]",
+      "source": "https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13SWtfZVhKU3VFaVJfT1ZrRS13by1UUHlsazY4eDBUZ1k0X0FMaElHUHptMnM1S3pEMGVyODJTaXdaZzVQajBURmJmNDY5eGp0LTNHQzhwZmlDaXoyazJNWmFrNlRFdThQQW9UNjRGcXlqV0NpREdjcnZvYw?oc=5",
+      "published_at": "2026-10-18T04:39:31+00:00",
+      "topic": "AI 툴·연동 활용",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "8073a8ef804e690518c4e991012245bb0fc939f4cd1d9924d0bbcbc97c0ac500",
+        "fee130f5fa450c119e870baa6b5fe1c45bb020b9453e0d101afa25f5d1093a2c"
+      ]
+    },
+    {
+      "title": "국악 무대에서 촉각 전시·AI 영화까지…공주서 넓힌 문화유산의 경계",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fRDFGdllzdXVEM2Vmei15SU1oWDZYaUVTbjZyUkl5VUZGelhMUXhyUTRoUkhBXy1jTTZ0TVlMTEh0NE11RkZEeVY5MDhIelpGUW15bUt3?oc=5",
+      "published_at": "2026-10-18T04:40:12+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "0ebdb53227bb9c256e88ef6d4b7f2ddae02d2b11627b57ebe101d5b6ef480e91",
+        "36d9c01d3dbafc360e7403b8bd158e7827416419123fe0963bb1288d00369f16"
+      ]
+    },
+    {
+      "title": "South Korea develops technology to determine music copyright created by AI",
+      "source": "Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSUdMRi1qaXNnUHNYa1lESGJjcWhPekFIMnE1Tm9YZWJWMDVtUlFvc2tFVXJwMWJXVVZydTU3QWVkUllody1WSXNpaVFUbzRQNTYxcDFnY3lHRVdrUUUzNTZBNWhHTjQ5SG9EU2lGSXp6Ty13X1NLOTFJN1VXLXplS05lZy1GLXd2ODRpU3BLaGFyYkZOREdzNGZCckZjMFR3c0ZIOXFydUM2c3o2SmhkTjExYUNWSzA?oc=5",
+      "published_at": "2026-10-18T04:40:47+00:00",
+      "topic": "AI 툴·연동 활용",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "1327777c13527326d15cf7977fee4cd7eb8eefe9ad852cb4f8c749841a4541db",
+        "b5720319f2fd7826168d94488ce78bf90ed119ae5799641468d69bdbae04f194"
+      ]
+    },
+    {
+      "title": "인공지능이 학생들의 과제를 대신 해준다면, 교육 및 평가 방식을 바꿔야 할 때일까?",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGFUQXVyTkcyYVRMbkNTMlFJeFpteUVZSXItZjU5dHBPQmZYalk0WFVpbjZuTTRwcC16aFlnYXJMNTlYMVo5X0NzWjhzYmMxZG9RaXRfYVdySW9yMWlCVFRnb2ZsSEQ5QjFRcGJYaDBSM21qNEtmdnR4Z0pVWVRpZVh2TDk1dmhaX1owaW5XNA?oc=5",
+      "published_at": "2026-10-18T04:45:30+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "af452e75cec6a458b8f1b49ba6078727ae5b45e1d681002a94c03962f4604585",
+        "f979010b0e6565ce0bf3f983a12acd79f5eeff0e03c6ca653b2d8b3ad94ed885"
+      ]
+    },
+    {
+      "title": "[부고] 조준희(한국인공지능·소프트웨어산업협회장)씨 모친상 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WX3QyNktBbjBPZEpDOVNrYWdEQ3R4bm5Rb0JzRjJwck1rNzFMWWJFbXRXVkJhOUV6QkZ5Z0VzV1dzZUp4U2RvelMxQUw1LUM0YWhmTUhYUlUwaDhpdFJRVDlyVWdWS3BCLTRwSlhhVG_SAXBBVV95cUxOVl90MjZLQW4wT2RKQzlTa2FnREN0eG5uUW9Cc0YycHJNazcxTFliRW10V1ZCYTlFekJGeWdFc1dXc2VKeFNkb3pTMUFMNS1DNGFoZk1IWFJVMGg4aXRSUVQ5clVnVktwQi00cEpYYVRv?oc=5",
+      "published_at": "2026-10-18T04:47:32+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "79df4c04a493ca36c98ba35b31020fbfb15f195fca40b3d801586de15ec0f1f7",
+        "f6f814cf8217a04874e5fcf0e84e52255e83ae544a7844933f37ae8a298400f2"
+      ]
+    },
+    {
+      "title": "3 AI Infrastructure Stocks for Data Center Demand After DeepSeek Shock",
+      "source": "Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY0czYXpoYlRkZFg3SHg3NWc2OWR3NmFudU9pRVJrdXpxOVRfUFdSMVJYNDA1Y0lVZlpHMzJzRE9MX2dQSWJTUFdZeUVTOWs4VzBJTGNrUlNVaHRjV1FtbFJQZV9GX2t1UkhpYkdmVElZbklmdnJCRDQ1Mk9QSVJQT0lGblpkZmZMZC1VZjB0RHQwTHJTbHdWX0NFb2lwQ19BWkJ3bjdaOVdkZ0RfaEtjWERiZFZaTFIwbTFWRGJ6Z21hOXd4ajFtenJsdW1BMDZKdnJN0gHYAUFVX3lxTFBRM09kdWZXNlFnbXhoQjV4dWNVV05leDEwQ3JsaTRxV0dGSlgxOVhERkRfeE1qZzNZTUtPNGhiRk12cTJRWUxoUFE0Nmk0U3NlaWVYX1RrVENlYzJiVGpCb1hsb25sUC1LbURCMzRwSE40N0V2WFpxWjlCNzhBY05odWpGdFlBLVVBRDBFUXdKZUVPcEQyWTh4UjN3WGVmV0NGZHFPbUtwNFdheXNfVWtOVWtEbG1BN3dzZ3c5X0l2N2FRS3lXMFVLOU8ycEMzWGZtWnZDVHpjSA?oc=5",
+      "published_at": "2026-10-18T04:49:36+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "212d516c624b39a9146ed6d0c16b053b4b5699e0e702a83320eaa4a47f36b447",
+        "739ec2fb2ff89e1a75c3e3bda27172c1b74f8bcca3a8289f86f70f8da0de6679"
+      ]
+    },
+    {
+      "title": "DeepSeek sets a $0.75 web search price as Cloudflare grades bots on conduct",
+      "source": "PPC Land",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONlhMVmRJb3VhQ1M2YTZuQzRsb1Q4RkU4V04zNnd2Sk10V1JwY2ZCSXNGdFBvNWVDNlk1SWNNZktXQTVLYWNHbk1OOWh1dUkxb0dmeW8teVlZZmlkQ3d0bVBpSy1iM29GT3B6cFdjbGtZUkt4SlduR0FJeG9pZ1FhcTlhUWVQcF9vV0lSZ2w0TUZvRW81QzVF?oc=5",
+      "published_at": "2026-10-18T04:50:26+00:00",
+      "topic": "중국 AI 해외보도",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "9c1f50b5573d03de277cf976bccf7e73b59ee48bbad53d90436c2699cdc3254e",
+        "a1cdc69cc8069894636e8bf66c4af0aad0b60ddeb30fa588360eb790054e97c2"
+      ]
+    },
+    {
+      "title": "전산 시설 넘어 지역 성장 엔진으로…AI 데이터센터의 세수 효과",
+      "source": "충청투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uU0IwaUxSelRGVWV5dEdtbEh4SkJaUUhVcnBwY0xOb0Q1RlU3VFBPMnBVeG1MZ0NoLTdua2NxLUpSNXNZUGQxLWVtZEEwZWdGeUVoRTMwRENyUmJ0c1ZJWmdmQlZ6blZFUHVFTHp3?oc=5",
+      "published_at": "2026-10-18T04:54:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "8699400d1d05b70f171bf0eee4dc4e433aa7aa3a76211bdb23ffaeeb5955e3eb",
+        "df009c5778c6aa91c32fa16a1c557ac37962922a64523a8198b3a33495198b19"
+      ]
+    },
+    {
+      "title": "다낭시 학생 1,082명이 2026년 전국 인공지능 올림피아드에 참가할 예정입니다.",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMUpoX3UzVXR4YmYtdGJKTlBGU1I5S2tJcDBqX3BXOFpfc1UwbUZDLUcxQmhpendOM09IQ0tXNVNobmotR2NWT0JqdnlTU25HLU96NWRzQ0JmX0tBY3NnY0ZvTDhHYjZHSDA0TE5UWFlxNlgzTHBKTHg1NzRfT2ZhWW95ZmhuMWtaMHBCMHh3dDlQaG9FZzJ4bng4U0RwaXZNVkhPQg?oc=5",
+      "published_at": "2026-10-18T04:55:26+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "476d64efa6f64bcb6a35af00e1db94403d638bafaa23766be9d725e6a18e8d26",
+        "df1a0bc51fb2e5de99f3a627925d3c232f09ca96e2c60f5d7a08bc3d1ad55e39"
+      ]
+    },
+    {
+      "title": "머스크, \"美 부채 해결할 유일한 길은 AI·로봇뿐\"",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYW5aSXV5NnkxcnVvcG5NaEhCZkNqTjNEVnNVWHNTRGhVUFhkNlphaVVTUTFXY1piU1NvVEdzVC1FcEZTTEg5RVNGdTQ1enI0djkwbEptNl9JQ0t4U2JyTTRfTWJud2JBbzR3cl9CUEp3SnIwT0JwdlFJc1BOZUVNMG5RSQ?oc=5",
+      "published_at": "2026-10-18T04:57:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "29823a630ad61cc5392fe21a982dcec39c1c3df6429139539f2ea768313d9cea",
+        "a1a23854ac48f6840e6227c3cb863397791f491ff1c686aa48144239dccd3731"
+      ]
+    },
+    {
+      "title": "[현장]전국 최초 ‘공공형 제조 AI데이터센터’ 가보니···“고성능·저비용 AI에 만족”",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NWEpTcVZoNWQxeTg4VVRrNDRZekNRaWt2UzlENWZQRHE0aUZPX3Rmb0tsSzlGQ1RqS3JadFUyUU9YaWpLZFFRazg4WEFZR18zbWszMnFxRmg1d9IBX0FVX3lxTFBjeXM0ajJtUVVJWklSUGYwdHZRZllDdFlQSEwyZHh3dXNyX0pRbFJhUzYzUTF4LTgzWmduWS1xN0tsRmNVQ0dyRTV3THE2bXhqWXJaVFRZd3dTb3ZybXJj?oc=5",
+      "published_at": "2026-10-18T04:58:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "10991d2480d0866812763eb5c8bf920237626e2364d3c35dd6d581ac330adcab",
+        "5ec66facc6d8aa165273bc4d815dcd5671ab217b8bd20929a5f39d8fe2ca932b",
+        "c4f532033c24250755b551551feab3880e26d66758c8dcfbc76e60a4854a4369"
+      ]
+    },
+    {
+      "title": "AUO Chairman Paul Peng: Glass substrates to mature in 2–3 years, entering AI advanced packaging supply chain",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wcnB4NGgxR3hQNXBBdFFWRnRJV2lfaTk2NWVCblgxZ1Jvcll6cnpjTVFSenB1QThDcWtJdDZLR2l0dFRKNWpoZTFTcDM1b0d6TVBOMV9ZQkdKc0NOYUtUZFlxZF9fcFk2b0FSVXdIR0VFQ2pHTnc?oc=5",
+      "published_at": "2026-10-18T04:58:01+00:00",
+      "topic": "AI infrastructure",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "9ab44c468c5baedf80a71bdd8916143639e266c3944e10b0374fa859cfb47404",
+        "f06a6504374b2d156c2c3c2361a358bdb74fd8c38a8c035bdf825c9184e5fbc0"
+      ]
+    },
+    {
+      "title": "AhnLab announced on the 18th that it introduced artificial intelligence (AI)-based security solution..",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RSnFJN3UySWhfdEpPSXpMakZEcmVDc0RsLTNRTDFNVFJYc095Um9jc0x6WFdTMjk1TXRqWmVVd3NtOFlxQTRXSVBPSy0weVU?oc=5",
+      "published_at": "2026-10-18T05:01:18+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "079cbe19384151329d4259610ae44cc0a4495a496df515ecc3934aca4e36cc93",
+        "1335f8f26c6680c1ad568cdedd9d14596650cae374aafb8d11301c98848f0aff"
+      ]
+    },
+    {
+      "title": "Musk Proposes AI, Robotics for U.S. Debt",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdnpqRnZCWkVIbHJxcjVKcEdFQzU5QVZQYnlpYzcwb0lYM05UcTIzWEowUGRKLUZ5NEpZVUhRZlNabkV6SEpNbF84Q2tvcTl6N0FaSnhOZ1ZtM2dRSExzd2pua3oyWVF2WDk4S1ZuWHRQdXIydUxlZ2U2RGVvQmdwZWFvUzNVNEV2?oc=5",
+      "published_at": "2026-10-18T05:03:07+00:00",
+      "topic": "AI infrastructure",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "220f03e1476b32c4ccf5b5cea35b608dfdb6b8a6c75833877dffc798ec86d79c",
+        "872460124f97e27d70da00fe79b89d40698196f67bcd02d5f4d3f954fdba4eb1"
+      ]
+    },
+    {
+      "title": "\"AI 데이터센터, 지금은 공급 부족...장기적으론 과잉 투자 충격 우려”",
+      "source": "디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Tk91MEFSOFNDVjNISXo0b1dEN1ZPVHhrX2E0VTRXOXNqellKVlExUGR2T1c3bURRRTFleG85MkFXYkU3S0dDejBuX1JqYXkxVzdCRVd5QmY1MDNTaTBCY0VMQTVHVHpnVU4zM2QyT0d6LUU?oc=5",
+      "published_at": "2026-10-18T05:05:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "001b7378952d7be190e0b987f662dbece2a8cfc74306cceb02992c10f654f8ef",
+        "2860041186383495bcf37bb7629e7a903449561968e12fee4d623e7538933705"
+      ]
+    },
+    {
+      "title": "일주일 만에 GitHub 스타 20만 개, 앱 뜯어보는 AI 도구 REA",
+      "source": "요즘IT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82YWtzTGcyc0VMcTBRVEdTcnlDMUJHbkZjYl8zRUNaeTJiMjNtVjNyVC1mbVNKU1lXSi1JVjJXV2FPZ1lrWWFqQ3I3ZGY0MDYyY0MzMzRqSENZdw?oc=5",
+      "published_at": "2026-10-18T05:09:14+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2eaae3d0b89d4dfbbabe80d2b4968cc21936710898a44dc02d9edd31a3277e3d",
+        "70566890b5f133b9994f35c6eaa2862c1e3125d4df2a443b053a7a42ee95f5c8"
+      ]
+    },
+    {
+      "title": "피지컬AI·반도체부터 교통·문화까지 ‘익산 대전환 본격’",
+      "source": "전라매일",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uNmRzZVNnTHBMTGQ5eFFYVmdjbjVPek5BWmNSU0ZqTEpnZTdNOXhjNmM4WGwtV05ldzY5ZDY5X09zS2lOMHRCYWJCWktkeFlSZmc?oc=5",
+      "published_at": "2026-10-18T05:12:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "d61755dd7faf9a66f69fbc86007828c11340da56aa8d511798d351c3428baa0a",
+        "de35b475cc6ac627afdc98d109ef7fc0990e9b582b4d796b6439e86ef791b048"
+      ]
+    },
+    {
+      "title": "브릴스, 미국 외국산 로봇 규제에 ‘북미 현지’ 피지컬 AI 로봇 제조 추진",
+      "source": "경기일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YR25jMGxaMUtHQ3hOcmR5T1hvaFVhSUczb1NiYUtyMlBJaDAwM2lDU20ybXUtTWYxdDU4WnRSckdzR0oza2NoLWxxQzR2RklMSDFTdzhVbGZjTmc?oc=5",
+      "published_at": "2026-10-18T05:13:25+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "1cf25c026f5e40ed3d246b0d51877e363f481a9f80d5c47692308f3ddfe966c1",
+        "c09629661e47934a75d705d02bde5edd8beee9a5eb7165bee4483af4cf23b184"
+      ]
+    },
+    {
+      "title": "A Society For AI Agents Exchanges 1F916 Markets | Buy & Sell & Trade",
+      "source": "CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54OWowLTBweldYZC1kaGNRRXpPWGZpZW5sM3p0QjhQWFUzMTRiLXNVS1NJMHlaUkRVS1JhaU5GTC1RUlNMSlVUaU9YUkUwNDhjTmJjaVVsSUtVZVoxenh2U3hKd1lTdEZWX3VRUlBn?oc=5",
+      "published_at": "2026-10-18T05:19:29+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "4b60bba1248216e5defc54a1fc03e8de7228b5f49084956fe63ad33f726dfb57",
+        "63cbc43ba7595ac6ce620a2c9f08b9afbccdae25a7c9ccc7213c5406b968c772"
+      ]
+    },
+    {
+      "title": "Park Forest to Host Cybersecurity Seminar Focused on Digital Privacy and Artificial Intelligence",
+      "source": "eNews Park Forest",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQm05TllFYnVxQ1dETFYtb2pjVlBORXJ0V1NGc25RbUYycDFjNEo1VDc3UHg3UmpyQkRyRjh3RlV4cGQtNFlxbTV6MmxrNkdCWVJ3SnY5MVE4d0ZiQkowTWk1LVFlazJWX19UVWw4c1dGd2hJMjRZVUlybENaaHZCczFwaFBWVEdrVFUyMXBqVkRVQ0h0QVI3M3F5cHhJYnlaTDBBRzlDUHFuZUhfUHkzZkd6NUo4ZHVuczRwX1ZMcVVyMTFkSHFvRDc4dnFodHBocFRzdFlWOWhncFlvY2E2cFJlMzJzUQ?oc=5",
+      "published_at": "2026-10-18T05:24:28+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "1c8027259caad2807353546fa1dd3766c794764ea6a67fc0e65b694011eb6d26",
+        "a49ab982b0f8d1ef98ae942bcd97b50d5bbabb901b79c84088920a2e12a3e55f"
+      ]
+    },
+    {
+      "title": "AI 코딩 플랫폼 OpenCode, 보안 사고 발생...API 키 유출 의혹",
+      "source": "민심뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2Vy1HQUJsS2Q1WTJnUEJsLWZpUVp2UkFJS2Z1NExXUzFhcEw4YldFbTNoSml3NmxJV2xBUTdKMHZHSjlsbXk3ZWo2cElWVzY3c3RGYlkwN1B1TXdIQTF5TFpSdWdod0VzOE1MRA?oc=5",
+      "published_at": "2026-10-18T05:24:36+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "b499a88bec9fa96e28e3b3d790424c80db99ee0ba03ee6fba621d6bd226b247f",
+        "e27d633fc9c79afce9697681f0d858ff7e8119c2a993e2a21647574d15b1fc08"
+      ]
+    },
+    {
+      "title": "Microsoft axes AI deal in setback for UK data centre pioneer",
+      "source": "The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFdYVTNWOGFOMl9DYTBBWmhZM3NiRGk1aUtKVWFhVnkyb2VGMU5UTDZBTndmTGpBcHRnb3RjelNlNU9JY182aXFGOE5BcWlJMGFqZnhKYmlXTjdvRGlyUUlUZUtXWFpjcXJ6UWxRYkhiWExoZVBWc3JmY2x3WFR4Mm45ZW5KZ0wtVXBMRmNleXViT0huREtRUU9zNUdnWDEzUDAycA?oc=5",
+      "published_at": "2026-10-18T05:30:00+00:00",
+      "topic": "AI infrastructure",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "cc5d4b40c7c3b5e3794e5e54f447063c26b7d5a974cb5fa91b2487c64039bda0",
+        "d1b9405f6d51786f1924051a3a0f6d229c0ca4b9bf4c163645c3e048d60a08d4"
+      ]
+    },
+    {
+      "title": "충남교육청, 인공지능 기반 미래산업의 변화 대응하는 직업 진로 교육 추진",
+      "source": "굿처치뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UM0o0RU1OY1EzUDVoOWZod2lReWhzMVQ2Mm5zNWJBZ3k0Z3dtN1BLRkNWdHZIemgweTExU0FaZS1qY3ZpNzMwYUhaYkpQQVduY0k1dUFDb25uYTVWM1RYSG5R?oc=5",
+      "published_at": "2026-10-18T05:31:35+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "052d496df33fcdaffa29a729fdd02a5a482a52925734a8cfcf9c58cddf97662e",
+        "a5f4e4adf3df4697ce0f3644aeedb6328ade6b3419355720de97c969dd5d057f"
+      ]
+    },
+    {
+      "title": "CERT-In flags rogue AI agents accessing Indian organisations’ systems",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa1JxNmdxVTBiZmN4MkpJVnotTnktbFhIZm9pMjRmZmRIS0ZLZnpibzl1VzFyUExfeEQ3OU10cHRIRVRxNjdCY2t1T2tMcHFDTElFTHI3OURNTE1NN0ZIeEtlaWdpMTRjR1BUOFJVTUYxQkVoNUsyNm9kY2JlOTNFYzBDM2doMThXZi1mNUxxcF84TDZzY21IWWlIQk40ZnZ5UzExbmI1bmRPeGN0YmFpX2wzOEVQMDh6T2dKUExaQ0ptQXpfQVdUczhNeXhHS2NyYjFXWGRoc9IB3gFBVV95cUxPbllPX2c1WW81QU1fLXpBSWEtZkgzcU1NRk1yTkNSc0NudGdiemNJNzMwRmhnVFR6T3JOcVdqZmNLSmlGZVJheDEza1NxMGx6akpFb3Q5OFBJbkJ0YjktcFhCYU55aDhxb192dVliOWdzZUFpdGNqNDVyNUZGX1ZyeEtiLXByeWtraGVhM0pLLVF1dHBDVGE2Ulc4RWg1TzZhc1NJUzNVQ3Z4UTZZbTZsUGRnNjRHSWpNLWpmd3VFX1NtXzFtV0RfXzJ4MDhqSXBhZTJ5MGpnUldUbk0xS2c?oc=5",
+      "published_at": "2026-10-18T05:34:02+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2b8cdaece0de56eaddd238947dc72134a0f940cb1d3ee4a243d3860a75601ed3",
+        "d294032f53031bb93e29525f7ccb219b6c9748b9b3fb0ec1a18d0474a53c1565"
+      ]
+    },
+    {
+      "title": "LG전자, 인공지능 품은 '퓨리케어 하이드로타워 맥스'로 프리미엄 가습·공청 시장 공략",
+      "source": "CWN",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxRmdPS0lTU1FENjBKLTZvOHF3QmNLMkNldVhSa09YaUg3YWxUUUtGcEYxVjc5c0UwaXh0OXY0Rzg4RmtoZVVWQUlCakVHUDI0dVRTQTV0cmpTNFdvSXVrcGZB?oc=5",
+      "published_at": "2026-10-18T05:36:02+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "9a9fc078b764c6a40688a7b8d3e8064bd1ed7e388fd92efa2cc603bf9e2a9fb7",
+        "fb04b0404a0e74c58038b4f4e563972731171ef4c0a6060831e875bc1a5a9aef"
+      ]
+    },
+    {
+      "title": "예보-네이버클라우드, 생성형 AI 기반 대국민 서비스 혁신 위한 업무협약 체결",
+      "source": "마일드경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qQlUwdzBKU2VuNTRYcFpFN2xtWkY4d3dCQkotcEc5NXM4UDUwU1VRRWI0QjZQOEVJQW5kM2lHd1M3eFhfMjVRak9FVmQ5eWR3SmVxZy1JeE14bWxLZ01zeE92NXhqNFhfWV93?oc=5",
+      "published_at": "2026-10-18T05:38:10+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2989b5d01f21923489b99d92b65a28bc4fb484632a4a5f4a436a52025d084c65",
+        "e95e6029efbe82f0c1e36cdc4ecc2bc29f3232a890bb33b577653203a4ccb7fc"
+      ]
+    },
+    {
+      "title": "155款App拒绝接入豆包！智能体手机扎堆入局：“AI接管”安全边界与生态困局如何破？",
+      "source": "搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWFSQVpPSmpuVUstWVRzRlNUMUh4b0J6OWRtNlF0WExYdE1VR2UtTlA3TkROOFZBcEpzNEVvOUdkVjFfTWRFb0VGRzl2RjJXUjhQaUhnUDliRFhrMFcwMlduamh5ME50T3RDWG4xVkRSeHNsSEQwZ1BiWGp2blJweHdubXpudEZqR3F3eA?oc=5",
+      "published_at": "2026-10-18T05:42:12+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "e06df2858e4b43536d96655413b1d9a4e54a6d5c80da56ee39f72860eb625194",
+        "f95e7ef48a8061d95683f5c0b7d32ffc7d8a06b246e61475e04746ace85fc924"
+      ]
+    },
+    {
+      "title": "충북도, 인공지능 행정 전환 대응 본격화",
+      "source": "충청도민일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sbFB3dkRVX19tcHk4V01ad3lURndseGdMbmpoUkxEX0lWcGdYV1I1ZlFnRnpPWmVpU0hFTXJYNnpQb0xXRk5ITlNuaDNLUXpZeFJLa3AwSmZmYUJhS3ljTGFOLWU2M3RNV2NyRg?oc=5",
+      "published_at": "2026-10-18T05:46:16+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2330cb2ddb2cf45a73e9e07de59d555ae4c865e3202226c9daebbf063d158a77",
+        "424996f771e98f505482143cf076ea05df591c5a0f285ae7a8f9469a26a2df55"
+      ]
+    },
+    {
+      "title": "日, 방위비 증액 위해 AI·반도체기업 법인세 올리나",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MSlkzRFF6dHcwMHhrSzNQcko0b0JIMWJJSXNaZVRKb3doRndTcExBRUJYeDV1cExvZzVETlJZRm5NWDNjTjZ1NjlCdnlEbVJEQWhUblVCc3RuQQ?oc=5",
+      "published_at": "2026-10-18T05:48:19+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "530e066b22c543820be93fa5de88fd000824f291f0045f06c6d29cc3bf2422ba",
+        "ec01ca5af57649797de9e552ba246e8f0b46e1ad5991efd153f03480514a98a5"
+      ]
+    },
+    {
+      "title": "네이버 3분기 영업익 4917억원 전망…AI 데이터센터 가시성 변수",
+      "source": "비건뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBia2dFbmQxVmpFeWlrV19TdGtITFd6cHUxQ1E2ZjhiTmpscnVjUG42bDduOWxRelBhcDVlR1hTRVM2SnNET0dhQlNROHhGVXZkUEU0WEdTcDlOMUFkY21XUTNvWkMtdw?oc=5",
+      "published_at": "2026-10-18T05:48:49+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2ab0d3beffb423aa82b07952c499120f5a20f27715c2093519d0a7e00a7f90bf",
+        "e280b686ad23fd3987989ddc3d664bf768f666dcf4f2938deebe46c1f9229cd0"
+      ]
+    },
+    {
+      "title": "AI Code Review Race: 4 Editors, 46% Trust Gap [2026]",
+      "source": "https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HWHRLdmNGSF9STHM5aXlYUEZiUnVnQkcwMkF0RUpwZzlCbzFhQTR3cS1EQ3g4Snp6MHhjOFJBcG83RUxwZGFiMVFoWUhGR0JwY0NpZWFTN1RMX01lQmJjZDBLY2p6TkNiRVB3Q2JPaXM?oc=5",
+      "published_at": "2026-10-18T05:53:55+00:00",
+      "topic": "AI 툴·연동 활용",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "d3170172cbb093bd4a1ee49962d6eb8918892c1f5366ff1d06b5be1dd5a1900c",
+        "e2141977e405fa802bd5c02da8de2201c791efe60a9122719a75d510f1098e28"
+      ]
+    },
+    {
+      "title": "AI 데이터센터 1GW당 법인세 8281억?…18.4GW 가동 땐 15조원 추산",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdEhFN3ZjdFJFUnkyVW9INjFOLTFXb3c0dlJudG9yN2RwSlFydTNZb1hNeU01YS1YVVJrUnROQzVBMlZJd1BFWEZhNGx2X1pBQVp4TW5HaXFpZFZJQVBkTmxiM0llRnRaTmR2cTkzQ0R6T0VPMXktVkJBeXZtMkhTSQ?oc=5",
+      "published_at": "2026-10-18T05:54:34+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "7349b8c407789bfdd8f3a79662991021b5ae3493280763853ffcbc0dd90ea9d9",
+        "b44075b7aa342cb9d5bafb7e42783b1d723de656f2925d676d90701b42ba356e"
+      ]
+    },
+    {
+      "title": "테슬라 '로드스터'가 보급된다면?...패러디 영상 봇물",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oU0YyUTRaUWpqRmtQdnJyX0xDbXlZckNYVk1EMlY5aUkybHRBa2lId3pRN2hPdWNUNUxaX1lCUVk4dnZKYU5ZY3BCSWtLRTEyLVBsQkpB?oc=5",
+      "published_at": "2026-10-18T05:54:52+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "b4ffd9ac02a1e34cff115994759cd38bed7fd4400f05bf35dc083856594d4dab",
+        "fc7ccecf2c50166aebcc8292a93b711f7b762683fa605a21d12c2f85ecab0006"
+      ]
+    },
+    {
+      "title": "Artificial intelligence will change taxes",
+      "source": "Diari ARA",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbG9zOVNManI1ZTZiMFpaQmFXN29UNUE4cl9fZzdUdFRla3RlOWk5My04TXN4Ukpnb3pISkJINnowQXg0NThKYlU4aHlPejNLdDBxMVp0NUhhVm15bUpiUjZ1VGdBVjFDX0VQTFdxMDVnUUtiMzRwaVpXckJ2dWQ5N0FQUUJGb01jRTkxMEpqQQ?oc=5",
+      "published_at": "2026-10-18T05:55:31+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "1b6c1bb90c89bfa545de7c0aa08358cd36098cdd0ff50c9073149b763242d214",
+        "34da748234d96a3cfc16257986af96d39965ebb3552511478342065c8de1f1da"
+      ]
+    },
+    {
+      "title": "DeepSeek新模型Token消耗降超五成-36氪",
+      "source": "36kr.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXRnRUYUVMa1dYNWw0OUZ5NWQxOWItenFwMHdQamw4Q2lBZE1wTHZ0WWxhMDJ4RUVZd3NTZWdlVUtwWUlzMnczdkpEUGFNSXVVNDY5OGxOMEg?oc=5",
+      "published_at": "2026-10-18T05:55:36+00:00",
+      "topic": "중국 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "CN",
+      "duplicate_keys": [
+        "4ec32d3550b522d2e530b9944e8089772a18ed7ce3f5590dd7a8e5f163b8a06f",
+        "5044d8081302709ced9bda204d3a05dbebb971bb14a64d44cc6d6e56770483bc"
+      ]
+    },
+    {
+      "title": "'AI 로봇 수도' 대구서 21~24일 국제로봇산업전",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wb0pJOWVSSlNGMGhCWU4zQ21halB4eTh4R0lsbXFjcnlHaUZyM0ZqSVlWUWF1WEVmS0dJU1dvUndIV1YxYXVOX1NoMjNDT2N1NkRfQnVrM1ZtVGU5Z0k4?oc=5",
+      "published_at": "2026-10-18T05:56:25+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "a5e2a472095b2214528bfcdfaaf592056a7b68e97f2b6f6bea951fe9d117b621",
+        "a734bd5ff278d748dc09abd4739b90e036ff8c84269ad0e242449a9075b8974a"
+      ]
+    },
+    {
+      "title": "한림성심대, 직원 대상 인공지능 활용 교육 실시",
+      "source": "강원도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yM0p1OS1wWjhzSWhkQmk5UVFaZkZWYkg0NHdHVDJSWW5xY3JUdWxZRmw1MVM5VUJGNkUtdkh2cDFaWVhVU3ducU5oc0FiMEZhbVZXaEtVRGxTS3ZRcUo4bXV4MWw1LVE?oc=5",
+      "published_at": "2026-10-18T05:56:36+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "42a4e7187782ba0acb214e03f80ff1cf642319ac1aa8ade7d225bdf6fd59f092",
+        "6cc4c3a1decad90841102d33d6f1eca44e2a772dab12389449c14b17160cfce4"
+      ]
+    },
+    {
+      "title": "\"AI가 살피고 로봇이 일하네\"…현대차·기아 ‘자율운영공장’ 가보니",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZWWl0bTZQOC1QWTBfMXhULW9raFFabkoxdGFjcUNqaU9rQTViWm5WV1dpVkRzZWpEbGxEUlRGVVlpaEpub1NGMGtPUjZuMWh0TkN0djN3?oc=5",
+      "published_at": "2026-10-18T05:58:17+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "9a1ff1dc751443de760a160e206bf23537bf298f8d4346060d6bce3a25dd8f8e",
+        "c09146194afccb5f5023fa3e3b3935b50dbcdebfc5182130e611a29e9ae836bf"
+      ]
+    },
+    {
+      "title": "“트럼프에 속았다”…물가·AI 데이터센터 건설에 등 돌리는 美 러스트벨트 민심 [1일1트]",
+      "source": "헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xSTlPa0pzWUg4bl9Yc09TV3FpanNDN19fcVdwTGh4bFdvQlpaZlZxVEplRjRwTXUyNnFBYzZMX0FfV09aQnpuYVBUdlVvdktaNXJISy1R?oc=5",
+      "published_at": "2026-10-18T06:00:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "953496ba45feeb16c3a34d631f374f171ec53f931bbb919291eda3626ff44530",
+        "ae5a8fd90759a082b4a44b05f24bac8aef7d74333a8b1c6898d67bdd10946941"
+      ]
+    },
+    {
+      "title": "Infineon's AI Power Build-Out Presses On While Rate Anxiety Punishes the Stock",
+      "source": "ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaUI0SlU4TFBBREFFV0JSOFJxU0ZHbkZhcGVIajhGS2Z0c1lZV1IydHc2emQzWWtZOE9wMW1EQzBwWXBzdURCWW1KcGJydXlSR0hnRXluQm9QQ2Q1RXgwekhRWl90LWZJaF9XNzAyX3BNQlc3d0JQWF85R2FFRkI3bFpjOHpKV2JmQjhfUThmT2l4alduRHpzN3RRbHY1QThBWlY2OWVmRlZ2TnFqUWlKM3dLOU5MVGVmYU1zLTAwQXNTcWQ2Y1ZtOE1kUU5yLV9Lamt6ZTgyaUNFNjJp?oc=5",
+      "published_at": "2026-10-18T06:01:41+00:00",
+      "topic": "AI infrastructure",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5173007ee69add32404389191f6d26115c8438825e2337ea01b319cde5be0441",
+        "ced3b1394f87928bd097f7373b68c96d1df8d0055b197d066edff13030a60d09"
+      ]
+    },
+    {
+      "title": "AI데이터센터 물 수요 최대 234만t… “공식 통계 마련부터”",
+      "source": "세계일보",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PbDNOakM3X1BXNUFPb2NJT20yMldlcndkcTRYY3dURWpPRkdMd3NKcW0yZUpoZTNWVV9yLV96cmVMb0dmOW5FMDRNdExDem9Ebmg0SFZsM2fSAVRBVV95cUxQWkhGT2gzN1lnakExd000dkR2ZzRETTdqR19ZSVRJNV9oeGRjLWFjOFU5TVpVQndaTEVmTnVSa3VwRGpyOERTRW9hS1YwNmVWWVZjd24?oc=5",
+      "published_at": "2026-10-18T06:04:20+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "6dacbb158cabba3ef08d4ad46b7b472477727e91c1e453b01ef60da79b3e828e",
+        "e3c0d848b2ed1603fe1958ebcd5854aa0c0ff1d60a04a99c9fcb402d69b731a2"
+      ]
+    },
+    {
+      "title": "엇갈리는 통신3사 주가…AI데이터센터 투자법이 갈랐다 [주末머니]",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUaVctZDlnOFlfU1VjQ194d3dkMUFjb2ZSZmItNmFtMTl0MkdteVg5cVVJU1dGMHgxN3hQRk9OM2ZQcm9heDFmZF9mTGN2NEJUVjZVaXZsbnRhc2J3NEhWeA?oc=5",
+      "published_at": "2026-10-18T06:07:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "1d854393388d6588b563489206a49443ca3c97f1a340d7e53d0b740654e804e0",
+        "bee63b701ebc761b84e0e5e7f6ac3b58b979ac076b309575f5c499ddccbaa519"
+      ]
+    },
+    {
+      "title": "Telecom Stocks Diverge... AI Data Center Investment Strategies Set Them Apart [Weekend Money]",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mWUF5dFJ1VGJRY3NqVHA5N2xjdHFxMWxEQ05EUnlDemNfNXREZUJUZW1hZE1jN2g5NldmRVJiclpBMm9NUUQ2cW1UME9KR1dmODF1Y2hsS0swX2lMUmxTeXZKckE?oc=5",
+      "published_at": "2026-10-18T06:07:00+00:00",
+      "topic": "AI infrastructure",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "f37ce8d025256a02ce8960afd38e07244467768adc54c22e9331619301f85d5f",
+        "f695befcc40624674c69abd2fa95de90d0da8866dba4e4871c0521c02be80a8c"
+      ]
+    },
+    {
+      "title": "DeepSeek’s new AI model talks less, so a coding task costs 20 cents",
+      "source": "Martin Cid Magazine",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcU9qcjE0Vi1yemt4eC1uVkJZRlNaSHg4ejMyMncwZ0RPR1ZVdl9JSF8wU0FlZDY4OC04QmpQUmV0eENpUER2THNPRUgwbTRLeXVMOTJuaHRhVE13NzNEOGt2MkpUQVozYVVjZ2o5MUw1aC05OENCTFJzRUxyUkpjZWdEbm5Gakxhc3NNcU9Bcw?oc=5",
+      "published_at": "2026-10-18T06:10:53+00:00",
+      "topic": "중국 AI 해외보도",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "87c82f175759bd13113d4f756af0834d7efe0e589ee1053de319c54482a6fd4f",
+        "c86dd718c93ecf3124bd01bafd885e51244ce7b7559c7f637a2638ee0cf276f1"
+      ]
+    },
+    {
+      "title": "경북도, 생성형 AI로 행정시스템 자체 개발…7000만원 절감",
+      "source": "경북매일",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vQlphUFo4Z2ZyMXpTa3d6Z0pLeGlYZHpaLUZXWk5yQW5ET09aRDZJa0Mzd0FHQ2hfN0JEUlkyWmlEcnVEYldreDhHSFNvakdQb2RBY0pWY1A0QQ?oc=5",
+      "published_at": "2026-10-18T06:14:00+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "04480a467f26d4c1b93f378f04d8204baf51bdb27a4d71f8bd7edd2c646d0c05",
+        "896dd6b86833b33013eb2c88941004e07925259f7d9488ca6752adfca13abc86"
+      ]
+    },
+    {
+      "title": "영남이공대, 대구 남구 지역주민 대상 AI 인재양성 프로그램 운영",
+      "source": "아시아뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aWWpyeHdud0FrUndBRVpOR2psaWdmNndQMzE4bnF1c0QyY2UtZU8tMVEtUmQ1WlZIZ2p4V0kwb3FUNG11VnRqZnBwY0Z6dDlFampjeWd0NnZ2UktM?oc=5",
+      "published_at": "2026-10-18T06:16:48+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "9615c5df9fd52a96b73f4690a83abb88411c2150157ad2ba084b4e3c561621a7",
+        "b283d6239a1f59c580b7cb9868a5e75928317f9e1d3b1b224ad1f0682f1d3ef1"
+      ]
+    },
+    {
+      "title": "AI 데이터센터가 바꾼 배터리 시장…삼성SDI·LG엔솔, BBU로 영토 확장",
+      "source": "아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oc3BhTWk2SzdrWmZYVXBQMUprTk1CYnBEVnVQLXUzMnQ3WmdjZkZVb1ZYNGI2ZXJSelVGa2piY2hrUmxmd1R0bUVfMkp5YkhrQW9lUlRWS3Jxd2hJNFdOcENYM0tYSnVfejJGMExB?oc=5",
+      "published_at": "2026-10-18T06:23:06+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5ccb4bbf104d57318491142f9fd13f55d498ce960cbf7f3c6232ce4e643bc353",
+        "838cc9334fae5bbb360ecf9b15f2ff42454cf9cbd4a0dd15b97edd9d5fb55e02"
+      ]
+    },
+    {
+      "title": "황정아 국회의원, “AI데이터센터가 지방 성장 이끈다”",
+      "source": "전국매일신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LRE9teG9PdkhHYUVOcU13TE9vRDZBUFJYOHFOMzIzRGx5OFpXSnBtVmhUT3VlQXdTTnV4ZmlBT2JZdFlZM1RFMzJVT2Q5M2xYZjQ3dmpabmtRNlFVa3ozM3ZLV2xTZW15RWhYM2ln?oc=5",
+      "published_at": "2026-10-18T06:24:33+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "82be44adaa0b697dd9313f3d38fa2e89727ee328eeade031fd6617c9c14a32ba",
+        "970452f40017e48e1e0e7808485bfbba70f817de07b444cb3efce5a59152659d"
+      ]
+    },
+    {
+      "title": "원자 배열까지 이해하는 3차원 AI 개발…차세대 배터리 소재 발굴 정확도 높인다",
+      "source": "인공지능신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03czF4S2ZHZDl6QTVJUVZudWI3S3JRTXVnc3lUMF9TNVA5d0YtRnJERWJnckV0SkcyMGNFWmUwNXd4MGxWN2hiNlVja016TFNYNXhmald1cWRpMm5UaDZ0MTdvS3J4dGs?oc=5",
+      "published_at": "2026-10-18T06:32:31+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "1b3deffcbe7626762d1478a1d541afb77823abe92a30c89367b036fce8b81428",
+        "3cf5495d21f8f265d3a4e291876aa87d3cf9c10c18677cbf091d92e9471ccc55"
+      ]
+    },
+    {
+      "title": "The Zero Trust Foundation: Building Verifiable Digital Trust for Autonomous AI Agents",
+      "source": "CXOToday.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc005YmY1U0ZrN0Q0YkkwRmFJOUpmbVNueHo0N2xmWlFONlc0ZXJqYndJZ2dScTZCVHk4dEZ0UWF4NEI3Z2swek5HME9nbTF4LU1ITTBrbFVRby1SelNxRXdxMUlkREJxRy1PUmxHT0FUVEREbW9qM244N0hsTnBPQlY2cXI4V2N6dldhQmhIeldBTDE3M3JsNklzQVVBYk1hSnFDZmJhQjN5VWdYVjNIQVk3SjhsclBkU2Ytcw?oc=5",
+      "published_at": "2026-10-18T06:42:08+00:00",
+      "topic": "Global AI",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "60d6f953413c2125e4ac2028b05f159932d3d578cb029b5dae2576876764de6f",
+        "8654ad3174eea7d3cbc176c3e6c89fbbb13ed43e394687451c48351e412f89d8"
+      ]
+    },
+    {
+      "title": "딥시크, ‘V4.1-플래시’ 업데이트… 코딩·추론 성능 향상",
+      "source": "IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOd3hUZUFlaFpFYk9ScGFYa0UtNnE5ZFVmeHYyRDM5QnBKbHhFQkl5bjNxTE9GOWRGM0MxVmVwdzR1ZkZmYlVJWF9YbHhHVWxrSGdTR09mNmpJa19DZFp4LThYeW9DZkhuczFlUlhXQ2w?oc=5",
+      "published_at": "2026-10-18T06:45:22+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "22fcec12496211239d4f3b106cbcc43fb52225cafcd11262c82ac7991e4ce507",
+        "ba29c9ffc6d0f96f51da7eec388696d8d2a58651ac59f072734f6b8e7ed80632"
+      ]
+    },
+    {
+      "title": "AI 에이전트에 문 닫는 웹사이트…‘자율형 AI’ 구상에 제동[이규화의 글로벌AI]",
+      "source": "www.dt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tdGFHbTJmSl8tNDRpdVNPMHluM2NlRDlVUmpsRmFMNjdKZEl2cndlOWxIVUNSRFdTSnRFNEJaWGg0OU05ZmxaU0ZEYlUydw?oc=5",
+      "published_at": "2026-10-18T06:51:31+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "87e60e07a46b69d803db44eb5426ca05cdba121642ced5c18283982e258fe17e",
+        "9783b7ecd69f9da4c68444257b12cc146131704a2e67fe5c1254899fd6cc51c7"
+      ]
+    },
+    {
+      "title": "지능 공장에서 ‘신용 폭탄’으로…‘AI 데이터센터’ 위기론, 왜 커졌을까",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1T1VGdDQ3VVJoMlJKaUszb1FTNmJ5T0NORzFQd0R6VGpMM2oxY3hTTF9WQXZ5RFZ2c1I0dDI0UXFYYy1vRTJGcnlWUkFpTVZpaERabXc4LW5tQdIBX0FVX3lxTE1YOFhyd1VUeUJkckhaQXJJNEswc2d6TERxSU9ISUZ4WHVFbFJlNlNMcU1qb21YQklEMGJhZlR0eEx3WXRROWhoSVZVNkpuQThXTWl4T1hWU25BTzJPQlA4?oc=5",
+      "published_at": "2026-10-18T06:56:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "6383dc43ec214311e03e7a4594d6c882dd3c731dd1da7b584ef5da4151477d0a",
+        "804619bb8db0445f3e3ae508c65573a349dfb78b78302f387e2e6e43c85956de"
+      ]
+    },
+    {
+      "title": "경북도, AI 로봇·BIM으로 지역 건설업 기술혁신 돕는다",
+      "source": "경북일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT19TcEtrY19GY1hhR19YODRWS01MTHEyWW5lb3ExdzlOUGJGRml5a08wLWJPdXJIMGV6ZXlQYUd3dHFKaGNEcFRLU3ZMdDVOTlRYN0diQjZCamJjYUR5UFdRanhBaUtKbDNJYW0tUQ?oc=5",
+      "published_at": "2026-10-18T06:59:16+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2ec2dbd354e52ebcd9fbe4e575e064edb13af5fe397305dbf3322532402c7659",
+        "5993bc274eb11e3c914b1e08a3a8dadbe0c63ce9aa7aab9a1abdb9b347d94b05"
+      ]
+    },
+    {
+      "title": "[현장포커스] 신성이엔지, 반도체 클린룸서 AI 데이터센터까지…'환경제어' 기술 확대",
+      "source": "한국아이닷컴",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ucWZEZDFBMldYUEJRLWswemVSOHVDTHZCYWQwS2ZrclZ5RGtUWEE3VnVXT3VEMzhIMWhsYjEtRGhQUGF1dUlUZGRTOGxxNVZPc29tOHl6NW12ZlNadXhTUl80NXJJdzBFOTZj0gFvQVVfeXFMUE9TZjZ2SjFXRWJ3MHNlMjlrUlJMQ1l0YVl6d2Juc3NQQTFvQnlnMVc4OU5pX2ViLVBZNV92c3hnOTRuSnNHNzAxRlBJM2NJUlFPR1hUYVRjdng3RndWcWxaei1ZZ0ZpazYzYUxiMVBR?oc=5",
+      "published_at": "2026-10-18T07:00:00+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5c9129cb9830b6e9a42d1a0662d86896dd572471460e0023f3e45887356ed41f",
+        "dca3590c03fc15152769b38d228967dd32207ba9b158906db41c5a4a2f33b0c8"
+      ]
+    },
+    {
+      "title": "중국, AI 핵심 기술 수출 제한 추진…'독자 AI' 중요성 커졌다",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oeHoxZW5ZTmxZSFpCVTFHdWFmOTV6RFFDNGN1VlJycXk5RWdnTi13cG1lNy1qVzdSOHlaVHctNmdQd0F4NDVyNWRjSVoxdWNGazVia253?oc=5",
+      "published_at": "2026-10-18T07:00:04+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "3d715aa21ee0a4858adf27d272ab1ce076b59cf20a6b87e5856fc422bbed111e",
+        "d0b7a80527d6170f6e292b5c2e75c30f0a84a3a1893439e41eeb318a99313348"
+      ]
+    },
+    {
+      "title": "코나미 \"생성형AI는 도구일 뿐, 혁신 본질은 사람\"",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jcXRRRGhIUjVxU1h0XzdfUlhkZ3VJVlZNWDhPX2p0cWFiWEgzVUY0eF9fc19veDlHbEMyMUVOc0htQTNYT1diNWVzZjljZmVHcGsxOVZB?oc=5",
+      "published_at": "2026-10-18T07:00:05+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "7fc89e9b0ed0b6b3f46011c18ecf5d9f5a8cd58cddbf7001b93b9b3f6189adeb",
+        "e58f51181311920d3484f7f6b87bbb8235e47b110a28d9ce558ed15fdbdefe49"
+      ]
+    },
+    {
+      "title": "마시모, AI로 심방세동·오피오이드 호흡억제 감지…맥박산소측정의 임상 활용 넓힌다",
+      "source": "인공지능신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fWUxGQUlJT3J2bXgtS3RGSU5Ec25pdmVMamR2WGpxMXRCVVFUOW5ndGtlT3RDNUtRSG1vaW5QOUxSLXBlekV0T1lSWVJQZjdPQ1UydzJyTXpDYVRhY0VoUkJwcmx2VWM?oc=5",
+      "published_at": "2026-10-18T07:00:30+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "0fec4fda291f6d7e711730e610faefa79cb75a6c2febeb14b3b89c731aaecaf8",
+        "4987e3519c1a3b4103090d2639dc4898354cb54b8d1e0d1453df1b647d31f1ab"
+      ]
+    },
+    {
+      "title": "Taiwan’s Innovation Advantage: Turning Semiconductor Research into Global Opportunities",
+      "source": "Arab Times Kuwait News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa1RqWG0ydzVnTzY2dHVKWDFjZmJFdWpRZXBUN2UxRVRiT1VGVE54am9URXFjcFJpUUJVMTJxdEg3WEhHTGVDXzluaGdtWjZPb1E4elpTRGtBb1NiN0VoUjVjc1BDR3NfY05JdDN6Y0otcXkweU5haDZzZnJKS1NTNmxWRF9uQ1BYSFItU25vTDR3RC1DR0RGOTNNblFJbVpYdWlNTGhqb3ZBV0tNQVBwSVNScmFLLVE2MEQ2NVAyTXc?oc=5",
+      "published_at": "2026-10-18T07:00:40+00:00",
+      "topic": "AI infrastructure",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5275a68c23a09fd98f6ebde43558c06e9230c42b0e1d15cb1ffe1c371fb0c854",
+        "722c0a1fe14699375ca0b6f0518576d43034552ea50bde389cc4f2e8f0c1af9b"
+      ]
+    },
+    {
+      "title": "Amazon, Yelp, Delta, JPMorgan and Schwab confirm blocks on AI agents",
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDFlZ0tfODh4NkxNcUZ0R1BVS1FYbmVjU1RXWFJGcjRQcFZJTnBtNjllcUl1Wk5SdGZ4S3NTWjBGOENoenRCd1hZMzYybTNZOHZuNjM0OVltVHVqaVMtUEYxMTAtMVJ1d1RxTEhfV0JQVFlmbl91TXBZWndVekU4WUVka1BHTllfc2NKcjdjX3pfVXdCa05leQ?oc=5",
+      "published_at": "2026-10-18T07:04:12+00:00",
+      "topic": "AI 툴·연동 활용",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2bddff71f75831fcdf996f624561bc985cceeb212331d432de255162af94b681",
+        "74c4592dff8c703c557ea62d4ce7a09a131a7b8de04a6b5d9a33eb4d63ffcc7b"
+      ]
+    },
+    {
+      "title": "OpenCode breach drains users' AI keys, with one reporting $1,700 in losses",
+      "source": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeHVRWTdjb292ZkpPOFFFeVZvd1FDSTR1LWZHU19jdWZOd1J1anNNMDM1NnhndDBwSkdEcmdpdHY4b3o4U1BlS2xBM3d1M0laQ0xYNEpueHlsVG1HMGlGbmZ1QjlCd1hTX21iVnlsUGExaHdlNUJGS01pcEdpZ3hTZzlIOVJMMkFCR0lBYUVTRnhxZjk2cE1La2JjbnExZjRkZXZTcEJnWUM?oc=5",
+      "published_at": "2026-10-18T07:04:36+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5198fa00242a0497bc1039332989e378b67795af27f48f031ff338718f6795ed",
+        "6f2890bddcb69bf1d6d18c3170ff03f138e7a978ca5b487ef3fa1e2bfe9f2343"
+      ]
+    },
+    {
+      "title": "The Biggest Mistake Beginners Make With AI Filmmaking (It's Not What You'd Guess)",
+      "source": "HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTN2T0VNaF91Sjh2MWllQmU0enVhanFOdlJ1bnRyMnlhb2c2dWF0d3NYVFlXQTNuUEMxWThhWG5uRkFuZ0hud2ZMMGtkRDhfdlhtZEpTYllVRnpGSTQ0RWpQZWdJeDhFblF1REpnSWUwQ2hLb1ktcF9aZkV3T09FdTRWaDBKdGlYT3Z4amFWaHBQTFR6N2xJTzdjaDdOcFlmVFE?oc=5",
+      "published_at": "2026-10-18T07:05:49+00:00",
+      "topic": "AI 툴·연동 활용",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "17d17c75627d772a421d8c4a051ce4a4d10d3a2d8433b0569e17febfc2da20c8",
+        "91254a4acc143343b076ed7a618df946ac3461c990ce7daa0a2c00d8791501cb"
+      ]
+    },
+    {
+      "title": "VB Pulse Agentic Orchestration Report",
+      "source": "VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uX0ZERU9SaU1EenlpSldrYmJNZ0piN0lFMUxlWExWNkwxTGctLTVZeExkZjB3VkstLVJfc1dSem1QUTRtR01iT0dtbHM4ZHZocS1Jc3VSWjc5NnZ3ODVNSmhPRlpCX0NTZEVsRWRR?oc=5",
+      "published_at": "2026-10-18T07:06:51+00:00",
+      "topic": "미국 AI·IT 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "US",
+      "duplicate_keys": [
+        "5a69e6abe34159535062f32a0b407b8d7ef56ca1b8b7e67befe8f4f1777d2541",
+        "79a832b63dab4edc4f1d82cd0ac26d4e071329aa2e4db410ed85001c8a12b5ba"
+      ]
+    },
+    {
+      "title": "테더, AI 에이전트 스타트업 '알사'에 투자",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3Z0FkYmhuaXVWVU1Hb0JPQ0t0dnBRdDB3UG9PQmJIbldvc0RvU3M5TWN6VjB4V3ZtdklQZEw5TEttZE5lenRMeV9vWFNMMGwy?oc=5",
+      "published_at": "2026-10-18T07:08:07+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "78a9874f1e3dd1ba53de683fda769a0fe4baec3d6cac9779614a831b2ab0ac27",
+        "89753996f100f2412871b19ed3b11950854b7313e697258af187ca0f3ea11407"
+      ]
+    },
+    {
+      "title": "인공지능 시대에 학생들은 무엇을 해야 할까요? | 2026 과학 영화제",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTY1R1ZUbFZSNS1Xa0lMYjh0TUhCS3dpMk00T1BVN19KSzNQdGRkeTV6WnRyenc1VE1HV0dpNUJ6cWNVampMM1pBZE9ndFdnNW9GR1F1cFNMaXZVX1dvZTJxVVNNOUpxeE5rYVZhWjhjYVJpcEJRdEtsRzcxREdhQ3RKRFRnaXVwd3JEV2xhVDRiUTBLN0dN?oc=5",
+      "published_at": "2026-10-18T07:10:36+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "93eabfeeada5482ae33fdc6327553dba47d8243931221ed1b4c876db15672379",
+        "e8125d22d53ef9a9e7b45c7a0867e40253a8bdafe2506f12893dc5a631c96f1d"
+      ]
+    },
+    {
+      "title": "수은, 국제금융공사와 핵심광물 공급망·AI 데이터센터 금융지원 확대",
+      "source": "뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GRHJ3akJObHpqdVVnMGJxZWlXZFJqX0lqTzNyY0wzMEQ1c2Vsc01PNzhNRjZ3RjNSZ1U1d01HTXBhM255clp5bW1UdUlvYTRGVUhPdW40UFRqVnBqc0FYRktIS3p4YTRBSWtMWUw1d0hmbkFfcmhMWkUtNNIBgAFBVV95cUxQUmVwZmVKaURzZkx2OGhlMnZpV0tZc012UDB3bXJDaWlYNVpPRGU0SDJlb0NlQnJhaGk2aWNzSF9mUEx1cEYzcUhub3FPTEhQT2FSTExmQUJDcE5wVXRxSVJ3SGR3dTd0amNWLUFaQ252ckhac2tCNmNSa1R6M0VRTg?oc=5",
+      "published_at": "2026-10-18T07:14:09+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "42270a1ee6cdbe2affd66edbf6b5e1fe330a724f36bc5a83a92e98cfe849ea56",
+        "d7135a95b5a061ca7840721aa938821cfa3ee509d42357f7957f4ecaca385a42"
+      ]
+    },
+    {
+      "title": "삼전닉스 월요일에 주가 어떡해요?…‘中딥시크 쇼크’ 또 온다는데",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pT1d2WGhXSmZ4aWluXzdBNHB3Z21OUjhjV1VhaWd1WC11VVpTQUxMRHFENWtHS3VBLWVkSl9OcXYyemlwWU9EdjhDYXIyREtnQlE?oc=5",
+      "published_at": "2026-10-18T07:17:54+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "d78b297f982915315f7d1e1ab6c85e23c3be8fd53b1bd3d43ed3d1502796be7c",
+        "e48af6bb52a2117d019085748442057165143b351579b72406352b3010b79bc5"
+      ]
+    },
+    {
+      "title": "三星电子和SK海力士周一股价怎么办？……听说‘中国DeepSeek冲击’又要来了",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIX3Fob0paWHA1aC05ZGo4c1YyZFcxUjNOOXNESm5MMlRoT1VIUURFLWVmMFJVb0l3QW5aTXlDVVNUTi1UOGFCaVhJUHY4QktIeFFJ?oc=5",
+      "published_at": "2026-10-18T07:17:54+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "0ffca98cf640cb30d56569a5b3ab2eb381ba83b6ba00c82dc430a96cb4451475",
+        "c8bc305b6058f75c17c4351d5dcd90db2a73f0721757eed79f52293f801c3ac8"
+      ]
+    }
+  ],
+  "last_success_at": "2026-10-18T07:24:21.723321+00:00"
 }
