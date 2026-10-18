@@ -744,6 +744,136 @@ sources:
         priority: 3
         publisher_watch: true
 
+      # ---------------- 온라인 매체 직접 RSS ----------------
+      # 구글 뉴스 색인을 기다리지 않고 매체 사이트가 올리는 피드를 바로 읽는다.
+      # 기존 점수·중복 제거는 그대로다. 시장 키워드가 없는 일반 기사는 나가지 않는다.
+      - name: "연합뉴스-경제"
+        url: "https://www.yna.co.kr/rss/economy.xml"
+        priority: 3
+      - name: "연합뉴스-마켓"
+        url: "https://www.yna.co.kr/rss/market.xml"
+        priority: 3
+      - name: "연합뉴스-산업"
+        url: "https://www.yna.co.kr/rss/industry.xml"
+        priority: 3
+      - name: "연합뉴스-국제"
+        url: "https://www.yna.co.kr/rss/international.xml"
+        priority: 3
+      - name: "연합인포맥스"
+        url: "https://news.einfomax.co.kr/rss/allArticle.xml"
+        priority: 3
+      - name: "이데일리"
+        url: "http://rss.edaily.co.kr/edaily_news.xml"
+        priority: 3
+      - name: "서울경제-금융"
+        url: "https://www.sedaily.com/rss/finance"
+        priority: 3
+      - name: "머니투데이"
+        url: "https://rss.mt.co.kr/mt_news.xml"
+        priority: 3
+      - name: "머니투데이-증권"
+        url: "https://rss.mt.co.kr/mt_news_stock.xml"
+        priority: 3
+      - name: "아시아경제-증권"
+        url: "https://www.asiae.co.kr/rss/stock.htm"
+        priority: 3
+      - name: "아시아경제-경제"
+        url: "https://www.asiae.co.kr/rss/economy.htm"
+        priority: 3
+      - name: "파이낸셜뉴스-증권"
+        url: "https://www.fnnews.com/rss/r20/fn_realnews_stock.xml"
+        priority: 3
+      - name: "파이낸셜뉴스-경제"
+        url: "https://www.fnnews.com/rss/r20/fn_realnews_economy.xml"
+        priority: 3
+      - name: "조선비즈-마켓"
+        url: "https://biz.chosun.com/arc/outboundfeeds/rss/category/markets/?outputType=xml"
+        priority: 3
+      - name: "조선일보-경제"
+        url: "https://www.chosun.com/arc/outboundfeeds/rss/category/economy/?outputType=xml"
+        priority: 2
+      - name: "뉴시스-경제"
+        url: "https://www.newsis.com/RSS/economy.xml"
+        priority: 3
+      - name: "뉴시스-속보"
+        url: "https://www.newsis.com/RSS/sokbo.xml"
+        priority: 3
+      - name: "인포스탁데일리"
+        url: "https://www.infostockdaily.co.kr/rss/allArticle.xml"
+        priority: 3
+      - name: "매일경제-기업경영"
+        url: "https://www.mk.co.kr/rss/50100032/"
+        priority: 2
+      - name: "한국경제-IT"
+        url: "https://www.hankyung.com/feed/it"
+        priority: 2
+      - name: "동아일보-경제"
+        url: "https://rss.donga.com/economy.xml"
+        priority: 2
+      - name: "한겨레-경제"
+        url: "https://www.hani.co.kr/rss/economy/"
+        priority: 2
+      - name: "전자신문-산업"
+        url: "https://rss.etnews.com/Section901.xml"
+        priority: 2
+      - name: "SBS-경제"
+        url: "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=02&plink=RSSREADER"
+        priority: 2
+      - name: "CNBC-금융"
+        url: "https://www.cnbc.com/id/10000664/device/rss/rss.html"
+        priority: 3
+      - name: "CNBC-경제"
+        url: "https://www.cnbc.com/id/20910258/device/rss/rss.html"
+        priority: 3
+      - name: "CNBC-톱뉴스"
+        url: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+        priority: 2
+      - name: "MarketWatch-실시간"
+        url: "https://feeds.marketwatch.com/marketwatch/realtimeheadlines/"
+        priority: 3
+      - name: "MarketWatch-톱"
+        url: "https://feeds.marketwatch.com/marketwatch/topstories/"
+        priority: 2
+      - name: "MarketWatch-마켓펄스"
+        url: "https://feeds.marketwatch.com/marketwatch/marketpulse/"
+        priority: 3
+      - name: "Bloomberg-마켓"
+        url: "https://feeds.bloomberg.com/markets/news.rss"
+        priority: 2
+      - name: "WSJ-마켓"
+        url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
+        priority: 2
+      - name: "BBC-비즈니스"
+        url: "https://feeds.bbci.co.uk/news/business/rss.xml"
+        priority: 2
+      - name: "가디언-비즈니스"
+        url: "https://www.theguardian.com/business/rss"
+        priority: 2
+      - name: "NYT-비즈니스"
+        url: "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+        priority: 2
+      - name: "니케이아시아"
+        url: "https://asia.nikkei.com/rss/feed/nar"
+        priority: 3
+      - name: "FXStreet"
+        url: "https://www.fxstreet.com/rss/news"
+        priority: 2
+      - name: "ForexLive"
+        url: "https://www.forexlive.com/feed/news"
+        priority: 2
+      - name: "SeekingAlpha-속보"
+        url: "https://seekingalpha.com/market_currents.xml"
+        priority: 3
+      - name: "야후파이낸스-시장"
+        url: "https://feeds.finance.yahoo.com/rss/2.0/headline?s=%5EGSPC&region=US&lang=en-US"
+        priority: 2
+      - name: "인베스팅-경제"
+        url: "https://www.investing.com/rss/news_14.rss"
+        priority: 3
+      - name: "인베스팅-외환"
+        url: "https://www.investing.com/rss/news_1.rss"
+        priority: 2
+
 keyword_scores:
   critical:
     score: 9
