@@ -2,6 +2,7 @@
 from __future__ import annotations
 import argparse
 import datetime as dt
+from difflib import SequenceMatcher
 import hashlib
 import html
 import json
@@ -11,6 +12,7 @@ from pathlib import Path
 import re
 import tempfile
 import time
+import unicodedata
 from urllib.parse import urlencode, urlsplit, urlunsplit, parse_qsl
 from zoneinfo import ZoneInfo
 
@@ -70,6 +72,36 @@ def keys_for(item):
     keys = [hashlib.sha256(value.encode()).hexdigest() for value in ("url:"+url, "title:"+title)]
     return list(dict.fromkeys(keys + [key for key in item.get("duplicate_keys", [])
                                       if isinstance(key, str) and re.fullmatch(r"[0-9a-f]{64}", key)]))
+
+
+def story_signature(item):
+    title = unicodedata.normalize("NFKC", clean(item["title"])).casefold()
+    source = clean(item.get("source", "")).casefold()
+    if source and title.endswith(" - " + source):
+        title = title[:-(len(source) + 3)]
+    title = re.sub(r"^\s*[\[【](?:속보|단독|종합|업데이트|breaking|updated)[\]】]\s*", "", title)
+    words = re.findall(r"[a-z0-9가-힣\u3400-\u9fff]+", title)
+    tokens = frozenset(words) - {"a", "an", "the", "to", "of", "in", "on", "for", "and", "with", "as", "by"}
+    return " ".join(words), tokens, frozenset(re.findall(r"\d+(?:\.\d+)*", title))
+
+
+def similar_story(left, right):
+    a, aw, numbers_a = left
+    b, bw, numbers_b = right
+    # Model versions, prices and benchmark changes must remain separate news.
+    if not a or not b or numbers_a != numbers_b:
+        return False
+    if a == b:
+        return True
+    shared = len(aw & bw)
+    if shared >= 4 and shared / max(1, len(aw | bw)) >= .65:
+        return True
+    if min(len(a), len(b)) < 25 or min(len(a), len(b)) / max(len(a), len(b)) < .78:
+        return False
+    if shared < 2 and not (re.search(r"[가-힣\u3400-\u9fff]", a) and re.search(r"[가-힣\u3400-\u9fff]", b)):
+        return False
+    matcher = SequenceMatcher(None, a, b, autojunk=False)
+    return matcher.quick_ratio() >= .88 and matcher.ratio() >= .88
 
 
 def load_state(path):
@@ -133,18 +165,29 @@ def merge_pending(state, items):
     # Merge overlapping duplicate groups, including transitive title/link aliases.
     groups = []
     sent = set(state["sent"])
+    history = [(story_signature(item), item) for item in state.get("sent_stories", [])]
     for item in state["pending"] + items:
         keys = set(keys_for(item))
-        overlap = [group for group in groups if group["keys"] & keys]
+        signature = story_signature(item)
+        overlap = [group for group in groups if group["keys"] & keys or
+                   any(similar_story(signature, other) for other in group["signatures"])]
         members = [item]
+        signatures = [signature]
         for group in overlap:
             keys.update(group["keys"])
             members.extend(group["items"])
+            signatures.extend(group["signatures"])
             groups.remove(group)
-        groups.append({"keys":keys, "items":members})
+        groups.append({"keys":keys, "items":members, "signatures":signatures})
     pending = []
     for group in groups:
-        if group["keys"] & sent:
+        matches = [old for signature, old in history if any(
+            similar_story(signature, candidate) for candidate in group["signatures"])]
+        if group["keys"] & sent or matches:
+            # Remember newly encountered aliases of an already delivered story.
+            at = max([state["sent"][key] for key in group["keys"] & sent] +
+                     [old["sent_at"] for old in matches])
+            state["sent"].update({key: at for key in group["keys"]})
             continue
         item = dict(min(group["items"], key=lambda x:(intel.profile(x)["source_rank"],
                                                      -len(x.get("excerpt","")), x["published_at"])))
@@ -228,6 +271,11 @@ def run(path=STATE_PATH, dry_run=False, session=None, now=None, translate=None):
     session = session or requests.Session()
     session.headers.update({"User-Agent":"AINewsDigest/1.0 personal RSS reader"})
     state = load_state(path)
+    # Do not drain yesterday's large backlog as if it were fresh news.
+    state["pending"] = [item for item in state["pending"]
+                        if dt.datetime.fromisoformat(item["published_at"]) >= now-dt.timedelta(hours=24)]
+    state["sent_stories"] = [item for item in state.get("sent_stories", [])
+                             if dt.datetime.fromisoformat(item["sent_at"]) >= now-dt.timedelta(hours=48)]
     previous = dt.datetime.fromisoformat(state["last_success_at"]) if state.get("last_success_at") else now-dt.timedelta(hours=2)
     cutoff = max(now-dt.timedelta(hours=24), previous-dt.timedelta(minutes=30))
     items, failures = collect(session, now, cutoff)
@@ -248,6 +296,8 @@ def run(path=STATE_PATH, dry_run=False, session=None, now=None, translate=None):
         send(session, token, chat_id, message)
         sent_keys = {key for item in group for key in keys_for(item)}
         state["sent"].update({key:now.isoformat() for key in sent_keys})
+        state["sent_stories"].extend({"title":item["title"], "source":item.get("source", ""),
+                                      "sent_at":now.isoformat()} for item in group)
         state["pending"] = [item for item in state["pending"] if not any(key in sent_keys for key in keys_for(item))]
         save_state(path, state)
         if index+1 < len(pages):

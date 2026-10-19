@@ -61,6 +61,47 @@ class DigestTests(unittest.TestCase):
         self.assertEqual(result['sent'],5)
         self.assertFalse(ai.load_state(self.path)['pending'])
 
+    def test_similar_headlines_choose_official_and_keep_new_versions(self):
+        a=item(1, 'Anthropic releases Claude 5 model for advanced coding tasks')
+        b=item(2, 'Anthropic releases the Claude 5 model for advanced coding tasks')
+        b['source_kind']='official'
+        c=item(3, 'Anthropic releases Claude 6 model for advanced coding tasks')
+        state=ai.load_state(self.path);ai.merge_pending(state,[a,b,c])
+        self.assertEqual(len(state['pending']),2)
+        self.assertIn(b['link'],[x['link'] for x in state['pending']])
+
+    def test_sent_similar_story_suppressed_on_next_run(self):
+        a=item(1, 'OpenAI launches new model for advanced coding workflows')
+        b=item(2, 'OpenAI launches a new model for advanced coding workflows')
+        with patch.object(ai,'send'):
+            self.run_fake([a])
+            result=self.run_fake([b])
+        self.assertEqual(result['sent'],0)
+        self.assertTrue(set(ai.keys_for(b)) <= set(ai.load_state(self.path)['sent']))
+
+    def test_shared_company_does_not_hide_different_event(self):
+        a=item(1, 'OpenAI launches new coding model for developers')
+        b=item(2, 'OpenAI faces copyright lawsuit from book publishers')
+        state=ai.load_state(self.path);ai.merge_pending(state,[a,b])
+        self.assertEqual(len(state['pending']),2)
+
+    def test_old_pending_expires_without_marking_sent(self):
+        a=item();a['published_at']=(NOW-dt.timedelta(days=2)).isoformat()
+        state=ai.load_state(self.path);state['pending']=[a];ai.save_state(self.path,state)
+        with patch.object(ai,'send'):
+            result=self.run_fake()
+        self.assertEqual(result['sent'],0)
+        self.assertFalse(ai.load_state(self.path)['pending'])
+        self.assertFalse(ai.load_state(self.path)['sent'])
+
+    def test_partial_delivery_tracks_only_confirmed_story_history(self):
+        items=[item(i, 'AI '+('테스트 '*50)+str(i)) for i in range(1,11)]
+        for it in items:it['link']+='?long='+('x'*1000)
+        first_group=ai.format_pages(items,NOW)[0][1]
+        with patch.object(ai,'send',side_effect=[None,RuntimeError('failed')]):
+            with self.assertRaises(RuntimeError):self.run_fake(items)
+        self.assertEqual(len(ai.load_state(self.path)['sent_stories']),len(first_group))
+
     def test_failure_does_not_mark_unsent(self):
         with patch.object(ai,'send',side_effect=RuntimeError('not accepted')):
             with self.assertRaises(RuntimeError):self.run_fake([item()])
