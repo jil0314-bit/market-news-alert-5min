@@ -15,6 +15,11 @@ import ai_news_digest as ai
 NOW = dt.datetime(2026,10,18,2,0,tzinfo=ai.UTC)
 
 
+def big(n, extra=""):
+    # 중요 기사(핵심 4사 출시 소식). 숫자가 달라 서로 다른 기사로 취급된다.
+    return item(n, f"OpenAI releases GPT model update {n} {extra}".strip())
+
+
 def item(n=1, title=None):
     return {"title":title or f"AI 모델 {n} 출시", "source":"예제 뉴스", "link":f"https://example.com/news/{n}",
             "published_at":(NOW-dt.timedelta(minutes=n)).isoformat(), "topic":"AI 전반"}
@@ -50,16 +55,67 @@ class DigestTests(unittest.TestCase):
         ai.merge_pending(state,[a]);self.assertFalse(state['pending'])
 
     def test_backlog_retained_after_success_and_deduped_next_run(self):
-        with patch.object(ai,'send') as send:
-            result=self.run_fake([item(i) for i in range(1,36)])
+        with patch.object(ai,'send'),patch.object(ai,'PER_PRODUCT_LIMIT',99):
+            result=self.run_fake([big(i) for i in range(1,11)])
         state=ai.load_state(self.path)
-        self.assertEqual(result['sent'],30)
-        self.assertEqual(len(state['pending']),5)
-        self.assertEqual(len(state['sent']),60)
-        with patch.object(ai,'send'):
-            result=self.run_fake([item(i) for i in range(1,36)])
-        self.assertEqual(result['sent'],5)
+        self.assertEqual(result['sent'],ai.MAX_ITEMS)
+        self.assertEqual(len(state['pending']),10-ai.MAX_ITEMS)
+        self.assertEqual(len(state['sent']),2*ai.MAX_ITEMS)
+        with patch.object(ai,'send'),patch.object(ai,'PER_PRODUCT_LIMIT',99):
+            result=self.run_fake([big(i) for i in range(1,11)])
+        self.assertEqual(result['sent'],10-ai.MAX_ITEMS)
         self.assertFalse(ai.load_state(self.path)['pending'])
+
+    def test_minor_news_skipped_and_not_resent(self):
+        minor=item(1,'국내 대학 인공지능 연구센터 개소식 열려')
+        with patch.object(ai,'send') as send:
+            result=self.run_fake([minor,big(2)])
+        self.assertEqual(result['sent'],1)
+        self.assertEqual(send.call_count,1)
+        self.assertNotIn('연구센터',send.call_args.args[-1])
+        state=ai.load_state(self.path)
+        self.assertTrue(set(ai.keys_for(minor)) <= set(state['skipped']))
+        with patch.object(ai,'send') as send:
+            result=self.run_fake([minor])
+        send.assert_not_called();self.assertEqual(result['sent'],0)
+
+    def test_same_product_capped_and_numbered(self):
+        items=[big(i) for i in range(1,6)]+[item(9,'Anthropic launches Claude coding update')]
+        picked=ai.pick_items(items,ai.MAX_ITEMS,NOW)
+        self.assertEqual(sum('OpenAI' in x['title'] for x in picked),ai.PER_PRODUCT_LIMIT)
+        message=ai.format_pages(picked,NOW)[0][0]
+        self.assertIn('1. <b>',message);self.assertIn('2. <b>',message);self.assertIn('3. <b>',message)
+        self.assertIn('>원문</a>',message)
+
+    def test_same_story_from_other_outlet_merged(self):
+        c=item(3,'Anthropic launches Claude Duet personal agent for everyday work')
+        d=item(4,'Anthropic unveils Claude Duet, an always-on personal assistant')
+        e=item(5,'Anthropic rolls out Claude Duet to paid subscribers')
+        f=item(6,'OpenAI releases GPT-6 on Google Cloud with new pricing')
+        picked=ai.pick_items([c,d,e,f],ai.MAX_ITEMS,NOW)
+        self.assertEqual(len(picked),2)
+        duet=[x for x in picked if 'Duet' in x['title']][0]
+        self.assertEqual(duet['coverage'],1)  # 같은 '예제 뉴스' 매체라 매체 수는 1
+        self.assertEqual(len(ai.pick_items.dropped),2)
+        # 12시간 안에 보낸 소식의 다른 매체 기사는 거른다 (한국어로 보냈어도)
+        sent=[{'title':"앤트로픽, 개인 AI 에이전트 '클로드 듀엣' 공개",'title_ko':"앤트로픽, 개인 AI 에이전트 '클로드 듀엣' 공개",'sent_at':NOW.isoformat()}]
+        g=item(7,"앤트로픽 '클로드 듀엣' 유료 구독자 대상 출시")
+        self.assertFalse(ai.pick_items([g],ai.MAX_ITEMS,NOW,recent=sent))
+        # 하루 지난 발송 기록은 막지 않는다
+        sent[0]['sent_at']=(NOW-dt.timedelta(hours=20)).isoformat()
+        self.assertEqual(len(ai.pick_items([g],ai.MAX_ITEMS,NOW,recent=sent)),1)
+
+    def test_fluff_excluded(self):
+        for title in ['Google Chrome cheat sheet: Gemini AI features','Who owns Claude AI? Anthropic investors','ChatGPT alternatives: 5 rivals','How to lock chats in ChatGPT']:
+            self.assertFalse(ai.pick_items([item(1,title)],ai.MAX_ITEMS,NOW),title)
+        junk=item(2,'OpenAI releases GPT model update 2');junk['source']='99Bitcoins'
+        self.assertFalse(ai.pick_items([junk],ai.MAX_ITEMS,NOW))
+        single=item(3,'Anthropic faces investor questions over compute spending')  # 출시 아님 + 검색 매체 1곳
+        self.assertFalse(ai.pick_items([single],ai.MAX_ITEMS,NOW))
+
+    def test_headline_cleanup_and_money_units(self):
+        self.assertEqual(ai.clean_headline("앤트로픽 개인 AI 에이전트 경쟁 가세…'클로드 듀엣' 공개 By EBN"),"앤트로픽 개인 AI 에이전트 경쟁 가세…'클로드 듀엣' 공개")
+        self.assertEqual(ai.MONEY.sub(ai.korean_money,'OpenAI new $30B raise at $1.25T valuation'),'OpenAI new 300억 달러 raise at 1.25조 달러 valuation')
 
     def test_similar_headlines_choose_official_and_keep_new_versions(self):
         a=item(1, 'Anthropic releases Claude 5 model for advanced coding tasks')
@@ -95,26 +151,27 @@ class DigestTests(unittest.TestCase):
         self.assertFalse(ai.load_state(self.path)['sent'])
 
     def test_partial_delivery_tracks_only_confirmed_story_history(self):
-        items=[item(i, 'AI '+('테스트 '*50)+str(i)) for i in range(1,11)]
+        items=[big(i,f'filler{i}x '*30) for i in range(1,11)]
         for it in items:it['link']+='?long='+('x'*1000)
-        first_group=ai.format_pages(items,NOW)[0][1]
-        with patch.object(ai,'send',side_effect=[None,RuntimeError('failed')]):
-            with self.assertRaises(RuntimeError):self.run_fake(items)
+        with patch.object(ai,'PER_PRODUCT_LIMIT',99):
+            first_group=ai.format_pages(ai.pick_items(items,ai.MAX_ITEMS,NOW),NOW)[0][1]
+            with patch.object(ai,'send',side_effect=[None,RuntimeError('failed')]):
+                with self.assertRaises(RuntimeError):self.run_fake(items)
         self.assertEqual(len(ai.load_state(self.path)['sent_stories']),len(first_group))
 
     def test_failure_does_not_mark_unsent(self):
         with patch.object(ai,'send',side_effect=RuntimeError('not accepted')):
-            with self.assertRaises(RuntimeError):self.run_fake([item()])
+            with self.assertRaises(RuntimeError):self.run_fake([big(1)])
         state=ai.load_state(self.path)
         self.assertFalse(state['sent']);self.assertEqual(len(state['pending']),1)
         self.assertIsNone(state['last_success_at'])
 
     def test_partial_page_success_checkpoint(self):
-        items=[item(i,title='AI '+('테스트 '*50)+str(i)) for i in range(1,11)]
+        items=[big(i,f'filler{i}x '*30) for i in range(1,11)]
         for it in items:it['link']+='?long='+('x'*1000)
         pages=ai.format_pages(items,NOW)
         self.assertGreater(len(pages),1)
-        with patch.object(ai,'send',side_effect=[None,RuntimeError('second failed')]):
+        with patch.object(ai,'send',side_effect=[None,RuntimeError('second failed')]),patch.object(ai,'PER_PRODUCT_LIMIT',99):
             with self.assertRaises(RuntimeError):self.run_fake(items)
         state=ai.load_state(self.path)
         self.assertGreater(len(state['sent']),0)
@@ -123,15 +180,15 @@ class DigestTests(unittest.TestCase):
 
     def test_dry_run_no_send_no_state(self):
         with patch.object(ai,'send') as send:
-            result=self.run_fake([item()],dry_run=True)
+            result=self.run_fake([big(1)],dry_run=True)
         send.assert_not_called();self.assertFalse(self.path.exists());self.assertEqual(len(result['items']),1)
 
-    def test_no_news_notification_and_failed_feed_qualifier(self):
+    def test_no_news_sends_nothing(self):
         with patch.object(ai,'send') as send:self.run_fake()
-        self.assertIn('새 AI 뉴스가 없습니다',send.call_args.args[-1])
+        send.assert_not_called()
         state=ai.load_state(self.path);self.assertEqual(state['last_success_at'],NOW.isoformat())
         with patch.object(ai,'send') as send:self.run_fake(failures=['AI'])
-        self.assertIn('확인하지 못했습니다',send.call_args.args[-1])
+        send.assert_not_called()
 
     def test_empty_first_run_lookback_and_partial_failure_watermark(self):
         with patch.object(ai,'collect',return_value=([],['broken'])) as collect,patch.object(ai,'send'),patch.dict(ai.os.environ,{'TELEGRAM_BOT_TOKEN':'t','TELEGRAM_CHAT_ID':'c'}):
@@ -150,7 +207,7 @@ class DigestTests(unittest.TestCase):
         response=Mock(ok=True);response.json.return_value={'ok':True,'result':{'message_id':1}}
         self.session.post.return_value=response
         ai.send(self.session,'private-token','private-chat','news')
-        self.assertNotIn('parse_mode',self.session.post.call_args.kwargs['json'])
+        self.assertEqual(self.session.post.call_args.kwargs['json']['parse_mode'],'HTML')
         self.session.post.side_effect=requests.Timeout('https://api.telegram.org/botprivate-token')
         with self.assertRaises(RuntimeError) as ctx:ai.send(self.session,'private-token','private-chat','news')
         self.assertNotIn('private-token',str(ctx.exception))
