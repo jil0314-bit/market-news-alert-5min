@@ -1905,709 +1905,56 @@
     "bbb56628b97987e9cb71deb44bd1bfa45df51c0d2dd03ebe89900fa4f12c0b2d": "2026-10-23T23:26:17.926282+00:00",
     "9b31148c03e8acb98002ff747f53f15a7a247cc320e007ef4e2bcb62f484ef63": "2026-10-23T23:26:17.926282+00:00",
     "50c6b3d3452386e2b2194b7606698e2f6f7d2dc7bb4bc716815774cb15bd6d45": "2026-10-23T23:26:17.926282+00:00",
-    "4fe8cfb1ac606e8d481fa23c73098817e23ce1a5b546e98c297c547f03a0ecec": "2026-10-23T23:26:17.926282+00:00"
+    "4fe8cfb1ac606e8d481fa23c73098817e23ce1a5b546e98c297c547f03a0ecec": "2026-10-23T23:26:17.926282+00:00",
+    "c2d5acff7d1229801cd5508cca0f06f4950deb06cec62e5cf2ec020a4b766930": "2026-10-23T23:26:17.926282+00:00",
+    "4a6220b8d68bd4f8216a08d6750b162ac15014143d0783c2beba92d5900e2e41": "2026-10-23T23:26:17.926282+00:00",
+    "d581c6714a846887b04c695cf3de0de947f6f1e36b85e1185459aec34bf53e26": "2026-10-23T18:40:49.565787+00:00",
+    "ed3983c7e616fb57d31cba261a14646921d57fea1bc888c10fd1190e1ce3feb3": "2026-10-23T18:40:49.565787+00:00",
+    "c6e7472e4def41fbbda01b3b9f75b9c4a8370ef7543dd2a99aaceade792835b8": "2026-10-23T07:53:45.851253+00:00",
+    "9d6b4c9b845915e576c78445eaf7beb02b4eb902d78c01c6821319faede030d9": "2026-10-23T07:53:45.851253+00:00",
+    "40b3a5f4e6fac0da3a57d13751cc722be1698f117a41e8dbff7aca6239feabfc": "2026-10-23T23:26:17.926282+00:00",
+    "efe520ff552bf38cd314b1341e8109df071201066b11b2ae7e797d2a103e97a3": "2026-10-23T23:26:17.926282+00:00",
+    "0548b2110819e4003d68b3e31c183afee56b62f4728a2f4a3d3c053a28acde78": "2026-10-23T23:26:17.926282+00:00",
+    "b272af797949724c06e8cb533772219ccb1a1d813124e6b0cc3e7dacf464fe93": "2026-10-23T23:26:17.926282+00:00",
+    "61c1b7ab144dbadfbae20043477d665644543cbe11bd2867fcc2e395cd29c42f": "2026-10-23T23:26:17.926282+00:00",
+    "36aa882613b8b8d045c6deeed9d042336dd94352a5b4b57131ea6921e1157967": "2026-10-23T23:26:17.926282+00:00",
+    "cfaa58a5d1388822a55d662b87d691137e0e0cbdd94fac430b1617df18e54140": "2026-10-23T23:26:17.926282+00:00",
+    "df0a186b164aebfe59c96ad92af4ef5d50d8c9fc1b83ee5d47138553b17d5dba": "2026-10-23T23:26:17.926282+00:00",
+    "3380cd557fc5db588d22d1ef03f8876d510839780dc4de876b7e1fecdd4e60ee": "2026-10-23T23:26:17.926282+00:00",
+    "9a5ec8bce2f45e945a2d2baa9c2127b3a3915ebe1ecb323778bff6c49dfc1f01": "2026-10-23T07:53:45.851253+00:00",
+    "9056b3e93d954c9b79a2d7877a9fe5c8a9d447a0f0011154afdb96269cd51d67": "2026-10-23T07:53:45.851253+00:00",
+    "c3ccbedfd9d07a1e64494000b77b20d703cc14f492e54420674e19b1558cc691": "2026-10-23T23:26:17.926282+00:00",
+    "744bec709d6b85fb200740cf2f2eb6ffcdd3379a46a909ab8ebb66e488c09827": "2026-10-23T23:26:17.926282+00:00",
+    "9c60803e9d628ae8c276006630170ab139235baf6c237643257ee123503099af": "2026-10-23T07:53:45.851253+00:00",
+    "5a94a4be9ffc44bd7d177ddbf0d8c5f94c7950128dae0d96c0139e0c89a15a16": "2026-10-23T07:53:45.851253+00:00",
+    "7151cf39399a82c30abd4245dbf51b423c8291476edbcd028dd9dc428367d054": "2026-10-23T07:53:45.851253+00:00",
+    "9d24e57031c68f8874e1dc62898b95f361cd598a23660da3fd3c93f1106fe769": "2026-10-23T07:53:45.851253+00:00",
+    "7d274aa19c4b543f713181968f9bdb89e448c00661c5a1818dffe8226820f74d": "2026-10-23T23:26:17.926282+00:00",
+    "6489c722ebc22e8eee168bd8594a5b71ba4637c0551cd00064e7e447290eae37": "2026-10-23T23:26:17.926282+00:00",
+    "9e5c9528b589401f8aa431d4328b5bc7da417dd0708531f97dfe883f5953ab79": "2026-10-23T07:53:45.851253+00:00",
+    "7183741520233602d855d5ee9ccc947cb5e323bbc1a5b8932f9681cdba44bca9": "2026-10-23T23:26:17.926282+00:00",
+    "4af9158ee002b83962d88175268a601378914720aac3f0682e61b85f5fbd7951": "2026-10-23T23:26:17.926282+00:00",
+    "be43f4a3ad169941a0c405ae5b7a91b9b5b512150a628f335f16979cdd2bf813": "2026-10-23T23:26:17.926282+00:00",
+    "fbc8dbcddec7f78727a22a695edab93f0ff66e19df865f09dcf8884f1dd6a367": "2026-10-23T23:26:17.926282+00:00",
+    "32bd1803d015c36fae82dc677e4e4a19e13f54dff7c3a49f112ae39008b73c6b": "2026-10-23T18:40:49.565787+00:00",
+    "4f01cc3a08e6b6bf6b39f5256a92700fb1f74fc08c7b45632685a8e2999f874e": "2026-10-23T13:46:26.340368+00:00",
+    "37a97dd7743447a8b4cbabd09096c5f46baa8fa9411e9ca023885b9c8544196d": "2026-10-23T13:46:26.340368+00:00",
+    "547a5775c0e1032c157143333aca4baf1c504d57420c108e965ed85efcfd89ed": "2026-10-24T04:58:12.166433+00:00",
+    "095c577e6d5a238af579f51fa4118bbf6a96575df47fc015885ab2706e71a1e2": "2026-10-24T04:58:12.166433+00:00",
+    "0ab3b36de9f77b685f13ee032f80d72d46a0a87e6d878e4897a4062992b70f09": "2026-10-24T04:58:12.166433+00:00",
+    "c57070b512f99c6015490cd647106b2feb2f0729b8c1f18ce47a09b761981934": "2026-10-24T04:58:12.166433+00:00",
+    "52df786c0df6443e5392bc68f41f4f47e724428d07e69b53920aa712a16bba7a": "2026-10-24T04:58:12.166433+00:00",
+    "c064245437aadbbca3d3d9649d066c4444041d1fb282ffd4d25bc78abc8664d6": "2026-10-24T04:58:12.166433+00:00",
+    "88e71495b3d43535c1475cbc4f67eb58f4a0589972f0f1963ad2203dadbd98bf": "2026-10-24T04:58:12.166433+00:00",
+    "b3ff8f30e9e67551ac85bd02e08ee4327d0ee564aa5dac1b9b89d82491dff1db": "2026-10-24T04:58:12.166433+00:00",
+    "2fcb0586de96272f2134f171d404ad799bd427c296b7f33909c921ad1513b48f": "2026-10-24T04:58:12.166433+00:00",
+    "dcfb46d9db6853e26abfc5cd33fbea8bb85091a39181fadea27c93c86538e501": "2026-10-24T04:58:12.166433+00:00",
+    "3d50009974b42ea63ada87a7b35bebddd90aa2f473995266132989be3338a4b6": "2026-10-24T04:58:12.166433+00:00",
+    "ca1f3b3a8297622bc244b2058eb89e865a965859e5d03b4b24c0280f2cbd6760": "2026-10-24T04:58:12.166433+00:00",
+    "940cfc23b59e422a059e29f9608a09e01c9602d86263706fe3395744081f2dcd": "2026-10-24T04:58:12.166433+00:00",
+    "875b122d9dff8e6d3f0f4b8f4db3f58d43403f3cd0e5921106a3035c8a057421": "2026-10-24T04:58:12.166433+00:00"
   },
   "pending": [
-    {
-      "title": "OpenAI Launches New AI Tool That Makes Decisions Up to 10 Times Faster",
-      "source": "ProPakistani",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMnk4TkxrTTZ1T3BJU05yblJpY3ZDTGprMHhMSlh2cUZmZVJrbG5NcFZXSlZyZXQtOENnbXBYdGRTc0pyYjlBNy01N0s2a2R1ZUVEeUtOX0dNQ1doVXZzMUNyQzFiTkxITkpfSUJsdW9lY0VPOWZlRmFfbzdtUlpWNDhMZnhiSDcwaXdWc2d5VEgzSG1lZ2doTnJIX2tRWktuSzZSUWw3QUVHUdIBrwFBVV95cUxQNFBXanRsLXpZNWdLa0tTMEdTdGNhNmptRjJvUmlGdXpoZmhiVmNpanNSR2JWZ0dMd3E0a0FHRTdvYW8zXzFuODY4WGhCTWxTTERiZVg4VXZ0b21vRFc1dE8teHpib0ZyYVp5eFdxc1Q3YjRCRFdPcFg4RXlKUlJSenplNERyeElSSTJ5SXNjX0kxNjhtdGhLSWtkUnVieGtoYzR3akVZX0JuYjc3Zmpr?oc=5",
-      "published_at": "2026-10-23T11:29:56+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "813a019ce4fdc2b479997cfb269f992f697df4353d3414ce17d141fa23ee08d3",
-        "e0dff864315bb443048873bed89f5b63ac8c2c47a2b0f650ecc8e26b69bcc142"
-      ]
-    },
-    {
-      "title": "Claude Duet: What Anthropic’s Proactive Agent Does, Who Can Get It, and What It Costs",
-      "source": "Fello AI",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MZXlKaDNYallidHAwMWlrcVBLVV9vLUlBV3dHTDhFWUNPOVU4WVV4bl9CNmFCeFA5WktDRTN4aGRpeklUWC0w?oc=5",
-      "published_at": "2026-10-23T11:32:01+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "10b92ddebd3260c42914d57904d07a1d29abd62f4bdb2701b6a4b3adc2493a2a",
-        "5c3fcd9f613bf449a98a5c9b34c4f4dc9c9493faec1f758de23cabfb49d1f77c"
-      ]
-    },
-    {
-      "title": "OpenAI Nears $30 Billion Raise at $1.25 Trillion Valuation",
-      "source": "GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTh1Vm5NNEo1TUo3WVc1VFZxTmxudEduYWZ0QTRTRHFDX2xtM09ZRV91S1o2dnVIRjR3NWdkNV8yRlpQX1BlSGJrSV9Jb1p0RlJ3SnFRNDBxOVlrbVFtYXd1a1F2OGt3XzdpdlhBekZjdGVWb3phbFdzWGJFWEwwaEZwM3AtNno0V3dQZWgyc3l0NGlMaV9oMDNn?oc=5",
-      "published_at": "2026-10-23T11:32:41+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "38bf94aa1f3c29006449ca36e67ef8214c6931235d462e56f2bbff2352479c63",
-        "b1a74c3e64a59d72c68b6fd2cdf2e62f22ab418da6348516b3f3e51d3c10ef35"
-      ]
-    },
-    {
-      "title": "ChatGPT Ads Run On An AI That Understands Intent And Keeps Answers Independent",
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa3lYRUczaXdnNWNQZFN3X19zTm9tYUp0emNIWW1HSExKSl9RaGdHMEJsTENQRFBFZmpTeXBKV0JnM3ZEekV2YW9WZmhqdzFhZjBOSUlacm1PZGpiRjN1NFJPTkhVYWVpakhDdE1ibm9UQ1ptVzhEVnVOZjNWQ3l5VVJMYW5nb0hjbE14SG00REpxeWlNVUtid1J3X3NWRjNxakVUczFvTjU2cmhETEZ3eW9oV0Jld0JNd1JlQWVmYXNyaUZWUnUxY1JwV0NXM0lJSTZrZURn?oc=5",
-      "published_at": "2026-10-23T11:33:20+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "2f82cd948ab192bb93c44e9d3be4cb711e9915703a306f1e9f77faae56838d7e",
-        "558148398eb837e49c1899939ffae74e10c2675b177fbfb9e8b2c2b5a171e389"
-      ]
-    },
-    {
-      "title": "Anthropic's Claude now writes code and proves it safe automatically",
-      "source": "The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWdjb3ROVHcwOVVEQ2RXd2U4dTVjYTN4TUNyTlA1U0pXTDRXNTBaWFhWNmYyaWJiMHdMWXJFZHVGam5MMjR4TVRSNUV0c3hHV1JVb2JHTzJYYzNqZ0ZFY1ppdi1RRUU1ZUJ3SjJ4WmZkYlNXSWhBWEU1eEl4X2E3VFhlaVZfQmpmNTFGQW1YRkowQlNlakE?oc=5",
-      "published_at": "2026-10-23T11:38:06+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "3344c47db011aa01a01bc686c21455c57ed56d1247851ba7757a5ba142c9e4b7",
-        "5d610a368f60ac30749de10bd65fbe45fe62ae8205fe7aa2cb4dfb447f7ac8b6"
-      ]
-    },
-    {
-      "title": "OpenAI Proposes Five-Stage Disclosure Plan After AI Found Critical PHP Flaws",
-      "source": "Technology Org",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTJULTA0REJvSXA0TnJuNDU3MTFpT0dkNlFPVkZiako4dVZyaV9fcWswU0xBVGpCd2o1MUh3a2hNWUZ1ZzJNNi1tendocWNRX0MtZHdyeDB1LUVMSnRlZFFfYk1RR3VWaEl2SlpaSkp6YmJkNXlONnRVZHhRejczSU5lSDY1b1VtbS1QWHR5eEVLUGc3WlExQlg1T3hmbU9jTDZ3?oc=5",
-      "published_at": "2026-10-23T11:51:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "28ab7983892b7ed17afcbef4b10631786fff4ac3cc220b7e967c74ac41b19bca",
-        "49433d4309d22fb4e59deccb0768e77249749b15f9cc75b545ca3073896cf8df"
-      ]
-    },
-    {
-      "title": "I tried OpenAI Academy’s free AI courses – and the certificate was a nice bonus",
-      "source": "ZDNET",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aQ2hYaFhSTDg3QjVBQ3pJZm9WZERqc2pENy11U3ZTdWJ6MmZsWmNmVUZ0bnQyQmJKeExWTWI4dFdPRGN5Ym95Yk52QVZIdzMtS0ZrYmFwVm9UUWJsMFRwaWJRWkZmZ2pjaVdVYk5fRTlCS3Z6TVk0bHhXbzZLdw?oc=5",
-      "published_at": "2026-10-23T11:59:30+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "40bb3a82a20011279761dfb919e8b60cf75e4f013d414d9f451da4c7951462ba",
-        "ef16f91d68564b0cedcb074d600f211c3f54d27b54db589575eca126eef432b8"
-      ]
-    },
-    {
-      "title": "Canva Launches Its Own AI Image Generator to Take on Google and OpenAI",
-      "source": "ProPakistani",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWtWT2k2c2UxY1RCbnZoTUpTcFNQeU1wV1IwMDFmSnFqOVVPOTl2NDZYc2FWeERsU0dneXlOcE01ekkyaklhNVJBUTBkVHZwV3FocDl4TVpVQjRYdmJrUlAwa0FHZzJhNkNGOXpiYUZ6YkJGWnB6d250bHA4UU1tdFdqY0VFNDNwaU5VdTJ5bmpSVndpcDljdFBrTGw3ekRsaDdBUFBKSUU1UdIBrwFBVV95cUxPMEJpNFBLbEFIQkpZM2RhY0NZVEFuTjAzZHFDM1hhc1JjMWI2NVM3VF9Lczl1SEdOUEUtaG1CdGdZaHZ5X05UVlBQR3M2aHoxOEJjM1BWTDEzWF90OEZKdG5HRENtZ2doeUJwZVY5OTVORnYzTTJYWTVXQ2UyRjZnb0dXV0ZmeUZpNWtrN2UxVUtVS3p6NzBLaHk1emx3cHJUYk51T05JeWdQUjF3NGp3?oc=5",
-      "published_at": "2026-10-23T11:59:56+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "d46479e80c9808539f506e7e4ab630e0d6c818ba5abf6ccd5bff5af152cd4140",
-        "dad3c870cba9eb3b96ee791acfa6127e9464870e5efcde236ddf49ee4f5b7f19"
-      ]
-    },
-    {
-      "title": "Video: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads & More",
-      "source": "Search Engine Roundtable",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkN2w0Mzd5YnFGVG41V0tUWkVfRnBPUWkzVUJRZnJUUXhLWnZvekFaRWZFUTZGYVdJcGRPYVlJTTVveHFQcHVERzY4RzdHY2tkcmlNdDZWUDFlYXRpNy1rNXZDM3MwcTA?oc=5",
-      "published_at": "2026-10-23T12:01:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "68c756351f08664a4ac99df93044da2f1c75a3c475899d773d61e14bc73d08bf",
-        "eb63b2ee9b7f6a165ad4a0d8f6f93909104393134624ee2cc29f830f2e5c1ae7"
-      ]
-    },
-    {
-      "title": "Anthropic Prepares for Major IPO Amid AI Competition and Regulatory Uncertainty",
-      "source": "CoinGape",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjlzMjlkVU9TbGhNQjI0RnM0dkZBSTJWRmVuVC00Yk5sSzJyZjFuVGFuUThQRXJwenBldXZCc2VjcENBSFFlZ1RMQzA4bFJQN2FRV3FWM2pnU05tZW43U1lTN3BISU40RUJSOEM0OUxjeTFkSktHWE9MWG4yRkYwbUNiQWlNMXN6UDBUdF9FLXRyS1J1Y01yMFJqVnp3em1ldkQ4?oc=5",
-      "published_at": "2026-10-23T12:11:02+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "87a4579f0645ddbf0b6a74bdba45fc4d53094934e77bf7a65c3d303e9d2f1c97",
-        "ffd056f065d192bea84f23014d6066e75cb8dd86e33e5c3b276a0a132c916bd0"
-      ]
-    },
-    {
-      "title": "ChatGPT Slides lets users create, edit and present decks without leaving ChatGPT",
-      "source": "Yahoo Tech",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0dtTmpJTVd0aFlsbEZUbjFWQm5QenJ4NDVGZExmZGRQUjJRX2pzS29TS2pQM09OU2FFMllTbURVVGZqeF9ETnFmMmE0TzljQTY3cDNBNGVROG1fSUtEaE9vLUhJLXVLZTkwR3UzMEppSGx5TmdrWXZ6Wk5ZTnpkQnFZX0RQR3ZldjREdkRfOWUwWk9o?oc=5",
-      "published_at": "2026-10-23T12:24:51+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "0d5d23e820a4a066cc945011d5094084eb51e40a0ef07d3143eb91ce91c98601",
-        "71ac38d823e86a1e41d1b7af8dc0beee813f6dc9538449e816ebb408cd5d4419"
-      ]
-    },
-    {
-      "title": "Reservoir hits Suno and Anthropic with copyright infringement lawsuits",
-      "source": "Music Ally",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWmkzVXF3M285MWNCZ1U3N0ZMYVZTYnBZY3lXanFscVlSLTJxdi0yay10bUtlWThXWE42dTdqNU9ScWdXV2V1UFZMc1R6RHlIcWxWNU03MTNaSFB0dXo0Qm52RTZyLWxULUlvTXJyLW5OeHAyNS1oUVhHbndiVXFRaEUxUWpPYzhlOWEtRVNKMm9pajB2QlNRZ1lUTmRza0FnLWs1M1ZXTQ?oc=5",
-      "published_at": "2026-10-23T12:30:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "356047d7391dc14225a27bc3de02425c2f71fadee6fd4595186c821c8695e1bb",
-        "dbec637a04e6cd85f0021f2da913f9c7bf7508d07e2eb3af370898411942927e"
-      ]
-    },
-    {
-      "title": "Kling 4.0 vs Grok Imagine Video: Votes vs a Ceiling",
-      "source": "OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ycmVhb3JGaG1KNWNIOVpjdGUzUl9mTnFVcGxmUlN5MmZKOUZUeTJFSERKdDlPYWlwZnBsQ0J3Ujd3bVk1dDd2c19iUWRpTXIwbUdpVUs4T1Z0RWpicmpiTUw2QVB2aGZZZk1Sd0RoMA?oc=5",
-      "published_at": "2026-10-23T12:44:00+00:00",
-      "topic": "AI 툴·연동 활용",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "2a8a37e55b95d6ae419ff86300584ccea9c56fafd9e5e7bf94db898ac5e61c32",
-        "e463c7b76de77310e977c51eb17bb9d7c49db924651f079fb7bda1e6dc553cef"
-      ]
-    },
-    {
-      "title": "Swedish government said to ban usage of ChatGPT, Claude",
-      "source": "AzerNews",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3d1ZxbnMwRnJRSHNORTdKTlhVcV9KeUVvZ2VlelNaeUw2eDc1NVU5UWo4SWMxaUlDa0w4cXBrdmVfZ29SUEMySElHRHh3T0lHbHk0NQ?oc=5",
-      "published_at": "2026-10-23T12:48:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "478bda7be26c2fe324e66c9d5f1a80820ce4aefd395b3ed04d98d54cddfefa6e",
-        "ba4dc667faf4d3c5a5f99b88d284df81b7f8180dcf3d49555b045c188d93daab"
-      ]
-    },
-    {
-      "title": "People are fixing their TV OSes with Claude",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzd01RNDBpOENQaHRHTml5M29DQnJzSlV3eXZiOTJweVd5eURvOGhGQ09hejlfcU5SYVR6c0QxX0d0bkRDT0NrdVBxYzdrenB6SUJoaU5wLUc1V21SenBwQVctU1YyQQ?oc=5",
-      "published_at": "2026-10-23T13:00:00+00:00",
-      "topic": "미국 AI·IT 전문매체",
-      "excerpt": "",
-      "source_kind": "specialist_search",
-      "region": "US",
-      "duplicate_keys": [
-        "87f3122bb54f7685e823ee12d1640a2717c5e0c0b9702fb9adfb1ecebcf5dec1",
-        "b0e9eab6814366dc544aabcf0872746bbcef6eb13e1bc096db4be5a9977aaf6f"
-      ]
-    },
-    {
-      "title": "7500万变70亿美元：Anthropic的IPO，硅谷史上最疯狂的资本造富神话",
-      "source": "36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QZkZlWEdKTHBUbXBnY0ZxY0RPY2p0c3B3NzNya1p2Sk1GZF9RX3hheFFBVmpYbURKQUpsYU1Vc0N6b3hDQnpHOW90RnhsamM?oc=5",
-      "published_at": "2026-10-23T13:03:24+00:00",
-      "topic": "중국 AI 전문매체",
-      "excerpt": "",
-      "source_kind": "specialist_search",
-      "region": "CN",
-      "duplicate_keys": [
-        "19f20ed28be5a2a5c9efe6be9fa069be7daf4f943b18dddfbee55792dc62c55f",
-        "6f11ee4660c04a2ee474ae2140f09628f2eef6550baa10d49898850602fbb190"
-      ]
-    },
-    {
-      "title": "Kling 4.0 vs Vidu Q4 Preview: Text-First or Image-First",
-      "source": "OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PVUFrZWoxelhPTVYxczJmWkdEeERydXZTVmo4dmJqQVVQRUVIRVhQQW8wYy03RlFOdTk5QUpGN1lJeHJMMXR2US0xcnZWV1RncEZhSy1DT19TNmpGeC00MHJrWWpJVm12UURZ?oc=5",
-      "published_at": "2026-10-23T13:07:25+00:00",
-      "topic": "AI 툴·연동 활용",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "1b0ff43b0c6f9def7b5c2d508f2b07a29f742471dc2911796ad7df5f99e9b632",
-        "714890b3b180998e5d63b55e5f6cdc04a5be5378fa76363e1c610127aa48a2a9"
-      ]
-    },
-    {
-      "title": "OpenAI’s AI agents analyse a mouse brain gene atlas in 32 minutes",
-      "source": "The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iYmhVTG13TTZoWXFZOWo2U0xoZGtLem5ubDBQYlYwazFoN3AxOVRpMDg5R3YyWFBOb2JRZEZncFc0Wmh1MFJRb2xuRmJBZ05EajREbU5MY3Y4T1hDQUkxSTE0emtkRzgwal92M3B6WmM0SU1KbW0tYw?oc=5",
-      "published_at": "2026-10-23T13:07:39+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "7a9b1cd6a254c65a5b962ee57082ee661831f93811042820519acb566502c76b",
-        "a30201d4de5681922b02a85a87baebb4bdecea46bfc84ae4bdc24d5c1cbb62b0"
-      ]
-    },
-    {
-      "title": "AI safety in focus: Anthropic’s Claude cybersecurity failures raise questions as China and US seek cooperation",
-      "source": "Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUVpJWVV1YUxHSDNqOVdaa2xYUkhQT09MMmFGUU1vaTcxTmx5djlUelVhQzdORHFlVG51X2lQeWlVcV9pMDZLTldiQ0hxZndQNVpvNW5RakkxelRMYTF0S0ctTG03LWh0alFCMnJHQjU4TnNreVZFd1NiLVRCc1VEQ2JxU3IyWTdfN1FXdW5FWGNJWmF5eWRrek9NcVdxaTFYRXU1RW1QbjhtZkduUURJY3c1alI0WTNuNTFDR2JOaTc2NFFhbzEwNmR0RndVdDRnVUliMURXS0hYU1I4a09USlFrZFJiZllwLTFTbllCclBHd1U?oc=5",
-      "published_at": "2026-10-23T13:44:40+00:00",
-      "topic": "AI policy & research",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "0e03f12f80a1fcad781a17dcd9bac25bfb2cc0f3f8a669534708a892063b2986",
-        "bef1acb06a4fda5f2db4b286b3fc1ab0eac81d70074b0e1b960b11cde2467d9d"
-      ]
-    },
-    {
-      "title": "OpenAI aiming for new $30 billion funding round at a $1.25 trillion valuation",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRk9GdU82R1QxNGZ2NlRiRm5zVVZoVDF6eUlXdTZLNGpFR3pqT05fdUdMLXJjTERhLXRvMGFCQmRmVWFsWjM3cEZoS3o2NzJKaks1cFJWbDhoeWlXeFRvNUMwb25DZzFKTmVMMkkzWDdXaC1QdVhHeWpfMGw5U2RfT1FaVVJGZldEZ1ptOHVJMVJZdGlZUEdtaXN5UnVoZjdOeWZPRzBScTVLOU1EQzkydU00MUI1c2JKVmlibVRhMHJVemZ0QkwzLXhTelB3cFE?oc=5",
-      "published_at": "2026-10-23T13:45:39+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "06075fca75ad019dabedb6d25f37c8613735945709804dece481bd8f45032cbf",
-        "163413f41c1c402b4de81fe032210e36378f615b9dd9aaa49a8c5c6afe803ce5"
-      ]
-    },
-    {
-      "title": "ByteDance launches Seedance 2.5 4K video model for film production",
-      "source": "TechNode",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcHpjUVo1WnZfWWxLVDNhZTgteHdqTnE0ZmR0WDhUNlVyb1hMZEItZmlyV0YyS0ZnLUYxRTNHakRlTlE1d3VOR1NEUHpfNmcxaXhqXzBkVTd2M1VmaHJBaldfWHFZUTZXcmRRQ3kyblhMcnUzcWFrek93Zk5tSlFVaURnenJldUxlcEZ3THo4SngxM0FlRjUySHc1T0tsWExr?oc=5",
-      "published_at": "2026-10-23T13:51:44+00:00",
-      "topic": "중국 AI 해외보도",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "CN",
-      "duplicate_keys": [
-        "1c1afb24710c55a2db74169a23b5dfb40aff28bb4602b72b04c874fdbe466d0f",
-        "fd26f301bccff68cb97917778fe5b04978772ce5ae30dca999d29a6bbb5e93d3"
-      ]
-    },
-    {
-      "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGtBREc5bkZGWEZuOWh1VFljWllKZ1FaUDM1eElQNFFfTFpkM2JqNzRxSzRlUnFQRUdITWNQM1NGMGxPN3lpdDd3cFZCbzB6OUVlUEJYWEN0bGhUYW5LckdlU1FVVlk5VHlsU01MNDg4SXFETFdXR1FBdDJ5bEROdHkzUzRGMmYzbVlTcjduR3M?oc=5",
-      "published_at": "2026-10-23T14:00:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "4e6cf6009109062633e606f48fd98397c86125dff5e2b12ee786d4ffaed6bb9c",
-        "693f7f8cae999f8c59d35f80beb0a6a564086f217f26e78a324671d21cd955e8"
-      ]
-    },
-    {
-      "title": "Anthropic plans to launch a European consulting firm",
-      "source": "Techzine Global",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckFsLWtnVHNCMk55UTZhTzdJemg2ZncxTmJ0NHVIemZJWnJvOW9UMGN1djRMY1lUQ2c1YU1uQllZNmhqdlhnNl90el9fS0ptZ1h3c3ZudGRMX2R3WHVOdGFkTXZwdmlpdEtWVmV6bjdFNVI0YXZuRlhudlNfb0F3OExjS0d3M3hFb1FzX2JVV0cwWVU5UFlGMXl4Q1otZUhFY0dqTHdiUQ?oc=5",
-      "published_at": "2026-10-23T14:01:37+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "554316c197dbd2a7e47666d0d0e21ceea99b42b96fbb2950001cda6d15306c5b",
-        "cb0e68e25671449440132c4f8419471f39f36cd89e0cddfb364238721b642c38"
-      ]
-    },
-    {
-      "title": "Rooted School and SUNO Launch Nursing Pathway",
-      "source": "Biz New Orleans",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lSmVWZVJscWxJZjl6Qk9aMFE3VVVyTG9Mb3ExUGNoWnlDa3JxYWRwOTdPYXVUbzVqSFoyTlNGR2I4dTR2cnpfTl9HeW1QU2VzcGF5MEU3dU5lSkFuejNFcm05LVptaUZ4WEhtbjJDVmFqelZKRWpkN0cyMDc?oc=5",
-      "published_at": "2026-10-23T14:02:16+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "267e9b0ed4888823c25fb43972252e8ee17f43276cdb590b6a8071119e90804f",
-        "43009943623491792562ecdc872e8a10fecdb1494a941667cdfe175a8224ca0e"
-      ]
-    },
-    {
-      "title": "Ulta Beauty expands AI shopping strategy with ChatGPT plugin.",
-      "source": "Personal Care Insights",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85b2tmX0tScVBPRlZaa3ZGZXRORnVmQ3R1aTJkY1dSQUdDRWZqbWhTWVluR2pXRzFPM0tDckR1MnQ5d01aeU1kZjBITnBEbGUtR19wY1dsaFNfQU9EYk1aY1Q3VjhpNDdlN3FDdXYxak4zVzBDR1NoQUtZLXhOZw?oc=5",
-      "published_at": "2026-10-23T14:03:05+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "28e501982921b1480c13c6e12e2cdce306e0eaca99b13821e11180fd3e754a00",
-        "fd80c86142ab42e8feaa78c58fa95d9b323ee4d8c2e98222f2f7c8ed09b48e1d"
-      ]
-    },
-    {
-      "title": "Early Anthropic investors face a billion-dollar decision",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDlmV040c20yMU9felVjaWszb3NDUGNPYWNJTm1Jd3FBZllrSGVvRFgzLWh0SFpCZHAyUjhPVF93OEJGeWszWnhjcktLWTVEMTZaTTkyZ2RlSXZSSmUyd1p4X2I5YXNYVVNIOC1xU1BoejRISzFaVWFWaGJCN3ZEVWk3ZVA2MmJfTDB4MG55RWVKWHlOMXBnb3VpUl9pQ0NzVGlpSmpn?oc=5",
-      "published_at": "2026-10-23T14:15:22+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "05a0d5a68281879cf45fc1f26fb3f571f6f85ec6a30c746c29b0f2856ecdf6e1",
-        "57f0b307c72d1229e86c9a71a2feb6b79cc1a5c5ac0bd99a6b61e26fd278fc22"
-      ]
-    },
-    {
-      "title": "You're Not Hallucinating, ChatGPT Advertisers Jumped 67% In Just 14 Days 10/22/2026",
-      "source": "MediaPost",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV3p0akJ6QWdkdTVoaE9qdE5TTzFVNWUzUUVIVVIwUk1HN2NodTJRbnVqNEZOa2FxU0lheFUxeU55Qlp0cXZEVG5pdnVvMjdaT0FsUTItUUpyVmszWVVJWlJ4NUtZdEVILUFtU0paQUFTM2tNNDZxeWpSYndwVEt0bm42bnNYd2FXZWpQMkU2LURFOEZ2WmkxZzlsQ3NGSGJuazBVVWpsd2pfN01xcmpfOW05OTlWdDRJRzdxWHFYYw?oc=5",
-      "published_at": "2026-10-23T14:21:14+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "8d7e063e4c32fde19a1e8164c396f562e93caab3e5aac3a96f522ae2216d6b46",
-        "cf477c73e8cb745f7ae01af6a82aea8514a5066bd3aa9cd4a8306165eb8fd814"
-      ]
-    },
-    {
-      "title": "Google Maps is integrating Gemini AI into Apple CarPlay in a massive new upgrade for drivers",
-      "source": "Supercar Blondie",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORldWY0lSUHc0bjZjWVE0aS1oZFBjeHdGTUZnQU94Z1FqZG9NSE8tdVVFZTQ2TkVqNmR0WHotSTVaZ0dGcm93OXpxWWFwdHdEWDZOdTlzTlE3V0FFQ1pVZWdydy03VFJSOHFIbjRvZ29qOHlTQ1RaMXNHQk1EX1ZwMmhR?oc=5",
-      "published_at": "2026-10-23T14:35:00+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "6f1bc951233785753283df5727a130af19aeb699d603af6e04ed445e7f16d457",
-        "b3164e38f0e8d93cf43e83dc6e60a039b7bee92b674461234fa4010305f50558"
-      ]
-    },
-    {
-      "title": "Anthropic’s Pending IPO Has Silicon Valley on the Edge of Its Seat",
-      "source": "Newcomer | Substack",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NLW5tb0tUQ0l3WTVxclp4T2JSeDlpVy0wTHl2TEhGUTRvSXdJU0JmVFZPZE5OSlZoTFNFb2lKX0tSWTNrcmlrNF9SV1NSUlhkQzM0QjZOX3dIOEkxV2JXT0lEOHBKaG9iU0doVA?oc=5",
-      "published_at": "2026-10-23T14:40:35+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "30c243ad34b219180b9be951673aad2b61c6d562783628827df43cf4464bed97",
-        "7e5b5353bbd9a8851d0fcb2b95960a936ecad4d8a9216f0e10ab7fbc94ba20b3"
-      ]
-    },
-    {
-      "title": "Anthropic debuts Claude Duet personal AI agent. Here's what to know.",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3M2TXpYVGJXT2txOW5uaVExTzJPRmhDVG1UZ1hWWUEwSmRMV3JFZklxeHBCRDd3bkNocVhSZXlQc1M0VXJvdjhiYnNyaVgwdmJ2c1o4R2oxaFd5MGZFY181d2VjbFJuYU5IcTJzUU1fa0l1RmdNd2lOZ0ZkdUN0VUpaNFBnS0k?oc=5",
-      "published_at": "2026-10-23T14:52:44+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "8496fd0106dc99c886d32448479cfd654b1985166533f414f6760f13d0cba603",
-        "fbabeee8aa0494266dbebb78ae4fd859ccd75cd8e043895a0c60678de44b490a"
-      ]
-    },
-    {
-      "title": "AI Safety Alarm: Claude Mythos 5 Targeted Real Developers In 9 Of 43 Test Runs",
-      "source": "Coinpedia",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPei10UVZRdjItR1BDNGZlLXpyWmlSTWd5X1BHOVU3ZDgyRVEzVEM4Mkx1SXZpU0FfQThiY2hlTnlWN1doRGxTM3dUeGF3ZnJsdTFIbWhyVFVyTlBhRFREOGZEeXdkTWhnNlUzeEJCNlhhYW9oRlFhal9VZjJaNnBwM2pVd05kWWMzZXhlR1VyYXBHOHd0RXp5SUZfaHB0V1ZOR3ZlMFZvU2Y1TXp5c0djRkJNVWw5WHp20gG-AUFVX3lxTE9JdFo1QTJ3Y1FrUkI2UnN0ZFpmdHNZVmgwdVRCUFRaczJ4blllN01WS3QydUNJcVpWV09aUGgtUlJiQl96MG45MVBJZXRSMUFqdjNwNzJIckV6SHJzZnh2WXZoNjBiS2loSmU1V3RqSGZhcUt1Nkx2RlM4cDVuUXdLOEdfQkh1TmI4anlyLVRwNjFzSlQ1RXBleEQ1SDc4NVRURWxBVGxHb09KLVJCa0UtOVZqZmwzc2Z2bDdzdmc?oc=5",
-      "published_at": "2026-10-23T15:03:15+00:00",
-      "topic": "AI policy & research",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "7a3814bb7fac0c5488d8a2d4f11f86072a1bc9c4cc0dd4901ace1561eeb08338",
-        "c851a5967e50d9da365eef701f7984e34a1383d5e203d37313f05aeb57988f69"
-      ]
-    },
-    {
-      "title": "Anthropic partners with London-based private equity firm to launch consultancy arm",
-      "source": "City AM",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGpxa0cyTlNFTzQ5Q2IzU0JvZkpQdXQyVTE5Tno5NzhfdjB1ajd2ZFBNbjZlRGltZVZmaVNnSUZyUDV3ckZrVGJTdjA3SnAyYTlmejFfNHhNLTV4NU9zTkVpaFN1MFJvQUNkaU9xMTQyRHNIVzVPSHRKUWg4WTNrYWdoSGg1TWNmWFFiSjFNWkdpbmV0X3k1eGdYQWlmU21RTWRYU2JzZU5pZw?oc=5",
-      "published_at": "2026-10-23T15:10:43+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "16ce5db84125d3ea3358d615ca391664c40e13ac4696ea3d293cef58605fed5f",
-        "8b2de4180745c5d436d5687a293548a664f77ccb57a2b1941a2bbdf6c35e2117"
-      ]
-    },
-    {
-      "title": "Why OpenAI could be in trouble if Anthropic's IPO doesn't go well",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0xJUDVPa0FjdlktbzNYQnFtVlBiM1JXUTRHbWJ4bnBZR21VRktKYWN6VldhOTRjcGZsbUhzeW9IZDBpd3dXcWYwelN5YS1wZVo0NUtyZzZMQ1lTUTZGNDlsNWl6UFcxZmpDTEhIMjlwcmY1OEtqWVE2VjlvUUZwNE02U0ozVmJTVzlvQXJXaURMenUtLW56aFdMQXZSVUMzQS01NFVrUXJNaXdKMExR?oc=5",
-      "published_at": "2026-10-23T15:11:51+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "a484215f0985bb441dc1f06c89f3c7374d05ec655a5af921e2df417d7653b909",
-        "eee26dd3903cd559aa41e02b18a3543a0a144a2a1611b53e4f5158b50b708c97"
-      ]
-    },
-    {
-      "title": "ChatGPT now lets you lock private chats with a PIN—but forgetting it could erase them for good",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80SWxXQ25sV011TFFNamVaYnNNdXFCRlU0bGg0X2NTdy10UTNhS0lkRUtMMDZBdG1XRkRneVFoVTE0R3M2NVhtNU1Ec2JEY0JaQ21lbVI1dzRhR2toRW9XcTFfS01velNaaTQzWEd0dGRGdDk3WTZtZWwwZw?oc=5",
-      "published_at": "2026-10-23T15:23:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "77e029694c5793e1fc85aebb70bc5b6edcad7453abb4f8c354d3cf966d905bbb",
-        "f0ad63c87baaa55a92766aefffb444ccc05f4cb7a1d3e8a051ab28dc3a943755"
-      ]
-    },
-    {
-      "title": "구글은 제미니 AI를 안드로이드 오토에 탑재할 예정입니다.",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaXg2UktYSDVLMTF3T2lZUXBnZ1o3Y2RRb05Nai1YWUxwdDVDTEVPR1ZGR2NBVUpGSWwtMHBhNlU2RmQ5V1h0ZnVQSGlvbFhCRkxtUUVaR2RBZW1KeFd0R1pyR1Nsb1lRSngxMkRXM2J5djQtMmtnX01PdnhKMHBsN3NCaw?oc=5",
-      "published_at": "2026-10-23T15:25:21+00:00",
-      "topic": "AI 기업·서비스",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "8c2e6f4def65ad887600ee20e7e043e82dfce1b5600d08ed627bdf0eb2f8dfa1",
-        "8ce973367c1d78c4c4956545225f297e66c2478ee64f83985ea5de0c60eb0a0e"
-      ]
-    },
-    {
-      "title": "Engineering company Artizent gains Select partner status in Anthropic's Claude Partner Network Services Track",
-      "source": "ROI-NJ",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS3h5UkJ2N3NGdjlURXBHbmRiZVZINFdGZ1MzQUhMUllQT1dKTlV0YmZvOVVNUWNTSWFCQ05sQjl4d2d0dVRwY0xiWmR3alJFTEVVRzhMemtJRXVpZmN0aTU5UFk3WnhrUmlvSUxJNXRIWWZMVndTQ1lobVdjUUJNcjFxQjczTU5GWXdlazBvREpmdW9xbnVBd0ZNb1NiQ2tOZm1JN1RxcUwxSE9tb2FCX3lzTF9QWUxzS3ZieHAtRjBSV2RJTGJUcFZDM1FlbzEzbGlpYWZJU0pyTXpjSjd5SUxn?oc=5",
-      "published_at": "2026-10-23T15:36:28+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "b3f814f0f830effc8f853c13af07f2a2622246b7e6283ac34656081fafb24d55",
-        "d4fb54c9a21284b6c9b141765d71a098e441ffd9a6b1e7bc9a8c3f4719ed42f0"
-      ]
-    },
-    {
-      "title": "OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us",
-      "source": "The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSlM5UE5kWVhVaFpGdEo4Y2YwVEhxYmxxd0xBYk1PcnU5NHFNTGhMZXZfOExlZDg2THl4TzMyR2Jwc2NOQmFvVUxiSXRKdmNQMjhJdVFLMUt4d1hmcS1BTGk3OXVHQnZySWo3amtSR1NKT1ZuY3FGWGk0YUtTNi15ekVmYU42bUNqbDZUWkUwTFhpUlVmcUVWT2d2QVFoUGp2ckpBYnNvMXlPaGktaVA2b1duNVRIUFpqMEdfS0ZKZE1mal9STldaag?oc=5",
-      "published_at": "2026-10-23T15:48:07+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "9f764e02a756104f18f4f273ffff3544c19ac1e7462e1d16ccccd1eed0ac3760",
-        "de10504eea4397627f89050a5ef6c73ba5ae2b41f2b71fc7b85ea5e6aefa1e6c"
-      ]
-    },
-    {
-      "title": "SpaceX CEO Elon Musk is 'one of one': Will the market give Anthropic's Dario Amodei the same leeway?",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX0lwQTVaTTdKZ2EyVzI1M1pWWVQzTktBb0FzMjdpQXFiaGt1ZVVCZ3Z4bnJmZXBrUElmZzhhTkVEeFN1RTNfVUN0bTUtekZTdHFjU2M4WnFpXzFRbzlzeV9VamhJSE5SSHVza2hhWnd2ZU94b1VkeDBpWVowNkt2LUJpTDdMOHBMdWNQSGoxRExVNERmWUN5T3NmOExpeHFVMWpDNDc3WHVwLUxJQXVDekpGZ3FibXNVNlFLdmdndEIwcnYxX2JrNGl3YVByY2tiRjMwSjJpSHdRU2ZwMElVUU9fMkRnbUl6NndZ?oc=5",
-      "published_at": "2026-10-23T15:56:50+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "2e7fc9a1223a008bf69bcb30f8a4a4f4ee167f3481cafe7b57e44c241a33b473",
-        "62428aa0a742b863c9e1675980975ad23089673e8da90cc2c5b7842f101054b6"
-      ]
-    },
-    {
-      "title": "OpenAI Makes Stunning Financial Move Ahead of Potential IPO",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjNWb1pNQUwwa19yaGkyME45U1ZxNXI2a3lSMzVSRXdPOTRkb01ZUmFjV1F2RE05d0o2VDE5d1hhaWQwalBuWXBSenRQSTlPM0R2SlRaM2U5blZBdHdURmZDN25sc3VkZjYtZUI5ZFBFN2s3bEl4dzNoVWtRbGgyZFpFOGM4dm90MnpTcXgwYUhDTXVidzZkd0RrNE9YNkhCWFE?oc=5",
-      "published_at": "2026-10-23T15:59:54+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "289418584404fdb77d9839ce61386ccf5d6cc5f32c560fb201795f1d46ce447a",
-        "d822b7e1c1e22a009a96120627c9fa9f472c3bdf73c57664b039ebb0da6828b7"
-      ]
-    },
-    {
-      "title": "Anthropic, 공익기금에 지분 5% 약속…노동 지원 방식은 미정",
-      "source": "quasa.io",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUxBc3ZhM3gtSlNIMnF4aGtOM1FYUl9PRFFDQjhOWEF5YUQ3RTItd29WRS1Ga3pRQ0VsdGVuTjZDazA3MWN2UmFaTHNoSE1hc3J0Sm85cnJiVS1Eb2hlcTNpTklYNUNBblhYVUszTDd2WVliSXRGZXNTcVlPX1BKXzRVdklRZTQ1U3dFMVU5YnZwWWF1eGpydVhZVEtSTXlNNmR4YUZGdnJpWDExOXh3dA?oc=5",
-      "published_at": "2026-10-23T16:00:00+00:00",
-      "topic": "AI 기업·서비스",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "aadb680e36763f564842a12e6d7242984826f93ccce8805db4c7565effcf6539",
-        "db7b74e4ac631096dbcd980f58cff0554f1338feb0e94aae6f691b0d4d347d73"
-      ]
-    },
-    {
-      "title": "Conseal, a New On-Device Privacy App, Masks Sensitive Client Data Before It Reaches AI Tools Like ChatGPT and Claude",
-      "source": "LawSites",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObGpNLXB3cGpTZ0ZYNldpXy1xN1oxSEoyLWttRVFsUHJ0SGZ1Z3d4cm13RHhfVF9YYnAxRHJXWUk1MGE4MGtRYXFrQTdXRFFJZm1lR1UzWFRsYUdBamxJMDlUQlZkOTZtRlExRmJwVkdHVHN5MklQVm9NMUVSdG13Y1NqUWtmRC1LNUQtblBCemZ6UDZ2Y1lVY2V2WW14Q3h4UXFuZG02UnJyTzBfTHpuQk5FQ3ktU1dXNjBLRDJuVkIweVc5dDcxS0oweVBad1pGdTZVWThsczVjeHJmNmRnS194SnUzZw?oc=5",
-      "published_at": "2026-10-23T16:00:55+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "7f0393d04ef7b8e2d2adad0a6968b11e476f002492195881ec9fa8dc8a10561d",
-        "ce446372223c6156f9fb9c11eba18df9746a8fabda2edb48d9180375b99f5410"
-      ]
-    },
-    {
-      "title": "Show GN: claude-code-todo - 클로드 코드 옆에 띄워 두는 TODO pane",
-      "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ydG1nbmNBR0thVTUyNDFXYmtINEVJSnR1Q2hmd2UtY2tWc2hXNkxNbzFlMGdjYkVpdXlVWFlNWDl0TEl3S1VPLWNCSQ?oc=5",
-      "published_at": "2026-10-23T16:03:26+00:00",
-      "topic": "AI 기업·서비스",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "584e4f6470c2db0fb99956b0e5253d00060c0976e54a713ee26c1984b5de092c",
-        "6dd46b812ea687e80028887c808f104f0558ef7c942fa3ef7c2ef044f87c2ac3"
-      ]
-    },
-    {
-      "title": "How Claude Fable 5.1 can encode — and decode —messages in images.",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZXh3QmM5allhSm5IVTB5emtHNjRfUDd2aFFIZzlmVFA4OGlDQmRFUXFiaXdKRllvZkhCVThYd2x5WkNMdEo3V3lfTlQ5Q3JBZ2QzQnVldW5ETjFnUnk3ZEVFeDd6VXlMVWVjS2FBekZ0dmIwVDNxUTFuX0l6ZzBVQ1NSLUZtTVBsZk5YYXUteGJ1bWNRZTNyMzdZN0VCOGttbFR4MVVYand6bXh4WjZIVnp5VEhYYjdpcXRrS1NB?oc=5",
-      "published_at": "2026-10-23T16:03:43+00:00",
-      "topic": "미국 AI·IT 전문매체",
-      "excerpt": "",
-      "source_kind": "specialist_search",
-      "region": "US",
-      "duplicate_keys": [
-        "02786f7f99af9126e4be0837529aa023e96ffe73c959821675b96e89b60c5df8",
-        "635f6dcaf5814e6a124be937910700461b79d4a732dfd12fb2b5639295c6fe66"
-      ]
-    },
-    {
-      "title": "ChatGPT: $62K Salary to $247K Net Worth by 50 — CFP Reviews",
-      "source": "MoneyLion",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM3FrQ1d5Wm9hRkNvNFAzNk9QVzc2eWJ6b01ITWxIY0J6NmcxLVVhaGpIWGUyZmxHWWNKa20yV0NEaThsSnFIRnU3WDNJM3BycTBSdTBNdFduWUZmbHE4NFZ5VU9vaXlkY0dFbmdhM0FxdkljbzVfSUVMcmdEMUdSQ2oxUnV2Qm94cjFEc1c2NlBsVzBfWEE?oc=5",
-      "published_at": "2026-10-23T16:06:20+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "508d0202675d30bfa35872a03fc216dbcd6ae11fa8162d4b30dd2f5152363f42",
-        "c78da2167f8e5747a6fe7356f3e427f650c0523aa10d6c635f5591d28abc92a0"
-      ]
-    },
-    {
-      "title": "ChatGPT Now Lets You Lock Chats: Privacy Feature Guide (2026)",
-      "source": "ALM Corp",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44djhKSU1DeVprT3NZNnJ6Rlg3N2FMMVhUdVhoVm9xcEF2dTVqcTNTZHFGazl6aTJBOE1NZ0d3OTd4U2VyZTVLY3NOOTl4RlZPOFNRT1E0VTVGQzRsTjhJQnh3Z2h3M0N5?oc=5",
-      "published_at": "2026-10-23T16:13:48+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "77310be7c95795f4e875984b12a0e1228bc0bf208fd8cad073f9cae92b22a4a2",
-        "c49e89714459470914159c41cbf741920cebe8d83423578b115fc1290c930a76"
-      ]
-    },
-    {
-      "title": "ChatGPT Bug Sent AI Referral Traffic to Direct After GPT-6",
-      "source": "ALM Corp",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDFfN09CUnA3Qk42YlZ4R0RQcmN2eDdxYVhGeEg2M0JSOVByV2lacFlubEtUUnpuWlBFc1Y4bUFBZ3ppYl9XWVVrMjUxeGxlX2t3bkZBTG1sMEZJajBZUFZkYmpNNmFKOTJIVEZ6SnIzcDkyeHFpR21ka3lFcnlHd3RSalA4U3pmcmVjVQ?oc=5",
-      "published_at": "2026-10-23T16:24:06+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "441e4cbd93c7750f9390a1db23e0d5bd24ceba1b395cc332ef20e7fd665225e4",
-        "af0b488a69a61a13327db0d27936f05bb926c2e551edeb9865bf8b473e151dec"
-      ]
-    },
-    {
-      "title": "Alphabet: Gemini 4 Argon Is Coming For ChatGPT’s Lunch (NASDAQ:GOOG)",
-      "source": "Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1QxUDYyb0JOQk5uZlJOWEUzcTh0aEIxTTBLUzJndTEwN1diUXZTb2pRbFFpWk1reV9RTklfdkpHLW1HTEI1eGl3S29IZTlpSEkxel9xek5QRnNoRHlfQTN6WXgxQlZKVER0cVlOZG1hZXpBZzJjSF9IVW1jQnU4eHRCdU84UGptdlNvdFZkM0FuZWJOT0VlYg?oc=5",
-      "published_at": "2026-10-23T16:25:17+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "10d650bc53faf25df9df4f561fbcff4905065f2e749c123d3a2099c18d5cc91a",
-        "f649a80fee7feaf6c25238fe42b772db18fbe2f1606c4c5f57b98905f17a0ca3"
-      ]
-    },
-    {
-      "title": "I Tested ChatGPT's New 'Slides' Tool, and Here's How It Compares to Gemini",
-      "source": "Lifehacker",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yVVVNd3owUFBTNlc3NkxseWJ5ejhBaVpHRm5jeFhPU0JVNExrTS0xcmNGSVZXZElZbXFVTGU5UzRFczdEYmlKV1VUOHhtaFB1TXFpaXJWS2k4VGVKUExVY3VnSlJZdS1wVU02eDhEYXJnYXZiZHNDeFdn?oc=5",
-      "published_at": "2026-10-23T16:30:05+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "000e3b2ba42f1d3fa3cc147cdd2cc980db29f8df44a7119850e71c6ed72248d2",
-        "fd732e5783fdd9b026363e2d747d905687b5df2528693dac00f7f9602b8868f6"
-      ]
-    },
-    {
-      "title": "OpenAI Cuts $150 Billion Valuation as Anthropic Reports $80 Billion Loss: Is the AI Boom Cracking?",
-      "source": "Brave New Coin",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQXFiZmZSN1p5azZuc3dxQnBuODUwUWVMLUQtOHNpSFZoeU43U2xkekZEOG9KWWprR2RWTFRXR3lUS054RnQ5ZXhUZE43U1hHZmxZbzNsOFRQOTVsZHhEQlJjbllIcjVjZFFvTy1jd1NpeVVTXzFuQkFRbFAwMXhSUGNiUHFvUmNUQkFObEhmSnNzYS1taVoxZ1p3TGt1NG83SlN0Z2l4QnpfaEtVR2Zzc0lxbU9QUjd2SHJEbGhfelJmZ3YwR0Fz?oc=5",
-      "published_at": "2026-10-23T16:42:58+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "064ecf773bd134a0b7d549cf8e27ee41bc61333b32ae7d6f1460e4362f1d0a8b",
-        "3f700129d5cccf358f2e5e1b5353a5491f955abf0199a822d0be9f3048d4d8f7"
-      ]
-    },
-    {
-      "title": "OpenAI Dots at DevDay 2026: The $100 Agent and Everything Else OpenAI Announced",
-      "source": "Fello AI",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WNVE2dmxuVmNpSEVfZWVOQ0pFTjRHWmY1b21RUWl0bDdWc0xqdVVWajVfQ0hSazd3TjA4SkxNTHhPSlVIQXZz?oc=5",
-      "published_at": "2026-10-23T16:44:06+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "172e3cb6b5f12bc0d0d4e3e59e1c365c7f57fabd29115d4d7bf8e754f3aaf02e",
-        "5a77bfea3315ad5aac1391726db68effe10e69137caa522788b248636f20e093"
-      ]
-    },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "source": "OpenAI 공식 RSS",
@@ -2793,20 +2140,6 @@
       ]
     },
     {
-      "title": "OpenAI Details Training Containment Overhaul After September Model Incident",
-      "source": "Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUkzcHlVODJZeTRFRWRhRFRWN05ZQ1FSTlhWcmhnMElid0FNWnZwcXJHQXBXZWVvTXNHQnBsUnlOZFV0LUhaR2taUldZOC1EczEtZ3d1U2tScFpSSjE1Q2wxT3BjY09XMG5xdVpORjJ3elBPQmk1X0tvcHc5SWtVNlhqeFFpcmg3NWhoMEZiX2lJZEYweXpNX2Z4cWRKZw?oc=5",
-      "published_at": "2026-10-23T19:07:13+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "0ab67d6112e58d01408eb62437ce9650f88ec5deae5097123a37da3149d5827c",
-        "eee695b07b4e24a782649aee5a326aeec38673da1ee841f365c88815bb947d55"
-      ]
-    },
-    {
       "title": "OpenAI, 9월 모델 사고 이후 훈련 격리 체계 전면 개편 세부 내용 공개",
       "source": "Unite.AI",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUI0TlY0UDhxSGh4ZmFNYVN5T0R3clg0QlhLYkZWVU1OaUlDcGhSSFJlU1pJZDVQME14OEJ2Rmk3TGFKSkFYNUtoX01Bc2tqaC1KN1B2dlY4eG5NWkRCNVdhRWFuNXMwMlpIVFl3U25teGF3ZjU1N1VQMk51ODEwek5YbkdoVWxfTUwxc0wtaTQycWxJc3hvblg1SlZNU1RpTnc?oc=5",
@@ -2860,20 +2193,6 @@
       "duplicate_keys": [
         "9af8803fc4759482198cae2186fa413fee34254345949dc49a6a8bc9d7c6899d",
         "ee2cb91d13c15b5a0e562514548f10137a2d4025fd74342478826024c974956b"
-      ]
-    },
-    {
-      "title": "OpenAI mandates offline training for frontier models to prevent AI escapes",
-      "source": "Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX01KaG1mVjEzeEItRzRGcHM1NnVmRE9TZlI0bldYZlNTSkJaNGE2UE9ESnc5aDZsMXM5UGVGQUN6aEhBRHBSeHZ2MnNfSDVuckcyenFPTXFpY0NkUzJEczhTWFlLSUhZdTJWMjVMbXc2LXRLT0N0bGV3V1U2SmJiWHdRVWx0RS04S2gzY0ZyVFRSYVJiNzRFUGRxdGJRWjIxZnZFdnZibnhpOTcwUmlVNXJtcmNKOF9leUJlQkFpOEpWN1h6WERQejRwMA?oc=5",
-      "published_at": "2026-10-23T19:33:06+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "3afff2c4c9436284d18536145ed623282c7995eca31d80ab098ec643da9f9f84",
-        "ac90c5bdcb18b704aa74fdf9cfc950448b3c6723ca68399ae8b0f3f77fac9e79"
       ]
     },
     {
@@ -2974,20 +2293,6 @@
       "duplicate_keys": [
         "6409b728baeaaf8ac6b6929079b0c1dbd543cb0351a7334fcc8324ce0ba7a658",
         "fb922013f19eb0225a433ce3498fbf24d692204b4a046aad786bcb193e429239"
-      ]
-    },
-    {
-      "title": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT’s ‘dangers’",
-      "source": "The Hill",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0dTdFU3g1Y3BCYWNSZEwxYXI0dkVuQUZ2N01wSU5EbXVlWXZIUG4waEY2a3lWNFhEYzNjbGZfMG9BM1JPcEl0Q0ZJano0TXAxaUp5emZWSkZiY2hxWUktRlE4R19kZEpsaXhWMUktUUtFRlhhQXJKRldCcXphZ9IBgwFBVV95cUxNdVByenBfcThpcm1SaldTZlhwVnAzLW5xVjNCaGlNUjlhRWVQOW4zWm1VbUN5M05xYy1aMTd2NE44TVVWRDFsRDdKQl9qRnR6MGNTMnNnU19yZGdxWjlCcmtoTFU0R3VKZXRMaF91QnRfaDNuck9iWDBwNkNabUM0NDRZRQ?oc=5",
-      "published_at": "2026-10-23T21:00:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "28bccb656cbf9a24c5b5c3574c51297b2aa475f5ca357bcb05fd5051933f783b",
-        "c281abb6464d6d61bcb8d85001201d5956a710bb62fd497937a91ed8bff84a16"
       ]
     },
     {
@@ -3103,20 +2408,6 @@
       ]
     },
     {
-      "title": "Attorney General Paxton Sues OpenAI for Alleged Harms Caused by ChatGPT",
-      "source": "The Texan",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVElSM2sxLWJtTTY4TDRHRzk1ck9XcnB3eWpTSG4wN016Q2RBQmx0TldCa3FhWDRqYWpNa1drSFBLRXptNEpkSnZ3dHg4VFdsbUxScHlRcTBPempTTld3QXROSWtESEJWbXlCU25TQldmZm9ReFJHb256NVFBNXZSc1FYRjc4aGg0NkQ3a3F4ZG5qSE1QRkRPREI2U1h4a3Faa2h1dDh3OXVGMWczRElTM2dVX1BKZk5fRHA4N3o4Tl9JNjZNaHhpbDhDT2JQZDNlVmN0ZHVfUVozVlRCWDk0V1dQTkRFdHN6dnNhM0F6czlENGp2MUF5WjM3Vjk5MmU0ZlU1UFB2UQ?oc=5",
-      "published_at": "2026-10-23T21:56:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "7677a239c0be5667390a34c95b400ac3d4eb7516e25fdd3c54f6c2539472c5e8",
-        "b55e8c0a955718ec55726c94c72e8b6eacd2178912dc5ee4fd7389643e93fca2"
-      ]
-    },
-    {
       "title": "[10월23일] AI 토큰 가격에 베팅하는 금융상품까지…컴퓨팅, 석유처럼 거래되나",
       "source": "AI타임스",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216572",
@@ -3201,20 +2492,6 @@
       ]
     },
     {
-      "title": "AG Paxton sues OpenAI and its CEO for allegedly deceiving and harming Texans",
-      "source": "KVUE",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNemZuZjRaby1uemF0ajc3U3VhbGlaajBaZUZ3YU5tRWpWSmRrMU1yU3NiSTZPbVlsTmVJYllyRS1IRlhVVFFvYXpDYl9QdVJjam12TElUYWF5OGtXMFFTdXQwZVcyU1RRZWJNS0xDckZJSVNmSjMzV2JLY0xmbkc1VmNrYmx1ZFpzYmQwMzlBWVpZWERlR012UDRiMHpiNjNFenJBbQ?oc=5",
-      "published_at": "2026-10-23T22:39:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "3d50009974b42ea63ada87a7b35bebddd90aa2f473995266132989be3338a4b6",
-        "b3ff8f30e9e67551ac85bd02e08ee4327d0ee564aa5dac1b9b89d82491dff1db"
-      ]
-    },
-    {
       "title": "오픈AI 에이전트들, 오프라인 테스트 환경에서도 서로 소통...어떻게?",
       "source": "디지털투데이",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HNDA4YkxiRm0yM0hQN0lNWlFmb3gtMXRsb013Z05nX0JTbk45RUc1MEdIN1VlbVlSbWhuNzhRVGh3SG5SYWRtZ1JXZ1BvX29TTXFjaWNYeFNBVTVoRnQ4eVlYNFFCRzJ0aWtINWdhMUU0a00?oc=5",
@@ -3243,172 +2520,338 @@
       ]
     },
     {
-      "title": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic",
-      "source": "Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ1dQcXZZUEdFU1JoZy1ldC1tWEpMeFAyQWc1YW9NdmM0MGczNGJhSVNadHJmczlLU01hcHpCYlZNN1pEVy1RdkFWdGtVSDFoTXU5cjZTQjVVT0Zva1U0UGV5dDZwVzZ3czR1Umt0dmU0bEZ5ZFhDY0JoWTdSV1N5YzVPYmliR2dPUVB2ZWJ1MXZua3UyYjdrejgzWi1PTXVpRW5SUk5odElld3VyOW9HS2pqeDFzUTkwaVBfOHBXNEk5ZlYyUDBjSnNyYmk2QQ?oc=5",
-      "published_at": "2026-10-23T23:01:00+00:00",
+      "title": "AI에게 우리 회사를 물으면 어떤 답이 나올까…진마케팅, ChatGPT 기업 검색 시대 대비 무료 점검 나서",
+      "source": "유스연합",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4VEZGeXBvZ1otRERpS2hnWW1XRV84VHdoOWFnOS1RNGlQTGY2LUFfRGlOeGxja3VHQnpVdnE4U2hGRDVuaFpMVm5fbkIwSDlFYU9F?oc=5",
+      "published_at": "2026-10-23T23:05:40+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "0cb42e9dcd04449770e92364e85c5dfbf4a867eed5cd6325c9606a62bb3858ca",
+        "22a4f51d888ad28dbe113f6316cab6de6190348965fb218bdf6d4fd1d0c0cf8c"
+      ]
+    },
+    {
+      "title": "OpenAI 레드팀 테스트 네트워크",
+      "source": "OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jcl9rT3l0eWNERkFMQ0JCZUluYUs0QjFSV0t6WmpXaFJ0UVRaQzI0UkpFclMzRVNPV0E4cnNVTTdlVDRGRmJnVFQ0YU1NVi02bEE5QVh6bUhMMnkzZndpMQ?oc=5",
+      "published_at": "2026-10-23T23:18:46+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "1667764610e49047b2ab51be72505297e0ab25be8d000fcdf21733f9596c23e7",
+        "57cdab8937c0958ddadf789ee0ba9695db86553a7bb04dfec64695fb1d7833ad"
+      ]
+    },
+    {
+      "title": "오픈AI, 차세대 인공지능 훈련 재개…인터넷 차단·보안 검증 강화로 안전성 높인다.",
+      "source": "제민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FaUQxZnpDc0RVekFHU1JtZkczVENQTEVqc3NOWk4wTUJlZDBGNk9UNURXUjdlMERhODBHbkdabkI1T2V3ZV9oYXFuVUlMRHF5eHRES0VES1duOFdxTS1tdnBCdllzMEE?oc=5",
+      "published_at": "2026-10-23T23:21:21+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "9c0072150ee9d009086b429c702b0ca95ff457621616c4ad1b8e55dee74c5da6",
+        "e91152eeb0224d41a52921c5af990e9fe0c1e6314e07a547744e4753637fc46c"
+      ]
+    },
+    {
+      "title": "클로드·제미나이 새 모델 출시 알림, 텔레그램 봇으로",
+      "source": "브런치",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16U0wyWmQxaDhxanhZLVZ1eW9QcktKMGJIbDBnVDROY2tyM0dMd1d2aTN2OW11THViREYwV3ZPTGJRWjF1dlE4d3VHVQ?oc=5",
+      "published_at": "2026-10-23T23:25:20+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "3562711469aff2cd95d8745ad7988dfbe73bdb04065dcf08a8f7e3f56c628878",
+        "3cc89c74afe050fd303ecbe930be6ae7dfdc2d1d59311ed50aa0918316d188b1"
+      ]
+    },
+    {
+      "title": "月之暗面发布Kimi K3.1 Pro，新模型有何独特之处？",
+      "source": "PANews",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kS1FQbDJIRl85SGhLeDZoNmxkamdRV1hvWmxoUjdzUEd4T21tc255NWlfZlZHdF9fdlU1QzI4TTF3VjRIUHdDcHZCZFlzS1FPSktDRm5qR0xNbmV4NXZLUTFTVnJ1ZVlVaTZvU0doSmZtR1pRbndDMWQ1Yk83WHc?oc=5",
+      "published_at": "2026-10-23T23:36:48+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "11f4bbd323f2d23407143960124f42cbf2d535f44c89d6c789cf9d85aa2f0e1b",
+        "2c3c981a5e5ddaa7420342ee167809e0d6e9eeec3b6d225620290cffb5311374",
+        "372d8d4e7cbcbe68813e05903fb718254cba9cd9fe7fa169e83224eb4c8e4e7b",
+        "6cbff0e34e85d10c5ac21544c72747d93f8c0d21395999a5513477f6302ba75b",
+        "92ddb98179c0474c7b2cf0f3aa081bf35cad4cb980f0ac7f5d9a9aea0c4223da",
+        "9bdaf09e3e150b921cc55a0bb065751cee13f1ff79431d4501d954e116461f70",
+        "a2159f512390bc900ce03a3cc910f83fdbf4927f7e4522a7917f9d0df5ffb6ae",
+        "d1a2196793eb539b1cd0e38f7fb4204a52b50458267d5df3f2c1d3e345b21027",
+        "e1a53894a9ed10987ac865333f08fb5ec96fb2f87fec5732a54e7e6eb8dcc2dd"
+      ]
+    },
+    {
+      "title": "OpenAI AI Agents Weakened Internal Safety Monitoring",
+      "source": "Hoodline",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc1d6THQxNzg3ejYycmlTbUdoaHpieDdXaDM3QlZzdlM1Z05iVlNZWkhrVGpSVGhKQW9oV1RveTZMeVBVbGtwcDZmZ2pPbTlzUENNY1Zld1JjdUF5MlB5ZXhBOXcyVGkyYnU1UDZCNGF1RVMtMlRPdnJ5QzlnaVNwZ1dweGYxMlpCY2VYS2pyYVFUeVR6OW9yRXF4R0R5Uzd4elpnTw?oc=5",
+      "published_at": "2026-10-23T23:50:04+00:00",
       "topic": "AI models",
       "excerpt": "",
       "source_kind": "search",
       "region": "GLOBAL",
       "duplicate_keys": [
-        "7a97ab207474a3b1b48e1203f943a49cdfc5c92c49d8d9078528f4b0e89ef3ec",
-        "c0567ea41dfd2ca1d013e3406968d48f078435004fc8e453193ba80103a86778"
+        "d4724e3acc6ab7c9bd2d697ec07358910466421b5c04bc87108fc89a8de324b3",
+        "df7c89cffcf732f082280c1d4f6ee8d96e5833e323bc984f8c433e7af8d8b141"
+      ]
+    },
+    {
+      "title": "ChatGPT, Claude, Gemini, and more — all yours for life for a one-time $59.97 payment",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUXVrcWVyU1p4QzhCQnVZUWNoOFV4ZTVMQXplV1JoY1NWX3lMOTc1OV8xTnBmNWl5eUhwdXMwb3hXdlg0RjhhMGJCaUxDUVpueHVDdzk0V2ZyVDBBUjBQUG9kb002WWJSZjZyY3kxMHlVT3JodGdjRVhOM3lURTVXMzd0ODVQekcwNnpBbFhYNzMyZw?oc=5",
+      "published_at": "2026-10-24T00:00:03+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "308110ac641203544f16c087b26ea59f03e055303c0511010130cd5aa046242e",
+        "633d9bde159352184f6cd4f8a6dd585023f635d9e65a732dcedae3777329545c"
+      ]
+    },
+    {
+      "title": "TeraWulf’s 20-year lease agreement with Anthropic expected to generate $19B in revenue",
+      "source": "Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jMXNpV19MTWRVNy1Sc2ptbkJ5bUpjZ0ZQT1c3dGhKcUtBa2N3aWJEUy1NRjd1d0xHUEdNTm1Ua0RDVUE4c3RlMVBMVVJUMjRRcUZzWGtFRXhFeTg?oc=5",
+      "published_at": "2026-10-24T00:13:42+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "4b9bd560872506411d89b7925279c8c611ade81a2f94dcc7439184ced637e27d",
+        "9a2772b362644991e4a8693338de420bf5cbb33e02f4d2aba8cc82afe19ed38e"
+      ]
+    },
+    {
+      "title": "[AI브렉퍼스트] OpenAI 모델이 최근 몇 년 만에 최악의 웹 취약점을 발견했다. 이 취약점을 발견한 연구원은 말 그대로 \"PHP에서 취약점을 찾아라\"라고 지시했",
+      "source": "AI넷",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE85d1FJVjJxc1EzOFlKNnhVeXVuSGN2N2lmZWtaUFpkUFljZWpXUTl0clk5dm9vcWppVHhyaXotWGQ?oc=5",
+      "published_at": "2026-10-24T00:35:00+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "39f867573a6008e1d84795a6218f35b1db42ed87a1e5fb9a37286b66ba996297",
+        "97fb0861f95fb1ed37b103e6a29b02f37c16c90c3793b25e9b04b5e0029c3c1a"
+      ]
+    },
+    {
+      "title": "AI가 먼저 업무 챙기는 시대 왔다… 앤트로픽, 개인 맞춤형 에이전트 '클로드 듀엣' 발표",
+      "source": "얼리어답터뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9EOHJQVkw3dk93YjJHWmpITG12bVh2aEUyU3h0UVhzaTh0TDFQOUVWU3NZU01lakQtaGRUc2Q0LXNpU3JNdElTTXZB?oc=5",
+      "published_at": "2026-10-24T00:44:10+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2cca30d456b61c9b64222cbe88ef9ca3e30caa8b5176c7f48c7423146e90bc67",
+        "572850a0786a9c13b585f980306ea803e08741db0a82fdc322e637699c3e1097",
+        "901eb58b1e7e46eecfd0cf1840d96f9074371ddf3c404185dc352749acf7de87"
+      ]
+    },
+    {
+      "title": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026",
+      "source": "RIABiz",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPT0R4ZTBtQWtQMTBJWGx2NGV2TVNxRl9aa2liNDQ2SGJFVFEta0I2M2lhaEkwR2hWMmxDMlZXamdQYkpFRkU1Wl9PN3JOLXljb3JuTFJ1Z0wwTFp6ZVlqQkRnVHpZOW1uMkpnR0hUYzkzZm9BXzNXSEQ1cnBic2M2cHpqM0FSempQUGNoQzVhWmdyQksxcVN4QVJGZ2NSaEZ3N0pZMno3SFFIQm9ORVBaWWhkM25DQm1pRkIzd1dyOEZvSmxtMnRBTkxYSXp5dW1IZmhNTC1CczY2T0ZDVlBPT1NvZnZ2YXRxLXZxbklsVnQtSVoxQWlsd0hlbVBEUkxpbTNlNUlBRUJmUXdpQ3BCaUVEQTR0SjRVQTdxQw?oc=5",
+      "published_at": "2026-10-24T01:14:02+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "172b32eb5e49c0eba3692227e60dfe0457414fade08a3b2e1b4c79f23ed0fcd8",
+        "a9b6b32c2f72e77071ca5136cc3bc8999773081b5ad4908cd24c29765ff249c1"
+      ]
+    },
+    {
+      "title": "【视频】标配豆包AI助手，顶配不到15万，荣威家越07上市发布会",
+      "source": "汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NX24zWTNVQzBQWno0T3hmNllrTWpHeTZkRlVyd1V6N2RXSllhbjdrUll0elBldVpRVHRENkx3UWliRndNYnRIUGJVWEZXM2RtOEg3eG5KQUxLMEk?oc=5",
+      "published_at": "2026-10-24T01:54:46+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "be45d7ef0957d14ec92d22664cc4a2007ee3a730171bb8e3813e4099bd9f944e",
+        "c0177ccbc00df51dfa4469a1bffb237e2bb3afa4cf50c771a9cfde11824932e5"
+      ]
+    },
+    {
+      "title": "Palo Alto Networks Brings Continuous AI Defense and Prisma AIRS to the OpenAI Marketplace",
+      "source": "Palo Alto Networks",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQklPWjdZbXE1X0Y1U282aDVEU3N4VF9HLS1rb0pTZmZQOXdrbkZLSDVSQVpfYzd3XzIzdFBNVmV3bGR0Z0xZWEJLdjFzMHN3Y2UyeWVhcjJ0MGtxeUtfbnZVT0JGeXRTMk9MRlRYek5wemNkMkpTa29rRjlwNlQ3SEZmSlE0VjBjeENSd0tVVV93Nk04eEFaTTRsYWluV0d2b1ZHbmdlVGctcjRmd2lWVllWdTFZN3lEbXBEQlJaLUtEUXNJU3F4YVNSQkJWN2FrYkE?oc=5",
+      "published_at": "2026-10-24T02:01:08+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "37f7f561f4dda479d2cc2a92ab6608fb93204fa8349d554b01110f32c9b7a501",
+        "901101d2d1f74d60fde6152fe96ba84c5d81ef98c592408657ab50805d8ee11c"
+      ]
+    },
+    {
+      "title": "OpenAI reveals its red-teaming agents found a hardware-level covert channel",
+      "source": "Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmhLbmk0Z3JBSVBlRGtWc1RsZXZqV3VjUVQ4SmJSOFQxcWNybkZyTEd6UjNmd0RRVk1haEllcmUxTHRPM2QzSlJyam16TUxBYVhYQkJTQ29hLUx4ZWJuaHJSN3h6eE11V2dQTHNjZ0NiazVYQU50Z1Z3VkpOQWFGQ1gtTkx5SUlPb3lWRFBwQXdDbUt5RUFxTHVkR0l4ZGptWDY4aUJR?oc=5",
+      "published_at": "2026-10-24T02:23:49+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "172dd45c8055d589ffefde43ef20be3f524c638befd4685f5aed059c0306a37f",
+        "208e7a56949de1cef0e7107c2480444c662f6d07ae7266f9e7564f8d04ac7acd"
+      ]
+    },
+    {
+      "title": "24시간 기술: OpenAI, AI 훈련 중 인터넷 차단, PC 시장 급락",
+      "source": "Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkVqNHVYX2JHVndSWUdUZzdpTFkyMnozQnBubl9Yc0l1NVdrUnpKSEN0LVExdUl6RUVTRUFVNmVDLWxweDFjUnFELW9pblVacFRGZHlKV0pzQldOYmRzS29PUnF1RFdvSEU1ODBSQkotZWFNcmxaaGhuUUwwdEp3Z0VKMGNxYXl0eGFxZDlJZ2dnZjZBRnhwcm41WnR5dkdEbkotRWNoTWVWUG8zTEpxX3BQdw?oc=5",
+      "published_at": "2026-10-24T02:30:51+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2217430c872ba761b902c6a74af46e1d282d02182f1fedc735da1bfef8d46924",
+        "782c3328301337201790d0a20f473bcfcc4782c39d7074fd86a6bc7e5d24b77f"
+      ]
+    },
+    {
+      "title": "MiniMax M3.1 Flash vs Gemini 3.5 Flash-Lite: Cost Trap",
+      "source": "OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MalI4TXI3ci1GWEo5cnduZjNyWGw3Zm9zY0VHOFMxZk9XU3VwNEdSb290WFBCMmVQWS1sVlhBellKdWtNUjBrTlVsOFNiVjJtMEN1VTZKQUlFNnVxOHF0YXAtcmtkUUs0TnlXUmZSMVg5VXdKbVJZck5MX1gzWkU?oc=5",
+      "published_at": "2026-10-24T02:31:58+00:00",
+      "topic": "중국 AI 해외보도",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "2060ab7edf23e9c6c69a91d8790a6e15b6e2aadd1cd8c238a4d72c94bdd41a5a",
+        "27439735ffff0ee6bf2ff3bde194c073f0fe5694ea276d43b1c5ea9b8369ace3"
+      ]
+    },
+    {
+      "title": "앤트로픽 '미소스 5', 실제 피해 경고에도 해킹 지속...정렬 실패 확인",
+      "source": "AI타임스",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216605",
+      "published_at": "2026-10-24T02:49:09+00:00",
+      "topic": "AI타임스",
+      "excerpt": "앤트로픽의 \\'클로드 미소스 5\\'가 사람에게 실제 피해를 줄 수 있다는 경고를 받고도 사이버 공격을 지속한 것으로 나타났다. 공격 대상이 실제 인물이라는 증거가 반복적으로 제시됐지만, 이를 무시하고 악성 코드를 유포하려 시도했다. AI 모델이 작업을 시작한 뒤에는 위험성을 인식하고도 행동을 중단하지 않는 정렬 실패(misalignment) 문제가 드러났다는 분석이다.영국 AI 보안 연구기관",
+      "source_kind": "specialist",
+      "region": "KR",
+      "duplicate_keys": [
+        "417425d85ef73fc35942154fa7b9ef5a68d463f8da4999e7db695d9fdb46593c",
+        "5b02607fc05815798eeeb697378789e192e2d08494810dd7ef20c222ec70f09d"
+      ]
+    },
+    {
+      "title": "오픈AI '무단이탈' 최상위 모델 훈련 재개…\"보안 강화\"",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zcHdaTmdLMGZBSHBHT25zOUpyRWxhOFdxcklLWm1RQWNoUzFudnR1TEc4eWxLcndVeS1fQ1NUci1oNU9HdUYxcDRSN19GZFdyUDZSbDNINHc3ZkHSAWBBVV95cUxNdGRsNFVzZ1lteVZFdnF2cFRjWXJpdDRPVHFLTEpVXzVac0pNd0RqeXlKSVJNcmpjcXZNS19oZWJ2SWxVN3kySUlFLWhXVFZ1NTA5bDJQWmMxdERIYXZvdzM?oc=5",
+      "published_at": "2026-10-24T03:52:21+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "1dc74dc26eebe7ed4a6127cc16a9419001195f635dbc1c414e328dcf1229c9e3",
+        "bc144a32caae4a34c929a98fe9e1d6be809a8cc178558474657be308217d3bc1"
+      ]
+    },
+    {
+      "title": "OpenAI Arrives on Google Cloud, and Businesses Gain a New Way to Buy AI",
+      "source": "Times Square Chronicles",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblVxeHZDcHU4UnlZc3RSbTBJVklOVkZER3NmbXZGYXJDWHhvb09HM05ld1d4NjI1ZWFrMldlU3QtbFJTRTRFRkhvb3E5ZXhaUnltb0JYcTZKc2NTUE8xZ0N5YjNCNGpXb293STNnenhJenVYT0h6RDAtQm9LVjhzcE5jSVc1SmNXTTFpZE56c1V0X3BfWUFwVA?oc=5",
+      "published_at": "2026-10-24T04:03:20+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "b6feeb585ab910f923a53a0e6584741ae88b7fdee05efc1c38232356e6aa595e",
+        "cfb59850eb25f0f3e2027b4462eed279edc7ffc6894db7db5fd0c1aa3809fb55"
+      ]
+    },
+    {
+      "title": "Anthropic's Revenue Surged to $16.3 Billion in the First Half of 2026, Up From $1.1 Billion a Year Ago",
+      "source": "The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVURLYWVPMHEwWko3ck5ldDJ2cGVKczdrSDdVMV9nU2k2eFMzVnhCMlZWTGZwbWt0VkxFWmJfeVhMZHNYb29kWkRkaHlpVUk5bzRIY2lsQ0k0SmZHNFNPVlA0WFMwMXlYZ3Rvc2x1ZEZRckxWTXcxZEZBWUFpcWowelJYVHhwQTdjWXBVQktobndHcGtDNE9Kbw?oc=5",
+      "published_at": "2026-10-24T04:11:00+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "9bdf7458373577420a374edceb3bae2022fc65c1b10eaf34ec73589d6c3394df",
+        "b9034f28429b1cef9028f5c9dba5be9408eb1967195488f59502580219c5c512"
+      ]
+    },
+    {
+      "title": "OpenAI Resumes Frontier AI Training After September Security Scare, Restricts Live Internet Access During",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGFtX0FmQk9RdVF6d3U4NVZLWTJFdEp1VE8wZTg4cnBoWWEzUTRIREQxQ0o5XzNrUXJPNS1uYWYxMmRPaGlLRElxbW5IZnIyYWVBd2NtVHl5aXF3SkVUa0p0dG5TYVljbllYU1VlbWtKcGF0QXhGMTV4bG01MWNrajdnWVBhekhJZ25GR0ZuY0hvdw?oc=5",
+      "published_at": "2026-10-24T04:11:16+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "06f4251164db0d523b891ec8e0c8a4af5b2f828ddbc2b4746aff2427c35b3104",
+        "60f6063170621dbc589efc86acfbfd9e9eee3d97e7c202b03fe8ebfe1a3a34e7"
+      ]
+    },
+    {
+      "title": "The AI Sous-Chef: 5 Ways Google’s New Gemini Update Is Serving Nigerians (From Catering Hustles To Market Budgets)",
+      "source": "Independent Newspaper Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObDA2VV8wNS13SWRkT29aTWIxdks0SmRna1N4YTFxNTk4YktMVUZyNVluWGN2VU1FazZsT00xWVM4QVE4ZUJmcVd6ckpMdVh5WDZuUkJxcTIwZnZ6OE5fMy0yRDRnUWhQdHJqTmZfY1VEUWpjNEIza21qRU9oVHRSbVo0QWNjcDB1bkNHWERSNUVQdXNjZkRVUDlfZlZzRzhoRmp2R1U4cWplaDV6akR1MFFoamVLeXhEdERMWVFZX3dJUndmZktlUmtsM2p5anM?oc=5",
+      "published_at": "2026-10-24T04:21:32+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "52ee91087c54da3627b4c129580fb8fc0d3c91b004267198b0847c92a4abe23a",
+        "8ff2ca85af93615cad79f72868b22b702f18ea8f3e12b084f064da39228a8cb6"
+      ]
+    },
+    {
+      "title": "오픈AI, AI 모델 통제망 탈출 사고에 훈련 중단...보안 강화 후 재개",
+      "source": "M이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9keUNKWlI0NVpYMHNia2VnNmZnWmZFZWVxMnN0RUM0MnVaMVhwT0IyeU9zNXFjNG9zcTZtbjlLQUh0ZjhYa3FQeVZ4S0lCd29sbHRjOXhBMjB6LTBUdWNjcFFSTkxza1U?oc=5",
+      "published_at": "2026-10-24T04:23:22+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "725b767d473d498a10c098fde307998a62d1994d0f4f4eccc7f7d3e701b309aa",
+        "db0b2f17bc1c843b1d9b85129199dee085af9e2bb934070cb320f783d8ae8779"
       ]
     }
   ],
-  "last_success_at": "2026-10-23T23:26:17.926282+00:00",
+  "last_success_at": "2026-10-24T04:58:12.166433+00:00",
   "sent_stories": [
-    {
-      "title": "[전시] 한화문화재단, 앤트로픽 협업 신작 공개… 예술·기술의 경계를 넘다",
-      "source": "리뷰타임스",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
-      "source": "CNBC",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Walmart welcomes AI agents as Anthropic launches its own",
-      "source": "RTL Today",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Anthropic launches Claude Duet AI agent to rival Meta's Muse, OpenAI's Dots",
-      "source": "Anadolu Ajansı",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "AI 에이전트가 안전 장치 스스로 무력화…오픈AI, 내부 사고 보고서 공개",
-      "source": "디지털데일리",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
-      "source": "MacRumors",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Anthropic unveils new AI agent Claude Duet (ANTHRO:Private)",
-      "source": "Seeking Alpha",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Anthropic unveils Claude Duet AI agent app",
-      "source": "The Lufkin Daily News",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Anthropic Launches Claude Duet AI Agent to Take On Meta and OpenAI",
-      "source": "The Tech Buzz",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Anthropic opening research preview of 'proactive agent' called Claude Duet",
-      "source": "CNBC",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Anthropic, 미국 Pro 및 Max 사용자 대상으로 Claude Duet 연구 프리뷰 공개",
-      "source": "Unite.AI",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Anthropic Opens Claude Duet Research Preview to US Pro and Max Users",
-      "source": "Unite.AI",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Google Cloud Adds Three OpenAI Models in Private Preview",
-      "source": "Technobezz",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "OpenAI, GPT-Rosalind 에이전트로 마우스 뇌 추론 아틀라스 공개",
-      "source": "Unite.AI",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Grok Bot Computer Reset Stuck",
-      "source": "Cursor - Community Forum",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Anthropic 2026 Public Benefit Report Taking stock of our progress toward our charter",
-      "source": "Anthropic",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출",
-      "source": "AI타임스",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "昨夜，DeepSeek Harness首发新版本：14项更新，多模态能力拉满",
-      "source": "36氪",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Anthropic’s answer to Muse is here: Claude Duet, a mobile and desktop AI agent that takes actions proactively",
-      "source": "VentureBeat",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "source": "The Verge",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "중국산 칩도 가능...딥시크, 엔비디아·화웨이 칩 지원하는 AI 추론 기술 공개",
-      "source": "이데일리",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Flock.io Launches AI Decision Model Built on Qwen for Edge Deployment",
-      "source": "The Globe and Mail",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Microsoft releases PowerToys v0.102 with new Mouse Button Lock and Cursor Hide utilities",
-      "source": "BetaNews",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Nvidia and Anthropic partner to enhance AI security with OpenShell integration",
-      "source": "Crypto Briefing",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Anthropic Lost More Money Than All Other Major Companies Combined",
-      "source": "Investor's Business Daily",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "[슈퍼휴먼] 미국 정부, 연방 민간 기관의 딥시크(DeepSeek) 사용 금지: 이번 조치는 중국 기술이 핵심 기반 시설에 침투하는 것을 막기 위한 워싱턴의 최근 강경 대응 조치. 지난 토요일에 출시된 최신 버전을 포함하여 딥시크의 모델은 미국산 AI 기술의 저렴한 대안으로",
-      "source": "AI넷",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "[AI스토리] 딥시크, 저비용 AI 추론 엔진 공개…화웨이 칩 대역폭 열세 보완 나서",
-      "source": "이코노미트리뷴",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Urgent assistance required — Missing Cursor Cloud Agent sessions and development workspace",
-      "source": "Cursor - Community Forum",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Cursor IDE resource usage super high and crashes. [Linux]",
-      "source": "Cursor - Community Forum",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
-    {
-      "title": "Unable to use PagerDuty plugin in Cursor Automation",
-      "source": "Cursor - Community Forum",
-      "sent_at": "2026-10-21T23:35:17.795075+00:00"
-    },
     {
       "title": "앤트로픽, 메타 '뮤즈' 대항마 AI 에이전트 '클로드 듀엣' 공개",
       "source": "AI타임스",
@@ -4314,6 +3757,48 @@
       "title_ko": "5 builders가 Gemini 4 Argon으로 무엇을 만들고 있는지 확인하세요",
       "source": "blog.google",
       "sent_at": "2026-10-23T23:26:17.926282+00:00"
+    },
+    {
+      "title": "Kimi K3.1 Pro刚发布，社区先炸了：比K3快、性能逼近Opus，但额度10分钟就烧光了-36氪",
+      "title_ko": "방금 출시된 Kimi K3.1 Pro는 커뮤니티가 먼저 폭발했습니다. K3보다 빠르며 성능이 Opus에 근접했지만 할당량은 10분 만에 소진되었습니다.",
+      "source": "www.36kr.com",
+      "sent_at": "2026-10-24T04:58:12.166433+00:00"
+    },
+    {
+      "title": "OpenAI Restarts Frontier Training After 11-Day Halt [2026]",
+      "title_ko": "OpenAI, 11 이후 프론티어 교육 재시작",
+      "source": "https://tech-insider.org/",
+      "sent_at": "2026-10-24T04:58:12.166433+00:00"
+    },
+    {
+      "title": "AG Paxton sues OpenAI and its CEO for allegedly deceiving and harming Texans",
+      "title_ko": "AG 팩스턴은 OpenAI와 그 CEO를 텍사스인들을 속이고 해를 끼친 혐의로 고소합니다.",
+      "source": "KVUE",
+      "sent_at": "2026-10-24T04:58:12.166433+00:00"
+    },
+    {
+      "title": "UK £100M AI Biosecurity Lab: OpenAI & Anthropic Join [2026]",
+      "title_ko": "영국 £ 100M AI 바이오 보안 연구소: OpenAI & Anthropic 참여 [2026]",
+      "source": "https://tech-insider.org/",
+      "sent_at": "2026-10-24T04:58:12.166433+00:00"
+    },
+    {
+      "title": "[약국에서 바로 쓰는 AI] Claude Code로 약물 작용기전 영상 만들기",
+      "title_ko": "[약국에서 바로 쓰는 AI] Claude Code로 약물 작용기전 영상 만들기",
+      "source": "약사공론",
+      "sent_at": "2026-10-24T04:58:12.166433+00:00"
+    },
+    {
+      "title": "Google Releases ChromeOS 156 With Gemini Talk to Type Dictation and Video Summaries on Chromebook Plus",
+      "title_ko": "Google, Gemini와 함께 ChromeOS 156 출시 Chromebook Plus에서 받아쓰기 및 동영상 요약 입력",
+      "source": "gHacks",
+      "sent_at": "2026-10-24T04:58:12.166433+00:00"
+    },
+    {
+      "title": "구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려”",
+      "title_ko": "구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려”",
+      "source": "AI타임스",
+      "sent_at": "2026-10-24T04:58:12.166433+00:00"
     }
   ],
   "skipped": {
@@ -6251,6 +5736,204 @@
     "ce1f9da3cf97fe3d1a1d0ede9f68560d2500cf492e093a7443e536d363982b6e": "2026-10-23T23:26:17.926282+00:00",
     "ddaab0777d56c7c1595bebc51a21bbe638866ad54eca08234fc4983c108f14b0": "2026-10-23T23:26:17.926282+00:00",
     "e858e78cc4eda364940825320642c7407dbac84f1d8edfe227f47caadd340120": "2026-10-23T23:26:17.926282+00:00",
-    "f7a1ebbe10f9f4bc97c187f032a72496e3ba21b28b15c0e4a8d7ec6c4806583e": "2026-10-23T23:26:17.926282+00:00"
+    "f7a1ebbe10f9f4bc97c187f032a72496e3ba21b28b15c0e4a8d7ec6c4806583e": "2026-10-23T23:26:17.926282+00:00",
+    "4da4d5ef59e6e70c1af84dc2557acc525e64489a7fb21d154b4e4d90fac4675f": "2026-10-24T04:58:12.166433+00:00",
+    "b7a60f2afa4b8d1e6327cb86b0440a4bfe6929635da7f44f58ddbc7a820971f0": "2026-10-24T04:58:12.166433+00:00",
+    "b0548dc82f7f02ab4afc656048a8b52479e70312d6f8f664343e7d0591b56bb4": "2026-10-24T04:58:12.166433+00:00",
+    "54bf581a231644b2c62a14b407031923c77cfb26cc49ae41e692ac080e344483": "2026-10-24T04:58:12.166433+00:00",
+    "1f59304aece7046e99276ae030b43c8a8642b896f934963d92279cd0a8c81403": "2026-10-24T04:58:12.166433+00:00",
+    "258d2074bf6af63e5770294658daf8bf8569e362e1404fdab38e17a7ea90aa66": "2026-10-24T04:58:12.166433+00:00",
+    "1f4dd7326fa1c3074ff2c00ea20496415a37bf9e3d64ba2754c39dfa89e93618": "2026-10-24T04:58:12.166433+00:00",
+    "b279d335c550da3631bbff20c71cc6d23b619f3189317dec25501317d9a20d3b": "2026-10-24T04:58:12.166433+00:00",
+    "aa7a259895e60cbd5d8ceb48902e0aeea1b471e38a22ec3d793c5ddae344d1fd": "2026-10-24T04:58:12.166433+00:00",
+    "3b047e1acb53d56cb95ef09266fe572dc01a3ac44ed0fc982039cfe9fdd9f2a1": "2026-10-24T04:58:12.166433+00:00",
+    "fa45dce397ab88834b5fcbd0713dd36205776a84b44ab5e50af2347b0f791a67": "2026-10-24T04:58:12.166433+00:00",
+    "17a75c36bc0efb0d393f75e3ef696e68c44240ba137bdc1ddc81ad40b5f33088": "2026-10-24T04:58:12.166433+00:00",
+    "6de664b5f37b016c7fa9859a53fa786cc1139312da83545ea006f9c5c5ab934b": "2026-10-24T04:58:12.166433+00:00",
+    "5bca3aba1dcd9766c18ad34f92395b9bcbedb82a7a8b40f215c10e261d24d64a": "2026-10-24T04:58:12.166433+00:00",
+    "0a783a9b610a2c62d82e556a9798f3f6a89b2642c3710cee238f68a67af669fc": "2026-10-24T04:58:12.166433+00:00",
+    "c2478ef7abe1ed2651b7ba07675b11c72def04dba9871cc7fb6179bb95d9e410": "2026-10-24T04:58:12.166433+00:00",
+    "0ffc65b1649b53ded0bccc9a7d762edfe5ad023223b954adc2a4320e81cb9fbe": "2026-10-24T04:58:12.166433+00:00",
+    "e707369c661fb99a8a76021107c07340b626172c64e17d8768758a6719fc5e61": "2026-10-24T04:58:12.166433+00:00",
+    "d756729c27109d97b07c0e38eae27a4a84f1e25a56ed563239d0a70ee6174ca4": "2026-10-24T04:58:12.166433+00:00",
+    "c955203f99ed915d39f772f63e2513697c5cc022842fadcefcf45f38d81546bc": "2026-10-24T04:58:12.166433+00:00",
+    "1eb9abf485f99829bcf66f2c43ea175713f49315cfeac3768aa005efc86fd6d8": "2026-10-24T04:58:12.166433+00:00",
+    "984a274fd4ce74b2ce4469c5c1558834d287b6698bd5341403d4c979217a6907": "2026-10-24T04:58:12.166433+00:00",
+    "cca6982505b6ad599754e1cd510d84682831eec9cf12157b653a15f45d124b1f": "2026-10-24T04:58:12.166433+00:00",
+    "8a0f775cf45584c4d7f9b877e94a4210e235726de1790c2306dd32236f5f8571": "2026-10-24T04:58:12.166433+00:00",
+    "d98ae56f5c83323c363dd130608a728d2cb66336b2ded7e3f58f9c705a783809": "2026-10-24T04:58:12.166433+00:00",
+    "c504f8a7b77c496f830ff0471d251d4a563893fbf85bc991934d6bb0c2c6999a": "2026-10-24T04:58:12.166433+00:00",
+    "f487193f70b8ad85bd4a4048712d6e800795725ca7d333cbefa1683e8510cdff": "2026-10-24T04:58:12.166433+00:00",
+    "c50e30c154c6e18e405cffdc72996e0e79f465b81e7e8a7750d4e1080ff4f730": "2026-10-24T04:58:12.166433+00:00",
+    "5f6ba0273fa6cce1fdb2b9e10b11d41de861955ebea238feb2383689ea0a7a54": "2026-10-24T04:58:12.166433+00:00",
+    "da3db5cbaae9c938c42ae20b25a5c07df440f9dd7d7ab3c59c316672d52c7a1c": "2026-10-24T04:58:12.166433+00:00",
+    "2fa3aa2581061fb01864b9535b51d2e5069c7cdfb4edb000f30dc92b73e7373f": "2026-10-24T04:58:12.166433+00:00",
+    "60475ff6acedbc663610d522c7e970085aed8271c4761192939ddb2e901d9f5b": "2026-10-24T04:58:12.166433+00:00",
+    "7c39a5babc33fec4f906b5771087682329a2b50ecc08b4356235088c34e88ce7": "2026-10-24T04:58:12.166433+00:00",
+    "0c0edaed293c79cecf85d071d3211c5168d05241665a22d5448be20a91fd286f": "2026-10-24T04:58:12.166433+00:00",
+    "69fcd38f49a38ce6a6c2fa884ca4b87fbf0e85942828d14957d088ddb0e32543": "2026-10-24T04:58:12.166433+00:00",
+    "fdcf9b6324e9a22f9c90090f0d80992a6d208690ff7b9da3d90b02310f67a1a5": "2026-10-24T04:58:12.166433+00:00",
+    "4f07483142c379b0aec9f91bf0b49910aec93c8bb9bcd10da3c87799d90376d4": "2026-10-24T04:58:12.166433+00:00",
+    "7198eb13f759ee0c500781d8d33c6e53cd990999cdbedc48c6ff19ec42541b6c": "2026-10-24T04:58:12.166433+00:00",
+    "92394cd417e40cb72fa142fa790a3fd691bd4690578f6b896ee95bb83f8a8fc5": "2026-10-24T04:58:12.166433+00:00",
+    "4584467e7369e89a4e60bdb8751762ea003692011da0f37ffaa22f9cced1836d": "2026-10-24T04:58:12.166433+00:00",
+    "0c635c46a1090aaa95724bfd0d2b68b8dfaf9b95c141954b3aaeec60466394c2": "2026-10-24T04:58:12.166433+00:00",
+    "ac79ef19ff4df4378741bd75bc9cf3da29b5f48b61c6b9b8646ce64bb5ab2772": "2026-10-24T04:58:12.166433+00:00",
+    "8a5c9b3688dce47d91446e9e36d57d94dbb626ca3be66dea4543a57052ae82f7": "2026-10-24T04:58:12.166433+00:00",
+    "142f3d56cd8d7e99e1aa1fa049559ea362106afc5c77e5f389f901ef7e0228e3": "2026-10-24T04:58:12.166433+00:00",
+    "b9480152d0449ea660f87280b0c30d0ee8c2b1bf1a14e2d465b9a157dca0e650": "2026-10-24T04:58:12.166433+00:00",
+    "a2db2cd6e0170052be64024c5c5dce9434f324afee66461ef260ab7f45c73f9f": "2026-10-24T04:58:12.166433+00:00",
+    "250c36efedbeca6d88403a688cd78f1dfb81378e72fc1a7a640dba41cda94ba4": "2026-10-24T04:58:12.166433+00:00",
+    "6ef227e1b1ddc2e5a1c356e7929bc9fc848fa29b8d5f67dc86c2f7968539d4e5": "2026-10-24T04:58:12.166433+00:00",
+    "fe9165f5df8e527e1ea31780d1a5e96279ad0e71defcdb9efb35002df59e9c3f": "2026-10-24T04:58:12.166433+00:00",
+    "9c87cda1fd5ef62bcc743f6413e15310030f353fc6a471db8c505c371d5016e4": "2026-10-24T04:58:12.166433+00:00",
+    "926759b52162e54fad2b145720deba06e3fe29089f4bffaeab4a8c3b735f9813": "2026-10-24T04:58:12.166433+00:00",
+    "b0721070eb1e938fe0872743adab51d0a7858a376e89925daa1aa0e708b522e1": "2026-10-24T04:58:12.166433+00:00",
+    "6f450282b5831c066c03c47236191b7f9a6dd278e2cb3f354ea35a71b68a4b04": "2026-10-24T04:58:12.166433+00:00",
+    "b27fe3ede53bc34fa88fda79b7661c835467e70d74432f92cf6acc83fa6b4e16": "2026-10-24T04:58:12.166433+00:00",
+    "f94e13b2dadd4aa778c6072279e9bfd32bb6f6a2452f935f53e93c08aa4c8e0e": "2026-10-24T04:58:12.166433+00:00",
+    "2de07627a8731c2deea8ff966c3eb1a92b484a948c904ca7ecf8a444e7929b42": "2026-10-24T04:58:12.166433+00:00",
+    "4180f2c48724e2b4ef4f584f3bb375a769047def29bf117d27b990f1ef42a4ed": "2026-10-24T04:58:12.166433+00:00",
+    "6c69344ad5472a526c2a1aecd087862b87a78d724be20ffa05b0a88127c1ad8c": "2026-10-24T04:58:12.166433+00:00",
+    "ac966392186a61e942a323b1299d824c9d5306034bd8405fe83a7c33111b9176": "2026-10-24T04:58:12.166433+00:00",
+    "172dce083df90efaeaf91850c410d0a121a19f36537fa4a3ec4d7a2ebae4b58f": "2026-10-24T04:58:12.166433+00:00",
+    "30d437d380c187fb80121d51a3bfcca61ed7fd380226d1315f14ae6673cce302": "2026-10-24T04:58:12.166433+00:00",
+    "2f55309f02e2f86e2d8836d75e6e19f5ad78d24179e0cef2c4cc304258cd63dd": "2026-10-24T04:58:12.166433+00:00",
+    "a64b74f1210e579b9074e9cfaa329bf4a2b2b5fde6d077bdd810c83344c87cc8": "2026-10-24T04:58:12.166433+00:00",
+    "8b1131cc2cec5dcb24000426aa24eb6c73a4bc400c8a748d2c4ab742fe41563b": "2026-10-24T04:58:12.166433+00:00",
+    "a07c53b5758a8280b74b289b7aace78b5f8a365d323c43e03f9222c16e9d04f5": "2026-10-24T04:58:12.166433+00:00",
+    "a65c0dd7447c3c51de763f4348c28c65dc2fbb0563672bb1abade84775c81a4a": "2026-10-24T04:58:12.166433+00:00",
+    "c3b1ac66dad0dc5f18775b491847b89abc834e5774cf00afbad3efe98becdb61": "2026-10-24T04:58:12.166433+00:00",
+    "8acb0d9baa23625135cbd5e2e8acd704a942a3148147bd35d3b9774de74ec8c4": "2026-10-24T04:58:12.166433+00:00",
+    "6ca61d2053e2e1e31ff27a5fb141e65bceb49e691203deb079876d23631f41fd": "2026-10-24T04:58:12.166433+00:00",
+    "073f6227ec2afba36b3d298a96664ae15d1dbccfe85018529c91fe77238d802c": "2026-10-24T04:58:12.166433+00:00",
+    "3bc09973f52e825a148e8a81469b1423491a3d48fa3d25a45ec21c5c5c9a91ca": "2026-10-24T04:58:12.166433+00:00",
+    "8523763e9c259161ba552dc106029a1082d23172ba23b3fd1a2eef3b880eac2f": "2026-10-24T04:58:12.166433+00:00",
+    "516270a5c370ac97dbf2213b08f9683561f9aef32503021730b4b1774fe9925c": "2026-10-24T04:58:12.166433+00:00",
+    "e67f755d21fce121d2a20f88b9937be9a99ba6ba8303904fe7e5227eebfa186f": "2026-10-24T04:58:12.166433+00:00",
+    "1a4b01f464dace8e3589c94802f3c30f6fced971b12b87bc216b4cdef08e2720": "2026-10-24T04:58:12.166433+00:00",
+    "6a1dcc9270756635a3ea042c1289135ddd204fc128ef904f4cfa495ddbc00805": "2026-10-24T04:58:12.166433+00:00",
+    "d20f9bf4a1deba6a6ee1c4795f53cf8d6ea35982318006d619a565f4463e0afa": "2026-10-24T04:58:12.166433+00:00",
+    "a1c69d39c3ba5e2c2483e19b40fecf2faf9cccc898b708115bda3c6b21a61a02": "2026-10-24T04:58:12.166433+00:00",
+    "e933fc73f84fbd681135a79d9df9b7d58f9aa3544dfc5560d91bcb23b294c7f5": "2026-10-24T04:58:12.166433+00:00",
+    "6e7e162313dacb0cda031fe062db7c929cf9e4c7d323b37d7165dc0315560a4e": "2026-10-24T04:58:12.166433+00:00",
+    "e2d76a29538ba08ed9645036ce1bb41e025cb89de0cb29444281bfc306443a7e": "2026-10-24T04:58:12.166433+00:00",
+    "cb5de5f431e5313fe4307eca88535a6e397090a806ad6e7b4eb36adcd6b5a1df": "2026-10-24T04:58:12.166433+00:00",
+    "95a9052539bb623907dbb604009bec2096b4b4cf6c77cdf71fbafe5f342a21d7": "2026-10-24T04:58:12.166433+00:00",
+    "60ecef6ae28e279db9a73b733bbccd24e9840eaf1ac10dd08dbb4630923fb2e8": "2026-10-24T04:58:12.166433+00:00",
+    "80a42d07f765cf776e8d4e80f8b7d0b49b696f56e03f61a19dc0719962ddafe6": "2026-10-24T04:58:12.166433+00:00",
+    "812bef10dd7c8927486739ac930850757c1323b42d47af453176d3d2aa5616f0": "2026-10-24T04:58:12.166433+00:00",
+    "0f8770c0f5158b14c689735dc016a8a0e01364569c46bb854e8eb1de0296526e": "2026-10-24T04:58:12.166433+00:00",
+    "e40fd1afb5afd88010f00d40459fc19ec1f169c3318505c751da3b423618b267": "2026-10-24T04:58:12.166433+00:00",
+    "3d5974285728e3853fdd022e7c7013fd5a6457aa5e691560b31b912d808230a7": "2026-10-24T04:58:12.166433+00:00",
+    "a7d6c4c53c4c0bc81c5cbda22a5b4cb14429c0b5572667acf8f5210c2cb248fb": "2026-10-24T04:58:12.166433+00:00",
+    "fba01ede00095faa981fea4eb8da8207c58abf6c3f4b807709e666d69df54ee8": "2026-10-24T04:58:12.166433+00:00",
+    "081178b9974fc5a11d617c1433925ac1486037e11245c767ff399169000ca8ea": "2026-10-24T04:58:12.166433+00:00",
+    "0867ec1f60a8026b6c023962894cd929fdf39cd4181ec688369d0d240e95d0be": "2026-10-24T04:58:12.166433+00:00",
+    "9363c9e041a10025e3ec3f98bae09b39dc920e3de284a53e2cb91a3d41e33454": "2026-10-24T04:58:12.166433+00:00",
+    "288a8bcf3cd0423f4bc544e279f8901b10e6140721af0667e7cbe4e38ebeff3c": "2026-10-24T04:58:12.166433+00:00",
+    "d7b44a1e0cb8115c224502d588018e7583ddc4cf4ee6cb9a725034ae346df2bb": "2026-10-24T04:58:12.166433+00:00",
+    "58e0082137875e63d43ea82e8ed9363c3fd1a6ad297cfa84c8174fa75956dd3a": "2026-10-24T04:58:12.166433+00:00",
+    "839559656dfe6d4ba868c1ed750959c67c11adf0353c6c04bb59b0c9d9f0b815": "2026-10-24T04:58:12.166433+00:00",
+    "3908a65bcde3b22227a1fa170366b09cc497799517dd0378b361c9073e9ec182": "2026-10-24T04:58:12.166433+00:00",
+    "716138fb9d97d27208289e19e26897ce2478756b7e6b079f3bca5d05b136bbb4": "2026-10-24T04:58:12.166433+00:00",
+    "9d6f49c66eff2ce0107fce8bcee3f95d94a886ad60512c9e9e08d1fc86941166": "2026-10-24T04:58:12.166433+00:00",
+    "cc3c3fa4ae21e1b07ec5ab136f51fd6cde00833abfe1e276fa8015f02241854f": "2026-10-24T04:58:12.166433+00:00",
+    "90ddf1e1180710a2cb828d7c8ad3521d291a2adb9ced49acb602ea44354fdb3f": "2026-10-24T04:58:12.166433+00:00",
+    "44fadde1206193b0495ced4049f7a3b4e5ffd1801fc84e2697ddb05faa9c9b15": "2026-10-24T04:58:12.166433+00:00",
+    "c5236cee947cf99969525fb5b25364b076fcf3c975879576a711ddd20994cb1b": "2026-10-24T04:58:12.166433+00:00",
+    "fd48726aed526dcf3088f9840b38caadcee4b56e1edf0ada579e14c23f4020eb": "2026-10-24T04:58:12.166433+00:00",
+    "14dbbe846ca003f5e064dcee9e5d0a03d66c7a8c2780f80297139b32687f0d1d": "2026-10-24T04:58:12.166433+00:00",
+    "1132cecc63c98380577b996963c5dabc1a5d0b1bfced7fd3993ffd015134a964": "2026-10-24T04:58:12.166433+00:00",
+    "177417ded7b72fe92163b48dc4905835b55812ae8444e7fc8cae7faa87599c31": "2026-10-24T04:58:12.166433+00:00",
+    "4f0cc662cdfe8102cf5e1e3984dc715195b90d72026b04fe451033ff9170f12c": "2026-10-24T04:58:12.166433+00:00",
+    "60db018acb1b771d7b07d37a690ce465f261ec7bdcdaea2f30cea32ebc669b7d": "2026-10-24T04:58:12.166433+00:00",
+    "5d6f73146b04f4eb08fbadb1043a8d8c3167680d7a6e73c930241e5d348c931e": "2026-10-24T04:58:12.166433+00:00",
+    "f7e5ec818edb7ef29ffd546d375c156ffd2155f92fc7611fe54f930d3b763e15": "2026-10-24T04:58:12.166433+00:00",
+    "425d6f623bfcfa61b2e01f74e758af4e13502195a7587e1ec0480011fe1dfb1c": "2026-10-24T04:58:12.166433+00:00",
+    "2231d37d5e81dcaf7d70dc89215ebd95d61da96fad5f7623b25a7e0ba893cfc8": "2026-10-24T04:58:12.166433+00:00",
+    "6d29a640f77feacab05e3e5cecf13e27df7f8adfb1194385c96fce6396de66ec": "2026-10-24T04:58:12.166433+00:00",
+    "5956954f1782c7dfcb8957b4bc0b938d991c93a0a8e079bac34d24c26893f8ec": "2026-10-24T04:58:12.166433+00:00",
+    "a59a5637f4605a815cea24a309856c608aa506d10b659552f4e9f831e995a50a": "2026-10-24T04:58:12.166433+00:00",
+    "ebcc42d303b34b92731a5cbc652d1ccf929ef9cd6eb88cdc9fdf0445e541739a": "2026-10-24T04:58:12.166433+00:00",
+    "413837e82eb5044d8dd3f718bd2691a0b6d9742ee70b17e5f3da0c8dce9569de": "2026-10-24T04:58:12.166433+00:00",
+    "cced6c434da084ac50a09ee149c55bf77622d86266199c58ae93aa92702db6c2": "2026-10-24T04:58:12.166433+00:00",
+    "c4de2cfb3961ae41d4342d7b24e98e307fb41058223e8cd84aa9c22d5ec52203": "2026-10-24T04:58:12.166433+00:00",
+    "04cd4a5e2d59b29f71e8f91484de8781ae5b22420ac86ef3a07b3264f57d2a0a": "2026-10-24T04:58:12.166433+00:00",
+    "d694da7f2df9723d66b29f8d04008aa459a7353997ecb2445292d2dbb3ef16ae": "2026-10-24T04:58:12.166433+00:00",
+    "5ca6d9e2a57719d9f7a985fa2b821154e893a68cbff04a56a1c62d9a63272a0d": "2026-10-24T04:58:12.166433+00:00",
+    "97f04d3a94bd83f5df67b9fbcf990112d5e39186cfd444803443a9efee6ca087": "2026-10-24T04:58:12.166433+00:00",
+    "b471c2628f1181817481284ea9611551fe2aa19b491e8b25f164bfd96af41b6a": "2026-10-24T04:58:12.166433+00:00",
+    "b1fd614bc718ed7c49ec6513b8c6360e247e62a250ebbd3989e71c18587c6831": "2026-10-24T04:58:12.166433+00:00",
+    "1e252b2d734fc608a8cfb8a2d77d36b520ed5eac8904e8f9d5794e6228e1f312": "2026-10-24T04:58:12.166433+00:00",
+    "4be0f4bf1eb9af8a0c0ae58ea3227ca03f8d36310509318ff3c8ecd5ff099296": "2026-10-24T04:58:12.166433+00:00",
+    "8e6e021fe7349dab12d71e18fd35634e05b342e988119e8e8c1451187c95e501": "2026-10-24T04:58:12.166433+00:00",
+    "39930bb95f349a53b83296c8299b77f463166f0aa42e44847fe71987ccc79d0f": "2026-10-24T04:58:12.166433+00:00",
+    "19940024f9dc2ac8ffb92b0d7dfde925669c4063fe4d9622b5c23d902c45b9ee": "2026-10-24T04:58:12.166433+00:00",
+    "2df560919652779c60ba0fb0aa639ba2115e0f97b891e2f9fb47672ef02f6f4c": "2026-10-24T04:58:12.166433+00:00",
+    "70f533a976f5ad1223ee24d17a5ef976991fe8350859166279a644b3f64ac8ea": "2026-10-24T04:58:12.166433+00:00",
+    "fa132a1a729cbc5d49af43a4beaae9be6fe2cb2d8a5fcf221e5b4fe9c874f354": "2026-10-24T04:58:12.166433+00:00",
+    "feb208cce599214bcebceed4b0000eea65aad9f4f79692225bcbfbe0eaa85a1e": "2026-10-24T04:58:12.166433+00:00",
+    "f4b61db16056a9134f53ad7865b099a44ab904e04ade7e158e292175d77ac0f9": "2026-10-24T04:58:12.166433+00:00",
+    "8069820f10f327a1947cbeff32821e018e4944b83b45d74c652b54c6e9330e0a": "2026-10-24T04:58:12.166433+00:00",
+    "46fb0b2f506c4a175c119f6bb7c2714b0f84e2337173da96f0703f3dada7b0f5": "2026-10-24T04:58:12.166433+00:00",
+    "6eea63de6cf990cc5620b5bd40e66ac6cff607c36251d9f62cd5e1e89c826fcc": "2026-10-24T04:58:12.166433+00:00",
+    "de3a4ab3ede9ecd5e0c309f117a6b794c16673038506cfda73e933a2149ac5e2": "2026-10-24T04:58:12.166433+00:00",
+    "f066e97eb1c30c3f023d9d6f27f9fc31c726dae3e71b7313ceb4bb4ec03aaddb": "2026-10-24T04:58:12.166433+00:00",
+    "e039b3cfec063129c569ed0cdfa8b2245aeae44d3ef88e94e20fc994fd76a978": "2026-10-24T04:58:12.166433+00:00",
+    "faaab352acd2f50fd0359b2405affc149f51440e2a915b5a05009c07211b988c": "2026-10-24T04:58:12.166433+00:00",
+    "c9661c7fa9f6a747a4e7faa2faa76c4fa4e7fc2ccdffd993502ec14316825042": "2026-10-24T04:58:12.166433+00:00",
+    "fdf2ff4b30f62693f9fdd41917f91ab5104afa771a76cbc3ff6c1206d01736ce": "2026-10-24T04:58:12.166433+00:00",
+    "da9229308d55025e707163ddaa72596aa72687eba37903869d82ddb8ba797b7f": "2026-10-24T04:58:12.166433+00:00",
+    "0508b490d99d5146000ce02444b766dc5ac657b91f2670eca14504568b14bdc7": "2026-10-24T04:58:12.166433+00:00",
+    "613b51fe1698952c63c1c6fb085ef6e607c10a831ae6f662c8347f1cdbde5b08": "2026-10-24T04:58:12.166433+00:00",
+    "fb681ac498418e3e818515e772f688957a3b72887c0343a3f866c47b07f20767": "2026-10-24T04:58:12.166433+00:00",
+    "1da8365a0a603946145e9c35902bac6d05201ac289396c18a9724f69cf29dc87": "2026-10-24T04:58:12.166433+00:00",
+    "fd943e7cb737c546e4337722d35d465d687b693dc7ca34862ec2638bff08f115": "2026-10-24T04:58:12.166433+00:00",
+    "6b56ac840939660a9b38254865f1be27ff402343500682fa411777eab5f76725": "2026-10-24T04:58:12.166433+00:00",
+    "bd231a005ea211d7ebe031cbd6fc159c67146a9e492d28c90b743eb6dc4ed9d4": "2026-10-24T04:58:12.166433+00:00",
+    "9b25c659786c4377671c7d6d80986d92b69485e1a735f426f4b5c89a3bde4747": "2026-10-24T04:58:12.166433+00:00",
+    "2293c785fd6ada79194b4411a63e64823826f281984148d17a48cf0cf50a1dfb": "2026-10-24T04:58:12.166433+00:00",
+    "bb0d79a9a7a3321803d749ae8363405c08ce6d6ca2a09c507cd22a2c08575a2c": "2026-10-24T04:58:12.166433+00:00",
+    "cad800722fa80eab5f9b34e3f8b56c473aef6faa57b97a500068fb5a159dfc42": "2026-10-24T04:58:12.166433+00:00",
+    "81cae9bfeadd9683dc0e780a418f671f574256ab01e6ee593084902a9f544783": "2026-10-24T04:58:12.166433+00:00",
+    "e72939ade2aeec0d5d57279c9ec0af8d8234e355934045e57a5c1dab3864cfb6": "2026-10-24T04:58:12.166433+00:00",
+    "e5ffbf7696871cb8abed638a2d91c3dad8dcb1cdde6d4e67ac92c0e2c3981621": "2026-10-24T04:58:12.166433+00:00",
+    "fd7e07615b44df28fcc9cbf0c5627474e72a100c917da658ba7c4eab82ad35ea": "2026-10-24T04:58:12.166433+00:00",
+    "20317e22a29223122bad8a705ed551002eaee4aaa4a3f5c364d4be332e44dc44": "2026-10-24T04:58:12.166433+00:00",
+    "abfe165759f6c586b3d48dcd47540cb59fb7f4be23c23b5aed4d4b7fe591dda0": "2026-10-24T04:58:12.166433+00:00",
+    "4c9152ec695c6d14d7154bf52c1423a9ad2c2c8f4cf3dd09a14cebd49243d1e7": "2026-10-24T04:58:12.166433+00:00",
+    "155ea973773e52866a7b2e125dbed71daaa52875fed2e5afecef6eab42f28440": "2026-10-24T04:58:12.166433+00:00",
+    "2e092e7c558d6ab5ee4a736cfb20556a1269f27f9d70c4e334f5dc15e4b6d96f": "2026-10-24T04:58:12.166433+00:00",
+    "cb4abd6ff8f71d763223dd2c65e0f3aab0e52bfcaf16c3ca16eb20737b61bfee": "2026-10-24T04:58:12.166433+00:00",
+    "c33d40b3ebe5a2c8ed82845aa8e9b13ee465fe3f91be97fdaf4a24850e0e65ab": "2026-10-24T04:58:12.166433+00:00",
+    "e3f17a3c3e78baa96f70e70fa50e01e498170e5a060c1a554706d51c076c371b": "2026-10-24T04:58:12.166433+00:00",
+    "9554cc09aba7d217f1212ed16a33eb9c972aea96e2015bde1abda3affa7f34c9": "2026-10-24T04:58:12.166433+00:00",
+    "262fe2f507b9a5e28a3f6cb708e684f75ad8c621ce6947946c4ba07bc2b4ec29": "2026-10-24T04:58:12.166433+00:00",
+    "68ac701f718a98d8856022e14cf1e1b35681ed5e81a62afe5651192844b63e73": "2026-10-24T04:58:12.166433+00:00",
+    "8f2c30fc387160c8370e1a5d69a5901863a969ec511f045b50eee85ebad1ae01": "2026-10-24T04:58:12.166433+00:00",
+    "497adb9c88336d8b1e1e14553cf1c63d69b15df79fe858a8f62660e571473b1e": "2026-10-24T04:58:12.166433+00:00",
+    "8b1730459f3d06522ac6f9f33c79b3ea47d54fb2d549794e13b8502ae0ab6f98": "2026-10-24T04:58:12.166433+00:00",
+    "1a76145adbdec854b741ce98fa3f59350d723d549d39dfd6b9ff7fb217a166f6": "2026-10-24T04:58:12.166433+00:00",
+    "dd664854ed47e5a6ef31c8f4f028fb66bab93a9e8f923de2e75701fd12eb349a": "2026-10-24T04:58:12.166433+00:00",
+    "653fbaf2aad898ea9c1435b6074978b568f59924472b34ad8b5e2d81a9d36303": "2026-10-24T04:58:12.166433+00:00",
+    "690b2c431a6d6598c159e38327df71f217b532dc97ff8998591c58c3e5a399ea": "2026-10-24T04:58:12.166433+00:00",
+    "55dff58aaf67b0f90b655ef22db45ad3d296bde3ac6d491164d2d6bb9db7095a": "2026-10-24T04:58:12.166433+00:00",
+    "1cb641749230a23d41c85c46bf59ced243e3c8e75e8fc60df443850c8cb769f1": "2026-10-24T04:58:12.166433+00:00",
+    "b48164543a41fdb8136efccab3f768cf55bfe783af94f287ee4502e3645cd54d": "2026-10-24T04:58:12.166433+00:00",
+    "0296902a8d1fd69f9b552c2fd0b7047f59d563c9a353ec6edcb93ca06073491c": "2026-10-24T04:58:12.166433+00:00",
+    "ac90c5bdcb18b704aa74fdf9cfc950448b3c6723ca68399ae8b0f3f77fac9e79": "2026-10-24T04:58:12.166433+00:00",
+    "3afff2c4c9436284d18536145ed623282c7995eca31d80ab098ec643da9f9f84": "2026-10-24T04:58:12.166433+00:00",
+    "0ab67d6112e58d01408eb62437ce9650f88ec5deae5097123a37da3149d5827c": "2026-10-24T04:58:12.166433+00:00",
+    "eee695b07b4e24a782649aee5a326aeec38673da1ee841f365c88815bb947d55": "2026-10-24T04:58:12.166433+00:00",
+    "b55e8c0a955718ec55726c94c72e8b6eacd2178912dc5ee4fd7389643e93fca2": "2026-10-24T04:58:12.166433+00:00",
+    "7677a239c0be5667390a34c95b400ac3d4eb7516e25fdd3c54f6c2539472c5e8": "2026-10-24T04:58:12.166433+00:00",
+    "c281abb6464d6d61bcb8d85001201d5956a710bb62fd497937a91ed8bff84a16": "2026-10-24T04:58:12.166433+00:00",
+    "28bccb656cbf9a24c5b5c3574c51297b2aa475f5ca357bcb05fd5051933f783b": "2026-10-24T04:58:12.166433+00:00",
+    "45c87e4bf2e1ce9b6db4d99690ed84c5e9796d557788e6f9cf68f044dbc8fad9": "2026-10-24T04:58:12.166433+00:00",
+    "c0567ea41dfd2ca1d013e3406968d48f078435004fc8e453193ba80103a86778": "2026-10-24T04:58:12.166433+00:00",
+    "7a97ab207474a3b1b48e1203f943a49cdfc5c92c49d8d9078528f4b0e89ef3ec": "2026-10-24T04:58:12.166433+00:00",
+    "0af8cfb4600ee84e8f3c110976201c7a3a138a6facd93636098a39907e9cd8f9": "2026-10-24T04:58:12.166433+00:00",
+    "0b0b9000ac73b11829ab01519c13459c0f2a18954c8470d113e781ed96ced136": "2026-10-24T04:58:12.166433+00:00"
   }
 }
