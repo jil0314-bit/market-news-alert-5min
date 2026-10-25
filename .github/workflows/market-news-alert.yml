@@ -15,7 +15,7 @@ permissions:
 
 concurrency:
   group: market-news-alert-hourly
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   alert:
@@ -57,15 +57,28 @@ jobs:
         run: python market_news_alert.py --config config.github.yaml --once
 
       - name: 중복방지 기록 저장
+        if: always()
         shell: bash
         run: |
           if [ -f data/seen_news.sqlite3 ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/seen_news.sqlite3
+            git add -- data/seen_news.sqlite3
             if ! git diff --cached --quiet; then
               git commit -m "chore: update alert state [skip ci]"
-              git push
+              target_branch="${GITHUB_REF_NAME:-main}"
+              for attempt in 1 2 3 4 5; do
+                if ! git pull --rebase origin "$target_branch"; then
+                  git rebase --abort || true
+                  echo "::error::발송 기록을 최신 변경과 합치지 못했습니다. 기록을 덮어쓰지 않고 중단합니다."
+                  exit 1
+                fi
+                if git push origin "HEAD:refs/heads/$target_branch"; then
+                  exit 0
+                fi
+                sleep $((attempt * 2))
+              done
+              echo "::error::발송은 완료됐지만 중복방지 기록 저장이 반복 실패했습니다."
+              exit 1
             fi
           fi
-
