@@ -1,0 +1,107 @@
+name: 뉴스 발송·중복방지 저장 클라우드 점검
+
+on:
+  workflow_run:
+    workflows: ['글로벌 시장영향 1시간 속보']
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/news-health-monitor.yml]
+
+permissions:
+  actions: read
+  contents: read
+
+concurrency:
+  group: news-health-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    env:
+      GH_TOKEN: ${{ github.token }}
+      TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - name: 발송 및 기록 저장 확인·실패 시에만 텔레그램 알림
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          from urllib.error import HTTPError
+          from urllib.request import Request, urlopen
+
+          REPO = 'jil0314-bit/market-news-alert-5min'
+          SOURCE = '.github/workflows/market-news-alert.yml'
+          SEND = '새 뉴스 확인 및 텔레그램 발송'
+          SAVE = '중복방지 기록 저장'
+
+          def api(path):
+              request = Request('https://api.github.com/repos/' + REPO + path,
+                                headers={'Authorization': 'Bearer ' + os.environ['GH_TOKEN'],
+                                         'Accept': 'application/vnd.github+json'})
+              with urlopen(request, timeout=25) as response:
+                  return json.load(response)
+
+          def assess(run, jobs):
+              job = next((j for j in jobs if j.get('name') == 'alert'), None)
+              steps = {s['name']: s.get('conclusion') for s in (job or {}).get('steps', [])}
+              send, save = steps.get(SEND, '미확인'), steps.get(SAVE, '미확인')
+              healthy = (run.get('conclusion') == 'success' and job is not None
+                         and send == 'success' and save == 'success')
+              return healthy, send, save
+
+          def notify(text):
+              token, chat = os.environ.get('TG_TOKEN'), os.environ.get('TG_CHAT')
+              if not token or not chat:
+                  raise RuntimeError('텔레그램 점검 알림 설정이 없습니다.')
+              request = Request('https://api.telegram.org/bot' + token + '/sendMessage',
+                                data=json.dumps({'chat_id': chat, 'text': text,
+                                                 'disable_web_page_preview': True}).encode(),
+                                headers={'Content-Type': 'application/json'})
+              try:
+                  with urlopen(request, timeout=25) as response:
+                      result = json.load(response)
+              except HTTPError as error:
+                  raise RuntimeError('텔레그램 오류 알림 전송 실패: HTTP ' + str(error.code)) from None
+              except Exception:
+                  raise RuntimeError('텔레그램 오류 알림 전송 결과 미확인') from None
+              if not result.get('ok'):
+                  raise RuntimeError('텔레그램 오류 알림을 처리하지 못했습니다.')
+              print('Failure notification accepted by Telegram')
+
+          def main():
+              run = None
+              try:
+                  event = json.loads(Path(os.environ['GITHUB_EVENT_PATH']).read_text())
+                  run = event.get('workflow_run')
+                  if run is None:
+                      runs = api('/actions/workflows/market-news-alert.yml/runs?branch=main&status=completed&per_page=1')['workflow_runs']
+                      if not runs:
+                          raise ValueError('확인할 뉴스 실행 기록이 없습니다.')
+                      run = runs[0]
+                  if run.get('path', '').split('@')[0] != SOURCE:
+                      raise ValueError('점검 대상 워크플로가 일치하지 않습니다.')
+                  run_id = int(run['id'])
+                  jobs = api('/actions/runs/' + str(run_id) + '/jobs?per_page=100')['jobs']
+                  healthy, sent, saved = assess(run, jobs)
+                  if healthy:
+                      print('Healthy: news step and record-save step succeeded; no notification')
+                      return
+                  url = 'https://github.com/' + REPO + '/actions/runs/' + str(run_id)
+                  text = ('⚠️ 시장뉴스 자동 점검\n뉴스 발송 단계: ' + str(sent)
+                          + '\n중복방지 기록 저장: ' + str(saved)
+                          + '\n실행 결과: ' + str(run.get('conclusion', '미확인')) + '\n' + url)
+              except Exception:
+                  text = '⚠️ 시장뉴스 클라우드 점검에서 실행 상태를 확인하지 못했습니다.\nhttps://github.com/' + REPO + '/actions'
+              notify(text)
+
+          if __name__ == '__main__':
+              main()
+          PY
