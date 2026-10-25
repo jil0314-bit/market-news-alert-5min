@@ -2156,347 +2156,36 @@
     "8b1534a311c720bfa2f4f87a5aa77d3cbc9eeba55b5832e70a59a2e27c671686": "2026-10-25T16:46:00.915133+00:00",
     "3b47bbf7c27bf228e81743b13d49e110812156d0339cc28991f353a25c418a50": "2026-10-25T16:46:00.915133+00:00",
     "5a8ac4f01501355231a007c6b3b64506e4ee6494e324109ba88677879cd97ab0": "2026-10-25T16:46:00.915133+00:00",
-    "c390e720461605bb305dab82ef1bffba80e70b2e59a2b2c3ed772b8a8e5b0db6": "2026-10-25T16:46:00.915133+00:00"
+    "c390e720461605bb305dab82ef1bffba80e70b2e59a2b2c3ed772b8a8e5b0db6": "2026-10-25T16:46:00.915133+00:00",
+    "12cbf25a70d8eea6c195bd7135cabdf5412c2b26e1bb0a26f725d8911e2e37dd": "2026-10-25T11:56:47.159116+00:00",
+    "88be769d531d58612fdd6b5b66783fea4fe6355720db5e6bb8ada9163e270047": "2026-10-25T11:56:47.159116+00:00",
+    "81a46d7684d55d61630683d98dffeda931424194b66ed14d727537dec3f65962": "2026-10-25T16:46:00.915133+00:00",
+    "0a9b1910bcb3332da8efeb0d0b9f0b2228122d13910f3c1ef265e38c99d8eee6": "2026-10-25T16:46:00.915133+00:00",
+    "d4c1d3ace3a44516ee4f3c185a326edfb80165dc953f0ee7e05b34ed83e7ed6d": "2026-10-25T16:46:00.915133+00:00",
+    "c4365581545e298bf28b3fef33115a5c21319c33fdbb0c9da3171c5f91152520": "2026-10-25T16:46:00.915133+00:00",
+    "a4f920de6dc7a122c6a305550616125e495acb999c6738e759c8ef55350cb6b3": "2026-10-25T16:46:00.915133+00:00",
+    "659bee892ca09ff2232255758ddf669cc1bbe4b1601bb42eb8d647197253ccbf": "2026-10-25T16:46:00.915133+00:00",
+    "e1a5cab7e94d3db699b1384ebca15bd66c2f74338429819e89fdf1e324a66a0c": "2026-10-25T05:12:30.372968+00:00",
+    "45825a00a6e639e8658ae4a3ca9a32d064ea9ff380b38b171ee2606d6d9f6a4d": "2026-10-25T05:12:30.372968+00:00",
+    "1d5e7f0de46c2f8364327b7b3a8fa4a40556f874b1a9699e54db784c2a9154e5": "2026-10-25T16:46:00.915133+00:00",
+    "0fd2ad465777f0b7a00530a2ad6cecdc83a736f5cddbee1938c77577145d1036": "2026-10-25T16:46:00.915133+00:00",
+    "8e40eca3e4ac489e9a5691f9b9ccd0c6942d5552e78ff46e31b399d839020dad": "2026-10-25T16:46:00.915133+00:00",
+    "2530625b86dfe440d8841633986d773baa06f1243a1190e7184633293aeeb783": "2026-10-25T16:46:00.915133+00:00",
+    "12e546187dd355e98d0e5140e3076af8992c4fd4830f00cf050199d144ac7c16": "2026-10-25T11:56:47.159116+00:00",
+    "a8629cf09f0606ceee3ea1c33370184c3b72bdc857f75c6288f6f58845909d95": "2026-10-25T11:56:47.159116+00:00",
+    "8830a0a6996b8991b95aedf55d4a69115c65edddd56d0e3dd982d06ccc88967f": "2026-10-21T18:51:58.006180+00:00",
+    "6e6066f376abe4328b14873d6dc21874cf837793aa1e36f0bb2dbeafdf01b520": "2026-10-25T21:11:09.014012+00:00",
+    "eb0b910fb863aa11f2a0e73e8616758fb846d133b72649a40b2cb5e0f79238aa": "2026-10-25T21:11:09.014012+00:00",
+    "59d7485902fc6734bc21a1240c41c2e896aad6bb0209c1d2c8fa523fd018bddc": "2026-10-25T21:11:09.014012+00:00",
+    "4c4558a97da7de4b6fa0cf9161216d92b1ad673b974ccfcd57b69af8a5483ec5": "2026-10-25T21:11:09.014012+00:00",
+    "d59c28c5c4e008879ac176be493c3af1c08d8f826d8240b66eff3da8418d10e3": "2026-10-25T21:11:09.014012+00:00",
+    "7b48e0ddd88b52f7bd8d3d04a4b3d14f6912476850740c1c3864eb707096980c": "2026-10-25T21:11:09.014012+00:00",
+    "293f0af99c67d433c46b1ab6dd7f6fbc69542c40761dd98dad266ed9eae93363": "2026-10-25T21:11:09.014012+00:00",
+    "554c8cdcb730aa195ae0cd7fc097af2a9a17a681539cf866e790d603879b832a": "2026-10-25T21:11:09.014012+00:00",
+    "e1e2436ce206ed5220f491685f59400422297f92d6a847060873941e7d747b46": "2026-10-25T21:11:09.014012+00:00",
+    "cd7eb376200b3db2692ddc1bd0bc033b68e6ddfc97e76f3e6d1b5d0d84796d5c": "2026-10-25T21:11:09.014012+00:00"
   },
   "pending": [
-    {
-      "title": "오픈AI '닷츠' vs 앤트로픽 '듀엣'…내 일 맡길 AI 비서는?",
-      "source": "지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FN25RcG9Gc2V6TWtVWTNfLW91c1I5bFZtM3BhRkpJM1A3RDJKNmFKbFVqYVhGc01YN2hsTll5aHZ5eUEzUTF0b3MxUVVMaVNhTDVzX1NR?oc=5",
-      "published_at": "2026-10-25T04:48:51+00:00",
-      "topic": "국내 AI 전문매체",
-      "excerpt": "",
-      "source_kind": "specialist_search",
-      "region": "KR",
-      "duplicate_keys": [
-        "14e3e42e37d4d8419950ef7af196737576dc631c894757c4654a3fcf4a18e79e",
-        "4cf57e9126e9642866bfce7dfc460e3b42eb58239596d4211ee07f656d23bc2e"
-      ]
-    },
-    {
-      "title": "OpenAI, 챗GPT 사용량 제한 재설정…새 기능은 없어 (BTC, OpenAI, Base, DOGE)",
-      "source": "민심뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwM09pcG94N0JrSHhrSEh2ZmpiSUViYVpkNk1BYkJSdkoyQlNhb2lWSVJNVnhEVjJkRkIyQ1c0YXFVQkZJUmNQUi1leTZXM056dm5TOTJodks5anR4aU1FdzQ1dFFYaWxmM2NCeQ?oc=5",
-      "published_at": "2026-10-25T04:59:02+00:00",
-      "topic": "AI 기업·서비스",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "02528eaabab7e420db21186e78312b8b7e1721c9a9a65f20d77372006d9aa9c3",
-        "d142c884a02a34bc446eede3e2906b8799e4e8556952ceda4266ca1ffc96acbf"
-      ]
-    },
-    {
-      "title": "DeepSeek vs Claude: $0.30 vs $2 Input Tokens [2026]",
-      "source": "shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUpIRi1oRmV0Q2lLRUZGdU9ab2ZyUGhZVTVDVDh2VnVSOG5nZVFBQ3gxd3VUeUs5QUw0emMtRVJpWHVtV2MxNzUwc0dVSF8tRWluWTFqcjhiY2J5RzNCMHdwV3A3R0JtVlNsVmtvRUtUX29SZ29CQTU1dV9ZYWVmT1AtdnpYOFZSSHc?oc=5",
-      "published_at": "2026-10-25T05:15:17+00:00",
-      "topic": "중국 AI 해외보도",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "CN",
-      "duplicate_keys": [
-        "259ddf29872e02a19c8860ca5fb7e098504de69c291fbd5a448662aa535115cb",
-        "30c0d00c81128cecb227ead80b1ba3ecf8e552f9a439a3745bb11aded971088a"
-      ]
-    },
-    {
-      "title": "비트코인, 메타의 AI 데이터 플랫폼 인수…오픈AI도 사용했던 이곳은? (BTC, Meta, OpenAI, Sundial)",
-      "source": "민심뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yLUg3RXRHdVNuZkNLcXY3bTJDaTFOem1PVENyc3VBU29XNXFBdXJfVG90MXZYc05zTlZnNFo5bEg3cGV3VEt4NGVWdWRVc0p2ZlBvOENmdmNmXzZPdXlFaTJOVzlMb1JGUkpTQw?oc=5",
-      "published_at": "2026-10-25T05:50:37+00:00",
-      "topic": "AI 기업·서비스",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "b1257dd5e7a8dfbcab7146e2d9769f8fc871d30f2a8bdb9f7a415e20f17c3984",
-        "df78136a863a604ea6bf3cd5e0e3ba602ad64da563f7a7462f7a34802476fb5a"
-      ]
-    },
-    {
-      "title": "[AI스토리] 인터넷 막았더니 CPU로 소통…오픈AI, AI 에이전트의 '비밀 통신' 발견",
-      "source": "이코노미트리뷴",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSclZWNTJjOHZzV3F4UjBtbGVmaGdYaU9fb3hJd2ZmcFEtWTJGX19VcHRyRHdCSVJuM3ZkdTRyREN4clY2LXpxT0otVjlqNEVSVzFoRXZNN3FRbFVSYkF5MS14T3Z3YmpUTzhfblRKRl9GWlplWE40?oc=5",
-      "published_at": "2026-10-25T05:55:56+00:00",
-      "topic": "AI 전반",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "0cdd4c7e121a7aecac24fa393007a373133ca0f9d6e3e534077565fae80a8e45",
-        "bd224b7064a331e0cbd214766d908e276c1bca0893a28e450c3f5b758df78613"
-      ]
-    },
-    {
-      "title": "GPT-6-Astra具身能力遭大考，传统基准拿满分，真机频碰壁",
-      "source": "36氪",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MRzZqNlRRMThpTVcyb3dDdkFIWEMtUHdhOEpMMWhDaE9xQmZPdjZuU1otdERGU3gzVUVHSjQ4TVVBU1B5cmFsYklBamFlZw?oc=5",
-      "published_at": "2026-10-25T06:00:48+00:00",
-      "topic": "중국 AI 전문매체",
-      "excerpt": "",
-      "source_kind": "specialist_search",
-      "region": "CN",
-      "duplicate_keys": [
-        "18328d1f43e0d364a0087730f8f1a2d4f2a3b46a7f56e0ae681f9ee7a3302116",
-        "edccd017fa4bee8395b016fa6c1545db7d91177438baa244dd70ab175f0a1986"
-      ]
-    },
-    {
-      "title": "Anthropic Investigates Elevated Errors Across Five Claude Models",
-      "source": "Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0VWT1ZhaXhkVkdab21aZUZvbTF3eFN6RUxKdFhTYkc1ZU9xX21BVkNhamNYamtfV1VTR1pEQnpxZlhZT054SEtfdDRKWFB3T3NXYWpVS0d2TWo4TGJHM1F1VjUtUzJUbmV6NU9VX2JjbGp1Sk5OOGFFcDlWSUdpNlpaUk45dzJyZUxGQlRfUQ?oc=5",
-      "published_at": "2026-10-25T06:30:11+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "b1503de7811dfde09db22652beecbe631360b6f6aa8d0f928fac3aa91a6645a6",
-        "d412f9182179ea9ca59656a56d3562b34e8a11df6c7457c278293f0f6b141f12"
-      ]
-    },
-    {
-      "title": "Chamath Palihapitiya Takes Dig at Claude as Economist Warns of AI Bubble: ‘AI Moves in Mysterious Ways’",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeUluVFpXTWhxR2hHUlRnYkR5MDJzU2FqTDlhWmlWblhsZUNXY1BoNU1DNW1ValFIeHJjVjBwM1JEMko0ZmRmY3RDaXREamhmSzFmN0Q3Z041NkRLaXpwaGRHX0tWQ084XzA4Ynh6dExzVFk3RUtfR21MMjI1dXU2bGU0VjlWRW1vT1BXVTlqcnFxM1F2VGdwU3FnWVR0X29aaGcxaWNCQVNyb1A2YXZBNHF0b1didGI3QnR1bUVJTGhtXzBDdnV1eUFfQ1A2Y3ZxZGpQS3lPVVVoYUFudktVSzU2OFVyOGFXLXdKZXNDQjM?oc=5",
-      "published_at": "2026-10-25T06:37:00+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "9a9a5f8be55920b2866742a57728a3af4a260ada0f33f4642b5c30cfdc738164",
-        "d921d766ccdf7149c95eb996fb72eb54a35ffd665d739fd4f3e823bed1c804bc"
-      ]
-    },
-    {
-      "title": "Grok Outage: Is Grok Down Today? Users Report Issues with AI Generation, App and Lag / Latency – Check Latest Update & Grok Downdetector Status",
-      "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRzU3ZUM0UHdvd0JUV0pHY1BYMzZrRkxqVVBmdmpBVlpscG1vUkc3U2JIV1lyUHhCaFEtZDhZTnI5VjBrX3ZaQWhsaHR2T0lVWUNHdFJVT29HWHZfUDNjWWV4cGQyallTcmdGck5COFFLLVJNVUNlc2hpQmxRMzRsN0tCY3VJNkotRVU5aFFtYTdaQjA3WHo1bDlsOFZNRTdQZlJEVHJaT1lhSmowVmtodE9FOHZkdHBWaW1YWjVmNENDV18xVGhYLU5RQTA3UXJvNjJpMFVNb2RIazhkSGxJTTVyR2FaVF9Hb0o0bDNOWm5qQVUzU1pSQnQ4dV9CZjJnQlhaVmMyMzFyaGFTT0pF0gGUAkFVX3lxTE8xX1hVZUF6Rkl2cmIwaXlwNHMyU0hYWU5tTjJ0WHZZRFpvMDVKWVFmcllNSUVYNUNRTmVUUHlXeFlsNm5ZdGUzMG5KY3dwWkZKTC1kcDV6WHJmS2JENFoxQW9JeVlZRGRiRkI5eFU5UXBmWW5JYmpOdTUzVk5Kb2JvOTNmd0dPeUJPQkNDaEQtUTc5ZXBOaUROLXBsdW0tV3hLNmZ6bEl0bEtocGc2RUpYUHdHc2ZQTlhmSnpzWlRpajN1RlAycFdlNTJrSGdXcnBmZkNySmNFSkI3YV9neEFkMVdibkVyU1hUS2VGUG1fcFV1LXN0eHdFQkV4aWYxN1dFb0dWQzFDMm9xMW9SeWVrMTVxSg?oc=5",
-      "published_at": "2026-10-25T06:52:54+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "53b366f74b63683712d982e75be11d82c0f26bbbaf24a474fd292fdc731291ca",
-        "848e0b0e502a2d49bfa96e1440444e1152e96b5f164ecbd3cfda299c621c141f"
-      ]
-    },
-    {
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "source": "The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVhZc0dfZzVfQ0VSWDM4QTFLLUFkYUZVRWtBMmlUSVUtaDZqQXdJNVZFWnhqVW1lWTc5UHZSNHFER3U2QlFaSGVNUHhnZy1KSFE3cTFwcGJSSDNYMnI4WHg2STNwSDIyUXBOTVZ0N0FscjFKNGhDZWdjaHZyaDkzVDhLT24?oc=5",
-      "published_at": "2026-10-25T06:54:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "278d250887781364d454b776ad21d0d875ebda60bde34ea8c9e44eaa9cb7a177",
-        "c10414c1815e96c9caf2290296415c7b514b37ec116434ad1f00874fd07dc011"
-      ]
-    },
-    {
-      "title": "Sweden: Government Favors Copilot, Blocks ChatGPT and Claude",
-      "source": "Cointribune",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajFWNmU5OVZfaUp4MlQ4bnJmaDNvSl92dVZJSHg3aEhLMmx2bXc0V2dkNV9pVTJGb2JVcUlhaFBFVE1OVHBuVUlZa2N3cGJyU1hHYU53dVNyU2tILUdJS3BXMlE1SWpzRGszMDE0WHFYVGlTZzM0S1ExSmpNSFdod19OS3VUUGdQZlBqTVo3YkphMWtD?oc=5",
-      "published_at": "2026-10-25T07:05:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "61f40bd7297e372bd59e417e480b3b60eca6c086cc8db3cbf64de469b9d65a1b",
-        "7cd2c1a59dbdcfb376a69d8beee57de5660e97c9f5876c54b3dfd174a431b58f",
-        "a8f1258e1033503c8e0fc486df99af66631bd148986af91374c1103b447259cb",
-        "c2448f39db212f14708e3e50a877b18481ff0253dfe01dce30e0c93a3c51df68"
-      ]
-    },
-    {
-      "title": "OpenAI IPO에 대해 알아야 할 핵심 정보",
-      "source": "TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXFoSjFPcUg2YzgyM2NQcG9QVi1kZ1UxVk03Ti1yaktpVzRoRTZ4aGtnVmRTQ3B2SlhkOTE2LTF6cUZxQjdTenpLZmszbXdueDJBU29odVNPRUh3cmM3V1BkTURWTG1mUVlWRmdpTURfcmJ0dUFQWGRKWjRaaWdrcXJrenJ3SV9ENDAwc2k4X0Z4WXpfUFRFejZtT2tBR0haVWpYdTBZMUg?oc=5",
-      "published_at": "2026-10-25T07:15:40+00:00",
-      "topic": "AI 기업·서비스",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "26e3571aa616da434f6eb74ab6d6c7990f975e7b9809a7c5dc7ec7a8d36b42f4",
-        "7dd8927bfd6a3a2af3ff5be32d3a24a92a48c482bc4bc9baf5b0d4aef97f0507"
-      ]
-    },
-    {
-      "title": "Anthropic offers Rs 3.25 crore for a human writer in the age of AI",
-      "source": "Indian Television Dot Com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUk54WmF5M1FBOVFMeWQ5Nktlel83Q1F2anV0aXlyd182UWFzOWVxR2hYR0FzU2RZTGJkUnN0bk9BOG80ZldfVmpTNkNweWtjcHFxTE1yR09pSlFHd1FLTGNrRDJSQXNnSkozWW5fMHV3U0JkdVJlZEhHWXRoRWZMdTJRQ0JTRnpWZ1BBM2gtQ0xnZHFpcl9RNWYtUzU3TVVRZXc?oc=5",
-      "published_at": "2026-10-25T07:32:55+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "60f2e9219d231650b7e6a485dea18e859d25bb0925b24835880369db364e866f",
-        "d7380d7ecb7cdab015337900f05fdb9956a6a21c30e2552de8382164ffdc5fea"
-      ]
-    },
-    {
-      "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
-      "source": "The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2h0VHlHMWxfSngyQkZ4YzU0aHNMT1FlbTk2cXAtR0tKcUd1YXFDamd5dmpHU0NjQ19Ob3dpNXd4S1VqbW14dFJURGVlREZGTVZsRWdSeUY1S3hSTGNMeTJySG9sUkF2V2ppWUlEejhNbEJCT1RYWk9Wek5ud1dIZzFSZVI3OWRQWExWYVpmUElPWWFaNnpkYXlXXzZQQ3ZKWG02Wnpn?oc=5",
-      "published_at": "2026-10-25T07:33:25+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "0a6ffd63a2a731b4258ccc2b37345b2faeaac4f0d5a73f134acae63d3c1c3f94",
-        "c661db061985a9913d87aefc5426610a57b73c8129b82fe09be8096af1b3ff53"
-      ]
-    },
-    {
-      "title": "In an era before YouTube and ChatGPT ... the artist who experimented with the future",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93a2JkR2hid0llSklaZ094d0VXcE4wRkdUZ0RtbXJSYUl3dUt0aGpuREI0SW5vZ21QOGFURDRycFo5dE5uREpzcE5QUGRPSWh6VUE?oc=5",
-      "published_at": "2026-10-25T07:39:13+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "b192203c586c6942ea45735c60681d2cc4e2de0a032e20205e43b4f1b840653f",
-        "fbe1483e57f349eb05d923bbe48de280f24d950b65e10c80d234607d30e3a140"
-      ]
-    },
-    {
-      "title": "Kimi K3.1 Pro 对比 Claude Fable 5.1：价格仅为其五分之一，在独立指数上领先两分",
-      "source": "OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HVnM5UTF2bVdpb0xLd01RUG8tWHZkVG1EcG5UYWNfR25qVUFtTDlCOGI4aFRqWXNiZ004YktzOEpPWmlGeHBjMHJ3NzJsdEpnb2FDeDlaUnlaem1GMnAxVVRiUEJ0OXBOcEpkQ0RKX3ZPc2tlV09MMlh3?oc=5",
-      "published_at": "2026-10-25T08:07:24+00:00",
-      "topic": "중국 모델·영상·코딩",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "CN",
-      "duplicate_keys": [
-        "4acc753c3162d41e4a94c440d77ec0c1b2a27d99aa53d069a98502166b0b1a33",
-        "a368c172a54c317e1ca6e7df4e9c14f4b8095b6f0e391390be65172bbf2053ad"
-      ]
-    },
-    {
-      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
-      "source": "The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFltb1hBT1p1X09YWFF0ZVJ1UE5nLUhmeUFZOXg2LV9IbTNZWnlXTzJvT0hucndfOVBuUGxNVnhOaFd1RzhWUnVkYWp4a2UybWFraEQ5QWNidi1jdU50Qjhob2ZON1B1R1U2TVZiVWVERTgzdHBsTWhZd1l3cmZQQ3FxVUlNS3phamNIcEtYQkhiT1Z3ZXNxbldxY3JLZVUxd19hSkR5STRHNmdjU0RmcXZn?oc=5",
-      "published_at": "2026-10-25T08:13:25+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "5731374e64de08fd47182935e93fa40782de7686bedafccace675e6612646097",
-        "b1c2a0426332c5ebd13051ee8b830121dd60cecb69c538b6fb0f06e8f41bf538"
-      ]
-    },
-    {
-      "title": "Peter Schiff Says Google Gemini Challenged Government’s Case Against His Bank: ‘Did Nothing Wrong’",
-      "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTUlFNkNENVBDUkxzbmp4bF9yLXBSR3FJQ1FMMno2djhuV1JTcWY2RXJkUUlSRWNkamVPNW1pRzVvWXczR1VwOVllM0dROEhKREU2XzRnLUJGT0FGSWs1dmdiVWp5elZjUjNYTFduSWFYVnYwQlpsQ0hnQThMMGFhaG9KV3FpaHBMVFpXcjNIOUJSZ2FUT1NKUWMtNFNYTlhmcVZpYldNWUk5cm9xaDhDZVNzLXRENVlIR2YtSnZaUTBsUlliaGp6LVNsc040TUxYYlJaa3RFMEcxR3pteGs5Yw?oc=5",
-      "published_at": "2026-10-25T08:17:04+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "2537113deeb4575de210596a1c54b80e730e653a1cf2519d0e4d6e65f05daabd",
-        "3fa7ec4b4baa9b01954086c14018c7db48989bfce05e320eb871927b45d4c6a6"
-      ]
-    },
-    {
-      "title": "Video shows Anthropic CEO Amodei opposing Iraq War as a student in 2003 | Amodei co-founded Anthropic in 2021 | Inshorts",
-      "source": "Inshorts",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWx2OXlORXM4cFRWekFENUdXUlhFdWhVTy1nRGR6S1VuWE1Vd1ZrZ3JzcTNJdmk1eWY2dVZNb01RYUFoWHVHZE9LeGpaSXpRU1B1SkUwMWpIZ3VHcmdaelpwWGlpV0ZUSUtiY0ZhT01tVG5FNy1EUlFsNlROU0hQU2VfTW12TG43dTZCSDVtSm5wa1o4WFRtY0Q2RUxHc0RhaXFZREZtcC1WQ2phbkRDM3dxMG1zeU1mb0HSAboBQVVfeXFMTTlsdjl5TkVzOHBUVnpBRDVHV1JYRXVoVU8tZ0RkektVblhNVXdWa2dyc3EzSXZpNXlmNnVWTW9NUWFBaFh1R2RPS3hqWkl6UVNQdUpFMDFqSGd1R3JnWnpacFhpaVdGVElLYmNGYU9NbVRuRTctRFJRbDZUTlNIUFNlX01tdkxuN3U2Qkg1bUpucGtaOFhUbWNENkVMR3NEYWlxWURGbXAtVkNqYW5EQzN3cTBtc3lNZm9B?oc=5",
-      "published_at": "2026-10-25T08:19:43+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "e594f2130e0a78cdd7d7487346a02b6bcfa27ec7d612961c6d2e5cea08ec4de9",
-        "f4b5ea9930c1c2b73afc8501d68b626202a7fb9ac15718e1669f04024edba812"
-      ]
-    },
-    {
-      "title": "This Week in AI (Oct 18-24): Anthropic's draft S-1; Kimi K3.1 Pro and MiniMax M3.1 Flash",
-      "source": "Smartkarma",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1pxc3EwODZHb19jX0tuWWp6My1MQm1oLWc0b1dibGpndk9ILWRtTWVoVjc2bWlTOURvT0x5Nllucnh4NzdrSzFKbUJLaGV2MjlTdEZWZGQ2WGswWDhyTUVvX2E0eEM4UU9NdGtMZ1Azam1UakhVT2VLSFRqNDBCVU9jM2hocWNIWU41RW5fS0p6VjBDUDBkcXFuaGVZUzU1OXJIaFVIMGtKQmJDYXBDWnQtTmxvUzFHM0hWWA?oc=5",
-      "published_at": "2026-10-25T08:30:01+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "213ca124934e4fb6deb569a76a804173a616ea2d6206ccade47953f42b5cce27",
-        "76356ae8d6980d14a6f4bfd1c61aaa552d325e8b8a3d24796c31fac302f7c969"
-      ]
-    },
-    {
-      "title": "Anthropic was beaten to the punch by a salad dressing company",
-      "source": "Fast Company",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdjAxZEt3TVVha3I1Y211Mm5EQlJiaUoxVkszTHpXenBBQ3hSMDM1X3NKYzlvYi1jWHlVc3FHTXI3S0NoV2hVNlZVWFR1czhaSGI5MjVPLWxEdWY1TTlxWHBycEdaN1pjX0ZHMnozN1VaWDkwSFZaRzNJOHRCODZrQjBsUHVqWGlGRzNjd1REMHVYOFE?oc=5",
-      "published_at": "2026-10-25T08:36:23+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "46bea3170b665cda9539ec0cd9f416455ab2652ff7841f992eea46c577526e5b",
-        "bc054831b78af75922e64c4fea8a8a7dc8fea0fa1eaf19dc244ea48c6e364cc5"
-      ]
-    },
-    {
-      "title": "What Is Grok AI? Who Owns It, What It Does and What It Costs (2026)",
-      "source": "Fello AI",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JM0ZtUldQRjVRUUI0UzNEdUpSQ1plQ242NE9KaV9JdlBhcjVlX0g0Tl9zWU9uWmo0Qm9FeEstTXdlQlBOaElSNzdZWXQ?oc=5",
-      "published_at": "2026-10-25T08:39:05+00:00",
-      "topic": "AI 툴·연동 활용",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "3b43ac4f333a95d550fce7a1e48da24aec2f4716c91b3cc5137d30631b9aa150",
-        "3fd4bc54769fa00d8b768a0fab0aa8cc1c701fc22ff1f096786acf7bbcf2e4b4"
-      ]
-    },
-    {
-      "title": "Independent Auditors Find Gaps in OpenAI Agent Monitoring",
-      "source": "BankInfoSecurity",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNHlkbzRiVno5bG16bDVOaWw5QnVScVBfck5fSmFRY2tFZlBnTUtDSW9YMklOdXZ0SHFDU2RvTU80RHFBU2JKRmdVbFVyOTVnVFhWdVRlSEVBU1dYeGdteUU0M0JDaDAwRFE3dnJGSXpLUlprbFh5T3daZEs5NUp3dEx2RmVHUlpoOW1VV3d5N295Z3dyWFpFZ1dRNzRwTkU?oc=5",
-      "published_at": "2026-10-25T08:50:35+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "e1e2436ce206ed5220f491685f59400422297f92d6a847060873941e7d747b46",
-        "eb0b910fb863aa11f2a0e73e8616758fb846d133b72649a40b2cb5e0f79238aa"
-      ]
-    },
-    {
-      "title": "OpenAI unable to trace 53 private photos uploaded online by its own AI agents",
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORUVySW1GMndWR2VIREllOFozbjNPeHF4R2tnZGJvVjVjdkllZERoUE03RGdLNnZvRUU0Y3JSQkNoZ0k3UFkzaERmLWtkeWFHaFdoUmJUTU5GSXJheHAxYXk0eUJtbGJHelZYanlwVHhCRTM3N2JCWG9lb0ZzcUdQQTV1eFdoZ2UtSDZaRFZkMW1CRVBWTHlvZmRETmp6QmdkX3RMMHFGaDM4d2xRVVhOY1VOekJIVXVWeVFDY0JUZlRFbmVvSEZjU2ZXLW80emFaeThNenJwVQ?oc=5",
-      "published_at": "2026-10-25T08:58:37+00:00",
-      "topic": "Global AI",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "2cbadb5230859d3c116ca9b5e993faa66e33bd5b30660ec87922b35f08e413fe",
-        "668ec486d133b4c3926be099a57d13e833279b5341e6fc8b5ccac84add5efb23"
-      ]
-    },
     {
       "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
       "source": "The Decoder",
@@ -2537,20 +2226,6 @@
       "duplicate_keys": [
         "3d3748c480c71192c5f5e37c13dcb4a01e3497e69bc58a6ec79d280920f8d406",
         "67ad74ed7135a3da8ecf35368afe98ab0aad1217d82be1cf8d2b10fb5db8605f"
-      ]
-    },
-    {
-      "title": "The Fine Print of AI Philanthropy: Why Anthropic and Elon Musk are giving away billions",
-      "source": "Open Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQUNTTmN0N3JfSHlING42cGIzVzNCZ2trbi1vZzVtUElmdDhaS1h0TFhma3FCR2p5N1pPME5XZnNLYkdEMUlvRlpnS1A3Y0hocXdZRExGczlQLTZQSEQ5WmpHWHJQb2ZPZEY0MnFiMy1GMzU3eUxrMk01X3luQkM2d05TVVFsNy1VNG1zU1ZIamdtM3o2RWNqdno4aUNqT1podnBMMkdBMDk1d1gzSVFDTXE3S2Zhei1NZ3NxbFcyb3hrU1k?oc=5",
-      "published_at": "2026-10-25T09:46:33+00:00",
-      "topic": "AI infrastructure",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "8e77c2f5c8c2b88a098fb10b1fc22629ab2d09e358bbb7cba2913cd8e4361673",
-        "ec923eb7b05888a1d3494baa8bed88cf850ceb2c1594ef6ef3efb8fedf2d3ecb"
       ]
     },
     {
@@ -2624,20 +2299,6 @@
       ]
     },
     {
-      "title": "Anthropic 5%, Musk $10B: AI Philanthropy Fine Print [2026]",
-      "source": "https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlFXUXJmTlk1b3p1ZVgybmF6cl9jbDRWUXZOejVGbVBEUzdxNjZjYzNXYU5tZXBmS05kb1l3WTMzRHA0a21ITzRDY0NyaGI1Z2pDdTVZcmwwMFZEWGhnU210X3YtNnV4SHNJS2VMczRzR2NYZlBTTjhENmpqX0E5Z2FrMU8tSm9HaE5EU2Jqd04zX1ZRbnU5UW0yNTg?oc=5",
-      "published_at": "2026-10-25T11:07:41+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "4c4558a97da7de4b6fa0cf9161216d92b1ad673b974ccfcd57b69af8a5483ec5",
-        "554c8cdcb730aa195ae0cd7fc097af2a9a17a681539cf866e790d603879b832a"
-      ]
-    },
-    {
       "title": "Anthropic IPO: Filing Status and Reported Plans",
       "source": "NeoTeo",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82YVM5Szd2V3VFVFotR0Z4TjBCY2ZNUnBCTm9TX0pKaTZ2NDl0eGx5dElCa2p0VUhfNlZiMTdyLVdNT1VIbXJveEdfUm9QS3hYcEd6YmF3a1JkY2lHT3RjMm1ZOTdqRWU4dDJ0czlrdFJqT0hhOG95dGREY1I?oc=5",
@@ -2652,20 +2313,6 @@
       ]
     },
     {
-      "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
-      "source": "MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWdkZnROV1dFYjFDQ0VGeUgyd0ZwUWtBcEljX0VpOXdwMXlvNzltQkR4cWFCaFdiNnZnME93MWJvQ0NITV91cWZFOTI5YV9NdC1lb0Npa2VfZk9RVTM1dG84bEVMTEMxbU1DeXB1aFZuMmF2VW9jTjFZRzY4elNNYW1FV2MzUnhIUHJQQ1ZWNHMxdjMtbkxHWHdnS0JJb0dQVkpfR1pR0gGmAUFVX3lxTE45Z2RmdE5XV0ViMUNDRUZ5SDJ3RnBRa0FwSWNfRWk5d3AxeW83OW1CRHhxYUJoV2I2dmcwT3cxYm9DQ0hNX3VxZkU5MjlhX010LWVvQ2lrZV9mT1FVMzV0bzhsRUxMQzFtTUN5cHVoVm4yYXZVb2NOMVlHNjh6U01hbUVXYzNSeEhQclBDVlY0czF2My1uTEdYd2dLQklvR1BWSl9HWlE?oc=5",
-      "published_at": "2026-10-25T11:32:29+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "59d7485902fc6734bc21a1240c41c2e896aad6bb0209c1d2c8fa523fd018bddc",
-        "cd7eb376200b3db2692ddc1bd0bc033b68e6ddfc97e76f3e6d1b5d0d84796d5c"
-      ]
-    },
-    {
       "title": "Claude Enterprise will combine chat and Cowork by default on November 16",
       "source": "MIXED Reality News",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM0dpVmpyaE0taTRpZEwtbmxBZG9sTGxDZUJoczRDZzJIaHppV1Zka0hJZlQ5QmlENVZPSmF6S01TdFhMcDJ3dGpfdzZ1Mm1qMFZhMExLTEdNN3lFTlBQa2JLT1pCenZyQVVLZm9XSEJIclNTLWpzTkd5VWZSbmVPYk93?oc=5",
@@ -2677,20 +2324,6 @@
       "duplicate_keys": [
         "c4b349701770692dce50afdad12b01f6943883529f8502cf4fd6ea18e12fd120",
         "d6f95cdd502b1737965d5d7298224b991f092e03cbb822da77d53aaf5af9dbeb"
-      ]
-    },
-    {
-      "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data; plus much more",
-      "source": "IAM Media",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZUdqT3NBRDJlVGNqZVVvRkE1RGNqRFFETzF5LXJXVnhtWk1tMUpJWWY5bUp2U2ptN0hsZkxoUzNrN3JheDd0WWF2OUh4NDRXOGJpWHlVTU5iMTVrUkpOS1A2eFRZUU9ndDdvZ0lXaExtS1JYS1N0WVJiOXN3Q1lEbjRIb1RsRXRiZm1kNWUtUXdQRlEtT0hqS3poZGNnS2ZORFVLbG5jam9rSVNyQXFyTFQzY21BdDlEQ1pXT29MT0liWm5Va3F3Y2hpUlRIZjBHSzRVcnNFRlVLQ0tGeS1McXBMNTRZSmhkZl85bjZZT0gtVlVwR1hRZ3BISzZHMWhmSllDWFVhX0hfM2puSzZOSl93?oc=5",
-      "published_at": "2026-10-25T11:33:58+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "50496b8679fd8e8cc242728677eed625885744f6ca52f034c65425ab010aee6b",
-        "6f19a570667a75e5ae41aba0e84b56289504bb8f61fe046c0af0f75d37adf48e"
       ]
     },
     {
@@ -2747,20 +2380,6 @@
       "duplicate_keys": [
         "3757be175b9209c5ba976f232fb38ca5a75b7679935aa6013c4a0158533dc1af",
         "cc7ebb9f4cb91985895d6b1eb87f8066ea8fcc6cb366db5129c3484265a88a27"
-      ]
-    },
-    {
-      "title": "Not Just OpenAI: There Are More Pre-IPO Names to Watch",
-      "source": "The Daily Upside",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWVJwYkUtNEJtVHdmQTQyandQZ1E4MlA0cGJWRVpTMmdFeHJ3ay1YY2N3Yl9sRThuVm1nLUROdmJ5VkxwSmw2NWdENk1tRVZTeGtpMGdGLVc2SVVfNVF4cXpRZmxjNDlkbmx6emZfb0h4TkYtTzNpN3g4azVqb2J1TEdCQXNrSzRmVnZManFQX3AyQ0h2azA2b1JZM0w2cG1oZTlKTFZRYkkxTDZWa21XN2lWbkY?oc=5",
-      "published_at": "2026-10-25T12:00:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "d0f336841bcf1142bfa0e758d4b244155ef25e8012a8a5b25ef672f4a36c527f",
-        "d10cc019f190101c8280056baabcbf0ca38435e6f76df8b90d942696282f1287"
       ]
     },
     {
@@ -3030,20 +2649,6 @@
       ]
     },
     {
-      "title": "Grok Bot Can Now Make Phone Calls for You — Here's How It Works",
-      "source": "BASENOR - Tesla Accessories",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEdaUlVwQ0llMDBUM1JZWU9CRXdyeFltU2R4dVM2elgwTElCdDdaNmpHWHJGQ05XOGlPRlZOaTJmTkJPUnplOXE3ZGZYZk5vQnJFMU1LaVB0UFROQWtCeHFHdGJpYUNGcDFITi04UWg1eWd3WTF1OUdTWnppbU5wbTJQbEZRXy1xektsT3pZNlBBS0tYSzJyeXJ6dw?oc=5",
-      "published_at": "2026-10-25T15:04:22+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "343f5441d452cb6f5779593159c592337ce6e42c19352f0c1a9688693f3da116",
-        "ff1dd5e5211cc7488836c096594a51c8feac84c234cbf3e5c64b8e1cc75a8277"
-      ]
-    },
-    {
       "title": "Google, OpenAI and Anthropic back £100m UK AI biosecurity lab",
       "source": "City AM",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRGxlUzNmVlZtSTlxODFSNTdJTDl0cFdBTkozTGlKTWdmQjdSZzA4bTc0UFIxWWlOaHBzUXl3bDZLaS1obFRlaW5VMTdpWW1xZjh2QXQyX0h4aFhPc29CSWxxdmNWLWxHOUJIUHNsZ0ZQdzZBS19mSUxfc0Z3eGdjd1NiRm9FVUZYQklz?oc=5",
@@ -3086,6 +2691,20 @@
       ]
     },
     {
+      "title": "Grok Picks Republicans, OpenAI Picks Democrats When AI Models Are Forced to Choose",
+      "source": "Gadget Review",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGJnODExZWdiNUFXS2hRc00xbGJkbkpsMHM1amo1NzV5RFgybm1RWE5YNG9fOGdvSFZ0LWxaRG9LeGRWZ2cwN2MyREFsVVhwLWtuemJvRklCbU5sX09kaDRZX3Z6MHQ0WmpLakFuMTJ6OUVSV0VENDNiTnFkSGdkbU1SbjFuVWZTTWZDUF92TEhnQm5ma2lBWXFTb0cwLW1LZWplakQ4cTVlWDBmaWFR?oc=5",
+      "published_at": "2026-10-25T16:18:53+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "01580c495f8decf59b0c71a7d287771033de69a4bb6a2cb2aa9a6bf62b206de3",
+        "f2d68654313c53d1b3d3d4e23242ee53c52624c97d6fdadb5b82d18fe80a0388"
+      ]
+    },
+    {
       "title": "Gemini 4 Argon Learns From Videos",
       "source": "i-programmer.info",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1F3TjZNMEZEY3RCLVNHQUdFc0FLU09LQ3B6VkdYR19Ob3FaeGtTQVZUOXdGeDZzTDZERWhwU0ZHalhjQ0lsV1o2dDZNM3U5Sm5WdzNVS3RLNWV4SG1SUUt1SkhNcGVwYzhiU280X1FKdnhyWTMzMURua3lvTTJwRTh4R1V4aURKUXFrT2YxYnM0Q0pCeko5eWVvTkJZem1UNlNoM1VkYWtMZw?oc=5",
@@ -3098,46 +2717,150 @@
         "6def35affb34ea1a2d3968e694de617844479d362f494b88f1c14bf56b695fb5",
         "78a42c5eea03c91510df9ad20158af164e184358f217043222351c58bdd56b5d"
       ]
+    },
+    {
+      "title": "Claude Duet: Anthropic’s Proactive AI Agent for the Job",
+      "source": "Basic Tutorials",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWc3algxMWY1XzE0VDBSUUR3R1k5SG9MbFgtTWhpQ1VZU1lDRVBUYnNiQzFqVlRJdXZvSzFOT0dkOHI4TE1UOGZTdUZvQ2ozTjF3UFMxT3BDWWxVMElhVE5pNTE3S1RKRGYtQTRsaDdwMF83ZHBFRjl6WHM3WmVzV2diVDF0eE01T2ZKempGOGg?oc=5",
+      "published_at": "2026-10-25T16:32:05+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "48b924d048cd3d3e6451ee86d91ef5df4b778a50d9395467e6f720c915c5efd2",
+        "92f1cc157ffc5c9b12ee3036dd05e53eb069da666b3c81fe145c5ba6846d1bff"
+      ]
+    },
+    {
+      "title": "Mistral turns itself into a full AI stack to take on OpenAI and Google",
+      "source": "Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEEtSUNpZ0RhQkZmUjdFMmhBRHdCRjFLcVBQNWtTZUJpYWd6WmFYNGFVam9aN05oOFBWMUxKdUcySzM0am0zd3dDajRMVkZLODFFRFVrbXZncTRyeU94VmxRT0NDZHdzaGVGVU01T1FEMzE5NmcwR2NiQjBVbzFzNWMzN2tkUEJrWl84ZllrVjgwUU9QcnE1MzMxOVJUelU?oc=5",
+      "published_at": "2026-10-25T16:38:31+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "49d2645d147446df5dbde02ef4f43ea87fa31b5c1f3d4baa86be01b29ace52fd",
+        "52f35a80be8e96a1cc909b7db9085a3b3da3f7563339a90fb8a6cff57b85bafb"
+      ]
+    },
+    {
+      "title": "Anthropic Could Be the Next Amazon, and That’s the Problem",
+      "source": "InvestorPlace",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc3lTcE83bjJaREpZWXZHX05walptc3F5WWlWN09jR1M1MlFyaEU3elVMSDg1T2lTWVE0aXpXa2V4WUV0Z2pNTENPRGprMldFVVJhR2FubjFPZHo4RzhXdWFqY3hZdTBheUV0SjhOVk9RSUo2UVF5Zkx0XzJpVzdHNWVaZVFuZW5sY1d6alZTbUNTaHVCeVJYb0ZPZzNlbDQtcTBvbQ?oc=5",
+      "published_at": "2026-10-25T17:00:27+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "b082f5228a65199db5fd37cc46209046834fe8c45ea89c50c09c32ee0f2bc5fd",
+        "bf466562c0ce276c7c4f73f1d74d45323d25d683929e34063bbcfae226e267b0"
+      ]
+    },
+    {
+      "title": "The Thread Consulting, LLC Led By Dr. Leonie H Mattison Named an OpenAI Select Partner",
+      "source": "EIN News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbnVodDBrU0I2d3pZMkRvdF9hRHk4Yy1TekRkVE1yRzBZZzdlaXM1bEpPRFhkOE5OQTgtTU1DamJMdzZZc1p4ZE4wOGIwaVZhbzhyX3l1VkhINEx4NmdiWGtGUlZHVHhGcnZobm8tTlVoRGIyNVlXUUhYY0VabUlnR05hS25rNFUwenlmOHo2dWVvZ2FCSjdSdVBjTGkwTXR2UVdtV2NuVTJNNGplcGpFWURJbTdZRm1LUWxjN3ZaY0dfUnlN?oc=5",
+      "published_at": "2026-10-25T18:01:00+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "1d9e8b6468e7f3e917a801da3c2ba79f09f2582ca9d1ed30635990eebf2622e9",
+        "f8e296058a58102ff94ef0186797077a9c0116c2f9e78cf6ad1a774ac2587039"
+      ]
+    },
+    {
+      "title": "Alphabet (GOOGL) Adds OpenAI Models To Google Cloud Model Garden",
+      "source": "Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd3Q1OF9scW5qdW5rMVNnaTEzWGxnd2pvdDhCYnpWVFpJQWtFQXJ5dEU0Y0JvWlBuQVhQcnBwQTdQZ0VwMnVnandoTGs1ZjJ3YW1jcDBpSXNVVi1mX1NCa0lfX2lIaHBVSU1rX09xakdUTmREOGdYaHd5ZTIyOHhTejNaMW5PRFRFQm9TTVI4V0JyU1dlYXJLcFJvdXhUdzRzaXRNNnBYUWtWZGlEYTNMTDA5V3dhSi1QSGpScnM3dk5ZZ2E5ZHdkUtIByAFBVV95cUxPd3Q1OF9scW5qdW5rMVNnaTEzWGxnd2pvdDhCYnpWVFpJQWtFQXJ5dEU0Y0JvWlBuQVhQcnBwQTdQZ0VwMnVnandoTGs1ZjJ3YW1jcDBpSXNVVi1mX1NCa0lfX2lIaHBVSU1rX09xakdUTmREOGdYaHd5ZTIyOHhTejNaMW5PRFRFQm9TTVI4V0JyU1dlYXJLcFJvdXhUdzRzaXRNNnBYUWtWZGlEYTNMTDA5V3dhSi1QSGpScnM3dk5ZZ2E5ZHdkUg?oc=5",
+      "published_at": "2026-10-25T18:33:29+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "8ffad8e916d6f2dc9068fb615bd850bf6cb55c894e5107a15d44346338fa4eb6",
+        "a0db431188692d09548760ef1434a2a8f659becae73e102ac3682deb116b88ef"
+      ]
+    },
+    {
+      "title": "Anthropic quietly separates Claude Agent SDK usage from subscription limits",
+      "source": "Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTElKSTM1Q0xTdC1jSGQtUUM3VTdsdEttOVhwZ21JX2RzRUxLV18tMzZmaElBUVFlRDJwbVNXYndKc2JIR3FiRlBrRHFVSjY4MUQwMDZVQXB6T3NRQ0VMRWg5dlY3TUNCZTBFTlJtSjdYMlQtbWxSQ2hDWnJ1c1RhSjdQRGN2Y3dFWUt0c3lTOWlzd0Fqd1BnRFNnRkNtT3hpYUlJWHpB?oc=5",
+      "published_at": "2026-10-25T20:01:48+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "56b0954cae14cacce8a16e73507794348384137fdbab3fab98e4d2a91f193eb9",
+        "b0726b23c5e08e8de619e0c0e532fb30751c22f2d00d8b69ac8e14ec7092023f"
+      ]
+    },
+    {
+      "title": "Claude狂写1.8亿行证明，万亿次测试漏掉的Bug，被AI一锅端",
+      "source": "36氪",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45dGpzXzFaa0V4RG5kNXFzbHpXdFVqb3drc1NIdXVXdXhGZWRXNURWNkNvTkpKeFJCdFctZ29yS09OZVM5QnRfeEtwdEo1dw?oc=5",
+      "published_at": "2026-10-25T20:23:31+00:00",
+      "topic": "중국 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "CN",
+      "duplicate_keys": [
+        "5b5375662a7d5f4bd176773b64942454b82b290fcc732072c2170b5b81733ec1",
+        "e06105b1f429916047091c2996826f0f54605a74489814ee5609776cd94e7d9d"
+      ]
+    },
+    {
+      "title": "Is Kuaishou Technology (SEHK:1024) Undervalued After The Kling 4.0 Launch?",
+      "source": "Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRUZ3UENNN1Ribl9GeHQxSGdhdDZMcGV4NW5uMmp2MkdyMkc5Vlc2ZUF3c0xwXzluRmJQZlMzNVV4a0dKX3Z3VWRQVVFrUHVtTmMyUldGYThRSVhNLUpUZ2pLc0VneXRnekRsZUg1SlVKYnJnVm5aNVdLXzFGTWFwdEU3OV8xS05FZFVIZ0hJUGhWMkltNFh4ZERGMHJhUGlzTTRqT3ZQekdtX0VtMkFNMktUS195MGNmMU9HdUlNQkN1Z3VqdmRHQlhKNUI1WG1IdEd4YdIB2gFBVV95cUxPRzQ4ckJkOG56TjRXT1RIQXdjWHlFd1RvVWxRRmUwMTdwR21wY1pYTTBvQkNia2Ryb3l1RUFaMkd2dThBenBLWkdWMkhQM0lBVjJ2elFabXNiOERJWmZFbk9PMU1tczBySFI5UkVVS1BRMnU1ai1qVkpnaDk0YWNabzE5QlE4VTRlV3FJcF91bWRoMDY1THlIc1BOYm9ZZVpiam5NY29vZkFyZmVuUmtNUkpRdXZ4Q25KZnVVNkFzVHJUTWZ3RTZGUjBlUlVkaS1JMHVwWU96SERZZw?oc=5",
+      "published_at": "2026-10-25T20:38:12+00:00",
+      "topic": "AI 툴·연동 활용",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "4654289aec39ad4c6f9617fa38fed3d5b2dc0959f687d73a5bd08e27313f4181",
+        "cfbe588f8d91af2505d8ec9272b8c5a3bc82a053e374753d6f7609dc7584183f"
+      ]
+    },
+    {
+      "title": "One-Click AI App Publishing: Google Connects Gemini Apps to Google Sites",
+      "source": "Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzZ0RfR2lyZW9GanhVU3VxcE93T0puOHdQSEJ6OGtzLTVxZFF5SDg1a2N5b21zZHNpa3ZuZE5lc2xEeFltcllqTUU5VGxnLVpBaGtENG1FQUhKd2RETFpBZlFmNkhtZDNXWnhucV95bw?oc=5",
+      "published_at": "2026-10-25T20:46:40+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "a1eeca5fb68ae9391c522c8ef383e38ba62a7193c0c8a2bf93c478b96ed349b1",
+        "c275242bbb34f2255f9ffe2704e29450d378addc5be80bdee573b3cae1e98806"
+      ]
+    },
+    {
+      "title": "Grok on Tesla Robotaxis: Everything Passengers Need to Know",
+      "source": "BASENOR - Tesla Accessories",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnJLSG50TFZmV2JiTHhEZjVqOFRXN0plbVBTRjEyUXRlUVpYUDBjNi10OUxvd3g0WU05Q3BLRUI2b1ZNMWdCaUhGOHFWYktEOVBsbXktUlhRMnRZQ25FX25YSXdLekRxVUlXZkJ1VlZGaUU4a1FETnJpRzU2cG5ibUx6cWcyMDhHanphd2pKV0NsdU9MM29CLQ?oc=5",
+      "published_at": "2026-10-25T21:04:11+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "7627de979eccb267ced56f5f1840f712d316e3313b56f94528300fc885ec0e42",
+        "996f5df56f9e5b166f6487ea73ce2956394c913687717ce1d2a19bdedf73c71d"
+      ]
     }
   ],
-  "last_success_at": "2026-10-25T16:46:00.915133+00:00",
+  "last_success_at": "2026-10-25T21:11:09.014012+00:00",
   "sent_stories": [
-    {
-      "title": "With an IPO Brewing, Anthropic Just Launched Its Answer to Meta’s Uber-Popular Muse",
-      "title_ko": "IPO 양조를 통해 Anthropic는 Meta의 Uber에 대한 답변을 시작했습니다.",
-      "source": "Barchart.com",
-      "sent_at": "2026-10-23T18:40:49.565787+00:00"
-    },
-    {
-      "title": "Kimi K3.1 Pro Places 4th On Artificial Analysis Intelligence Index, Ahead Of GPT-6 Astra, Gemini 4 Argon",
-      "title_ko": "Kimi K3.1 Pro, GPT보다 앞선 인공 분석 지능 지수에서 4위 차지",
-      "source": "OfficeChai",
-      "sent_at": "2026-10-23T18:40:49.565787+00:00"
-    },
-    {
-      "title": "YouCam integrates Kling 4.0 API for AI video generation By Investing.com",
-      "title_ko": "YouCam은 AI 비디오 생성을 위한 Kling 4.0 API를 통합합니다",
-      "source": "Investing.com Nigeria",
-      "sent_at": "2026-10-23T18:40:49.565787+00:00"
-    },
-    {
-      "title": "오픈AI, 분류·선택 특화 ‘디시전스 API’ 정식 출시…최대 10배 빠르게",
-      "title_ko": "오픈AI, 분류·선택 특화 ‘디시전스 API’ 정식 출시…최대 10배 빠르게",
-      "source": "AI타임스",
-      "sent_at": "2026-10-23T18:40:49.565787+00:00"
-    },
-    {
-      "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
-      "title_ko": "Anthropic는 미출시 모델이 Mythos 5.1보다 더 능력 있고 더 잘 정렬되어 있다고 말합니다.",
-      "source": "The Decoder",
-      "sent_at": "2026-10-23T18:40:49.565787+00:00"
-    },
-    {
-      "title": "Grok Bot Computer Use Broken",
-      "title_ko": "Grok 봇 컴퓨터 사용 끊어짐",
-      "source": "Cursor - Community Forum",
-      "sent_at": "2026-10-23T18:40:49.565787+00:00"
-    },
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "title_ko": "OpenAI는 \"중대한 위험\" 을 이유로 실시간 인터넷에서 AI 모델을 더 이상 교육하지 않을 것이라고 말합니다.",
@@ -3413,274 +3136,39 @@
       "title_ko": "오픈AI, 데이터 분석도 AI에 맡긴다…보고서 작성부터 이상 징후 탐지까지 자동화",
       "source": "인공지능신문",
       "sent_at": "2026-10-25T16:46:00.915133+00:00"
+    },
+    {
+      "title": "Independent Auditors Find Gaps in OpenAI Agent Monitoring",
+      "title_ko": "독립 감사원은 OpenAI 상담원 모니터링에서 간극을 찾습니다.",
+      "source": "BankInfoSecurity",
+      "sent_at": "2026-10-25T21:11:09.014012+00:00"
+    },
+    {
+      "title": "Outside Testers Found 6 Ways Around OpenAI's AI Watchdog in 3 Weeks. The Fine Print Matters Just as Much",
+      "title_ko": "외부 테스터가 3 Weeks에서 OpenAI의 AI 워치독을 둘러싼 6 방법을 찾았습니다. 파인 프린트는 그만큼 중요합니다",
+      "source": "Memeburn",
+      "sent_at": "2026-10-25T21:11:09.014012+00:00"
+    },
+    {
+      "title": "Grok Bot handles daily tasks for you: Here’s how it works",
+      "title_ko": "Grok 봇은 일상적인 작업을 처리합니다. 작동 방법은 다음과 같습니다.",
+      "source": "The News International",
+      "sent_at": "2026-10-25T21:11:09.014012+00:00"
+    },
+    {
+      "title": "Anthropic 5%, Musk $10B: AI Philanthropy Fine Print [2026]",
+      "title_ko": "Anthropic 5%, Musk 100억 달러: AI Philanthropy Fine Print [2026]",
+      "source": "https://tech-insider.org/",
+      "sent_at": "2026-10-25T21:11:09.014012+00:00"
+    },
+    {
+      "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
+      "title_ko": "Anthropic, 무료 AI 취약점 스캐너인 OSS 스캐너 출시",
+      "source": "MarkTechPost",
+      "sent_at": "2026-10-25T21:11:09.014012+00:00"
     }
   ],
   "skipped": {
-    "a0c6d7f7d8687c03e2279ed46abe255d4403619db9ae4b8021037495f789a44b": "2026-10-23T18:40:49.565787+00:00",
-    "71dab2a7605658f75daa93cf9c9447296ddf7036ed09186a29783c32b4762d32": "2026-10-23T18:40:49.565787+00:00",
-    "85d98d02501d97998874ab18b2f2f9a4c0a8b338589a8c7dcf87ef4e16b204fd": "2026-10-23T18:40:49.565787+00:00",
-    "fe5a4ea1678c9e526f3740434f6f95ebd706ee3e303624a82843e454b50203a8": "2026-10-23T18:40:49.565787+00:00",
-    "1f1eff6e08d350180d85d2b981643a5a26e83aeb06efc04bbf74480890483f1a": "2026-10-23T18:40:49.565787+00:00",
-    "e8c12139110c2726764b96eac403304974e6d5c6c30865844a73fb9b73cdebde": "2026-10-23T18:40:49.565787+00:00",
-    "c797b87a8c3537db7bcf10ddc045c17f08565260ebf7baab639a08bd24b35c95": "2026-10-23T18:40:49.565787+00:00",
-    "6b6ca05fec5f23ebc8f0cd280e3f5e7a47f4a6d783904a490bf067d722929c19": "2026-10-23T18:40:49.565787+00:00",
-    "74038683c6d7dbbbfd22f438e1c14111c41a50278e23f0ded3b71f3a12ffc0ce": "2026-10-23T18:40:49.565787+00:00",
-    "51dae0127f3ec1c0a9a890476aba084c6ab2a6e8252f88ab99c2f611a7548fc7": "2026-10-23T18:40:49.565787+00:00",
-    "5b66b21f619ccf5119a1399976931df2a499a189a9a36d022c2ba0cb2a036708": "2026-10-23T18:40:49.565787+00:00",
-    "dffe013dffa9157840debfb54c598fd673ea108ef51d1eef054a864ed8497b0c": "2026-10-23T18:40:49.565787+00:00",
-    "9c92c5e4fabf3ef54c45a33bcb8df9ca6215b576ee103f190448fdfa6d857d32": "2026-10-23T18:40:49.565787+00:00",
-    "6312c86dc0a818751cf97083ab94e3ee7c6288ae64a7cf7e2d35b7e0d488a04c": "2026-10-23T18:40:49.565787+00:00",
-    "cdfe94592e7fef171afa34df253759e8cf52f87f57c8bf5df81077ca56485f65": "2026-10-23T18:40:49.565787+00:00",
-    "e5cb124114e3f595dbc9016d4d4b996d1411694c92db6bf0444e7687567a2af3": "2026-10-23T18:40:49.565787+00:00",
-    "d852cf6fd437776ebda9830f284406e5024eee9db43518e6877015d726fd873e": "2026-10-23T18:40:49.565787+00:00",
-    "b2cd76eb1df2ad88cf4a4e1fe3c9c8534bf987420ff5207b6e3eec09dd89ec8a": "2026-10-23T18:40:49.565787+00:00",
-    "26abbec616ebacd0d649b9458802168d0a53948c0c7fb2a6e8d7fba0fdefaf4a": "2026-10-23T18:40:49.565787+00:00",
-    "8f35486c3abbb86b63265ae24766ca0595d60d633b3205134e56751d9e34c304": "2026-10-23T18:40:49.565787+00:00",
-    "42b4436bf78217d55ab3f57a471a6ae1ffb3a0995a08a9d28d95280cf543ba0d": "2026-10-23T18:40:49.565787+00:00",
-    "f75454956ada1c6bb120b8e39c9f94631418cdcd5d0cdce2658d898a78607046": "2026-10-23T18:40:49.565787+00:00",
-    "9c000a74ca292ef9c87f145c3b017da8cc43f217c880440d37388da2c089517f": "2026-10-23T18:40:49.565787+00:00",
-    "417ff49278e3d403e9b8f967015e9d80a0033aea41d6d59b4180023926ae3954": "2026-10-23T18:40:49.565787+00:00",
-    "c440ac6a5ca683878ab9bc6d981c89bca8b940de194c6c955ea427d19483100a": "2026-10-23T18:40:49.565787+00:00",
-    "c403832054b76b825504f5c18bc5ea127cc732a1ad14f475dc46842a0689540f": "2026-10-23T18:40:49.565787+00:00",
-    "2ad87cfe4619ea36fb82c679aab43fd8a74cec9dfd163389e723f98dbb0603e5": "2026-10-23T18:40:49.565787+00:00",
-    "28072dfaad0c4bd505b7162ad65b01aa1b668acc1342ad3297eda4d2312bfb06": "2026-10-23T18:40:49.565787+00:00",
-    "15adeeff1a10aafbf609fdb9de7a939390087ad1546c1ff627b64bbb9b02cd47": "2026-10-23T18:40:49.565787+00:00",
-    "e92c7694415847781cb9649c1c6d391173794ac6d8f688430c904b35e0b4b0be": "2026-10-23T18:40:49.565787+00:00",
-    "d992c483710d1de020ccd7aedacbd5568a8501076238753a421f9814513bb043": "2026-10-23T18:40:49.565787+00:00",
-    "b55486300f52c21d3f884b50d9d53fed33a81bf6b3f2785246f5ac1202e69eaf": "2026-10-23T18:40:49.565787+00:00",
-    "bd708d4c9946c9a2b9d35e7d2142fc3befeb8d672d7e6c13e219a3dc3227a80c": "2026-10-23T18:40:49.565787+00:00",
-    "c9e0f7a48828a4fddc63a4266af4587613774d86815866eded17d94195d88ea7": "2026-10-23T18:40:49.565787+00:00",
-    "0970eb1d7f625648912e081bef90420cf027150e1b1c17484f95002204970977": "2026-10-23T18:40:49.565787+00:00",
-    "43e4104c78d1d0b12c62beec0f835a1bbc587bc3da8585ff7c002a3153a5fe19": "2026-10-23T18:40:49.565787+00:00",
-    "cff036a907ea5d71ab16738bb8ef74fb965b287008cb02d171078984705e6a0c": "2026-10-23T18:40:49.565787+00:00",
-    "f61945507e83e08985701b965ae53f35802845725186ae71a5914befb311eecf": "2026-10-23T18:40:49.565787+00:00",
-    "5651b0b63786e27928cf4e69689b5035e9dd41dae244f91ae1b694fa67404468": "2026-10-23T18:40:49.565787+00:00",
-    "3576cd2360f0a644e5974df3c86fcee270198350a921ce75bb0ef40d1bbfaf41": "2026-10-23T18:40:49.565787+00:00",
-    "292c86117c342d8d32c3781f74f44e35e9d19168c2ecd8017eccce30d9139dd8": "2026-10-23T18:40:49.565787+00:00",
-    "58d6f47a14a4b6a0daa3569f874c42bd3e91ae28a6bf2e834494faea006410f3": "2026-10-23T18:40:49.565787+00:00",
-    "18709a6dec4e274c810ef4e546057d30b4f8805b8a0bfe8e72bb77808dd9f039": "2026-10-23T18:40:49.565787+00:00",
-    "538e2f69c19ed240f1bdc0af226f761c2603c6219395df289064e7afc629d4b0": "2026-10-23T18:40:49.565787+00:00",
-    "69107fc268eb679718b865c05708581ddef077e77b0af179267c2af453f724fd": "2026-10-23T18:40:49.565787+00:00",
-    "439762b51d5e4e86fedb545f1b043d33ab533daa4d573a9c1a6b39fb6b9c97d1": "2026-10-23T18:40:49.565787+00:00",
-    "2dba24313eaa356c946123735674653d1f2edbd5029597a35e4d8e44b6484361": "2026-10-23T18:40:49.565787+00:00",
-    "6f042bc7ea3d8c9924b197cf3c82cb26edc58c9432b8df67d2b4ec01da8c25e7": "2026-10-23T18:40:49.565787+00:00",
-    "877d7de5ef000c93a2102748e1d345842526d031e35907f7d5ad9b96e3cb4280": "2026-10-23T18:40:49.565787+00:00",
-    "4d358e94bc00a273def9d6ef9b328641c0d335fc965b0c94c28dbbbbdb2f6131": "2026-10-23T18:40:49.565787+00:00",
-    "9d3fef16fb5a767e64bb9c205ab8732120ecfa8447346eb919748349d26e1cf7": "2026-10-23T18:40:49.565787+00:00",
-    "1ae01ad104bd92b03e6a87d2023c76084639eb6b2cc308fa0db04b12b2790029": "2026-10-23T18:40:49.565787+00:00",
-    "8fe2e6feed9c6a69ce37c36ab4be5ea9f6c8701ffe80d31f815f6880114678f3": "2026-10-23T18:40:49.565787+00:00",
-    "7b39e17389c846f362db50c8a50523dd39be128e3ecced7f4f0e97c522c263bd": "2026-10-23T18:40:49.565787+00:00",
-    "3eff4dfd9858fa4e18ef7c5149f8ddb805fa5a2afe52997d961bfbf3ef055bdc": "2026-10-23T18:40:49.565787+00:00",
-    "b4f4d3c05bddf4755ec16ff957abb10df53274232b404b1a9c03900c01beafb4": "2026-10-23T18:40:49.565787+00:00",
-    "dd89240fafccf6093749ff714b12202e35b4584c77447a3b28430462a976b4ae": "2026-10-23T18:40:49.565787+00:00",
-    "7dc958a7fd6e39fb91882cd05f1af1d6be454a2524cbfa27fbffefe4d253f0e4": "2026-10-23T18:40:49.565787+00:00",
-    "d65168016052cd9005aa3ea4cef96b6cdf042ee44060f01ce8a825712977e039": "2026-10-23T18:40:49.565787+00:00",
-    "19c207f1a08c31970374746fb8b7833d0858557a6634ae124a4bc638b8b5c65d": "2026-10-23T18:40:49.565787+00:00",
-    "5641764491a5eb0669716b51aa3d39b83ddf8f21fd673b6539bd4e67e40eca3b": "2026-10-23T18:40:49.565787+00:00",
-    "5d8ef44b8e975e1d75b12cd2d814955c4994c057ed10f2fefa743263217a79a3": "2026-10-23T18:40:49.565787+00:00",
-    "e2f09b1c575ce6297966478c61336396f53c4eb1c0abae21ae9d2906f0dd4bbd": "2026-10-23T18:40:49.565787+00:00",
-    "3aed5fdf4da6290a39eb85ea1a5a54ae42588049da1e33f3fac0c7a905d085c1": "2026-10-23T18:40:49.565787+00:00",
-    "9cca720d632b220ddff4945a32900de0ed4e2260e2d05a137b508c6350900d4b": "2026-10-23T18:40:49.565787+00:00",
-    "e0298ba9695f00c46dae477fdb6f473fa894f63d83e43ff13e8510788afddfbb": "2026-10-23T18:40:49.565787+00:00",
-    "a9efc42b5947172987fba8b4a12731d8dee6112a3f2ff1894d783a0ff80794f3": "2026-10-23T18:40:49.565787+00:00",
-    "8b3e7270d842acfd60855a4840790a6c5f69f4c52330b3ac431e137bc20bdf9d": "2026-10-23T18:40:49.565787+00:00",
-    "80b85096d362c56c40f309de6eaa88a924198a5ad025c938aafd776de46446b5": "2026-10-23T18:40:49.565787+00:00",
-    "a4cf571ae0c018f06d7852c586d8bf863b253edbaf007d4db589fa12942fcd1e": "2026-10-23T18:40:49.565787+00:00",
-    "1a41730f07fdeec40c4c94d10a5a619b796bc9439ddd879f43ee6358e473254d": "2026-10-23T18:40:49.565787+00:00",
-    "1ddd0b5da5fb51255c74d9a104f5d1138c93d6c54f36e68401721cbb1e324908": "2026-10-23T18:40:49.565787+00:00",
-    "4bbf12fda704b7242309bb92ba686375ccd331790fb45fc50e31290b316333f8": "2026-10-23T18:40:49.565787+00:00",
-    "4f50e4ccb18924ac6bd194cc3c10ac19817809afaeca786a4d2c8fe630474fe4": "2026-10-23T18:40:49.565787+00:00",
-    "9ba2fce60a5779a2ed355db2ea96fc5f79b05183d40b31e9391b487e0bae32a9": "2026-10-23T18:40:49.565787+00:00",
-    "a87e057c7256f4b5252b7ce61b9961d5a0f246cfc326772135381bca34564ee1": "2026-10-23T18:40:49.565787+00:00",
-    "faafb7cfca10fb0bcca9f834c3be1746fe847b15725874af2b8d14f8ab0e8ba2": "2026-10-23T18:40:49.565787+00:00",
-    "dab987c1c1069cd21eba49fc52b455d5d358c0b41d8c9b9d1e45a790bcecec6f": "2026-10-23T18:40:49.565787+00:00",
-    "36a75ecee04604c0c6b0b73fe5beb2329eccb90ce0352d08080ac07bb48f0031": "2026-10-23T18:40:49.565787+00:00",
-    "34a3a9fd398e3f1e359619c6ea5f77e13470a4da652b3e1cb5d3bf62c687c247": "2026-10-23T18:40:49.565787+00:00",
-    "f8043f98be948aa0cfecb33140f7aeacca3eabc8b740387273db0ce100c52e1f": "2026-10-23T18:40:49.565787+00:00",
-    "842f5ba743030cfa5b66165d77003e522c49372587dfa98cb394cc6e33a94801": "2026-10-23T18:40:49.565787+00:00",
-    "b29cc89d494662a4f3f130fa36d68894dc1e6b8ce5b77006ef6c3b93ef000c47": "2026-10-23T18:40:49.565787+00:00",
-    "b8278958205201f5bae0c3c8ec771ac5ed1fd5ae13668c3f0d3c29cd71e03c11": "2026-10-23T18:40:49.565787+00:00",
-    "03a631bafc0fc432098702d3c3a6db745739f7fd14c6070cafe6791e65cc1c05": "2026-10-23T18:40:49.565787+00:00",
-    "42b630ba1d14abda3df85ddfe604d9d4300300922f36b200008c1dc687e4570b": "2026-10-23T18:40:49.565787+00:00",
-    "931529783a6768570fda9b6ddf5d50a0451d2e05be59d187bc99dbb2079176d3": "2026-10-23T18:40:49.565787+00:00",
-    "374d50f5b5627b5da2e3d6f39658d07fa24472f5625b6e79219ba6a95cb635e5": "2026-10-23T18:40:49.565787+00:00",
-    "0dfcb2da864693b55b6e1756e2ee2084398fd982055575023ad714806bdf9ea6": "2026-10-23T18:40:49.565787+00:00",
-    "b302fb551fa4e0cd875c5825246a2693e8fb6cbb357ba5307130773c42c9b9a0": "2026-10-23T18:40:49.565787+00:00",
-    "ff857633123a064c49af56370cb698c78289d6d0d834b929a5f03c67834e8181": "2026-10-23T18:40:49.565787+00:00",
-    "b7b7ef3919584c7e27a2de30c4ea7a99a20f399653e8d48dcdd7cb9d95a3c4b2": "2026-10-23T18:40:49.565787+00:00",
-    "c7bfb43c58ce648967f5080f801eea5166e1b33f77275f6e48e3527335130a03": "2026-10-23T18:40:49.565787+00:00",
-    "80a0b600774a3ce9eb1f3e0e0eee33444910539fb56700152a3f4cec7b3e971d": "2026-10-23T18:40:49.565787+00:00",
-    "26bd41e8281a9c4c0c9ba24a79945b02e2323972c6589daec681a7678301cc32": "2026-10-23T18:40:49.565787+00:00",
-    "a92b2f2154c6760f457a5481468e2905968831c42862384d23831a963044db07": "2026-10-23T18:40:49.565787+00:00",
-    "1dd7bf6bfb73f6c2305d405c0f6960ff967737a39c57455291cd1d55fe0245b3": "2026-10-23T18:40:49.565787+00:00",
-    "1fd012c79a26c05a671e710640805e2f87729fc6bfe8b735bb294c7787265d6f": "2026-10-23T18:40:49.565787+00:00",
-    "c7dea7f7271291382c82ed7ceb3adef6b2702c60363915276c89ce8ee1d6f82c": "2026-10-23T18:40:49.565787+00:00",
-    "3c4522433e726577df273ec3b9baac32014565d47977f6c341e5f6aca50bba4f": "2026-10-23T18:40:49.565787+00:00",
-    "121d317913c46a94cb617e9cb908e96b7f4f0453ce17434e9411141c3ff8b98b": "2026-10-23T18:40:49.565787+00:00",
-    "1b65562d8071abc5d9d8806892ea7b01388c4936957c00fedbe8fd378955aa4d": "2026-10-23T18:40:49.565787+00:00",
-    "ec05bee550270146a76d303ebe31f15487c0a87d16b60c96f400ac556447f5ad": "2026-10-23T18:40:49.565787+00:00",
-    "a1c2e6568a03e4a401041400fc603d8960050a15eef46ee41912d6e5a8b6a038": "2026-10-23T18:40:49.565787+00:00",
-    "704cc1e3eb579e67cd60b3b634aa94e824822ef4c365eb41dbb31275b1e2a331": "2026-10-23T18:40:49.565787+00:00",
-    "fe28d070281dbec85becf8da3d067e7a443e0867971e43683adbe36ead7e8119": "2026-10-23T18:40:49.565787+00:00",
-    "e4f0da6cbe9f60af60f04d3b9f4e1d4c6755e8383e7f77e9bf02147a6bcfcace": "2026-10-23T18:40:49.565787+00:00",
-    "d149ccb54eabf16bb91ffc529bfa6c61d2b8135bd4d6ce1c7ba2bf1186c7fd7e": "2026-10-23T18:40:49.565787+00:00",
-    "2c0700221a04c1029e6352b89d07f984333a720486ad989b39ee8c4942c6897c": "2026-10-23T18:40:49.565787+00:00",
-    "9e6716c133c7e95d069f506397f92b0385f66ea1d8135214cca5fffcd63902cb": "2026-10-23T18:40:49.565787+00:00",
-    "e3edb8ca326e818a60000f1e6b56fc004d907f7aca289d8876f8a551db43de31": "2026-10-23T18:40:49.565787+00:00",
-    "abc7155cbe4aa42e55bb35ebaad348b0780e3c30722921a2bb7167e4332333df": "2026-10-23T18:40:49.565787+00:00",
-    "d51a7b0c81aa319861d4e6b28c0c587630b05a9752d587c535b9f33f0d233836": "2026-10-23T18:40:49.565787+00:00",
-    "e8c8a56989c82c8492266793ff8096a1887ace255455e3f723305043ecd3de48": "2026-10-23T18:40:49.565787+00:00",
-    "f9a4ee023ff1f2a2320dec5c9588d32e067af40ff15c5dcff0193738e4c776ac": "2026-10-23T18:40:49.565787+00:00",
-    "bd082ec30facf3f726d52830a81bacbadb1c4904087d1c354688b0f01b60f10a": "2026-10-23T18:40:49.565787+00:00",
-    "4ccb32c015357890eb20686e255056f0ccdf893afe910b715111ea0136173ca6": "2026-10-23T18:40:49.565787+00:00",
-    "21a49a8946c8950f9f40437682a63227541e52785b38c193b844ec86414df5bc": "2026-10-23T18:40:49.565787+00:00",
-    "3005a963219f7025100715f69a6cd2e757469a60387aba31cd862a1b100aef68": "2026-10-23T18:40:49.565787+00:00",
-    "0106a6b53347884aafe0fc217bf6c7a304d0dd5574c76bb39aeee65478e338b5": "2026-10-23T18:40:49.565787+00:00",
-    "a7a8a8ae32371a1a9bffa11f744800995e83f93cdd374697bba15c106a326733": "2026-10-23T18:40:49.565787+00:00",
-    "83563577f1b29253bd7e10da726e07f58ef4bb584de375fcde3646ac406d96d1": "2026-10-23T18:40:49.565787+00:00",
-    "0307768ced9b847ba46f695d5681f5752e58b48883a434d46fe2756522d5ba40": "2026-10-23T18:40:49.565787+00:00",
-    "84015b6e54f5ac9766503461c780fc1d1965cfe338e461b0e3caaaa677eed4b1": "2026-10-23T18:40:49.565787+00:00",
-    "eb5eb109457bf91078c6d77feebb26351dba8e7d09008cbb91dce3494b33fd8e": "2026-10-23T18:40:49.565787+00:00",
-    "b05b927afe40347a9541098ac13c56d6303769ac779351dfe1d6ae94a79e5334": "2026-10-23T18:40:49.565787+00:00",
-    "3d72c4c1e410cf6a1fe9d4f75f3ca84d117c195589abd6f8776a1c1dbd3d938b": "2026-10-23T18:40:49.565787+00:00",
-    "1a18ab17bdd2dba43961aa330c1134aca74238dd53ffddf4eb30ca3ed0e6b4f1": "2026-10-23T18:40:49.565787+00:00",
-    "ed349edaf43b219d6d67bfd94c22daffa2c3b61c39d49d0492567b250043b0d1": "2026-10-23T18:40:49.565787+00:00",
-    "67d4e5937dbce5c2f8e78d6f58611958f5b09e7730ac5f5bc033061f6d533eb4": "2026-10-23T18:40:49.565787+00:00",
-    "624c471287a06831ab2e2acfc5ae18c03c1372d3730ebc601905e8a627b429eb": "2026-10-23T18:40:49.565787+00:00",
-    "6978e153096b0cedf23d824facde4faa98d642b0cc34d19a3ebe9e2f15d56c8a": "2026-10-23T18:40:49.565787+00:00",
-    "ae62171275dcc9f04bf124e2e06dc8be06bb6ffbb02e22450ad8f43ec9a7e635": "2026-10-23T18:40:49.565787+00:00",
-    "a768dc431619bb6f292304efd8404a0264f1dce9f0476dc2f1fad0ced2876b58": "2026-10-23T18:40:49.565787+00:00",
-    "6532502b061ed7a3ea06d10f91576ca0a7772d22d7b94d2984ffa37137247491": "2026-10-23T18:40:49.565787+00:00",
-    "8c7705b35a050519e8b3783d5bfd9e94746d049574e58b97795b96a71d135647": "2026-10-23T18:40:49.565787+00:00",
-    "67a4f810a5ffd1263347614eb724ea6e245c6ac9e503f14bd319bc7c314d4e04": "2026-10-23T18:40:49.565787+00:00",
-    "c0ab5f4ab10114394f5440bbb8dee4befce928fa70c77d181f01bcce09500f25": "2026-10-23T18:40:49.565787+00:00",
-    "3424b084ab6fc55a6e9390a413e0d1e315af1fea8ef65b8d151a302d1df15ef4": "2026-10-23T18:40:49.565787+00:00",
-    "9792a48445a4ca6ff1c78868bb2e952ef44697ff35b65e8d2a3feb92435fa524": "2026-10-23T18:40:49.565787+00:00",
-    "50ffadab0f016f6ea06829211a2c9b1cbda0e00417fefae1a08a0af6aa4e03e8": "2026-10-23T18:40:49.565787+00:00",
-    "83c29382dfc964a631e1d19645a64a3038849feb9ce57f0034e07a2415183e57": "2026-10-23T18:40:49.565787+00:00",
-    "fa24e43af4ce9c307d208c9d1c110f031079108d3e23b2646d9c2f6d99251739": "2026-10-23T18:40:49.565787+00:00",
-    "e1b8710f21e264fed3942db08fc799b6d0495b118fee010264621f608c800efb": "2026-10-23T18:40:49.565787+00:00",
-    "29861722eccbba1073640d5c682b69b4a281c68d4fa4ae3f3bcd8ab0a63f4c76": "2026-10-23T18:40:49.565787+00:00",
-    "fdec5fedb85ed48e62ffb95190b7ecf57f6b6544046eb46f983e11fb9f501cd5": "2026-10-23T18:40:49.565787+00:00",
-    "1439203fcb18f9edb62f840a690265e726901cf6945cf28a206ab5a916d2d9fe": "2026-10-23T18:40:49.565787+00:00",
-    "ea0c01fbd9796739584cc29e3cf973cf945db314b3383182bd343061135e9db3": "2026-10-23T18:40:49.565787+00:00",
-    "235c64271a577f145332ffcf2d308d5b22f790326d5a2af5cdccd55612104ce6": "2026-10-23T18:40:49.565787+00:00",
-    "0438ea56f03d63734733ce33174581d85fa6dcf4cf07c600b41006a8e3b985ab": "2026-10-23T18:40:49.565787+00:00",
-    "21ad2cd5e2ca1878e573d94adc8ae3c7568a2135aeb833dfda35c2a61f08418e": "2026-10-23T18:40:49.565787+00:00",
-    "36b42778456147285b9dc31384cc472bfadca525eb9f0322a38d215f439ee01c": "2026-10-23T18:40:49.565787+00:00",
-    "41573698316628620cf77f1120632fdf1f9fb125e74394d570352eaab33fc039": "2026-10-23T18:40:49.565787+00:00",
-    "82157444546f862b97640c1d54325e1a84b9230aa5b17678905a81113c8f219d": "2026-10-23T18:40:49.565787+00:00",
-    "e2baf8a59ad94751c63a590d7d93c5248e85af07efa149bb1c6e8c6553a9c3f9": "2026-10-23T18:40:49.565787+00:00",
-    "f9dfee7fc4eee4f57338280ccf862a9ae45734037c1aa9a2c66bf5ddf709d4ed": "2026-10-23T18:40:49.565787+00:00",
-    "6e77a0a23ff3f3c293f83a8858f183b9fca63dee2c0f0c3fd68e2e7af771ccf8": "2026-10-23T18:40:49.565787+00:00",
-    "ed3983c7e616fb57d31cba261a14646921d57fea1bc888c10fd1190e1ce3feb3": "2026-10-23T18:40:49.565787+00:00",
-    "d581c6714a846887b04c695cf3de0de947f6f1e36b85e1185459aec34bf53e26": "2026-10-23T18:40:49.565787+00:00",
-    "861eca8f804c8bb5c92fd3d30e0b78e941b0d88ee40e4b629586bd62a89e5f26": "2026-10-23T18:40:49.565787+00:00",
-    "b4e34bdd793e5792f5035a8f3bd9fabf45f0b235021b00a1a503f00aff07b72b": "2026-10-23T18:40:49.565787+00:00",
-    "3a39aa47104763f187ff0f165286af0526e193229dcde08ba1f52e00f2c5e888": "2026-10-23T18:40:49.565787+00:00",
-    "a2be6ef5db3da42d1eb8a71bb301aaed323a14e1351444dd608af37d0fb3c23f": "2026-10-23T18:40:49.565787+00:00",
-    "a8e2ad41804ef3cd9d367d58a2745d13be09ff0200ae3e99a90387223174704b": "2026-10-23T18:40:49.565787+00:00",
-    "6c30b09d6ccf0ca7700863ecc91ef49049dd57afe49ec162969f23cb2a3738fa": "2026-10-23T18:40:49.565787+00:00",
-    "7facc080e01bc6e067536050f2bbc4dc1161309e794f35fea881b21435d761b1": "2026-10-23T18:40:49.565787+00:00",
-    "62b49fb14df45f0f4ea2b938a52fe166f2ebbe520e36bafddf681f6993c70e71": "2026-10-23T18:40:49.565787+00:00",
-    "45303a7a494b6e8a361b7cea2b991ddef9bd969e593b6d7cb14297be287ea4a7": "2026-10-23T18:40:49.565787+00:00",
-    "aa4a0c934b4e3ce540e123451fdb0f865eb97548871d699a7bf6f74bb5cf61b8": "2026-10-23T18:40:49.565787+00:00",
-    "9915384286324790a807aafc4fed2ba86fa300a7875fa10d4010a3c869ea62f5": "2026-10-23T18:40:49.565787+00:00",
-    "63fbf81fdb65276739acc93afe24b019d1d934f801291dd76279473b4cab6640": "2026-10-23T18:40:49.565787+00:00",
-    "06b08fb487ed88c4f30a53d28854347b67827c24d0fe7b6dd14549b41de70080": "2026-10-23T18:40:49.565787+00:00",
-    "73148bc7a346a8a3e028b69784bf30a199f15cba8dfd6c3fd5cc7bd582ea0e11": "2026-10-23T18:40:49.565787+00:00",
-    "36484014a77f2e42b5a32912bbc390272703de9e1919e69cd1c55a47e93bc408": "2026-10-23T18:40:49.565787+00:00",
-    "bdfcc7d8e92299a20544755f08ae9dfbc22d5a51327e58f0ec4636bdc760f603": "2026-10-23T18:40:49.565787+00:00",
-    "68bc57b966ab9f8a61fa5cf1711c66aee5bdf8204ee053c8b9ef8a56cec94da7": "2026-10-23T18:40:49.565787+00:00",
-    "e648e70c2a19c61f0c92bd69b7676616ae9b3490b05ab3489dca50b89ff41ba4": "2026-10-23T18:40:49.565787+00:00",
-    "95fe800e8d74cfa3a95021607468e9d49337bd18779891e2725db4c26a2aab66": "2026-10-23T18:40:49.565787+00:00",
-    "d227b2771f433315bec51626a5b50e62c118f5b881e4e27d442c25f63ba2bd59": "2026-10-23T18:40:49.565787+00:00",
-    "8f9d6745339b472f0b28af4a4456e9247b594deb962730e13e5612cb96140d9b": "2026-10-23T18:40:49.565787+00:00",
-    "f4caa1df1130cc491d60a3aa7e39e6a6fe6c8dd08449e57ddc763cdbee3aef5d": "2026-10-23T18:40:49.565787+00:00",
-    "735bdb06ecf4b3127323a124cad7b31ecb9f5de1c02e70783c643fdef0dee877": "2026-10-23T18:40:49.565787+00:00",
-    "94e0401739ceeedd5711898aac1f070c644dd5ebd1c1010c325501ca4e536bc7": "2026-10-23T18:40:49.565787+00:00",
-    "e41da65f24b8781c6dd67d6ca6149085957532556a750a447794f776f7aedbcb": "2026-10-23T18:40:49.565787+00:00",
-    "901dd78a4c49c12f16492d10a81f6370fc46452589dfc145f2ecf9ce16f9fef4": "2026-10-23T18:40:49.565787+00:00",
-    "ff36ecd128bbc9364c6b766c254dbb353ca683fd232efca42e4e98cb7ed0455c": "2026-10-23T18:40:49.565787+00:00",
-    "739a32db732f52a20b5b09130739723957ed8df731247c5d1d570ecc715eb007": "2026-10-23T18:40:49.565787+00:00",
-    "6711a2e0c031520ba0384fb65537419f36744dd5c80197aee83026acc68bfff5": "2026-10-23T18:40:49.565787+00:00",
-    "a33dce09f439a38bd58889c739b29a75aa7436ff42b02df1b3487025c445fee0": "2026-10-23T18:40:49.565787+00:00",
-    "a82cfc352df97518e4cee7c13e052b709a62d35fea471b58517cf071c9cd969e": "2026-10-23T18:40:49.565787+00:00",
-    "adca1c03b64e8dde28222682b40353b75f09399ebd1afe066f0eb43697a29264": "2026-10-23T18:40:49.565787+00:00",
-    "dab447983f88081fea7554f9e2d623952652acbad0cf2630dab78fc3e5fa2e4f": "2026-10-23T18:40:49.565787+00:00",
-    "f5dd53b2f60a03235a7608ada7513dde8fd59a0f1e37524d07cc6a45ba26f6d1": "2026-10-23T18:40:49.565787+00:00",
-    "4557a48912df01127d22bdeadd9dc6abbf36f538dca307460e4d312e39d94e17": "2026-10-23T18:40:49.565787+00:00",
-    "2d89b21eda96c9aa217452c286f3194c4579fbf617bc84851f7f2dba09244a2b": "2026-10-23T18:40:49.565787+00:00",
-    "741296f2a9b6dccb703aa4760b61b407863afb5d4299049ca712487176e69415": "2026-10-23T18:40:49.565787+00:00",
-    "61c38c01fa191fd72170ec780fbf164054b94b682a124cbb43dbba7c8e03e4b5": "2026-10-23T18:40:49.565787+00:00",
-    "f28176a3358f6f7a140a5e948ffb3b6ac957ddff289ef3c220afb77fd1182a4e": "2026-10-23T18:40:49.565787+00:00",
-    "81ce6187ae9b377ac97276d654fbf7d640932ad681b35156bbf41b55796a822e": "2026-10-23T18:40:49.565787+00:00",
-    "fef6f55f5f27f87fd0c40f60481339eb88c1e9474e5cfe747a743fb0f967f56b": "2026-10-23T18:40:49.565787+00:00",
-    "1ad8577dd21ff6741f1c51e5b52eda77c7ed6e39a57e20254bd4631a9f7f17c4": "2026-10-23T18:40:49.565787+00:00",
-    "85cbdfbd543e79bd69a3c1aea80c3675e85306e858eae4106cad3e87ec0149bb": "2026-10-23T18:40:49.565787+00:00",
-    "d4c86a0a0b11f89c0a5657ff89b0dac5fee66ffdd9b5dfdb5eee4c8f503a7b14": "2026-10-23T18:40:49.565787+00:00",
-    "e3af28bada526bd1049ec8a5b4b73eaec465f5966079245115198cd77f23bdf2": "2026-10-23T18:40:49.565787+00:00",
-    "2d04491927be3fcac24a7aef18e458b4c3430f6d981af9533c7af5036356e8de": "2026-10-23T18:40:49.565787+00:00",
-    "7eec98ca6a70f0ac1db63c1fcf5f254fcd3509df0994c134cda8361eb328682c": "2026-10-23T18:40:49.565787+00:00",
-    "58c8511bcdb51054da5042c78beec46ec3ad786e193346e814ff64be21b89f8f": "2026-10-23T18:40:49.565787+00:00",
-    "c031a68b87c25e67d51980f28c0ca64ad1b014515ac17da86ec4f1683319f43b": "2026-10-23T18:40:49.565787+00:00",
-    "c6535f7ab8119735178e509572b975bdebf7526d62c7282e9aefe259253718c4": "2026-10-23T18:40:49.565787+00:00",
-    "313b40c5c9e5e03bec895924fa702703e8b2db0a95a1602d7d27037005a7c3bb": "2026-10-23T18:40:49.565787+00:00",
-    "430e4d35515b689317763c534748907075068eca003c2d768bc073b486fd77fc": "2026-10-23T18:40:49.565787+00:00",
-    "98e2d1de96d472b8a4afc756b6a6f584b7c36e5794a07f32fdcc98f156220d57": "2026-10-23T18:40:49.565787+00:00",
-    "ef5b8fae4bfd3c906b2ddaa20dc35069a512be2c0bf79c9fedc603e4b49149eb": "2026-10-23T18:40:49.565787+00:00",
-    "acd97f73981882518cfafec4af0f6b1d13aac2d5639b80f03f6b3d5bad59f118": "2026-10-23T18:40:49.565787+00:00",
-    "d593500fbe35707d87130f80a0b43ed7e3807b510a3bb7a37b038d7620abf2eb": "2026-10-23T18:40:49.565787+00:00",
-    "18ebb96ca3403bc39173ccc76ebb6628088204d99d29708430aceeba1b029101": "2026-10-23T18:40:49.565787+00:00",
-    "a41b11343080b29bb263d339e4819cd12d3cb878af2250d3a67cf59ddd949288": "2026-10-23T18:40:49.565787+00:00",
-    "7103eea85170f7e41cc6c410b1930a9a155562fc9edb67fdfba11ced5e88ab03": "2026-10-23T18:40:49.565787+00:00",
-    "7bf5ce63b51dc7808e135a91c2d30946eedf0dbbd0365ed8323f64de0c032490": "2026-10-23T18:40:49.565787+00:00",
-    "938612d28f3a56ea604541a2b8c99daa5ac7c8b87ef6ab08a77ec01be81b57dd": "2026-10-23T18:40:49.565787+00:00",
-    "8d6aac29a8261d2d78fbe0f905ed86246d79c5de412eff2efc1a3fd0f96bfa4b": "2026-10-23T18:40:49.565787+00:00",
-    "9d9d77b2ca4d2227c3de6a3677df0353241b8706e0322a7163c98ae8da2a8488": "2026-10-23T18:40:49.565787+00:00",
-    "14ce8938a0a4165ec827df6f5fbe9acaa1260cf60e27ffbcd9a67b1e76cb919a": "2026-10-23T18:40:49.565787+00:00",
-    "ff58395ef7a6a145998c43d33fca4f13732c874096f3e47104a8fa5d3aa7aba6": "2026-10-23T18:40:49.565787+00:00",
-    "94c4e9109a0b42b353dc6d7870cfc84a7267d712565d6da33cd5fd21a4a0a9be": "2026-10-23T18:40:49.565787+00:00",
-    "c10d3cb914c86ab19b843227c5d5abcb9577279e8b4e99ce946cd8c4fad16ccd": "2026-10-23T18:40:49.565787+00:00",
-    "e6a1a381a4f07f9e430cdfb81482c19a5c9b1455608e8a31c0a0ceb8f28b613a": "2026-10-23T18:40:49.565787+00:00",
-    "c12e22b29754ce221c01110dd779f233a5987a74201ffa316d0997169ca99409": "2026-10-23T18:40:49.565787+00:00",
-    "9313cf3f26c38fbf253fbc2f3e97797c7697e0bcd6f85131c506b23a2660f51b": "2026-10-23T18:40:49.565787+00:00",
-    "8e1d03a5c50980db7cf7f9091e5b789d415fc3e288bdc5518a6e53ce9980015f": "2026-10-23T18:40:49.565787+00:00",
-    "bfb910e33e9ecf46ec55bdee8c986179a340cd69a35cb1374342ca0b631d28f2": "2026-10-23T18:40:49.565787+00:00",
-    "90b04f572c03e7ee021163c0119edcd9d30508862eee127d1fa7f00fec4e23a4": "2026-10-23T18:40:49.565787+00:00",
-    "29d57585eab46f37b469d5aa08b0b320792124a6e3d0c5b630c7a0368b2011fa": "2026-10-23T18:40:49.565787+00:00",
-    "6334aef177678960e4feef096298e9dffd6bf7d2d9edc2b02577531e76868f59": "2026-10-23T18:40:49.565787+00:00",
-    "d6a420a3f9014643e94dd261025854f3bd4713138c0567c24470a8e1fd0d39bb": "2026-10-23T18:40:49.565787+00:00",
-    "2ca71c8da76c63f532212fdea2e0bc202dda44c5f38acfe15935777ac4227808": "2026-10-23T18:40:49.565787+00:00",
-    "897553063fdcb0eba2a3d3a1573dd619f374eb93139701eaac4606c216a01ad2": "2026-10-23T18:40:49.565787+00:00",
-    "16d99801401f4f101baba46ae171d91caf67db00fe4eb578a2bba94b72ec6ed7": "2026-10-23T18:40:49.565787+00:00",
-    "82ed26520d3a3a6812f0a09a8ec5d0b528e82c5d63c844de4d51edabfc4cb99c": "2026-10-23T18:40:49.565787+00:00",
-    "cc275d9800a16c4a06a9f4915548ac8ecbe6479c4ec0d125c25d6a504274303d": "2026-10-23T18:40:49.565787+00:00",
-    "1b1d579784beb4dee8ef9ad78035d86106dd29c925091fcc336ca285848ea6ef": "2026-10-23T18:40:49.565787+00:00",
-    "6bda13ec8414d95d9bd064100af1096f472b4ca233473d7860e5a36f1f6aaa12": "2026-10-23T18:40:49.565787+00:00",
-    "617d4dc9fc915d6c391511c384f3f50c41dfee5a0ac72f00c7fa2f1f46de927e": "2026-10-23T18:40:49.565787+00:00",
-    "17f6f2e4111b3b1d89c6f6cbdc9045410d2888fb22f935398e613300191a5558": "2026-10-23T18:40:49.565787+00:00",
-    "ac1447087ebc1c86f854ebf0ceeefa8a028e3e515cbb347316a9100f514d3084": "2026-10-23T18:40:49.565787+00:00",
-    "7c3e9bc0420c0180653cc2faa6b9e903b2e58872009757c4d36f417d7a287640": "2026-10-23T18:40:49.565787+00:00",
-    "955eb3b89f737b4dbc6b04f4217be9479853a8cea9ea4a00eef2acc3ad17eb77": "2026-10-23T18:40:49.565787+00:00",
-    "c74c452ac3a6264c648ac7bc63acc9a73555f94d8de13a7655f18f1e8e49d8fd": "2026-10-23T18:40:49.565787+00:00",
-    "f9c1ed8f2a390b0840fb8b3b3e424c0d205744299665f0d58490494179d6b439": "2026-10-23T18:40:49.565787+00:00",
-    "80f3c0510788ecfcfd57f8d420846f07cfab37a4e02c359f4671f787f468f8bb": "2026-10-23T18:40:49.565787+00:00",
-    "9982b905ec9f7b93c56b9b46b6fc422c3973dcb062828a2f854e5eb351a1041d": "2026-10-23T18:40:49.565787+00:00",
-    "3a2fa15d7ec1de329f1036aa936d9a5247824d3a0cc649d58ec2383ffd74fbcc": "2026-10-23T18:40:49.565787+00:00",
-    "9bfe26476e1dcb3cb4dbb2c272ef758df6bed82582b73abc4ea7fc0b5919955f": "2026-10-23T18:40:49.565787+00:00",
-    "8cc999ab7d4b781d8ec358d82e0457761e4e7ef6556998967c90a49aaa8413bc": "2026-10-23T18:40:49.565787+00:00",
-    "fb3a41687a9d81048ad175ef2ea444d4f29c7a78a42a6c7db7595e227a129a86": "2026-10-23T18:40:49.565787+00:00",
-    "7f771ba5af3ebb85b7fcbe28208147cba226c4bed7587ee4ee1dc426135df509": "2026-10-23T18:40:49.565787+00:00",
-    "6a74d341f4d05702e7c48db5573fb821829d7a3bd76f4f4d5fd71cc393b6d7f8": "2026-10-23T18:40:49.565787+00:00",
-    "bb8595b636d66182dc85e784358c8d1066b7d6974011bb6df6bd7290bfd82e44": "2026-10-23T18:40:49.565787+00:00",
-    "39251f4736286fe61748234b0df59c3d76fd93f73fdca0fe386c42451a064904": "2026-10-23T18:40:49.565787+00:00",
-    "7d3b41223616b77fb51579de9539e8705607a59794926f97e3070170099452fc": "2026-10-23T18:40:49.565787+00:00",
-    "7809be890c144df184b98a67d755facfc66271101458baaeae0f563670d2ecb3": "2026-10-23T18:40:49.565787+00:00",
-    "4d47014b2ee11785b3e7f30d0e881cb15c00271f1a80b334470b90b5fc0e9dd1": "2026-10-23T18:40:49.565787+00:00",
-    "f6e7b10aa4fc748ff722a4a14ad92f18ea39bac8490944a667c6dac33d746d05": "2026-10-23T18:40:49.565787+00:00",
-    "cd5956a45581964546a2c7653b20fe601320d599517c10d3970f1ec92199742c": "2026-10-23T18:40:49.565787+00:00",
-    "bf17374b9ff90777d8f8f0246e6040d70755f630b5cb4e9a58440c40ff2b62ed": "2026-10-23T18:40:49.565787+00:00",
     "ca773c1766c245aca2b8444acfe0cb414210b18559d0c03f583ae0d33051eb33": "2026-10-23T23:26:17.926282+00:00",
     "045cc432bab36c50b7c193243ff452f01b0ea4131668f009193bf7792e64f70d": "2026-10-23T23:26:17.926282+00:00",
     "cb0c9e066a746df34a0bc5c6bd6affea017662dc4839bd8f4e37637ed41e0154": "2026-10-23T23:26:17.926282+00:00",
@@ -5229,6 +4717,111 @@
     "e728a758f9d180e9252406f6e2d302ab8757dbfe12ff4414ff3bf7278a1d536c": "2026-10-25T16:46:00.915133+00:00",
     "89f441f262cb4664cc48196a91326b0d526acc278100652e7328af04fe3cc04c": "2026-10-25T16:46:00.915133+00:00",
     "0323a8254c4cb4fb99fdc91c07415bf26a7b9bff21424f97bb513bf9c219d162": "2026-10-25T16:46:00.915133+00:00",
-    "14aacf2a872ada06ab759829c4564961451bfb6010af98cd6a05ee9c6e4a3188": "2026-10-25T16:46:00.915133+00:00"
+    "14aacf2a872ada06ab759829c4564961451bfb6010af98cd6a05ee9c6e4a3188": "2026-10-25T16:46:00.915133+00:00",
+    "6c7964400a26caac28ba6762f88ea09b4555cda7e1424163bc5aed0dd295cc75": "2026-10-25T21:11:09.014012+00:00",
+    "f46f31b7aaf611d7338b730e86b5232277ea5426682c0feb52984f0ccbc71368": "2026-10-25T21:11:09.014012+00:00",
+    "0812837be211721655434f10cc89c5c1e7ca5988d8010448844ee9f49e050d79": "2026-10-25T21:11:09.014012+00:00",
+    "24ecaf5cec08f4e52e09a03cf465684d9c1d4d07e26ea8040abd6c1f8e0b00a0": "2026-10-25T21:11:09.014012+00:00",
+    "a405cf4fd830479ef831dd9cd06ffbda5ddc8d4e943ecb8cd63d01551cc1b93b": "2026-10-25T21:11:09.014012+00:00",
+    "2a50a84aac2cd6cd4ac33e6bb77d2d200cdc5ed747f754b964f44f40050333b5": "2026-10-25T21:11:09.014012+00:00",
+    "e47998054e4b77303c3a5ee0de28b5a70f37452b3a79613167f8e87d5700fcf5": "2026-10-25T21:11:09.014012+00:00",
+    "ac1ed4355392682f7ef009320c4ea547c8cacaae4ddcf2b681d5c6fdd8b029f2": "2026-10-25T21:11:09.014012+00:00",
+    "dcf571876890b82eee47467c42d3e5bf72c337cdcea43f84ab070d01c95cb291": "2026-10-25T21:11:09.014012+00:00",
+    "9f7d6688c5cfe06b2e647c8c17cf4b5e24312eea51bc350fb2497b8446e611e2": "2026-10-25T21:11:09.014012+00:00",
+    "738fa5675d91233273ae26931bb33c44773f6aeb3896bebc78e40f23eedaab1a": "2026-10-25T21:11:09.014012+00:00",
+    "72a3fab8d12f977671e992e9647511b1fca958ef3d3d002fd79d56c420e9cd0d": "2026-10-25T21:11:09.014012+00:00",
+    "1c88c985bc7a263011b0b423b508da35ffa6c3e7e21917acc05b403771c37b27": "2026-10-25T21:11:09.014012+00:00",
+    "a8f2f8b32c3875a15d0d3bdb0ececc35ff03117228556dcd47cb9f0c7ded5f6c": "2026-10-25T21:11:09.014012+00:00",
+    "d83309642bb29deaeb85ac2906f98ede0d9848327f10a0adc1fba2754e020443": "2026-10-25T21:11:09.014012+00:00",
+    "38e3c6e61fc8e1b7ae589b11c2e2eab134982a30555ca28e960172385a40d7b8": "2026-10-25T21:11:09.014012+00:00",
+    "abeaedfc1488e20e87e0b6eab62aaae9c604f96dc0e1eb24684faf889922df02": "2026-10-25T21:11:09.014012+00:00",
+    "4bcd14f58ca25a6aa869d430de3405786258893a15d839cf823a616bfbb13715": "2026-10-25T21:11:09.014012+00:00",
+    "e2c88617b8b35038c9932388054c7af67316973e9460d0f4d240c3d291363b46": "2026-10-25T21:11:09.014012+00:00",
+    "0f6b129048333732e11e270491b76738158d4c368cf09177771ed26ce427dd39": "2026-10-25T21:11:09.014012+00:00",
+    "b763618f464a78a9e012f60962156d1c484cc9f0a0def8684dcb35b34982a1ed": "2026-10-25T21:11:09.014012+00:00",
+    "208b6ddcbc873c9e544da9acfe2a4a402f37a6ae07ae49dee80f05cafa69e132": "2026-10-25T21:11:09.014012+00:00",
+    "f2e0f9b3580bf129d88d4c7d223ef482c98f37d4de4fe426b58d0c416ddbbcce": "2026-10-25T21:11:09.014012+00:00",
+    "934e9b5cfac06b141b242589b2e4817a7df37072b3e1ebd231631933ab95dc41": "2026-10-25T21:11:09.014012+00:00",
+    "a9c9d55ca06c1ad2166a20d70ed1ed46b4db1ab05043417683d64d951b283197": "2026-10-25T21:11:09.014012+00:00",
+    "da202603bc377d76022f4ddbd69fd13b253fe632a4eafe98d35b99aaaddfd5b4": "2026-10-25T21:11:09.014012+00:00",
+    "2a11262e67526f0f1bf37839dcd6ce97b3a40c89f102b624645861bdfa5e18de": "2026-10-25T21:11:09.014012+00:00",
+    "750d534e43e123885715096bc2de1ae6115442ce9e65716312ea0cf69b67f34b": "2026-10-25T21:11:09.014012+00:00",
+    "87b2a3ef1cf7e9590c4f4e0ff704b8b3f4b9cbfb7425064212f98b48260b1b15": "2026-10-25T21:11:09.014012+00:00",
+    "5082394f7806f3628c8ca8f470606e229d808c6bf015f996c3a521464b8fbe1b": "2026-10-25T21:11:09.014012+00:00",
+    "d6994671b264ee1845baadda25ed44d4cc54f5203dff7e2bd59f01f4df16da5f": "2026-10-25T21:11:09.014012+00:00",
+    "484f25558656b2692ab546548ad22fa96eb3aac0f023e84032279b763557a5f8": "2026-10-25T21:11:09.014012+00:00",
+    "764e785edb9f7a534f7143d4bcf251dc33e9752cc3e34f2224b56254f4dc510b": "2026-10-25T21:11:09.014012+00:00",
+    "2329da78ff802fb97bed8b75b9d7aee7c686c63093efd5edfcf11f9244f18f80": "2026-10-25T21:11:09.014012+00:00",
+    "421f1663531d1d32a5fc2932035311cc6bf0645158608033c297b14c8dbaf851": "2026-10-25T21:11:09.014012+00:00",
+    "d56934a2a55c667da28a332c8c5c57800d5c78b11f7cb9cb202f7e53b00839ca": "2026-10-25T21:11:09.014012+00:00",
+    "3cd0a76fd41000121f24467aafb1aaf257224e8664e566b8314c0581e3078ad1": "2026-10-25T21:11:09.014012+00:00",
+    "28709675c19259fcd66225844cbe92bd87289414985ccab0a6726045bec16f02": "2026-10-25T21:11:09.014012+00:00",
+    "32eb93f27697da67894da4ae05de66bbcb25636d86a68475d516a2f9199a80b5": "2026-10-25T21:11:09.014012+00:00",
+    "6f113d662d48661cc80460c2a0c72b5d90262661407f205daf0f982dd0507588": "2026-10-25T21:11:09.014012+00:00",
+    "b4771b2b7f5c43aa78dce4c87eaeed9527804f07fe4e1657a9cb7a12dbc0d385": "2026-10-25T21:11:09.014012+00:00",
+    "1d873a6a5d8bc3e28b9f721c954282a082b4a213058a994a2d7c1fa8eda6c4f2": "2026-10-25T21:11:09.014012+00:00",
+    "d4d795abf429966ce1a9b3b8cd5f16f9b4ebcc57759dc09b4dc1c0899ad2cad4": "2026-10-25T21:11:09.014012+00:00",
+    "7e672902cd783b0ea2a04e8c4c997db2c7d8ac9c4ac42e28f6dc4d4e347644cc": "2026-10-25T21:11:09.014012+00:00",
+    "c1dd1dda12a7bbaddc7015039f27d257ab68c5c42e15ea62ba0d151831867e78": "2026-10-25T21:11:09.014012+00:00",
+    "14033a9f42adb9245eae77781e791d549aae576ebceb463e57cde706c61f51f9": "2026-10-25T21:11:09.014012+00:00",
+    "1ed7cf88dc4d85b42345895f211a90cb5cf29e4ce8242e119db764344b0cc6ee": "2026-10-25T21:11:09.014012+00:00",
+    "b069ea8645bfb8dcfe55f4506b2fabf746250de62656768446bc8f7c71b11345": "2026-10-25T21:11:09.014012+00:00",
+    "709858d5684db256578d6d018b01e5a7a6e52c930c122400f754ff51bf3ec5d7": "2026-10-25T21:11:09.014012+00:00",
+    "94f1201bbc37c668d1bb14687b5fa3f7399d4da2ead17c079b920cb5226018db": "2026-10-25T21:11:09.014012+00:00",
+    "2c6817b46e16da41b4d385374b50a90b3bb80ce61cf5f060844af62debd21adb": "2026-10-25T21:11:09.014012+00:00",
+    "9eb42b65177277adc53ef9f9fd7a01ef8448d9acc863d1194e69c0dda7f01648": "2026-10-25T21:11:09.014012+00:00",
+    "8698661b76cb1a74861b3a54b42197cf32c6864672e6aea458eb5824dc81fd78": "2026-10-25T21:11:09.014012+00:00",
+    "1a1a25f5ce2ec80750887f580215555508cae9b0aeebdde37ab0636332d5f5cc": "2026-10-25T21:11:09.014012+00:00",
+    "8170602391ffe838879b8106a596487dc067f52c2455bb5a9b9f065797059ed2": "2026-10-25T21:11:09.014012+00:00",
+    "bbf881304c8821637c23b74933191e3c747016b21babed6b8ca27a7545cd85b9": "2026-10-25T21:11:09.014012+00:00",
+    "f9583ec5bd307f0905840103771ddfacb834c63d28230ba011c85b54bbb03331": "2026-10-25T21:11:09.014012+00:00",
+    "8a62476eeffd7ae347b87c4d170d3b2801b794f515dee995927b23babf186548": "2026-10-25T21:11:09.014012+00:00",
+    "f8cceefa5ecff073e927c7836245fd0e3cf771ff2839a544e381cf4a84403b0b": "2026-10-25T21:11:09.014012+00:00",
+    "8975c5cf607fdaea19f40fdd7c86155899c635e6e0d1d0f211760cf968326173": "2026-10-25T21:11:09.014012+00:00",
+    "04986bc3b918c8a41ceaec565f0376ec1eaace38511872d826406bad507325f1": "2026-10-25T21:11:09.014012+00:00",
+    "d78a28571718932882a9c08a58394840baa345560b9cfb6229a7954b0fc206af": "2026-10-25T21:11:09.014012+00:00",
+    "ea9a6a49d06e2bc73269f69619f7e21254269ed627c6b688c85a582154ca325e": "2026-10-25T21:11:09.014012+00:00",
+    "b19e9e04ba82fdd886675e27609ce9f83aa4fbc4be8e22d2de33708d9ad8cf5e": "2026-10-25T21:11:09.014012+00:00",
+    "71e4332cdcedf249cfbd25a32eaec9bc28e1e1b852249b87df339e02b49e6083": "2026-10-25T21:11:09.014012+00:00",
+    "786065e2f54f234306562ff6b657aff9eeeefdfac374bd61d2ad119293737ca5": "2026-10-25T21:11:09.014012+00:00",
+    "9aac0b6e7dea5c9fabc3aac19fb7c85f4e4472d347fa500cc9b9b575d2cfa79f": "2026-10-25T21:11:09.014012+00:00",
+    "2c87a60ea5e77ac408f3996ca0d16a22dd42d002572c6c177cce223c2db2016d": "2026-10-25T21:11:09.014012+00:00",
+    "5d53a9e7243553b53ef0edb05064639f49b70505b1c5482a706cd99be90089c6": "2026-10-25T21:11:09.014012+00:00",
+    "115b6218a6df3d580aa63b3578b7e8468768b550732e2dfc6026d66a0771e2f8": "2026-10-25T21:11:09.014012+00:00",
+    "20d6316d66e5b664ccaf6a7e2a1c2725cf18d84438fc23c3b3ba275d8ba8c451": "2026-10-25T21:11:09.014012+00:00",
+    "eec7c7c4ca071de64b8b106c7978dea0f56fd736848731b046cb3246602174b0": "2026-10-25T21:11:09.014012+00:00",
+    "92632c1743a0e8c0e0379e2cad8f1437a1ddcf931f75038b811c70d82d145f86": "2026-10-25T21:11:09.014012+00:00",
+    "59a49a940074dce2836512ee7876357bec3d734e43a4db0085fefd1d42292795": "2026-10-25T21:11:09.014012+00:00",
+    "b7cfc2f985f911950590f8093a78f95862063d91ca92d8624603bac8fd689be3": "2026-10-25T21:11:09.014012+00:00",
+    "fb4b1854dd0d88a29a70047323d63a1f3a5d1322ba5b2068f7e33a46747a1a07": "2026-10-25T21:11:09.014012+00:00",
+    "7601d801bf1172d0daa7a1b8962409f9cefc42367ef66ff41ce269b47dee52ad": "2026-10-25T21:11:09.014012+00:00",
+    "6711841544d8994341c6358158760438a0880c1082f5dde9ea1839552c840fe5": "2026-10-25T21:11:09.014012+00:00",
+    "5fcf4a42e439907bd254b6a51d43a633b67abd0201096c78392cd7e5ad2b1eea": "2026-10-25T21:11:09.014012+00:00",
+    "e08611579b5ee811720b80f0392ffd7df8f2e8f2c45eb0f948b5b133265e2371": "2026-10-25T21:11:09.014012+00:00",
+    "95f5d74166527ff79b1a5b4255945d0a456e8d3b0e8733ea4c73cdd8a29d99b9": "2026-10-25T21:11:09.014012+00:00",
+    "c0997fc36f93556402fc7cdd08ede179c9d08de0b7e411be6e47941243ecd254": "2026-10-25T21:11:09.014012+00:00",
+    "82aa1227994b5a2396f72223efe50ce3aba8991bb4265e859379a44b82581ab3": "2026-10-25T21:11:09.014012+00:00",
+    "b40afc5ad116f9a3425d4150c93bb8be3c7c5c5d54b5a1e42a984966fda8595b": "2026-10-25T21:11:09.014012+00:00",
+    "dcf5eba87c2000c2d620c2131d9f1edbc72eabda4e962530301310025825bb14": "2026-10-25T21:11:09.014012+00:00",
+    "7b3325a631387d2629174440fa151aae723cfbc0df2533cd09cf262ba47da529": "2026-10-25T21:11:09.014012+00:00",
+    "48df4639aa12d2a1a9e5dd30b9fc53351310bc3f417b6afc2a595fa988b35fc5": "2026-10-25T21:11:09.014012+00:00",
+    "b423726520597b628c6c9e6fe82a32d4181d80f530b84480f70e7da8b06eed9b": "2026-10-25T21:11:09.014012+00:00",
+    "8cb2e0c559ac0543c94debb7e7ce02cee21d898269fa2bcde5a893b10d90f697": "2026-10-25T21:11:09.014012+00:00",
+    "2509e00a6e6760a2fad4979ce74a39bf05111725088b2c47c8f9d18597831908": "2026-10-25T21:11:09.014012+00:00",
+    "a17660416ba7318b0966fdb40061934184304ee2f00b669d0cfc7d7df3b1e6e8": "2026-10-25T21:11:09.014012+00:00",
+    "66b145ef604d6e515c1dee76e63e818ee2a8f76fdbbbd85ae3ba0992f321bb4c": "2026-10-25T21:11:09.014012+00:00",
+    "90d33eb5002460f3cc05483c83de8d4365275bcef0cda4e10ddf1dd3fc787603": "2026-10-25T21:11:09.014012+00:00",
+    "cdaa61b2b9060a27b26bac8a63f741ec6da225129a583c864b17829ef5c213df": "2026-10-25T21:11:09.014012+00:00",
+    "e81d78b5ef014a2c6de02cf2df05ec7f652cf1117acc962b8c2d00915e968825": "2026-10-25T21:11:09.014012+00:00",
+    "f5f9133ad58d808f93b02fbc7bbf2788451eb9cc838b047c7c8428c301bff73e": "2026-10-25T21:11:09.014012+00:00",
+    "07d1b3bbe1877dd2877d2d91037890bb91a2c0e338a0fd0ca27f2076d45c34df": "2026-10-25T21:11:09.014012+00:00",
+    "d0f336841bcf1142bfa0e758d4b244155ef25e8012a8a5b25ef672f4a36c527f": "2026-10-25T21:11:09.014012+00:00",
+    "d10cc019f190101c8280056baabcbf0ca38435e6f76df8b90d942696282f1287": "2026-10-25T21:11:09.014012+00:00",
+    "6f19a570667a75e5ae41aba0e84b56289504bb8f61fe046c0af0f75d37adf48e": "2026-10-25T21:11:09.014012+00:00",
+    "50496b8679fd8e8cc242728677eed625885744f6ca52f034c65425ab010aee6b": "2026-10-25T21:11:09.014012+00:00",
+    "ff1dd5e5211cc7488836c096594a51c8feac84c234cbf3e5c64b8e1cc75a8277": "2026-10-25T21:11:09.014012+00:00",
+    "343f5441d452cb6f5779593159c592337ce6e42c19352f0c1a9688693f3da116": "2026-10-25T21:11:09.014012+00:00",
+    "8e77c2f5c8c2b88a098fb10b1fc22629ab2d09e358bbb7cba2913cd8e4361673": "2026-10-25T21:11:09.014012+00:00",
+    "ec923eb7b05888a1d3494baa8bed88cf850ceb2c1594ef6ef3efb8fedf2d3ecb": "2026-10-25T21:11:09.014012+00:00"
   }
 }
