@@ -2,8 +2,11 @@ name: 미국장 브리핑 공개 데이터 수집
 
 on:
   schedule:
-    # Mon-Fri 21:20 UTC = Tue-Sat 06:20 KST, before the existing Claude 06:45 run.
+    # GitHub can delay or drop one scheduled event; retry before the 06:45 KST briefing.
+    # Mon-Fri UTC = Tue-Sat KST, after the US market close.
+    - cron: '8 21 * * 1-5'
     - cron: '20 21 * * 1-5'
+    - cron: '32 21 * * 1-5'
   workflow_dispatch:
   push:
     branches: [main]
