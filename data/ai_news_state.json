@@ -2517,452 +2517,62 @@
     "c6ae7baa6dc8576274272725c11a394d7051886b051034bdcb77e21eb4378dfa": "2026-10-26T21:10:16.891573+00:00",
     "79cc98c10e7353dd8f6c7654ac14d480f9f5dfae81a8428fedb38338cb73cfc3": "2026-10-26T21:10:16.891573+00:00",
     "63f2ab6afbfbfc6ce6982b05e5d289b724cb5f6a5c23e3c679476dd1242057f1": "2026-10-26T21:10:16.891573+00:00",
-    "c68e4f5d08a71b7a3dda1390eb5038c9cf7bdc23899a7ecbcca6daa427052658": "2026-10-26T21:10:16.891573+00:00"
+    "c68e4f5d08a71b7a3dda1390eb5038c9cf7bdc23899a7ecbcca6daa427052658": "2026-10-26T21:10:16.891573+00:00",
+    "2c2962764f74418847ffb841ab061384af154a7f221b6dacf4cc3573f4c44de0": "2026-10-26T21:10:16.891573+00:00",
+    "bd656fe58effa9a62c9b53f0d95cababf2f99ebda178f40e7361d871d14c3cb0": "2026-10-26T21:10:16.891573+00:00",
+    "afc306ad24f587adc025fee29186bed41f33a7f8ebf959c206dc4bb1f39c870c": "2026-10-26T08:04:45.493072+00:00",
+    "2e66307fcdf5fe66695e296dc809745e56a8f96557a6830405979e7424599058": "2026-10-26T08:04:45.493072+00:00",
+    "cd79d43322f25743246f8fe6db1f406b465e95c2adf927a7ed5be5c960070cf1": "2026-10-26T21:10:16.891573+00:00",
+    "463b0c18d784c60d7d2085f2dcb5970017d8382c3a26ecb2e0e179abfe5f86ee": "2026-10-26T21:10:16.891573+00:00",
+    "f1fe200e1a1726c00d8807d67c41c87ee9c81853a33e49262ac6b92e753cc593": "2026-10-26T21:10:16.891573+00:00",
+    "7e19f6ddc4903a7d4f38e9a0dc13ea200f8d3abf6ea8c436261b6955241b36cf": "2026-10-26T21:10:16.891573+00:00",
+    "41c24f59245eaeb4ce9587674bfda8f6e84dec040c9c1e6ceaf0ac31c3dbe9ff": "2026-10-26T08:04:45.493072+00:00",
+    "362b46371ef50308069b7fa6fe17d270ad2433bc8338b973affc741ff69b6d71": "2026-10-26T08:04:45.493072+00:00",
+    "e5e8cafb0b186bfab297be844664d135febdc74f2e4d27df2524e0ee9a7fd7ca": "2026-10-26T21:10:16.891573+00:00",
+    "374d6e0398f8a4f38b3a386bc8bd3760da2bfdd680e83e91dd04be15bd2cec6a": "2026-10-26T21:10:16.891573+00:00",
+    "31e84ef96f273b25ed8fcc94353789596c8e46413f2900242262ed6a21c7db24": "2026-10-26T21:10:16.891573+00:00",
+    "05e6f7861c6ba72154ecd344e1e3d24fe604e9e324ba3a2e86cb06d7d224ca85": "2026-10-26T21:10:16.891573+00:00",
+    "b4bb4318bc7b35e8cd0a180c5fbcd067b6d083eb6d4437b68a049b861a7c18db": "2026-10-26T21:10:16.891573+00:00",
+    "027f9f766454fe2eb2f9506a8db9e8861b90bc1c0fd42544d399811febbd8ebe": "2026-10-26T21:10:16.891573+00:00",
+    "6f9346a891ee4efe68cd6059310186064d13e8f93da3a3eb1d3d119d485f1065": "2026-10-26T15:26:04.793683+00:00",
+    "fd96a62e705d0931001976709c4ab258b913f2ae4f9c3a97cb371a68838b8d6c": "2026-10-26T15:26:04.793683+00:00",
+    "4152f4d55928bffb38cb2aa9104a97d55d716adb712f415f3f476d9469732e03": "2026-10-26T21:10:16.891573+00:00",
+    "ef06d7728fbf77bec68ba6aa6725abf01b99f4c7aa97557250f3fc9db8447b97": "2026-10-26T21:10:16.891573+00:00",
+    "21014cd85e899ce1bcde022e76984af42fe64378833477db09c68e0ae5b0a414": "2026-10-26T21:10:16.891573+00:00",
+    "fd64512d4d08904cd65700f79891fb9d8fb12b15245979fe9e6ef4bfbc967033": "2026-10-26T21:10:16.891573+00:00",
+    "7f384490d2fa42bde2c07f136a9b77bb904e1da394de8c68b3eab7436e8a5862": "2026-10-26T21:10:16.891573+00:00",
+    "813c14ca544fc462c8ba93a9d24c9b601946b92a8d155822f1d41e376e4ce6be": "2026-10-26T21:10:16.891573+00:00",
+    "3cdf0db0b5c28b0aae0ee541221afc92376bc5c76f6a1b961c637703f04b6a73": "2026-10-26T21:10:16.891573+00:00",
+    "110df4f65f544e948bc45094488078330cfa2d07097f16c9f1f70facbcd65536": "2026-10-26T21:10:16.891573+00:00",
+    "158d2fb039151f014db8d6a123190169bd2bde568a1cdd3c539a7cd795686bf8": "2026-10-26T21:10:16.891573+00:00",
+    "26d77378bd780585ccd5a11de74a3e454d3d6695cc86acd27884e07b2a93f1a8": "2026-10-26T21:10:16.891573+00:00",
+    "2b212811691ca77e48734c9fbe3c99aa45aaa0e1060633cb5976c05c5e52f656": "2026-10-26T21:10:16.891573+00:00",
+    "88cb9edf0a1b68c4998d5a66ab55b2da32f6fbf45acf0288359723f50dac1e03": "2026-10-26T21:10:16.891573+00:00",
+    "15b3c12db0ac1965969a200b6eda35258209d9425b2850b858c086a93a366911": "2026-10-26T21:10:16.891573+00:00",
+    "7e3bae872e08c926bdc872008398ee9150dd81fc2dae4c663ad89f82cef078b8": "2026-10-26T21:10:16.891573+00:00",
+    "11d27db30dc1ac78d4c69da971d71aa447e37685b03c0757d4ea9777c68dcbdc": "2026-10-23T07:53:45.851253+00:00",
+    "8ec5e982c9fae4edc13c0276326e9574d32057f955930e9ed52e6a32ab1c1e35": "2026-10-21T18:51:58.006180+00:00",
+    "e55840d2b61285cb6e10dc27b594e1a30eb8286b63f45b940998d40066f7e4ab": "2026-10-26T08:04:45.493072+00:00",
+    "52d4e68d139e38ac75bfc504fe649048f3eba9880749530c10e6c71738e09166": "2026-10-26T21:10:16.891573+00:00",
+    "5ab09e2e92e669223338c4d472ef3f7e692b6a989b56cba9aadce637803f985a": "2026-10-26T21:10:16.891573+00:00",
+    "b5f13872a30c27e7961e11df9b717f9944f86e5793800dcd31d475a8808e000b": "2026-10-26T21:10:16.891573+00:00",
+    "f2b99797c79e13d7b5ee75211fe267d87bcaeb36a4d70457ab9f68d408e3e33a": "2026-10-26T21:10:16.891573+00:00",
+    "f0b18a940eb7885d14aec74fbc387c9bff8eb426ed413ccac4ac075f0c93dce3": "2026-10-26T15:26:04.793683+00:00",
+    "b38643594238ce3db420f699d6ed9a58f32ce7fc2af56aca436c1546b29e7941": "2026-10-26T15:26:04.793683+00:00",
+    "8c90f13fda461c32a18a2d6c8e59a16a6d903fef11bffa6a50a99a0c3327d573": "2026-10-27T01:36:25.788808+00:00",
+    "6fec16cadbbcb03f505111de7843cc960ea4142c58532fc8ca8c6a979d960520": "2026-10-27T01:36:25.788808+00:00",
+    "dbb4cd5ce798511dd857d4de31d93fa10776cb1448155503c1f93e42474b0ba6": "2026-10-27T01:36:25.788808+00:00",
+    "137666f3b84d1850ab74056e2a8964bf14c86bca2c87e3fcfaf58ab5f0c12e85": "2026-10-27T01:36:25.788808+00:00",
+    "c60212f95892582f6a3321898db2881f603b0e4d262fe2381fa2dc41de70d582": "2026-10-27T01:36:25.788808+00:00",
+    "3f2052e68ca315141f73776a7cefcca7ce59ff4c1b8940fab6a2d5badbb3a861": "2026-10-27T01:36:25.788808+00:00",
+    "9097e6fe5a10bf638ec45a8206adc9a3c87914ac3a6f44d013d4306c6029c76f": "2026-10-27T01:36:25.788808+00:00",
+    "b1020f690a0d4488c87c52151944545e7ba2e80b430fee412b579cee364d3152": "2026-10-27T01:36:25.788808+00:00",
+    "69b1a1435fd91a1ed0ce0f84c2cbcccf16606f67a7944ee661eba9ef95148eab": "2026-10-27T01:36:25.788808+00:00",
+    "33f039df6d7bac7879e24aec794da78c7fa0e876cb3e36858343d96e17c9caad": "2026-10-27T01:36:25.788808+00:00",
+    "181ee205cbfedfa0d8c5dad284c7495f490bdcf99fad09ed49df106371e5a65a": "2026-10-27T01:36:25.788808+00:00",
+    "2611f49bbe5e43afd356067a854beceff3d92b285dd2ad1956adb3e3879ac426": "2026-10-27T01:36:25.788808+00:00"
   },
   "pending": [
-    {
-      "title": "OpenAI Rules Out 2026 IPO as Altman Focuses on AI Safety",
-      "source": "CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGlhSUI4dkVybXpZX2NDTE9NSDZ5U0lKYktyTFktTHQ2R0JHVUhfVDZRcjFmNFppaDExQW8xbHhsWjBYc3YtWWZoeVNNNWI1bG5BQW5mYXNISDFyWTlPTWdZVE5PX1RwLThOcVcwa1hjZC1MLXJJRGVwQ1NKTDhNNmU2Tm9reV9VVUhmX1lXU2ZRZw?oc=5",
-      "published_at": "2026-10-26T09:18:19+00:00",
-      "topic": "AI policy & research",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "34a9adbd0552c5a0d43db63d639615e561e44e62b64383f1d40d5c89387be7dc",
-        "89d1d68f1389d5dd77a19f07f889efebadcace816a1eb78fac8a4887d8c01446"
-      ]
-    },
-    {
-      "title": "China Hits the Frontier: Kimi K3.1 Pro Beats All OpenAI Models – Weights Open Nov 4",
-      "source": "Red Hot Cyber",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEZkbmIwTzBmWFdaeGZLWG1GUjV3VGZySXgzNDVtUzJyYVlEODFhYW1BbmtOX2pjZ00zTEk3bWstVGlJOVhrY1JJWWw3Zk8wTkFOQ18yazlXR0RkV3hIamFSV2VwcmkyMXNzZ1AtdWk5VEFJX0Rmd1dQUjEza0pZZnhZZVg5NkVYcV94RUNFaXA1R1Jybm5DV2FLdE8zdUVCZ21hTHRsZDViUkUtY0laVWxMU3dMTXkx?oc=5",
-      "published_at": "2026-10-26T09:26:36+00:00",
-      "topic": "중국 AI 해외보도",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "CN",
-      "duplicate_keys": [
-        "1d8eb2d9beeeb73f78fc3b87497dcddb6b5b02af1a151765aaf10c4098f1ac9c",
-        "c301a47d352fd3177f1cfd48160ec07dbc99d5c3add8ff4335089807f9e56e81"
-      ]
-    },
-    {
-      "title": "Here’s the first episode of Grok’s “historically accurate” Odyssey.",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRndGbDF2enFFelBkZzBxRHNmeXpSaDBQazB3M3AyN2ZxdFZpc2ZmejBxSEx0azJGVkZzT0kxUnFkX3o3RV9ORWZ2VkZpM0ZNM0o0b29UdmhobFUtSk9ONFBFaFFjY3ZBZDhONXYwRjlNSDVZREo2Y3h2TGRsMkw1dFFubWVPM3FQeWVyeklrNTZiVndFUG9fQW1tOS1PSkhnTDBUaW5VanZObEtkU1NBS0VvcnJxS2tzVHloaGpRbw?oc=5",
-      "published_at": "2026-10-26T10:01:07+00:00",
-      "topic": "미국 AI·IT 전문매체",
-      "excerpt": "",
-      "source_kind": "specialist_search",
-      "region": "US",
-      "duplicate_keys": [
-        "243130aa12ca521025fbc9e119a6467592ad5a61f851c1c10359d3b6dca9e2f0",
-        "5a41ece7e67ee07519414efe87352f1810941175343c222f76a8d27256767ba5"
-      ]
-    },
-    {
-      "title": "OpenAI's isolated AI agents built a secret CPU-cache channel to talk",
-      "source": "Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkIxNXk1Wm5kYXRWcWRyZW0xWlBfbThTT0x5aVV5cUNOeEFTSEc2eFBTeTM3QlJjVDZjQ0RIdTdFenlHOTkxSjZhUnhQSmxpZHhrR09Nb0Jyc25EbjZVRTE2ZXNIbks0QXQ1eENiRzREZlNBbGVxcjZEV1NITlMzZURVYnl6NThEQ29iM0J2a3FnSG5IWXB4Vk9hRG90MWFtTlplWA?oc=5",
-      "published_at": "2026-10-26T10:02:55+00:00",
-      "topic": "Global AI",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "4e1b99272ce0bedccfc0472260f3af6b522872af4540c2bef73d82b4a36149f2",
-        "a0ccfeb8adea05fe386b2cd3cc5cec60fd0dc9edcbfbda7394ac0e8cd6ce1172"
-      ]
-    },
-    {
-      "title": "Claude Code가 WAGO PLC 익스플로잇을 포팅한 뒤, 기기를 벽돌로 만들어 버렸다",
-      "source": "OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xXzV1UmJTTTFFd0FaR1I4MjN0MmlPQVJhSHdubGZIdzg4TDQzVE5JRk9NUUFHcXU0S0pqQ1RtaXJLc182azZRbkk2QVZxYW1vRUVqbURQRzhhTnlXSFl0cDFib2FsclN1ajJvY2NuMmMyVU9ONDZCekxYdFJpQzA?oc=5",
-      "published_at": "2026-10-26T10:33:42+00:00",
-      "topic": "AI 기업·서비스",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "5af149d2a94f7cbe0585428b99ecb14017693d7d7eecdaca4617a089ca74a034",
-        "9d1764ba422fa79188699d3826c6acddcdb2fed1c312096e9cc0809c155bc1ec"
-      ]
-    },
-    {
-      "title": "Texas OpenAI lawsuit seeks to keep ChatGPT away from minors",
-      "source": "The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LczhZcE5rSVZ5U1Y5cVh3a3EwdDNrVzAxUG43SWZYRGtsSTl3OWRKaGFtMkdvTzhWdTE2VDBaVGMxNGFHZVJMSzNwQ3c2d3dHcmhlRDlNQWZ2XzljenlJX2hnbFRlSmR4OVFGcWJtUV9OQlJEZEdWbDhXN2I?oc=5",
-      "published_at": "2026-10-26T10:38:10+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "600f046ecfe8ef393448b60a904854cb82648e667e60a5f1e4a2c19e094f64ad",
-        "b742a3e2c948500d905b51fb47136db32293de5ed22a1bf626a75d44ccbce392"
-      ]
-    },
-    {
-      "title": "OpenAI 에이전트가 SEC와 인구조사국에 접근했고, 교육부 해킹은 실패했다",
-      "source": "OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODRkWlg4amk3NUthRUFHaGwxaTNEVDBjQ19JRGRfbXR6UEkyU1NkZjJOTnZQc0JwNUI5eEU1UkVSekxKUG9pZFBhZGxLSDljTEtsM2hMZFBHeDVpaVZsaVU5bWZaWXlEYTdQQUZFMXlRZnRTUkg0aWMzeXd4d19TYzhtamY?oc=5",
-      "published_at": "2026-10-26T11:15:36+00:00",
-      "topic": "AI 기업·서비스",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "0c1990bafbabd7734c03f1c96617adc84f8776e847b5ece99199bcb86fca913e",
-        "92d0a34099b778a164230f7e7b2d256403c90d97bde2c05e3f26923e38a6e4ec"
-      ]
-    },
-    {
-      "title": "Show GN: 실제 버그 25개로 비교한 Claude 하이쿠 vs 오퍼스: 깔끔한 수정 52 대 54, 비용은 95% 적게",
-      "source": "GeekNews",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OZkJjNmtlZWczNlV4R1lDaXVRLWxaTmlPZnVUMVFYUU1DVWxlc2w4c2lQSExHVGhTc05LUFNHYldkd2t2NGdhek1UWQ?oc=5",
-      "published_at": "2026-10-26T11:36:48+00:00",
-      "topic": "AI 기업·서비스",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "7130914babf0dff89f0ce8c6028220a668c7b2754750dff19530440644f0424f",
-        "e33ddb2f973e708f4afdf55f02b93ab3964f12e663a69e546cf4b17b6947f51e"
-      ]
-    },
-    {
-      "title": "Who owns Elvis’s music in the AI era? Anthropic faces lawsuit",
-      "source": "Mathrubhumi English",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQnY4b2hBREdCa1NtaGh5NDNGemJkQ2paQTU5OVJzNElmRHJ1X2V2VlVoRXpPWGFWU0NnTnN3WUt0NE5nWkRlWFZmX3JrQktTUzd2eC1meE9LbXY3SDA0UE9ERFRwanQxN09mUVhFeGhmbXRmZWdrRk5WTU12YlVtekZVbkRBOWlzZE5jaDN4YkhKSWcxOUJvVWRycG81UjJwNk00MVFtakhlU25uZzZB0gGvAUFVX3lxTE5CdjhvaEFER0JrU21oaHk0M0Z6YmRDalpBNTk5UnM0SWZEcnVfZXZWVWhFek9YYVZTQ2dOc3dZS3Q0TmdaRGVYVmZfcmtCS1NTN3Z4LWZ4T0ttdjdIMDRQT0REVHBqdDE3T2ZRWEV4aGZtdGZlZ2tGTlZNTXZiVW16RlVuREE5aXNkTmNoM3hiSEpJZzE5Qm9VZHJwbzVSMnA2TTQxUW1qSGVTbm5nNkE?oc=5",
-      "published_at": "2026-10-26T11:38:15+00:00",
-      "topic": "AI 툴·연동 활용",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "a2cda73544ba405e6e8aa119c4f4256234d40fc5033d68e6a206efa30aa3dbbb",
-        "e5fc00cebab84b646a3f6d8423707321e2ddacf3f09d907c6ee4f7450e7ffdbe"
-      ]
-    },
-    {
-      "title": "Anthropic to release S-1 IPO filing at 9 AM EST",
-      "source": "Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUXNrLUE2eDMtOXF6RENkaUtpc1ZidnR6VkIyVEFXWXo3UUY0S0xJMWpDRV9kUFAtN25tQ05iNE9YOG04WmRWczBKaHBhZ0xUOWp5VFFTejlpbENQZWt4dG1UbW9jaFVzVzFkaXVnR2JudVVkRlpnN0FUZ09SdUhYNQ?oc=5",
-      "published_at": "2026-10-26T11:40:40+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "1a0e8b351e8db01cedc500fa37e72b5d3e64c039c8295cf1afed3a4a548dcca4",
-        "969dd0fbbeb86b4bbce1b97fb55ee63d670cb584dc92abbc252fe7f2505fa517"
-      ]
-    },
-    {
-      "title": "Anthropic, 11월 중순 IPO 앞두고 월요일 오전 S-1 공시 예정",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vMFF2ODdnVUtyWkJ6T051a3dFSEl6SmtsZzA2Um5JUFFHc1JMSEowVDhPbmtUNlB6TWZGUTZTVXQzZnhZZ19YWTllNjlVdHRyMDBzZ094OUlkQlJQeUJDQnNJRE9xSDJoTVFfd3hyWW8?oc=5",
-      "published_at": "2026-10-26T11:56:00+00:00",
-      "topic": "AI 기업·서비스",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "2b5c5a3ea7491d38428726f363e5cf94c7ae88f35f118f2335b8101a0c080736",
-        "a4ef69f63bd1441dbd4d6ab134af71f8715bb4c80c3ba55f61f988c7fec1c757"
-      ]
-    },
-    {
-      "title": "How an AI start-up founded by ex-DOGE staffers broke into Anthropic",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGRfa29NR1l4a19INEZWSXZWakhia2ZKTnRpQTVYeFNTUXRhdURvSTltbV9RRVJkbzVndVhsMUg0Y3N1MkZVNm11QVB5ZWtFVlhGY2NSSkp1MU84Qm0taWMtcURQcm9EbjZFTjV4Sk9NMTFwLV9Xc1BqM3RqWFhlLWpQZl8tOHJwdktBT2kxTUV6d2ZnWXg1cWwyVWtNSVl2UVA2LU1mWkNlcFZKd1BhNlpRbXZMeGZ0SEdR?oc=5",
-      "published_at": "2026-10-26T12:00:16+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "c037d133881803a13b75f633d9fe5fad4a1b8ec3ae589653c0ab7524f90478a4",
-        "c6801edffc3437e86deb10e5c100f815afb4e783f89789156650d5b0f7772001"
-      ]
-    },
-    {
-      "title": "Elvis Presley Rights Holders Seek $41M From Anthropic in AI Copyright Lawsuit Over 274 Songs",
-      "source": "www.techtimes.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNFVtNGNXTENmb0dHNDh3NjdjN3l1VS1haF9XdTF2cldJU19jamRnY0tyX0V0X0J4cEtHajRnbjROTVYtVnhfMGhpckZmbkNwXzFVYjJOTVdJMEtnU3pvZ2M1WWxQYXVvSlJQTWpCU1NFT1gtSDRENlFMZTl1MkJNY2dkMThoc1hGa2J3ZllR?oc=5",
-      "published_at": "2026-10-26T12:14:36+00:00",
-      "topic": "AI policy & research",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "19f3e824f73a39b08fb244b014b6a42933f520f87e60323116dfa4f1ed634d46",
-        "3be87dcc3dcbc8dd181a3ffbc3365afbcf5066a004ebad6fd5104d1932f7ccab"
-      ]
-    },
-    {
-      "title": "스웨덴은 정부 컴퓨터에서 ChatGPT와 Claude를 차단합니다.",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWZBTlI3WVZ0dHlDQ1JILW5TM3BSTUZqQXVRaXlYWi1PYUdWelJ1WXFDbzVVUmtLUEk0UDFKX2dObWVCcjU4cDUtLV9UUFlfMlZfQTVjNkFqWm5jUkRyN2ZETkIxSmhPUDc4bTZLbVBKUTBya191dldpUDUyZFF6LTBqY0xFTjQ?oc=5",
-      "published_at": "2026-10-26T12:17:55+00:00",
-      "topic": "AI 기업·서비스",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "15346ea4dece43ca2bfaf8a9dd396429f52fce1618e65e0a09f85a98920b9201",
-        "857585692841203daef5bb83f595046da0df06a830e2958cdbc185f338dcc71b"
-      ]
-    },
-    {
-      "title": "Anthropic set to publish its S-1 at 9 a.m. EST, opening the books on a potential mega IPO",
-      "source": "Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfdGFZdkdqU09ZS1FoOUxOU3l0UV9iLWpTUm9GUXU3d01JRkFyMWpWVXNrckowWWJDTEc0WUUwdVBwRXZpOFA1cVVWd3FXV1U3ZUM5ZlFObmQ1bnZMZU4tNWkzcjdmNi01Xzdr?oc=5",
-      "published_at": "2026-10-26T12:31:36+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "4c3cd4036e7e8d9abd348c3e1ae1da23be8b8cb6264c16d27241ad48e2031d52",
-        "c267285ab960cc47cf2b71e719f0ba963dbdd7f57b378898aed2457d7b28c55b"
-      ]
-    },
-    {
-      "title": "ChatGPT攻克26年猜想，千位数学家宣战AI，数学界彻底撕裂了-36氪",
-      "source": "www.36kr.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CSWdFamZXckZ1Qi1fOW9YcXhKN3Yya3A3bmJxV3FGM1N3UGYxOXM5OHRnT21HRTRDQjB6ay1NcTd3MXZZTHFrQ25RSGF0aWM?oc=5",
-      "published_at": "2026-10-26T12:47:57+00:00",
-      "topic": "중국 AI 전문매체",
-      "excerpt": "",
-      "source_kind": "specialist_search",
-      "region": "CN",
-      "duplicate_keys": [
-        "d970ad75a6dd3e98fa1c629d436b4f1e138efeea932f389bad8339d6ea75e298",
-        "edeae1fc18147b3b2a9d2bb8edddd4310f4c973553fc37a1a7cd90ececb30682"
-      ]
-    },
-    {
-      "title": "OpenAI and Anthropic Slashed AI Model Prices by Up to 80%",
-      "source": "ProPakistani",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3lQekZjYnBWVUo0UFBHdU1xX0cwd1lBM3ZBczdlXzZINGhtal9HRkRxekpYZVhYNEtGTjV0aWtENFBBeTBtMDJKTDdZTDRuX1M4OXNWZjdtVDBhX3hzeWVXczdoMlAtOEtnYjNqNGpUTThNWE5kU0dIcDN5RnNxQk10dFpiellwaTJBNkV1M0tUQmYwazNRZjllRHXSAZwBQVVfeXFMT095UHpGY2JwVlVKNFBQR3VNcV9HMHdZQTN2QXM3ZV82SDRobWpfR0ZEcXpKWGVYWDRLRk41dGlrRDRQQXkwbTAySkw3WUw0bl9TODlzVmY3bVQwYV94c3llV3M3aDJQLThLZ2IzajRqVE04TVhOZFNHSHAzeUZzcUJNdHRaYnpZcGkyQTZFdTNLVEJmMGszUWY5ZUR1?oc=5",
-      "published_at": "2026-10-26T13:02:14+00:00",
-      "topic": "중국 AI 해외보도",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "CN",
-      "duplicate_keys": [
-        "23b6f832fc2e53d6c3ad5cf6c1f4c631ab98d596705b4d4d7d0393b012cfd505",
-        "a2d3330e9b4b0b69342619177dcae6f0c45020da4e149e537fa15b332783d627"
-      ]
-    },
-    {
-      "title": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHJaQ1NDV05GMUZYdFVWdUhBTlZEN0l1Q3l5VWVMRVNzVWUtZEd4M0VXYlV3dnkwOWtEQ1hkS1M3QWQzMUZpemZ6RFVZbEtBcmE2QXBueHJlZ05mNmVXMGZYVVU0SGdWZ2dlUF80c2FkQ3dkaTF3cnpETUM3ZGk2eHVUanJfYjMwQ1UxUWgza9IBlAFBVV95cUxPbEZHSVc4Z2QwOG15V2F6MFAzcU9udXNWSUhqWTZxaG15TjVvRzlmdkphRnJyS2JJd3JjcmRIR3YzQjlZN3p2djhLeDlkZzhLNWp0RmlBOUtKeUVtX3pVZGg5Zk8yLXpaV05MVUc0UDg0Y3ZHbEtveHFlQXhwZTh0Qmg2MlZtYWN1VHEzVGJhendLMDRT?oc=5",
-      "published_at": "2026-10-26T13:02:37+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "369e782cb19266410240b6b6fe336017d6c05b14298aa2ea0cd0d48cfbc25b9c",
-        "6d7176ee4c74561202708e49400954b025e7a7e142116abd4ee428a1404a650a"
-      ]
-    },
-    {
-      "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5",
-      "published_at": "2026-10-26T13:08:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "2eff0bfa7b88e917264cab3dc81cdffc27813fbf99c00390db35aa4d3afeee46",
-        "a41c32aa9a5aaf02041c0f506f323e6a501cbfe5261b8314f11658d70d45e995"
-      ]
-    },
-    {
-      "title": "Wall St set for higher open as Anthropic's IPO filing sharpens AI focus",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3RTRlNsOTFYUnBDYk9QRGs5VFdLLWlEVEtEa1VidkpOeTF5NTlyYjJkWkdhSTdybnl0NlZtejlnZnhWUE5NUHBxTFJVSHQ0QXFMN201QnBBUkpBTGlmdG5aT0E5T2JzMXlBLXNNX1Q2MDRNZ21ST3NwNDM4c3BVYWNZQk5GdVI2alFBQi1malBOcTRC?oc=5",
-      "published_at": "2026-10-26T13:14:53+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "01a94376a3b8e18ba514a95cac8570236b348d93eb08283edf82f43b75f26c21",
-        "0a4a3265f09e7864b865cba6b26325fee935ee22759aaff86f32c6596457e888",
-        "2e590b321c88b0b826ee1481a19daeb90eb866590fe12fd740228fd84d887939",
-        "3c8c5b8d18f1f6dcccb249d097095dcdc1785aa1cf8c338c29eb8c1f490a7768",
-        "b56d56c52b9e684ca46be78bd8a26fc2a3087d12b7048992e28ace18244a7930",
-        "b7d3e6a27ff62afb1777367bf3fdf934bab366d8e2b45cd2e364a49db988cd66",
-        "cea3acd48c3f9f0fd8c7cae54d44a4a8e0a07bbd7a92f1b8babcc6eb4d6bb046"
-      ]
-    },
-    {
-      "title": "Anthropic, 나스닥 IPO 신청…상반기 807억 달러 순손실 기록",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKRVVRWXNyZUVfLTdpdlJaQWx5WllVR1VxdmhTSUlhdHhvcnozTVdXUWdIbGNkN3BTeUxiYzRHU0diSmR0UXROTjBlazRxR0xUeGZ0WGxjTmFMdTBLR0ZmV2Q0cTBhN1ZqWURsTWtiaU5JMUdJazlwVw?oc=5",
-      "published_at": "2026-10-26T13:15:00+00:00",
-      "topic": "AI 기업·서비스",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "7f3ecefe720c856bf0995f088a6fea851e05ed5355a5a0c7749350661a4ba781",
-        "984de3db230f1f44692fec5e16dc04cdc41450dfb5ef9dfcbad479521822dac7"
-      ]
-    },
-    {
-      "title": "Anthropic, IPO 신청…매출 급증에 기업가치 최대 2조 달러 전망",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Gc3l0X3BqZGE1ZDhUN3FhVzBtOFNIOThVMGNKMHN1VnQ5UkxBb0R5Q21pNVg1ME1LWE9vRG5OM0FIam0yeFZLY2o1ejJ2WW0yNDk2SFpMdDJWS3ZYUDVRZXh4TnFFcDZLQzBaaE1PZTU?oc=5",
-      "published_at": "2026-10-26T13:16:00+00:00",
-      "topic": "AI 기업·서비스",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "29afdf82c7e5b34e36c7d23a5627ab799770b93730fafad5f43e4be5e319eb1e",
-        "4e476525d711e1770935b7e00b1617c966e86270b32039bc62251004635a863f"
-      ]
-    },
-    {
-      "title": "Anthropic publicly files IPO prospectus, noting strong revenue growth and massive spending",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWmhnamJsOUVLZ20wdk1FaU55dUtTZ3hHRWhUbU9ZOWpHUU12eGZZaUg1Z2hmOTR2VTFJaGZaMkFPWG1pdWRYTVJQU1RUMm02S0pESGwtWHhBY21iaHZocXpTa1VqeEpjR1IzcmNUaHJrdWc0NU5obHpuV3VHdnVMel9XZTVOTlJIVkRMWjBHVEx3Y2dJVmtubUNCS3UzMW5SbE81eXdYeHZ0RGRJWnJzdHJNVEVXN2ZOQ0FsMm85OVQ4aW1zYkRYTnVsOVNORUZSYU1BYUtuUERKNUk0cEhMNTZqWQ?oc=5",
-      "published_at": "2026-10-26T13:18:07+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "b178daedd64aefd2f6091e7ce39fc36eb7d8777122881d14694b9c64a724cc35",
-        "eaceec850262e0c2fbfec005b334485379ace33c2db3d9d0de3e39f5017a6f31"
-      ]
-    },
-    {
-      "title": "How this Anthropic investor is thinking through its IPO filing",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZnBlOEhvdHdNX25hVWlhMjk3blhaRC02bHJkS2NhdDdxa21GR08yZmtHaUIwSU9hdXFtdXVXMW8xUUdabHpCa24ydUtteEpvcWFGZThLYVhYUGJxZC1QZVZaa0FhcC1faVNEcTZKclpVZFdXWFIzSnppeFBmTE5VU21KZHlSWVlpRVV1OEVjeEJyN2VrZ1FYMGg5TWpRMXRSbGRLS1Y4alJvdk1GRTBaV0s0MmI0cGpzeHdhNlowMA?oc=5",
-      "published_at": "2026-10-26T13:18:47+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "44d8cf2beddddc6bb9a6ed78372f8b4774dd21bcd91ed80563d2e42ba63737d2",
-        "d8ea5a9f5c91d718e2183423cf0097d8cc4493ec4c88e7ec61e692ab4fc954d2"
-      ]
-    },
-    {
-      "title": "Anthropic opens books on AI’s explosive growth and staggering costs",
-      "source": "WNWN-FM",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDFpWkJ3ZC1QWlpSOVZkc3NWVXhXVmg4OVZzQ0s2UzVjeTJqc1Vqc0VCbE9OOFg5THlULS1zaWlCNXVQNlNLUkN0T3BBMzBLOWVSMVR1VWtGV3pIZmo0VGtxTDk3M2N1WDRMZGtLd2c5Z3JXTW00Y1hxb0JNVEFqVUQybmtnTnNFeWZjeVlKT21ycTk1QVZzeWYwSXljbzF0alF3?oc=5",
-      "published_at": "2026-10-26T13:22:05+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "6c35fce8df841f081db036602e9965c77099820019f71ee6c32aad9f537a4656",
-        "8b8902dcf08eb9f336b8bf22ec7becc191cff47930471296e81da54992263000"
-      ]
-    },
-    {
-      "title": "AI giant Anthropic files for blockbuster IPO",
-      "source": "CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM00xOGQxNU5ITXVWcmdFMVg3d0lnVzJpdW8zeHh6RGZkU0h4ckEwMEdnblk0cVFxaWVia2xZYzhtZ2tUUVVXYjNvWHpxeEFsTHA0LXdYY0pKaXNmTkd2cUtMbnFBMlUyTmFpczNWMEd4cEYwN1g5OGtZRk1UbjNDTDZGS1pOYjJCdHd4d0RpZkpURHc?oc=5",
-      "published_at": "2026-10-26T13:22:09+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "32cf7a9aa967cb63780995a36ee4be0ece95f6d792241d33cc0e692d8bdcf712",
-        "5e17bb7a58755aed022921b9c33366736f2961fff3e75426cf69466c013ab3d8",
-        "d56349870c0c5b35a77b1c9d82ee20f2327e77281227dff998166beca4d1137b"
-      ]
-    },
-    {
-      "title": "Anthropic, PBC - S-1 (Q2)",
-      "source": "SEC.gov",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2ItSXJrUWdNaklDTWloN3RSd1VfTldGWDFMc2xySV8ta1ZTSUNNdUpmajBhMmVtTks0QnJIZnI1TWlHdnd1WF91Z2c1WEFHSVNxWTF4UXNMWnJ1RmFCM2hEb3NYd29uSVljWWhpVV81MGFfVENldDJxbFhUeWJ2RU93WmVPSnBJMmM0WDA3OGU?oc=5",
-      "published_at": "2026-10-26T13:24:23+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "4677d3048ed6b62f9ca414eaccbdb1bb648457dfeb69fadf15c09d14f011d451",
-        "8554fafe2a5c65a9156ceee834c5f30cf41a1ed021445e94633bc136b8e6d5ce"
-      ]
-    },
-    {
-      "title": "Factbox-From Amazon to Google, the deep-pocketed investors in Anthropic",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2RtNEhJVUV0dUgwdkVYNGhRa0dOUW9NbVYyM3JIak9tQ0VXRHJ2MXc3SjlpS1RtV0NBdS1GajVIdFhmOHRJRkRRa1A1YURDYjJEVjdadUNhY3lyd2hxTGJObldtd05lV0VkV29aMkRRWkNMUERacUV4cVdpbjM1U3k0MGx5NEpnUnVwS3ZlaUdwcXJhU0lfUU1FaEtfSHNp?oc=5",
-      "published_at": "2026-10-26T13:26:53+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "1b64d2333be2882de7fccf2620de394b6754186ab4d50c66632079c1dd65f433",
-        "3a5af5df6a9d6123f0b493090058e798776125818547db0242c85a48c2bac977",
-        "d0e3d1b9124b5c3c64e3c1122a0a96a0bc7052ce965dbae092b4486e966654c2",
-        "e8b3b8649797756356088955cd663488d3aeb9ddfcafade4b4467d25daa004bb"
-      ]
-    },
-    {
-      "title": "Build, scale, and govern AI agents: Inside Google Cloud’s Gemini roadmap",
-      "source": "YourStory.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEZYWng4NWtOR3dzUVlEQlBNc2tBNFY2U1RPZVNiS2t6V0xFaFlISkt4NHpBNF9mRzAyOGdsR1RYLV9KUEx5c1N3QUZ6NjQ5anRERTNnRklZR0hUcGFHRVF1dHl4RFBxWGtIN0sxaEhFdmNLWFQxeEw4djdvdzlMVjVCNE54VmxNb2RPZ3FtYVNNQ3pjUFlLaDBhR3FhNk0?oc=5",
-      "published_at": "2026-10-26T13:30:00+00:00",
-      "topic": "Global AI",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "8f058166bbfb4a60f37cfb1aae216b97177676e6f63794b2b4fd1ffa5b9b90b2",
-        "c0fc2e19eb6e699704c2d55692f465c7307751546d8c444a13a284bcf9c59770"
-      ]
-    },
-    {
-      "title": "Anthropic, OpenAI Hold Majority Of Startup AI Revenue 05/19/2026",
-      "source": "MediaPost",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPamxRajV4T2tLb1AzWGk4MHF1YTY2ZmppMTR2c09WZTQxNXI3aE1WZVJDeGNLemVmeFhma2JGNWhOZUdQWlozd0Uwd2RNNkNLREZJRnJCcXFqd2xoLUxtbmVQZW05WkRfenZKTXZvalk4NlFxQk1NSXQ4dVh6b0tzYzNDMVRicnppRXNrM0E2elZ4Y2JfSWk2NVFlcVNDLTdsMjVGQkE3azZ2cWR3?oc=5",
-      "published_at": "2026-10-26T13:33:59+00:00",
-      "topic": "AI 툴·연동 활용",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "4e39c68c5f6b6217211ecd443b50b17a1f871e4c2c51c1ed0151d91ca5e5362c",
-        "8f062a2043818701abff02981c401a18e01d8918408449ea402a6cd947c60083"
-      ]
-    },
-    {
-      "title": "Meet Anthropic’s Seven Founders",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PbzlzS0lIOG1uTVhFNkR2U2NzSTJwc0xWX0xLOVFIRkVyblRlenRncmVaOHVlLTd3TkRuRTJBNGNoM3g5YlBWZUt0ZGxsdExtMncxdkhNc0I1b2RjSW9ybFB5SVd3Y1I3REctdVhsQW1Uc2hOMUJrTg?oc=5",
-      "published_at": "2026-10-26T13:34:56+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "121eacef519e229e3566d499f189137a943596b23c2f06fd6cda5d699c56de9d",
-        "4040b7f51cfd5c8ebc429f1bce1d4a306e8725a08582d567da667f92a791c603",
-        "dd90e6488124409c6b0c78bc844183338e117e5164e46989c352edcde44e7810"
-      ]
-    },
     {
       "title": "Anthropic formally files for IPO in major step for AI company",
       "source": "Yahoo Finance",
@@ -3017,34 +2627,6 @@
       "duplicate_keys": [
         "7abff368c1b649bed3c416bdb01fd7fcdc5bc329d448321572d2fd4c47e29d4b",
         "afe5fcd3372fbab6df062dc3034c6c8d79209637487324ac854d0aa281598a3a"
-      ]
-    },
-    {
-      "title": "Anthropic IPO spotlights soaring revenue, huge losses and AI safety risks",
-      "source": "Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2FtZ08xSzlLS3JBZmU5QXJkelNGa0tCT1o2ZVhqSXFYcHFpMXhrdm1hSDdtY1kyQkxIZTJRWk0xWF9URVlhSTBkTW1ZbnlBcW9tYUhudkV6ODdCV01zZUN3LW9oOThYdFBfWUo4eEhTNnlHejlDMmE5UnZtaDdjT1BVTjVwRUUxdjVMcnBudUVrRFBkNWEtUV80THBVWjJuYXBQT2JiS0dVNVNTbGdJSGlRU1ZoeGNZTUR4aEJn0gHDAUFVX3lxTE1Jell6RzRxR0p4dm5TSzBYNkRZdHA2U24tUG5SYVVXQl9lbUxzOS1XSmh5a3MyOWZnaWVoVHFENFRtdnlWSUdLbDZrVjEzdmo4SndDN3FuclNuelk2YUo1bHJjZ2lmWVZ6YWxKUU1jTER3LUFVTGFqN3gtTXdna0RXazduekJ5dlFSdHlhajctMU1Ob1lwQ1FHRl90RFJobWRNVkc4NFE5TEM2b2FzNlVMbzdrb1NEVGxGS0lfVnRqVFZaaw?oc=5",
-      "published_at": "2026-10-26T13:56:52+00:00",
-      "topic": "AI policy & research",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "935183e2f32c026c0a860ac374c5e24999f7d1157a5b6161906eb25a31319a30",
-        "b4494806684c9b5d473630b4951edc8a24b98044c0c0a8e941e6384813869e74"
-      ]
-    },
-    {
-      "title": "Anthropic lost $80.7 billion in the first half of this year: What you need to know",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2ZTNVU2d3QtSm9KakR2Mk1LVlk3WTZldTZHWEVEYjJzMmxvdmNtbVlRRHQzY2VGZ2xjZGpHVlpvNWZuYW42ZjM4S09TWjM3ZmE0a09QSXItc0hOX2wyQ0RRVEwzemhIT1EtUndMTmVoTDVBaWxtSk56bnFpY1pHLTVDaXN0YWg4R2Z1d0RWMjVWQmZfbHU4TFJ4WlBsX1dndkp6aHZzdzQ?oc=5",
-      "published_at": "2026-10-26T13:56:55+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "4039246f811dee5695517e98d312bb8117545b03bec9103e92cbbfee86e0264c",
-        "5db8219a5cfae2fca4aab92499121c90ecef92c92f9e171ef4c26ab9612b32d4"
       ]
     },
     {
@@ -3203,20 +2785,6 @@
       ]
     },
     {
-      "title": "Anthropic’s S-1 shows $16.3 billion in revenue and an $80.7 billion net loss",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83a1BzeUdlQVM4X1VkUUFBWnBYWEtTeUpXaF9WUHRqbTg2bC15XzZmUGE1YVZsMmdLWWJUbmp5d09EYWtmQ29DRXllQzhSOGpoR0pTM2p4b0Qwdw?oc=5",
-      "published_at": "2026-10-26T14:25:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "0507b3ed73f74f82cf07c549de0bd3380adea71488a9158ba9229891ffdf71a5",
-        "5cb04ceef5e1dac15954af2c00d602dbe98b66aab264d244613b1977c77e719d"
-      ]
-    },
-    {
       "title": "How Fanatics and OpenAI streamline the fan experience",
       "source": "OpenAI",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsVHFCU09tQ2h3SW1DY2pNR05rYXFDXzd0OVNiUnF0S1JyVm1KUmJNcllJVF9VUnJSYkx5Y1cxci1nYVRlT2hVeG5YTUwxNVFYczF3bTlxVDNJa25ySS0wSWJtR2RqU3dyNk5SQg?oc=5",
@@ -3245,20 +2813,6 @@
       ]
     },
     {
-      "title": "Anthropic's first-half revenue jumps to $16.3 billion",
-      "source": "Opening Bell Daily",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ3VVanhOYVJxLS1EWjRlTXBoY3BXeGtxQVFuenFIbjd6QjlUSlJ6NDJVYi0wamhraDdmWnE0WTFiaVdTdXJGdVJlZFhrdThDZWpjVFN6UDRKV0NrQ0hlRlZlbkk0dXZFSnMyYkNQSnJROUZIdDRoZllkUVY3OWw1R29pM2JMVEdhU3c?oc=5",
-      "published_at": "2026-10-26T14:27:56+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "25b085c7c21c689d020670ba256321144e7a5b852792d575138af75fcea9acf3",
-        "e81619b29dbfc5d876706a9d0c35f37b704d1eec642afe601cbee043e769541a"
-      ]
-    },
-    {
       "title": "“AI 개발 늦추자”던 앤트로픽, 역대 최대 IPO 추진…136조원 관측",
       "source": "한겨레",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQXZFZ0JldmdSRzBzRm1CNGx1cVBacjBZcjI1RGJtTW5PV3dyWlZWTEVKcXZRN1I5OGpGRERNSGFOQVJGZVZZWThReGVORjVUdnphN1NheXBDUmdyNzdka3ZEalVpVEtjS3FfQUNUbDhCc3AydzVMcWFHdnlsN3ZTeUNR?oc=5",
@@ -3273,34 +2827,6 @@
       ]
     },
     {
-      "title": "Anthropic’s 7 co-founders are each worth $14 billion already—and that could double in IPO",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1ItYUVsTzQ1emRWNFVvaThLcEdjbUYtaTVZcWoxQzVDa0tjdnYtVWthVkJXZzJ4RHVhNUxZZU9BdWVqNVBkaFBkXzQ3S1VUeFVpTlZCSVlFcVc1aWtlOU1hZzFzM3N3SWc2V0xrLUxOWmNEUndURDlneUNTd2trRmhuYUxZczhsZkcySEN5WHJnTExvR3pfRnk1NUVTWVU?oc=5",
-      "published_at": "2026-10-26T14:31:57+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "82b8a507c322e80163f2596990d106910bbc851919e23cb2a04e1b4ab4e6e1ef",
-        "893f70337cacc568f9ad565a3add6d2314dbcc9ea2b4c68b44f4854a6d96b61a"
-      ]
-    },
-    {
-      "title": "Anthropic AI bot accessed public Georgia voter data, officials say",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0hzQTk2MkxxWENxY3NHOGFXbGtMUTBFLXE2Y3VQTlA5VnhmQTI2UmRqUDJvclhJU2o2ZlowNzF2UnFzUVctRlhVRS1lRE4wZ0E3SXJqanRRaTQxX3dfay1mQ3FpMG5ELThFbkFxSmRQVFBPVkdiX3oxUmstLTkyTGFRLUYtWGxXZUoxMGR5TWNRR2NJQVNteWlEbFAzcmxpTmg1c253?oc=5",
-      "published_at": "2026-10-26T14:32:21+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "d6ff4281d7258fdd3c6db2003103854bd512a54c87c836b3a3807aee7bbb0a1a",
-        "e2e375a529ef7b4633ad50491344ae6beaa18bb7b21747103f45d676dff94395"
-      ]
-    },
-    {
       "title": "Anthropic is Bessemer's largest investment in its 116-year history, says early investor Byron Deeter",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONlpneGgyODJZSTJwLVdlZ3VkTGp5Ny1YTUNFTno0eTNRZmliQ0RhX1JoRkRBaHg2UkFFUmxQcFhPRGJkT2ZxTnhSLTNZLVd5UjdyV2pVN2FlOS01X29NM0xucEZHdWlTanlNRVcxZGpVdkE4VDUyMlowc3VGY0lIemQ3MEdHcnZxUlNjZlVJeWFPQ0dXVGxiSnBOcktBQllzUmlDbDUxVFFFSTI5b2Zua3Z5YlFOOUZwNDZiSEtUTWFoN1BzV3NGNVNmNVAzVng5?oc=5",
@@ -3312,20 +2838,6 @@
       "duplicate_keys": [
         "0c48387911cd7a8fc0962808d5b2b305a84e81dd3ef87d008133b8c054d25a0a",
         "af071a54b7cd1396b9a25f8ae6026478990954c4ee3027e53b97f9e7dc97039e"
-      ]
-    },
-    {
-      "title": "Anthropic AI bot accessed public Ga. voter data through state data hub",
-      "source": "WRDW",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcWJpTm9ZVFR2M0s5SzhjSnBneDM5NXJuTjM5cGtCU285WGlyOERKUzBpczEwdU9TMUpwczhYcjM2TFJxcnFsMHU3REEtMmNpaUJ0NmpIQmNQd3ZJNlJnRF9mSGM1Nnd1cElCaGVYUFNLRnk5cUlMdWdfdVU3eFBTOE1wNGswZnhDUmpSWXVkTnctRDFHRDNTano1VnM2YXVPT2pzcQ?oc=5",
-      "published_at": "2026-10-26T14:33:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "045bae518476d7a75f96774406f15a6e16ee3823371442254c7ce08eb5d7cb7d",
-        "f1829552db7f07ebedb9d189d7552ddcca88e67884ee02c2e068f5ee34866ba6"
       ]
     },
     {
@@ -3371,20 +2883,6 @@
       ]
     },
     {
-      "title": "Anthropic warns investors of political risks as it prepares to go public",
-      "source": "Politico",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmdVZ21uMHVfcm5sbTlKRi12aVE5bk1SMG5ieGdla0lBT2xuMUxUZDBFd2JfNlR3cXRfYnd4SE9xdURUc2RMUXVWY3duMkxaZHZzQU9Cc01CeW9WTW5EVWxKeVVVMEdMZXZ4UFJDaDVVblJ2WXdXdEhmYUduVU1xaTdldXp4N3BTMUJnVmdzY0NVX0V2MkhXOExB?oc=5",
-      "published_at": "2026-10-26T14:43:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "aa2aa0cb942b19054fb959a6e538dffc104117a51ef1258ac16add75f382f905",
-        "f57dbe13d814db06386adcc1c099529779ca43bfb0d50644bf592ab4b771a576"
-      ]
-    },
-    {
       "title": "Anthropic IPO reminds this former Amazon board member of Jeff Bezos's AWS bet",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb200Y1o4WDRyTDUyUXAwZUpNLVZYdVhPUGktTjBRQXlLZEhfak5BY3FJRmlYcFZXM0diNGVLbmp0S29sbUY2cUQ4MXIzeG1MZ0NDWGF6Y3A0ejhnQUNxUmc3QjFaNjl0WW1fMGQ4RS1FelcwZE4xRlNWS05hOWk1RDRIeUZtajJ4NzhhempqaVpIUDR5Wk9vWUtiSGcxNC1FckdDR2RjdWlDVGRuOEs1TGd6VVprVnBQbDcyTXlVUWVKdUswelZJ?oc=5",
@@ -3410,20 +2908,6 @@
       "duplicate_keys": [
         "74e4a90fe6f3f98b73f1751d668cedcf9feb7645d6a971b0312e940c3fab5f8d",
         "9d9d2c32c97dcf113922823b64c9f8d2c2ae53487661478fe70437f32876fea2"
-      ]
-    },
-    {
-      "title": "Anthropic Just Filed for a Historic IPO, Revealing an $80 Billion Loss in the First Half of the Year",
-      "source": "Inc.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ0V1b0g4d1lsWm5VcS0yNEtxZkgwOWc3bDNsRktqT1U4ZHNtZVJhMkZ1WFA4ZW1IU01zWTBlVExycWhfdW1WeVN6bnZQTUlRNGlSYjNPNGNlSGdZQ2JTNmxQa1hQOFF0SVRyMWtZWlZ1RERfNm9SU0NtRUxaOU8yTUZjaTZLdjNUUjhnczdUU1gtV2hKejRKUVBlMi1kYmt4S0VaRUVyMWhZempESUxLcDA0bjNOQmVXWWdmOUJ6NkdUbVMyZ2ExZTNNaWp3RlJ3UUlSNmJHOA?oc=5",
-      "published_at": "2026-10-26T14:48:42+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "04223d53706decae67aaa583c94d8e43769cf98d87ddd43f4e4acb0b882e8b50",
-        "adeb0dbbb5889618fe520463dfc9d873692ecda8ade115c3c7222f0dfd4dcedb"
       ]
     },
     {
@@ -3679,20 +3163,6 @@
       ]
     },
     {
-      "title": "From AI safety startup to Wall Street: Anthropic’s five-year race towards an IPO",
-      "source": "The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQejNmTlg0OGIzTnByVzllTzdIcThmY2NYOTdwYWV5ZkluYjBiT3RtLTFBdzE0RXBLY3FUaHNmWHpyS3pvQzhmWUcza2NMQ0xjd3JfdlRMR2hvWkpTWF83Wm55NE93dlEwRFZ1S0E0c2RXQzk5cXdIODYwNl9pNHR3WVBpaXdiemZQc0R4MEc2TFFDZVp4bE9CT3RMem5DaXBfZm1kU2NLYjI3UTBIdzlSVkYyQjdaQ2p2a3ZqQ3NPV0hseWNHal9iejJHX0p2QVpGWmdQTnE5VzFYRmQ3VTBfM9IB5wFBVV95cUxPanpzdkRxR25OeGUzdXFWdFhnQzNHSFUwT21vYXRmaDhmQlVoYmMwNk01R1dUNWl2QWprT09fc1EtSDk4amtyenpLN1phcHlZQWZnX1FBWlc4b1U0N21WNFhVdGFzYmt6ZldFazJ0Mk4wOE0wWXhXOWJHeFVUSGhTLUdiYTEta0V3U0VjUHJ4WlFDeTdwd2h4SU0tNHo0VHEzUEJhNGNUXzdlS1NEYlR6RkI2Si11WHlhNGlMUWd4T0ZYc1UtbjJ5Smk4Rm56MUFHT3lZTHdwQlJfcVZsQmpxQkFheHFXLUE?oc=5",
-      "published_at": "2026-10-26T16:59:50+00:00",
-      "topic": "주요 모델·툴 출시",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "US",
-      "duplicate_keys": [
-        "9945daf64a26cbf3a72a3f51b8237d2113364da91add9b2dc84f91d42751a2b7",
-        "d88c12899dba761b653b7aa2f4524850f5934fada51f4affcb80c815e8ba38a2"
-      ]
-    },
-    {
       "title": "Anthropic makes more per employee than every Magnificent Seven company but Nvidia",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbWFObk92aFlQbEtZY0RPRWI2eXE3LXhsc2p4N0k5bWNGeUxhQkNUazM0alVDUEo4Z2x3eGp4OC1nazJFQkFCRExSWXNYZ0xjT29ESlRWWGt4Q1NhQ0VwTElzRG9SVVpNa0FZdEV0MjB3X3UyS1d5QWVoVWlDVndoaEpxQ0tPZG1qSG1GMGl1MXRLWlhsa1I1Z2xZcEw5ck96UHRpR1hzV3JJdTJKVktKbk1mMldWSHpEdXB3RV92QmhqSlhpcG9sbGV4bl9RWVdIRDc3Mw?oc=5",
@@ -3819,20 +3289,6 @@
       ]
     },
     {
-      "title": "Why investors are bullish on Anthropic — despite some big risks",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHFmcllkVjROT0NBZVdGUkYzZGIzM0NqY1lUenVMLTB1WmNxN1g5dEpUZHQ0ZF96bkphM0p4NWVjRVFTcXNSQjZ0TWxDY0hJWlFpaTdGS2NzWm0tVzF0N3VKeTY2WlVSbFk2NjBmYXJubFF2QTJPdUVQTFhyRDg4UQ?oc=5",
-      "published_at": "2026-10-26T17:49:52+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "033fa803e88c387383b01bab0c38179ac768a13931f7e216e2a91e6f86567eee",
-        "05336419337a17f440e87a7e6936dd0aebe28699ba27592e5f33b93ece01ef0e"
-      ]
-    },
-    {
       "title": "Anthropic relies on Google, Amazon and Microsoft for nearly half its revenue",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeFJ2Q05xbFRZdjhxQmpGSGVGZmMtVm5NSzhtR05ERV9ZbGJaSkNTb0VlSVJ4UmhjaThrZXFrQ180a1I0MHJ4WGRxZWJGSWVnVENNQzZsb3pLTkNialdVZlloSDJSb3UtX0N0SHpkSjZqMkdtblRyYVZTNE81dFdPOTZqNEpic08ybjBRN2ZlQ0x5S1lvOVJFVThkRURKRF94ZHdCRUNZMA?oc=5",
@@ -3861,22 +3317,6 @@
       ]
     },
     {
-      "title": "The FTC is demanding Anthropic execs testify in expanding AI safety probe",
-      "source": "Axios",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSU12YjBVSEl2R0ZuM2lEWEUzWXZfdzRtaWRkT2NEM21hcUFPSzJqLXY5VTlxWGE4N3VVYWVQemt4SVdJMHVQY3BfNjgteURQYkFNcFdUaU9wd255MXhucjg1Q0dOdnhWTmhPRkZDM05tcnNGX2ZKRQ?oc=5",
-      "published_at": "2026-10-26T18:03:45+00:00",
-      "topic": "AI policy & research",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "4d516ede865684ca18b972f1bfc7b058994949910449b4366d1042679f19eea2",
-        "73fc4720924df0bfb0dccb1fe563a1a445828e86f52729833f8ef9de5e3aa8cd",
-        "913fa928b332d04bd836109b450bc00681ce89115265ae4b76fd3db599abb7b8",
-        "f7e132bc481fe990346a1d4deea0d546ed08f94715555d2ed49de7d55a778004"
-      ]
-    },
-    {
       "title": "Amazon and Alphabet Backed Anthropic Early. They’re Betting Even More on Its IPO.",
       "source": "Barron's",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qVVNBcG5uUkZLY1U4ZEwxOWhISDdXWks2NEJ5VE1wT3hiWUllallUX2lvaGdvOVRjS1JENXYtU1g3MFd3czlFMWpVQ3l1ZmExMVBBaXNfSmw1VV9sR3lDR09LV1FuRFo4X0p3ZmFMeWhnbmhYMW9DYmRhMA?oc=5",
@@ -3902,20 +3342,6 @@
       "duplicate_keys": [
         "b5f22e4cfd92c5ad11dbe1bfeee1b963a999c85659a1bd8a55b982c702b6cecb",
         "c57bdbc7f1070468e152f2e3577db678745e25304b5c696f137b213809a1c8e9"
-      ]
-    },
-    {
-      "title": "Anthropic Raises Concerns",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0p1NTdJeG1Ed3l1RVFkQWdBUFFPNUJtVzhtRllJYVJWZFVUUnNrU2dWU09Lck1CbnFSbjFyWlpHVTM0eG82eEc2QjM3NXdiRUdOMGFXWUxKdHZXbXhTN3k1OHdIREY2aV93MlRXRVZwUHlwTnJHTkxUTUhoTTR0MmJKLWFsbUZhZWc?oc=5",
-      "published_at": "2026-10-26T18:23:40+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "752587c8259b7b0776cf9604b2c63f6b30b723e5cfbcd96990724eed2aef62ae",
-        "a0bdc6e5e202e040fc4ffd5e88bc1b875779debe5a347b58ae12aaa08bea3f6b"
       ]
     },
     {
@@ -4087,20 +3513,6 @@
       ]
     },
     {
-      "title": "Claude accessed public voter data without human prompting, raising security concerns",
-      "source": "FOX Carolina News",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORTJESUNtdk54aVhIMjlqVzd6aGk1NkNROTBwUjJZRVhzS0hncFUtc1pnSGdkYmUzMU9tOVpISjFCYW02LUJTdTJmN0U3NndlTUJMeHZvdVo0Ql90VV9aS05jWjRFWTNRRnJod1dkdjFkSHd1VVhMLURGX2tocTR1QjZKdnpDb2JLQzktMEV0UkpwZExTXzI3bXhIZ0FmZnZEb3BycWJqSXNTZXFta2tpLUxVT1lwRFNmbGNHbFU1OFY?oc=5",
-      "published_at": "2026-10-26T19:31:00+00:00",
-      "topic": "AI models",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "0593b901a17af6ac23bf5dd45bd8ff7dc4f2c017c3451f620be89007e00e3c04",
-        "e90e893a3a2cad51994698cbc16637fd33182999652caf9e1113a646b2b92eef"
-      ]
-    },
-    {
       "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
       "source": "Yahoo Tech",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeDVJWjItNFFMRFlKMUhib0NQeXphYWdTQ05fR3lDNGhWV1pMLVZuTzFySmhqcXNlUW96Q2VQcXhzOVc5eE9tM2psNVNmNzdyOW0tclhHeEd4VkttNWFrN2hmVTFvM1JHMW9iQWZKTW5RUHIyd2cyNzIxM1c1VFRDRlE3VXdEVnFMLXJ1OVg0SWlQOUJjZUE?oc=5",
@@ -4197,35 +3609,8 @@
       "duplicate_keys": [
         "0b47364bee4270bf3e9a5a0376abc06d952d8c9e7ca6e5444501f7d72f30b3ce",
         "572c9c5328aa7a13d5836062e738fa8e65fb84cbeac84112ebd5c2365ed3625d",
-        "63a82adcced24aa432b77821077995e35216b4140586caaf9411d98d859fc85b"
-      ]
-    },
-    {
-      "title": "Four banks form $63B financing vehicle for Broadcom AI chips leased to Anthropic",
-      "source": "StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRTdvVXdXcjZ3cUV6R05DaFpqOW1sRU9lX0R4RHAtUmE5MWNLVlE3cDZ4MnluNTgwLS1NeGJqdDd5c082QVdNNWVuMHhwcmduVlA1Nk9vT01WS25zcnhMUWtzZ0tFdHIzejFVd0VIVk1tVXZWazl6cUd0UnlmbmVPMm9MWFpZNl9mMlZRbzZLRTNjREFFdFZDRUNyVDlLNWtTdUMtT1JXR1FKM2hhN3BGakFGUW9SSnJTcW00ZXUxS2EyNjgyX3MwbU9PR2hKWUhGSGxydGtKWHc?oc=5",
-      "published_at": "2026-10-26T20:18:33+00:00",
-      "topic": "AI infrastructure",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "19f10c56a6a4b32542b30610b05c38da7ab56203485abf6fdb6ce0b6c206c06a",
-        "b9b314f26e70673791c2ba49f2c019ba2cbf61e8c82340655a2cab4c50f42393"
-      ]
-    },
-    {
-      "title": "Anthropic Has Risks Beyond AI Safety. What Else to Watch For.",
-      "source": "Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ0tvb3h1aFJMLTcyWGFXTlprRERxaEpEaFNUOFFsT1Juc2VQY210elYtUGZ5THk3S0ltMzBPeVNDa1F5cF9qeTBxeWNUZGVUb2JGZzZNczZfY01CbjhCTy1MY1A2Z0ZEbHd0Yng1ajF0VGpFRDhqb3FQNUNDQkhLYkRLUQ?oc=5",
-      "published_at": "2026-10-26T20:23:00+00:00",
-      "topic": "AI policy & research",
-      "excerpt": "",
-      "source_kind": "search",
-      "region": "GLOBAL",
-      "duplicate_keys": [
-        "181ee205cbfedfa0d8c5dad284c7495f490bdcf99fad09ed49df106371e5a65a",
-        "9097e6fe5a10bf638ec45a8206adc9a3c87914ac3a6f44d013d4306c6029c76f"
+        "63a82adcced24aa432b77821077995e35216b4140586caaf9411d98d859fc85b",
+        "6753fe479b561f1d09e6da4ffac26311c0c25fece24dc4d2b26fccffa8099da9"
       ]
     },
     {
@@ -4323,7 +3708,22 @@
       "region": "GLOBAL",
       "duplicate_keys": [
         "36d689efdd064b4365ee7b383feb381558f2b3522c1ffed3a1930fe26d4e31da",
+        "4e253e720227e901cd01132c5b1edbeda9fbc84b00ba8d6904b34e37ddec99c4",
         "8b06928cd9fdcd6ff4761376e8ac9412999af7b4f73467b3e3d9a9cfa452940d"
+      ]
+    },
+    {
+      "title": "Update: Nasdaq, S&P 500 Snap 2-Day Decline as Anthropic IPO Filing Lifts Mood",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTXNiaTZRMkdMWGhwaWNaWkZjX2R0RFBOYTJidkJsSWxlaXBZV0RoeXJTb2dSY0FfVEhVSjV5dWpvWGVTcGZ5RlFEVktTN1dDLTBxZzRPLThvRFRSdTc0UDJFeWpJMmpvZGZCVWtMSkU0SHRNR3BPd3psamxrQVB6VVB5VFVsYXBmb092Ng?oc=5",
+      "published_at": "2026-10-26T20:51:48+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "b3c7e052c5261cdeffbe2375013d4ed264dbc6b5e0093aeb5575de68cefd4472",
+        "dd07df6a712d6ce098691ee93c74674d8518bb9a48eecdd37305a172df780df7"
       ]
     },
     {
@@ -4353,28 +3753,561 @@
         "719963bda84022a2e4dfac8a7e375acc33978511481398ae2c2b31823b9752f5",
         "adf6193fb01bf2787fecdd56b597c7a10eca78fd7081cf65b5ae3820ecb06b66"
       ]
+    },
+    {
+      "title": "Update: US Equity Indexes Advance Following Anthropic's IPO Filing, Decline in Crude Oil",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzVGQTN1QVNYSnBFNTAyZHdxN3ZmYlRJZlhQUmdOenBIUjlxS1EtMFhaNzBsLVNDMWtpT2ZLaXpVQUJ1NWRnRHpoYzdJUTQtOEVfaV9MYlRjek1RUlNhNHZfTEV1MGswaDNJTTJHSlUwUkw4Z0tEWHRhWXRCLXA2YmU1NThVdEJjaWVFb182Z1NoWDFGdm9qWjA4MGNKQUxwQ2c?oc=5",
+      "published_at": "2026-10-26T21:04:40+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "474e0146f54f651859b5c56bddf15200359bf0f87f422eee157d3037a8d7529d",
+        "77a812654688703cdcda292ddf193e9f00d89b65de6340daf13435e86ba83fff"
+      ]
+    },
+    {
+      "title": "앤트로픽 IPO 서류에 드러난 재무 부담…800조 지출 약정·빅테크 의존",
+      "source": "AI타임스",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216688",
+      "published_at": "2026-10-26T21:15:25+00:00",
+      "topic": "AI타임스",
+      "excerpt": "기업공개(IPO)를 추진하는 앤트로픽의 상장 신청서에서 막대한 장기 지출 약정과 빅테크에 대한 높은 의존도가 드러났다. 향후 10년에 걸쳐 약속한 지출은 6000억달러(약 796조원)를 넘으며, 계약 상당수는 취소할 수 없거나 실제 사용량과 관계없이 비용을 지급해야 한다. 빠른 매출 성장으로 분기 영업 흑자를 기록했지만, 상장 이후에도 장기 계약 비용을 충당하고 추가 자금을 확보해야 하는 과",
+      "source_kind": "specialist",
+      "region": "KR",
+      "duplicate_keys": [
+        "6a51b1326e5d875529bc241720dd7f5eb9cf3fb0c4de6a73358565c33acbf6ad",
+        "a0fb5bb77e94d7c68a54042436ac257facd024cc3244f55993336fad73ef62cb"
+      ]
+    },
+    {
+      "title": "Wall St banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObDNhbjlJSENKNTkxa1dnbDYwUTBfaENSM2xOY0RLWFd1VkJCTUdrT1NEcUs4ZlFTbkg4dTN4RV8wU2R1eHZWWFdQWUwxS0JzbXc5dGRlT2loUFpvVHE4YVdDbXNjcVdaaVhrLWF6a1pZd1ViUnRPSWRMYVJmZXpxaEtMX2pSaUlCNk1JV2FmTTc4Tl82TzdMUkh2MDRFZkJVM21KVkRkT3M2OGJIZThobUNlRVJsZUFoVFlKZVN1YjQzYUdDa01nQS1HemhnRlpCWUR3RzNMczRhWU9rcThORTBQSjg4ZVlwNDFkTg?oc=5",
+      "published_at": "2026-10-26T21:16:24+00:00",
+      "topic": "AI infrastructure",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "2a9e79f48409e9263990072746c6289563bda328231ed3aad3c13e4a3432e14a",
+        "44607a2f01e76c2f744a67e9caad27b8499c99c4850e35725fa4c5e854c8dc6d",
+        "70e657fa93e036fd1283d97ea9c131ebfc7736c71775245c8cd69ae8d75f6099",
+        "7afa593d25e53f07691349934f50fb1daaa865c93b93197214285692903d3cbe",
+        "ac3c3fdfb43fcbae0c304399575b567312de3d6a3cc3dc6707b5e723c1d0a0c0"
+      ]
+    },
+    {
+      "title": "Reservoir Sues Suno and Anthropic Over AI Music Copyright, Seeking Nearly $338 Million",
+      "source": "RouteNote",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmU2NG1rWkxvR3J4U00zRmpVMVRENXlGWkNGRDQ5RldEX0M3NG5hbjBkU1BvdVgwazNFOTZ1M2FHUS1MUWNoaHVqQWhwWDgzdzFneHJYcUN1VUlHM3BzQmNtR0dmRTl2RW9wUkFDT0hKTDNzaGdLeGFjNDFiUEpHaFZ2UlJaZWR5Z1FvcmZHeTFKSExuTWxYamVaSmhuUS1ucXJPZlFoS0FyaW9WblktckNBRQ?oc=5",
+      "published_at": "2026-10-26T21:25:00+00:00",
+      "topic": "AI 툴·연동 활용",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "50563bbd9aa9d203282164edbf1408ebd2cba87e9411ecc07368bfa7b1c636d5",
+        "dd98d425596c75e956c624c0e0217e3cc9987bbcbe0a1a8045bfa4e2416039f3"
+      ]
+    },
+    {
+      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42SU9ULVFqUkF1X3J1c3dQNUNXaDJLcEdtMThSNjhfLUtkS3RpM1UtaDdPT1dBU3RVT0YxWUJBdW50Qk50Y1lHRmFHTk8xNkxkazZiYzdNTnoyb014ODZkQTNmWGVmOVNrZjlXeVJ3VjBnMllsbFFfWk9mTTBMQQ?oc=5",
+      "published_at": "2026-10-26T21:27:00+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5d5e83ee65746c9d967d6f766214ccd5811bd52247d43ebce16fdec32f88df8b",
+        "d0c09049d109feb690fd1ec64e6153f9a2e51a2216e02ef08ecb8193866b6492"
+      ]
+    },
+    {
+      "title": "앤트로픽, IPO 위험 공개…보안 사고부터 데이터센터 반발까지",
+      "source": "AI타임스",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216689",
+      "published_at": "2026-10-26T21:28:25+00:00",
+      "topic": "AI타임스",
+      "excerpt": "기업공개(IPO)를 추진하는 앤트로픽이 상장신청서에서 AI 보안 사고와 데이터센터 반발, 반도체 공급망 의존 등 사업을 위협할 위험 요인을 공개했다. 차세대 모델의 학습을 한 달 넘게 늦추고, 안전성 평가 중 AI가 외부 시스템에 접근한 사실도 드러났다. 대규모 투자금을 확보하더라도 안전 문제와 전력·반도체 공급 차질로 개발과 서비스 확대가 막힐 수 있다는 설명이다.앤트로픽은 26일(현지시간",
+      "source_kind": "specialist",
+      "region": "KR",
+      "duplicate_keys": [
+        "345862403dcef6d14f109513c70f486db238a289a7db502d788fd6a28fa39a66",
+        "4769574956470d554c2fff629c4262a87b453e45459090f6809ec1ef71862ad2"
+      ]
+    },
+    {
+      "title": "Anthropic IPO 2026 Guide: Price Predictions, Dates, and Everything You Need to Know",
+      "source": "Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bllBd3prYkpmNUxPajN5d09EV2ZQWGFxU2pvbUd1QXFaMVUzTTlpSWJGVGx6ZXhESFVSajJXSko5enhQa19YVHhPRWRzY09ESUowVzRLd1Mycmc5N0xIWTkwVzlxdGY2?oc=5",
+      "published_at": "2026-10-26T21:36:21+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "226348b1a014557b6c2b2bea288a69f2c80c92be53967a2ede4475654cf088d6",
+        "572bd802d9c0233ef42ff962ce4608dc08e51841fbfea66b7582a4a8dd2e110d"
+      ]
+    },
+    {
+      "title": "Opinion | Anthropic’s Big IPO Gamble",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGszRG5neTUwb3VNRF91eE1ZM1JONl9hcDI4cjI5RjRBYnREem8xYTNqQ1k0OG9fejFaWmV4a3BGbnduNmdFY3pxUTVxRmZFeXpVZGFpREhMcW43M1kxVlVGbGJtX0NGRzFsVkk1alpnc2RLaFVmMlAwazVUTEV1MzRXcDJYd0J6WGJKVA?oc=5",
+      "published_at": "2026-10-26T21:41:00+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "0f15b6b5629e78ad7fd1dfb008501fdbff42d51b4c69145c0f8c71225ec8dd10",
+        "9e8c7209dfeb0621a5a3f63f08bfbd11379b475ed3e3bc16c92e5624a093a139"
+      ]
+    },
+    {
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaHJjRElTTVd1TFppMk1PZnBuZjdYaFNuLVZUU0ZDTUdlYmszVkM2RUNQNmk4elRxclp2VDE3RE9XSVY4YjVrUGlGZDRzUFg2THg5R1Q3cnNkMF9WTXBJTVRvU01pUlVOZlU4QUVNZE1MN3lpNHFOMWYxVl9nQURNU0RaT2lBLW5hYnc3NENDX2R2V0xEMjBEQlFpYzZJVzg0Qi1tSmNhR3J1YzhO?oc=5",
+      "published_at": "2026-10-26T21:45:31+00:00",
+      "topic": "미국 AI·IT 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "US",
+      "duplicate_keys": [
+        "c22ad7710119b7a3b2598f9a489f026d2032311684df024b5c87c8bbe8595578",
+        "fdc48ab8520a8e9bccb993aad18b930fa275281c8bfd7106e8663e86fd2f17d2"
+      ]
+    },
+    {
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "source": "OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTC1GQUF5NlJ1MHBZcnk5RkN1M254dzUzN3VJM2NyN2JHTGo2OW5ORDlvN0oxUk5IMmN4NS1GMjE1bDhndmh0X2xRNExDS19RNmNSUkJ4LWhsQVBYVEppNElBdi1vaEwxVV9DcmNEdw?oc=5",
+      "published_at": "2026-10-26T21:46:26+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "b6eef9bd616d04112b2b6b714f6d41026449552805de829c8ecd8bd46c9bf5e0",
+        "fb1211a7f0ca53edaacc1492bda8599cc17a4f43553ca4b09a40bebb8483e9e9"
+      ]
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "source": "OpenAI 공식 RSS",
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "published_at": "2026-10-26T22:00:00+00:00",
+      "topic": "OpenAI 공식 RSS",
+      "excerpt": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "source_kind": "official",
+      "region": "US",
+      "duplicate_keys": [
+        "54e8027516e15875d89c0d67ed3d06ccdfd8395071f5ba1672b353bfc0bb7faa",
+        "802f854756b880611f8a423bed5c0b34ce2f06f38ee365dca5a1d9b11117346d",
+        "e42f9d99f1a5343630628692b7fabfdefb79e5b8fffb513cf66c09a6f2020f49"
+      ]
+    },
+    {
+      "title": "Prediction: This Is How Much a $5,000 Investment in Anthropic Will Be Worth in 1 Year",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM1Z4Tmw0bkh6Q0ZfTUdLdkVyYTdsN2tubHE3LUc5Z3FDUHBlWDhVcC1PQXVKdDRxd3pldTFjMzN6X09BcDh2dDVPSEl4NmxTVEFfTTF3OWp6Vi1sN3QzZy1rekludjdXUnJZWHNyUGtMUW5reFpqMWhINEFKZ01ack80bDRsYi1vX0FLcU94M3NWYmg5VVVjUW9COUpSZw?oc=5",
+      "published_at": "2026-10-26T22:00:02+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "408e43e92b19374f30933e0e8c72635def67b2c9f1d14e7438586eaa9b558f2a",
+        "c501e9453d623520aee652f8d15dd16df0822798a8ba86d1dfab0def3f987d2b"
+      ]
+    },
+    {
+      "title": "OpenAI, Lean 검증 거친 ETH 반박 주장 공개…외부 연구진 검토",
+      "source": "토큰포스트",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xaHZOSURfM1Z4LXVKYzdxSnRxcG9TNzdzMTlpMkgtbTdBXy13R1d0ZElLcV8xZkQzUjUzOGxPQ3p6eWdjOThrN1ZaQXZaSnZ6eGh4SGdQMm_SAV5BVV95cUxNRTJuNWFBeFhoMmgtV1B6bzloTVd0SF9LSzdqNGNfNWh6MXh0M0o3VGVQVTQ4SEN4V1M1WWZ3d0Rta0s2M0VqOHBIcElUQm5GMENtOTdHaGNtMTZ0aW93?oc=5",
+      "published_at": "2026-10-26T22:00:29+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "0f3caea0b638d0320e0b2101cbbf5e8d109e23690e138d4295146a8ddb1aa5f8",
+        "a88f37e619f008efb0d8be09a21ff8e1dc670357cd7a5562a77137f88d00fe19"
+      ]
+    },
+    {
+      "title": "Fanatics와 OpenAI가 팬 경험을 더 편리하게 만드는 방법",
+      "source": "OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JdjdjMHRCWmRIanRNSmFEd3pFTldTM1AwTHJjMlJWazRtZ25xU1pPOXJ1eU5OR1k3UFpnQ0xpSm1kTkMzLTI1VzNmcnpmZjBCNDViZDMzU1E4b2ZPS0J4YTVSNE9FZUZwT0JEODJrX3BMUHF1?oc=5",
+      "published_at": "2026-10-26T22:00:59+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5a1405643a54c5d40a9c63afec3c00972ce8cfe25d0280933b46faf04f464882",
+        "69485bb673f4c1524125f90b782cb95f6dfd55756dba97690cdfb19451b090e8"
+      ]
+    },
+    {
+      "title": "Don’t expect supersize profits from Anthropic any time soon",
+      "source": "The Economist",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXhFMDJ0dllqejJ2Z0pJeWJIQlBfbmFjbHgxcXBEMGFIRV9veVNONU1uNHBuVzFHcGZyVlRWQzd0Ym1XVWxLVnVXRWdxcVhzTzc2SWU3LXR2c3ZGQ3E5aHFfVTd0bEVQN1IyLS11WGlIQmtLaFNCS2RGTUt5eGE2UVZCRmY2T2dXaDBhcVhrWVp5d2xqTlNJMWR4OE1GcUlUY3lFbzd0QQ?oc=5",
+      "published_at": "2026-10-26T22:23:01+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "49b446a0e8f23e28195ed7368935faf06857507ec55225b28e8ba6fb267c9197",
+        "9f88953a0853863194ede97addef34dfb5ef25158eb0c17e71e634f3557665e5"
+      ]
+    },
+    {
+      "title": "앤트로픽 임원 증언 요구…FTC, AI 안전 조사 이어가",
+      "source": "토큰포스트",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wR2k3RlFyUkF1TnZobnJwZ1lZVU00aFd3MWlZY3hObkl6aElFT2xhTERVQW1McU1DTG0tYUd3MlV2d2k5bWg1RTFId3pjMnROQmVyVXB30gFWQVVfeXFMT3BHaTdGUXJSQXVOdmhucnBnWVlVTTRoV3cxaVljeE5uSXpoSUVPbGFMRFVBbUxxTUNMbS1hR3cyVXZ3aTltaDVFMUh3emMydE5CZXJVcHc?oc=5",
+      "published_at": "2026-10-26T22:26:38+00:00",
+      "topic": "AI 정책·안전",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "514d082684dd0ff6cecf31bbc51b25c9a4e1bcc042d27d25094228bce97dd418",
+        "80d9f7b7e5065b1b826ab30d35ebea9cc0efc3677eb189cf603db6206d2faf01"
+      ]
+    },
+    {
+      "title": "앤트로픽, 나스닥 상장 신청···역대 최대 IPO 전망",
+      "source": "시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41a3o4THJEd20yYnlHamxnX2NRZ1NCdDM3QTlUWjRScmUweTNxTG43X3dxbVN6YWpCOFl5SjBTUlNRODREdXYtdWV4aVBXcW9RTWZGQ2luV0poUmJDN0hJcFd6V0V0YlhFeEtFY0M1Q21wZ9IBdkFVX3lxTFBHOURQaXRacnNCV0VCUWdka0NnLVZfQXpTc2FZRkZuX2d4bFFSbmpMVFFQVHBmR2NYUUhrUDZDM0Q0amw5emNUeG5hdWpjWUlxMS0zSUdneE01bDJWSXMxaTdsRXFma29ZcFpUTUpCV25CcUxST3c?oc=5",
+      "published_at": "2026-10-26T22:40:32+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "0cb574bce0788d3a271ccc0ac43cd7259fda0e39ec43e3234d8722514a501e9b",
+        "ef66d48282236493441bb94706a1a8fc965c1cb92f5b4ab4d6ec8b65372e9bc3"
+      ]
+    },
+    {
+      "title": "Anthropic’s IPO had over 90 pages of risk factors. Should you worry?",
+      "source": "USA Today",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTVWNXdtMzJISmQ4R2xsMThMN2FQM3hseVdfMnFYMmZWbnVYME12M0diSVFfOFdlSnN4UVg0eXpabDBCZmt6TW9NTllnd0F3VmE5VnNGZkFNUlMxU2stYVVDMkN3ZzRyMlVud3c5SGI1VWRCbFpLTkRxTEVvV243ZmNScUpSV2xMTjVKNG9rUUpUQmlGMVI0WA?oc=5",
+      "published_at": "2026-10-26T22:47:00+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "a2d91b0ed3c564d1749f544469dce10818067381a6fc92bf852edcf939ba164b",
+        "c705103e82a25745ef2b94304c4a4005061b733219ae08a83c5d4b5151661180"
+      ]
+    },
+    {
+      "title": "OpenAI AI, 과학 난제 3가지 해결… AI 능력 어디까지? (OpenAI, AI, 과학, 난제)",
+      "source": "민심뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54Y0pFUkM3eTdIdUN6dGlTOE9tQ0tJS3hrSi1DcXBkNWxnM0duNnNIX2hGZHVNMHZrOWNJY3BIUUd2TTRESXB6VEw3bEFhdmdtaWJCNVJnUE0xM29jai0zX2V2Ml90RExZRUlJNA?oc=5",
+      "published_at": "2026-10-26T22:48:53+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5635f7f2ec126d6f22ad7abb2ac16fb113af1e205177b0de2912aea812e0aa19",
+        "912c37cea5f642b0243ddbff881e30a7ff7a495dde180eca06b3cbecd7cf220a"
+      ]
+    },
+    {
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllMbFRuTjU1YW5QWWRQd3JFZ0VkRk52dTl6RG04VEFZZC1HalMxaE9Iem01ZlN4MW5udlBWdUtvVU93U1BETlFVamk5SlNCam1XVVRzWExBemxDSC1yM0pDSHlkR1ZHNlpSNG02OTZCcVlEMGZiUXVBUkRWaWRQYVhkLUNrUmwwZEZ0YXZ6a29pemJHZGNaU2hpVUbSAaIBQVVfeXFMTmt4Q1hTcjFXT0kwZGNHeVE2bU9GaFUxeTVKTmx5bjhmMGFOOTI2R1N1ellVLWQtYzFSZWJBVzU3WDVILWRMR05LSEFnVFNTd1lLNGJyc3k5VjBLWUI1T3lfMmtXcFBENEJQZ3ZVTktfTjJpRFRYS0ktb0tOZkxCSzlPWmM4TXlPTC1zemFtZmpzUUNQQ1RuaEg1MGtKUEgzaU93?oc=5",
+      "published_at": "2026-10-26T22:50:07+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "83e4406def54b2138d042f38087917f0d06ee5095f412c61a981cb0e0f492edb",
+        "86f1d1ec4aaba573dd18b0c74c2cef23ae11b4af6c72a4804f1b5e8f808b396a"
+      ]
+    },
+    {
+      "title": "Anthropic Just Filed to Go Public. Should You Buy the Stock?",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWJOa0lidTZ5Ui0weUJrYVJpYTFITWZjNThFdnF5cDA4dGRzS3hmbmRWamFvekVGVnN3V0lnS21Na01aTGk5dU51V3hHME9aMnpKUlVCOHluMU1ZQzJ5UjV6QmtfVDhNQUQ5cWhWaWpqLVNMY2dDX21XSkNoR2R3R0pqUFBsdlFrTHlPc18tenBjREktZjlNblFhUQ?oc=5",
+      "published_at": "2026-10-26T22:55:01+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "32478dc75e1f79e2ca47a37576308c276208145c2ff909309368c447e3689ef8",
+        "c17636df5944a8e14054d8ae1b293313eb287ee0be1859eae7204f93e83ee42b"
+      ]
+    },
+    {
+      "title": "Anthropic | History, Controversies, & Claude AI",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+      "published_at": "2026-10-26T23:02:32+00:00",
+      "topic": "주요 모델·툴 출시",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "US",
+      "duplicate_keys": [
+        "92db7efd2421cdb45b47fbdebd29b3b422568a6850abda6be0b91dc00a9957f6",
+        "9470258ac45a719552d0e5e58be1cda0ad061ed553548c7b79a65584942dee9b"
+      ]
+    },
+    {
+      "title": "Inside Anthropic's massive — and wild — IPO prospectus",
+      "source": "Axios",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkd2lYc2dEOHpFeDZWV1k3OE5NbERLN0M1X0lHWWpuQlp3WGZ1VWQ2TFlVMFJWay0wQ1FqenhGUmZod2VzWk9qdjZJWmlERlZRQVVVOTI1MDl5WW4waHoxN1N5bEdDUkMtNzRZSklkUmRzdw?oc=5",
+      "published_at": "2026-10-26T23:07:46+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "4a04e7a20870b0eb1240670414871c9980664b23275d8530fa10c8bcb65ab4af",
+        "9c48602a2ff5284f4a32aec83e38f0087cc2a9a565ffc5b627c442f5f6834d57"
+      ]
+    },
+    {
+      "title": "Replit switches from Anthropic to OpenAI, highlighting AI market flexibility",
+      "source": "Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWnBiQ0ExSXpsUEYteEUtSWhuVVFrY3hCZkhmNHczaGRPeExjQ2gzOXBnaDRsVmtUQTNoNmtfb2NPWmVxTGN3ZmhnY1REeVJ4NWhWNkVOUlQ5N0VfaUVsRXZtaVpFbzlBLTVIczlRaTJsa0ZhTl90Y3M4VTgyaDNjVTZQeVoxQW1TdlFESWtabHlyRW5pZ1hGMEVyVXU5dVY4MGVIcm1R?oc=5",
+      "published_at": "2026-10-26T23:08:21+00:00",
+      "topic": "AI 툴·연동 활용",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "5a921894ef6fc40120d85425857cd3ba11859bca15d685d4d39b873f08059289",
+        "9f4108ff794d2e0eecc296807330964fd8d48d61e473090ff202da8756e6e660"
+      ]
+    },
+    {
+      "title": "'앤트로픽 IPO'에 美 AI반도체 훈풍…삼전닉스 프리마켓서 2~3%↑",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IaVNfSDlUZmRJRHdraGdzVFlVUElWVUFQZFdwM1VhUllZclBYVS1vT2I2VG5WUHBDWktMdFktSGN1aGU5T1NxNWhFdVhUY0xaczdqRFllYjdkenc?oc=5",
+      "published_at": "2026-10-26T23:21:29+00:00",
+      "topic": "AI 인프라",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "abea91e9f2c647b73385672942b5b372d975231faac4892e9616e74216b35a7a",
+        "d69c0e8c9d0f4ffee91062c0980495e2fd6bc7cde7dc4cf09601fc1b33b16a4b"
+      ]
+    },
+    {
+      "title": "[인공지능은 정말 블랙박스일까?] 신경망은 우리가 생각했던 것보다 이해하기 쉬울지도 모릅니다. 인공지능의 내부 작동 방식은 대부분 이해하기 어렵다는 것이 일반적인 견해이다. 하지만 오픈아이얼(OpenAI)의 전 연구원은 이러한 통념이 틀릴 수도 있다고 주장",
+      "source": "AI넷",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5XZmtJQmN6RE8zZ1U3M2tGOFhvNEY5Z1QyR2JObmRkRDkzbzFOVXNodC1WRkZ6ajh2NkEyMW0xQjk?oc=5",
+      "published_at": "2026-10-26T23:23:00+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "58414fd12ededb4fbf975a1fec46e9b039214bc589f94276ee68232730bc815d",
+        "9fec48390b94ea5409d275a00777b7b3d4398848912bf33db60886a14020e882"
+      ]
+    },
+    {
+      "title": "Anthropic’s IPO Sets Up Defining Moment for Wall Street and AI Boom",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3FLY3BuUDlrcDFuUnJvU2dEZG16ejUwV0dwQzlWT2JWTndReVcxU2VPMnhhQXQySFROWVNCUG1udmY1aGVaMnl5UVAzcFlteE9TUWtiX1BlMTdGd1NvWlowck1IQ1BMa0w1Rm9Vc2Z5UjVpZGdoVkRTTXQxYmhNcTR5aXI4X1N0dkdXNTFZdWpnQ2ZadzRWWTZiVjJQUENaZlY4dElkdl8xNlI4SFhBWHk5ZFFOQ0Fja2c?oc=5",
+      "published_at": "2026-10-26T23:23:19+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "fabb61c269748f7ef39c05dfbe0881a19dd4bbd9d7bc423251026e0564a71508",
+        "fcbe2910735cd6c4858bfb04975086b89553d79b63d0cdd05d6e266785833ac0"
+      ]
+    },
+    {
+      "title": "GPT-6.1 Sol vs Gemini 4 Pro: 가격 매치, 12월 1일 종료",
+      "source": "OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1YzA5a2NVdXVBWUYteFExTEVBVk5DOVpxaFJQMG5GWEFpdzdib1RtTEhTaXNoYi1WSzhxemo4UG02cFdNZWVJbXprVFZNM0Y5YUYzSkpOOU8yQmpSbk9wd3ZoU0NqVVVfVHVhWXZB?oc=5",
+      "published_at": "2026-10-26T23:32:47+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "8538a4074700c59d0ae631c99128c5e5f0a0b39ef6ecee7fe3dd45bed01dde4a",
+        "98690a5f11cf67d677948b447e199de433e94e8ee5f4e37fea505445b1496f82"
+      ]
+    },
+    {
+      "title": "GPT-6.1 Sol 对决 GLM-5.5：一场并不存在的较量",
+      "source": "OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YdFV1c09ZcWhxV1J2OUs3bXMtNWZxdmItWHEwdlJtZGhCNjF5d3FtTVp3NThqMlo5TGs1VDZsN1dLNUhpckoySHgwZnAxUHJ4b2RTUUFaLVZES0dUMFA3dzByc0JsSmp5cWxV?oc=5",
+      "published_at": "2026-10-26T23:35:33+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "1c6ec3be4cd37afd377a1367611c3b024cdfd7319c42e7597e8a9e3f9fbc517d",
+        "6ebc75b8764077c4fb8f37798ff93e6c32615debe3e3d4ee7e86cd0e741f3a61"
+      ]
+    },
+    {
+      "title": "GPT-6.1 Sol vs Kimi K3.1 Pro：价格相同，账单不同",
+      "source": "OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wX216c0hJM1NaZDR3dnBPeUxsTnhJU0VJRWlqYUtaOUJpMjlXZEM5bUFMMHhIbXEzbHA2a3hLakRCcFlUam5jci1FdDd6MVhQcnpRRHR6c3gxN091T1hmZEpMa3dmT3UwUFczT2Z2U0NWVE0?oc=5",
+      "published_at": "2026-10-26T23:37:04+00:00",
+      "topic": "중국 모델·영상·코딩",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "CN",
+      "duplicate_keys": [
+        "3d3f4093f8c7272f8866bcdfaf278e07f6887fcd4b8f8215f0e19b991252facf",
+        "f80b7fe737825fc063f28e46583bc90c69e8008b07ab44ad84d2b85efce234ff"
+      ]
+    },
+    {
+      "title": "‘Claude’ 앤트로픽, 상장 신청…\"사상 최대\" 주목",
+      "source": "워크투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lMThROEM4ckhPTFJtNHVKc0JxdEVSTzhCRWRKb3NLcVpKUUtiakVlWG5LNzRVVE1DQ2lDYzlNZEViOTJXN292blluR2hub3N0WDMxRkI4UzdJSnR2RkljX3ZSVU1BeTFvX2xKUQ?oc=5",
+      "published_at": "2026-10-26T23:42:39+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "13da6457714d8474f47d46302cdb6fd1caa7831ebbf48e1798d3e5518b2a4a32",
+        "b26ad109aa722de854b5d049168d5ea333f86498df705497f49fb0d4f441d6f3"
+      ]
+    },
+    {
+      "title": "“편리함의 대가는 사고력 퇴화인가”… 생성형 AI 챗봇의 확산과 ‘인지 부하 외주화’의 그림자 - 챗GPT·그록 의존 심화 속 ‘인식적 주체성’과 비판적 사고력 저하 경고 잇따라",
+      "source": "AI넷",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9TS2FSUUlKenVYTjBrNFZqazBEdzJHRmxEenFiSDhpazBTcmJNcVFkWW9jX3I4QmNJN2NlRUFuU1U?oc=5",
+      "published_at": "2026-10-26T23:44:00+00:00",
+      "topic": "AI 전반",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "183d04cf399d9a255706ef75bf54cf6c4f6a212d7d2c1c165ea80ea88b833431",
+        "b3af57a2c37374b631f3d436750b7b4fe36d0960a511d12880c8c108cba8ba64"
+      ]
+    },
+    {
+      "title": "150만개 상품 속 ‘내 팀 코디’ 찾는다…파나틱스, 오픈AI와 맞손",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJYjBxa1h0TUlOV0liSTZTbnQ0YlI5TzVtd0xYdkROQzVqZkw2LWotdVRJOXRfb0dHZlFYYTE0M0hKeXo4X0FaUl9ObFJXcUNXLVl1Y2ZQR2pKdlk0amtUbA?oc=5",
+      "published_at": "2026-10-26T23:58:54+00:00",
+      "topic": "국내 AI 전문매체",
+      "excerpt": "",
+      "source_kind": "specialist_search",
+      "region": "KR",
+      "duplicate_keys": [
+        "4b5d4da468431aa73b282175ce62a0fcfd10a059d26e5fc4d2e42cf7f07187fb",
+        "80bafd46786092ea1a7df054e7f9fa8d7b429956bfec813eede6ce642863fae6",
+        "b573b10f252e7148fd62ca0f9d730b6979b6e0e4e0a98bf2458a5cdec5e116c6"
+      ]
+    },
+    {
+      "title": "Anthropic IPO 기대감에 기술주 상승…연준 회의·실적 발표 주목",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42WmRma1pFR0hORThqQ1dsT0I4MURkVjF3bVB2Y1RKZElHM3BnMVVmdkxQSWhXS3c4WUdkQjNxQlh0TjBBLUgtUjZiNzRjSGp1a2hWOTNQSVFwR1BhVURuQ01UcmU1SXVJSUdKX09SVUZnVW8?oc=5",
+      "published_at": "2026-10-27T00:10:00+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "bad720aa4359ef260c8b6744a09c75f1f69af1d6eeb88e257549cb31e3eabf9e",
+        "f28373bfdf6933c5de9d027f01aa420711b6da22189cbe979b7251522edc0423"
+      ]
+    },
+    {
+      "title": "“친구인 줄 알았는데 알고리즘 사찰?”… ChatGPT, 대화 엿보며 ‘정밀 심리 프로필’ 구축 충격 - 2026 ACM 웹 컨퍼런스 발표 연구… 대화 데이터 기반 ‘알고리즘적 자화상’ 추적 고발",
+      "source": "AI넷",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1PMHFZak1yeEozVVF4Y01OOVhWWVByZ2VPSjZ4bEJMQTJ5TGtkdUNHTUFjSE1WbVo3RDZyWF9hRUo?oc=5",
+      "published_at": "2026-10-27T00:11:00+00:00",
+      "topic": "AI 기업·서비스",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "20ba3725d4dd4aee18ec3e1b2981e8c6292773cb93142d04eb7bb16b26087d7a",
+        "42474bceee5b855662213837e1ef71aeb409000657602742b0891633e2407bbb"
+      ]
+    },
+    {
+      "title": "From Amazon to Google, the deep-pocketed investors in Anthropic",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2RtNEhJVUV0dUgwdkVYNGhRa0dOUW9NbVYyM3JIak9tQ0VXRHJ2MXc3SjlpS1RtV0NBdS1GajVIdFhmOHRJRkRRa1A1YURDYjJEVjdadUNhY3lyd2hxTGJObldtd05lV0VkV29aMkRRWkNMUERacUV4cVdpbjM1U3k0MGx5NEpnUnVwS3ZlaUdwcXJhU0lfUU1FaEtfSHNp?oc=5",
+      "published_at": "2026-10-27T00:11:00+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "1b64d2333be2882de7fccf2620de394b6754186ab4d50c66632079c1dd65f433",
+        "3a5af5df6a9d6123f0b493090058e798776125818547db0242c85a48c2bac977"
+      ]
+    },
+    {
+      "title": "AI & Tech Brief: Anthropic’s S-1",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzAzVy1QQWt2WDZveFQ4MG5fSUhCNlIyQW9xeDhNcy03WE1sb0R3Q3FrdGVyaUtiQzhHRl9GZ1QycTQ0Q1ZVRlphYXQycFh4VkRKNnJNaWNlV3ZCVll2SDVQdDFxeUd6OUlWb1NBb1ZHRzYwdGdHVDM0RWhSQXlUdHFhejhYeUdIbVlodmxmWTRDZEZ0UXp1RzNDYWtEQUVpLVlV?oc=5",
+      "published_at": "2026-10-27T00:11:10+00:00",
+      "topic": "AI models",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "3d1d1fa6203f99e4b7d10d5a91a717b25997f0199ea0233cd3ad511064dab382",
+        "4883854e3d02d6ed0ffde35701e32afb42de3c1131c370fb85c33ad22ba80bfd"
+      ]
+    },
+    {
+      "title": "Anthropic opens life sciences AI research program | ETIH EdTech News",
+      "source": "EdTech Innovation Hub",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3BOVmNkN1hKampibWxUcHc4d01FQVViVkZvT0wtbUlTcjhadjFacW9yX2toZko0YS1oNFZkSElGb0ZFUnB6NjNHSHRodndjeGprTGNjcmVtZXJ2LUFtUU9sY2ptbWRIOXBhMXE4UFoxYTh4OGZLZzZpSU95cXV4Z29yZExnVkZPcHEtQjdpd2dINlA0VTZMRkt5WEZhbTQxakQtN2djWkd3azJyY3pWSEdnelh1Vm5fUDc4dUpxNWwya0pD?oc=5",
+      "published_at": "2026-10-27T00:50:43+00:00",
+      "topic": "AI policy & research",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "31b35811c21ec61630199a07b4da841f9ca2bfdd02c7f507c53ecf6cc2b104dd",
+        "ab02ab577fd9a8d90f9b983b6edb7c71f31ab6f87a4ef100f79a5c442c071223"
+      ]
+    },
+    {
+      "title": "OpenAI, 수학·컴퓨터과학·물리학 AI 연구 결과 3건 발표",
+      "source": "토큰포스트",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95NXdOMUl2dm1Bc0phLUp3LUl0QTJSTGpST3BZLUt5VnFIZS1jUVM4ZXdIZmtLbnU0dVkyaHJVeWtQZU9jUnVpN3dudEl3N0J6T0FPYTg0RzbSAV5BVV95cUxNQmhEVmE4VUdOa1RTcmotenZDcHJsS3h6NWloc3JnS09UdGFoRThBbWZBRTFwblJJckp4Rk9mSHJFeUZRVmwzOUV6aW1HUmVyak14RzNHTWI5by13TnBR?oc=5",
+      "published_at": "2026-10-27T01:16:20+00:00",
+      "topic": "AI 정책·안전",
+      "excerpt": "",
+      "source_kind": "search",
+      "region": "GLOBAL",
+      "duplicate_keys": [
+        "cd78ca1bba4a95fab2e258362c9cec5eace5c49f2fe29c721920a8cb0acb74da",
+        "d1e63faaaf04eb8b11b5350db3563e44bb1ea3006ba9c15bb0eef9d4c41dff13"
+      ]
     }
   ],
-  "last_success_at": "2026-10-26T21:10:16.891573+00:00",
+  "last_success_at": "2026-10-27T01:36:25.788808+00:00",
   "sent_stories": [
-    {
-      "title": "Paxton Sues OpenAI And Sam Altman Over Suicide Claims, Seeks ChatGPT Ban For Texas Kids",
-      "title_ko": "팩스턴, OpenAI 및 샘 알트먼과 자살 주장 소송, 텍사스 어린이를 위한 ChatGPT 금지 요청",
-      "source": "WBAP",
-      "sent_at": "2026-10-24T22:42:33.666967+00:00"
-    },
-    {
-      "title": "Elvis Presley music rights holders sue Anthropic for $41 million — Rolling Stone",
-      "title_ko": "Elvis Presley music rights holders sue Anthropic for 4100만 달러",
-      "source": "UA.NEWS",
-      "sent_at": "2026-10-24T22:42:33.666967+00:00"
-    },
-    {
-      "title": "OpenAI’s Decision API Leaves Beta With Voice Integration",
-      "title_ko": "OpenAI의 의사 결정 API, 음성 통합으로 베타 버전 탈퇴",
-      "source": "WinBuzzer",
-      "sent_at": "2026-10-24T22:42:33.666967+00:00"
-    },
     {
       "title": "京企月之暗面发布Kimi K3.1 Pro：3万亿级参数，全球最大开源AI大模型上新",
       "title_ko": "베이징 엔터프라이즈 문 (Beijing Enterprise Moon) 의 어두운 면이 KIMI K3.1 PRO를 출시했습니다. 세계 최대의 오픈 소스 AI 모델인 3조 레벨 파라미터가 새롭게 출시되었습니다.",
@@ -4656,82 +4589,45 @@
       "title_ko": "15 대학생들이 좋아하는 Gemini 기능을 공유합니다",
       "source": "blog.google",
       "sent_at": "2026-10-26T21:10:16.891573+00:00"
+    },
+    {
+      "title": "Exclusive | Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
+      "title_ko": "Exclusive | Broadcom CEO Intervened to Seal 630억 달러 Anthropic Debt Deal",
+      "source": "WSJ",
+      "sent_at": "2026-10-27T01:36:25.788808+00:00"
+    },
+    {
+      "title": "Anthropic Has Risks Beyond AI Safety. What Else to Watch For.",
+      "title_ko": "Anthropic에는 AI 안전 이상의 위험이 있습니다. 그 밖의 주의 사항.",
+      "source": "Barron's",
+      "sent_at": "2026-10-27T01:36:25.788808+00:00"
+    },
+    {
+      "title": "오픈AI, ‘GPT-6.1 테라’ 출시…자동화 성능 높이고 가격 낮춰",
+      "title_ko": "오픈AI, ‘GPT-6.1 테라’ 출시…자동화 성능 높이고 가격 낮춰",
+      "source": "AI타임스",
+      "sent_at": "2026-10-27T01:36:25.788808+00:00"
+    },
+    {
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "title_ko": "OpenAI는 세 가지 큰 과학적 발견과 학자들과 협력하는 새로운 방법을 발표합니다",
+      "source": "The Verge",
+      "sent_at": "2026-10-27T01:36:25.788808+00:00"
+    },
+    {
+      "title": "Moonshot AI launches upgraded Kimi model",
+      "title_ko": "Moonshot AI, 업그레이드된 Kimi 모델 출시",
+      "source": "China Daily Global Edition",
+      "sent_at": "2026-10-27T01:36:25.788808+00:00"
+    },
+    {
+      "title": "Grok Bot: workspace switcher doesn't show my personal workspace after creating a team with the same email",
+      "title_ko": "Grok 봇: 동일한 이메일로 팀을 만든 후 작업 영역 전환기에 내 개인 작업 영역이 표시되지 않습니다.",
+      "source": "Cursor - Community Forum",
+      "sent_at": "2026-10-27T01:36:25.788808+00:00"
     }
   ],
   "skipped": {
-    "d2dadca21898c8c9b8c6ceffd79277d70a42f979a44a482229801ffa0385f932": "2026-10-24T22:42:33.666967+00:00",
-    "7c782cb43d60a208b1096691525a1451047cb7ab476eb3c96adb2c35f6a8a961": "2026-10-24T22:42:33.666967+00:00",
-    "c83438514d3ed2d68d946569bbe2a8ecfecdb7c33774dfe0252ae2736257ee6e": "2026-10-24T22:42:33.666967+00:00",
-    "57b2250c800818748d7db58d01965079f7585bb9b401cd9ee9bbb67cc3366856": "2026-10-24T22:42:33.666967+00:00",
-    "5608dcaa53af4d54801a7c2c4adf7370b428d7739ca3d56a31787617a99fc225": "2026-10-24T22:42:33.666967+00:00",
-    "dfe26b80b75dbe7144d4e40b6b7b0c84f50f4ab9ac4a2a7020b527cf3e51b1bc": "2026-10-24T22:42:33.666967+00:00",
-    "87edc2b805bba9a6673ba477670f620df8455466b490405eb5fe2ef0a69b813e": "2026-10-24T22:42:33.666967+00:00",
-    "6a562b53341ca52647a5f146b20e05ac82bc9cbf1d7a5eb3bd3d57832b5d50d9": "2026-10-24T22:42:33.666967+00:00",
-    "66e7f8eb29c6f995842a701e775c455cf078ef7ba812b212ba2198dcb0529010": "2026-10-24T22:42:33.666967+00:00",
-    "01bd1acf9d1da4848aa6bb972bb55ce43f924d32e46d89c1b5a10d4bb38a99b9": "2026-10-24T22:42:33.666967+00:00",
-    "6370d066da3d36f52ec347f87f85d4949ef403d32d3a7676b9377be9b39a18d8": "2026-10-24T22:42:33.666967+00:00",
-    "6f740cba3d1bf5c9ea70ab6c317e754fa98b0db88b964c3f4fad66c586c805a3": "2026-10-24T22:42:33.666967+00:00",
-    "93cd453fcf37e89d0c9ad4c76307b99c491f76770ab092d4cb608524e19a290f": "2026-10-24T22:42:33.666967+00:00",
-    "b436dd29f6058e948f4911d8a360ba4753755f7fabf68f06f2ae05c255863bb2": "2026-10-24T22:42:33.666967+00:00",
-    "713505ff43966421c9876974609f8671b41e43c6dcfe55296682eb414908ba44": "2026-10-24T22:42:33.666967+00:00",
-    "b0cf2947eb340bf49b2c9b674d792977f1414698574f29b6c7dd637e45f227e3": "2026-10-24T22:42:33.666967+00:00",
-    "66be755544bfdd4ca78d49234a46f029a63ed52d4aecc76661615eba95a51457": "2026-10-24T22:42:33.666967+00:00",
-    "2cc97459dd9e5edab23ecc701c3d45d99219a03fcdc85aab7f18551c63210a78": "2026-10-24T22:42:33.666967+00:00",
-    "15c2455133aed0823f4d8fb3cde10c11a8678792ee95fbbe615533aad1e7d7a3": "2026-10-24T22:42:33.666967+00:00",
-    "ae43852329fd31b0d09dc978ad253c773a8b174c514d8886e6e5adbed737ce32": "2026-10-24T22:42:33.666967+00:00",
-    "9a9c25ca655376411d07f14d96a78ce23320f48915e826813662294e986bd226": "2026-10-24T22:42:33.666967+00:00",
-    "4cde6bfa2f6134bf03898fb92a90c13a6bbddeb7adcbfa01de1e9a9599f7bd10": "2026-10-24T22:42:33.666967+00:00",
-    "b4d9a6a7020c1c566458828bb56f35f1bc18c632fe04220b419ca4c967514882": "2026-10-24T22:42:33.666967+00:00",
-    "ec9cb86fad23f933da50dbf8d78f8f3e77f3bd43fe3db43c9f6d6d840f8bd4f5": "2026-10-24T22:42:33.666967+00:00",
-    "b917c193261426efb9892e9887f96754cf3fa51e463e265d9d35038a6d5523f7": "2026-10-24T22:42:33.666967+00:00",
-    "88fb0734d377026a06ceb71cc99dcffd5a1d177d76308274db34a131e3901abd": "2026-10-24T22:42:33.666967+00:00",
-    "3c767bdab36bedc8ace00b28a0c3be176365f6a1b23f65f1f20744cce497936a": "2026-10-24T22:42:33.666967+00:00",
-    "1d549e704b40ab8910eed17d50719a442739ae4ca3d57f1a2d184bd82cd8f578": "2026-10-24T22:42:33.666967+00:00",
-    "fc8f84d8f45a3b05e18a927482afced19b60b06620238b3fe9daf1254007d12e": "2026-10-24T22:42:33.666967+00:00",
-    "1b5fe7006cff3bec06d1d5c7ec8776c67640b3dcb19ca6b140725dd79063a556": "2026-10-24T22:42:33.666967+00:00",
-    "e87e43a97d096f1a5b35e5ac5cf528631d5a20ee272e46a5f291000f2b355f85": "2026-10-24T22:42:33.666967+00:00",
-    "41b62494f221a426eebf0fe4fecd7c743185bcbc7b9100327df28594e0a3a516": "2026-10-24T22:42:33.666967+00:00",
-    "9f9f4bb331ccac250bb3676caa433986280bee6ac8df62e3b605ced828477fe5": "2026-10-24T22:42:33.666967+00:00",
-    "5affbf88a5db8eaf342265d90248bbc9238b040da9335a3d11b041dd9284c7db": "2026-10-24T22:42:33.666967+00:00",
-    "f7daeb5bb114581737425e9188c1e7b92d670755fd13ddb3f5f71f7757f2a764": "2026-10-24T22:42:33.666967+00:00",
-    "10f1677011d1a9c25d6f4a78fae237e0b1143c647c2a1e6f64c9094440a75a1d": "2026-10-24T22:42:33.666967+00:00",
-    "5db8326effbad76587a836ac8ff362ee58f8d282e0361b2f634b79e318f41f5e": "2026-10-24T22:42:33.666967+00:00",
-    "882ea8491b64048373d8ee3fd7443e9d1b0d131a016935671e2ab4aa5761b30b": "2026-10-24T22:42:33.666967+00:00",
-    "3c915809c3f892bf6862b293db72ca94a40835b235b3f02120a34c325b457cc2": "2026-10-24T22:42:33.666967+00:00",
-    "e59735cb215ebb05786b880a5b57feaae194c7579ace872cf0c5245dba45120b": "2026-10-24T22:42:33.666967+00:00",
-    "a09ae0827a4dd2f95b6810a0d0603b8f5ee30d16bda91127073d34994d26d4e6": "2026-10-24T22:42:33.666967+00:00",
-    "cda4875f9150a0f217fb67503c3229c51082f0785bea748e990a3a78c14a54e9": "2026-10-24T22:42:33.666967+00:00",
-    "f4e44e14d038fa8b65001a372095dfbd7c0bd81446ea23122e66d3fe34da9712": "2026-10-24T22:42:33.666967+00:00",
-    "a916bc3d532b0b343dff822fba1dc07f7f5ee63095e82e702db4e8c0ab221b83": "2026-10-24T22:42:33.666967+00:00",
-    "2263823db8371b1dac613697fd3706a514a03c42b4c4ae82d65a3d214efac02a": "2026-10-24T22:42:33.666967+00:00",
-    "a3d91825bf4bb2ad545d68841fd8545416c04a6386984e31e7ac13ad74725f11": "2026-10-24T22:42:33.666967+00:00",
-    "5f43e887ff4a15a5df46f18d74056f34636e9d06d188e111b189d4b36c012710": "2026-10-24T22:42:33.666967+00:00",
-    "a6a58eec7db16e077ea5035ad74d46626f25ccebbcdb0a4eedc6d25ef62d3346": "2026-10-24T22:42:33.666967+00:00",
-    "3aba97aa2a74b7b0b21209c276df88c7daeaead3ca28dd71c4778153cf445adf": "2026-10-24T22:42:33.666967+00:00",
-    "8fc859acad4911873442f45cb332541ddaba9a3f68551fa57ddf491ef346fb0b": "2026-10-24T22:42:33.666967+00:00",
-    "66b3dad8e6388c49ecc7cf5357387fc9118f7ffa6334c467cf2e2d3d71b97edc": "2026-10-24T22:42:33.666967+00:00",
-    "8e384187ca1f6679f4358fdee8185ca9ffe0f099be3fc952c5570c3f601ee6e2": "2026-10-24T22:42:33.666967+00:00",
-    "77ad7f8d83c569ea7c6181683a83eace5c697c2b9c19f72cbe11368d05d740a1": "2026-10-24T22:42:33.666967+00:00",
-    "c17b9d4730dbb5861a4fad0d27cd526a5cdec77ea953a771bca87b68aed8282e": "2026-10-24T22:42:33.666967+00:00",
-    "7c60eed884efd8b1490c264b8b6a0863bad0ac1a2421d74a57326de1cdf8e0f1": "2026-10-24T22:42:33.666967+00:00",
-    "33074305356e10740debb3f28e78118d6b3cc5ba8b74bb83a6bab3d74badbbf3": "2026-10-24T22:42:33.666967+00:00",
-    "36b79f325f2de8cbe324314ab66df2eaab75df64edd0b7b9b9e4ad66e42864d7": "2026-10-24T22:42:33.666967+00:00",
-    "19888f5f49e969669ac37dd628a7edb6841293345a2c98efded7996c46072592": "2026-10-24T22:42:33.666967+00:00",
-    "88ad880ed3e15b8fff63b58301eeeec4914eac4a985ef6b78183d0b753582b95": "2026-10-24T22:42:33.666967+00:00",
-    "c6c0c0a823e0d506150cc063861b52f31a7de80d84c61da15cbddb91ce730692": "2026-10-24T22:42:33.666967+00:00",
-    "baf43e6541c469dc000f7e1905e34372dd5bfcabb559c89458594bbfa62a8763": "2026-10-24T22:42:33.666967+00:00",
-    "8d971d41bd568a8400cfa65adc76f3603b090892fb4e919af5597377d56261f8": "2026-10-24T22:42:33.666967+00:00",
-    "f1f439d01f77664c0b1efe55f3bff341bf7ce48f4e95a5060d91a9e2c3cef53c": "2026-10-24T22:42:33.666967+00:00",
-    "8457fe8b484ad3bf665710118c9e7b832e4101ed458bfbc61bdb162621ad1ee6": "2026-10-24T22:42:33.666967+00:00",
-    "09c5f0957bc70d2823d35f1201489dcf12b870db6ad7bb1f7dc14a593164321b": "2026-10-24T22:42:33.666967+00:00",
-    "c363f151e575504b4d115b3dab3341cd420d1957f4407464ffbb8b14042e5f5f": "2026-10-24T22:42:33.666967+00:00",
-    "6e24a17e6fe15daced323f8ca7e66d33a48c0c64246ceff3f815aa486a4b8ef0": "2026-10-24T22:42:33.666967+00:00",
-    "7888e6043467424f5c802aac876fbe9712838e7a04bb5f958424a8b8d24df43c": "2026-10-24T22:42:33.666967+00:00",
-    "57593f47d25984af0cc1a30588e4b0f3c99f64eba364b7bb025dce87cbec56e6": "2026-10-24T22:42:33.666967+00:00",
-    "96d9db30d60b22d3bbe1ab54e9ca70dcff590628645e0326cd70d3bd14823746": "2026-10-24T22:42:33.666967+00:00",
-    "fc29f237cfc3528beb9f5b6d7b98dc562cb005f1047d259143fbd2bfc0edce94": "2026-10-24T22:42:33.666967+00:00",
-    "e570c3f2f591b5455d1ad1a27d4476c62528fc298bf62fdf3814e3a0990c47b7": "2026-10-24T22:42:33.666967+00:00",
-    "4dd3a25c7e1b44fcd5b965bfe99fd11ed7f6c4829ae4e40434d8d988a83668d0": "2026-10-24T22:42:33.666967+00:00",
     "de82b0d2397c2d45a15127e033e2671f2852168a65cee744802bd12c84973842": "2026-10-25T05:12:30.372968+00:00",
     "9db1fc905f833018ffd8095c9c087367dbc74e0f12bb01ada3a2092d3cd9d288": "2026-10-25T05:12:30.372968+00:00",
     "669da288573407f0c1ab55d5428bffb73fb44eadefe8ba7251b6cc90dbf74340": "2026-10-25T05:12:30.372968+00:00",
@@ -7683,6 +7579,437 @@
     "a3c267257bc09e87b91d01694588159fc5f634612a0f9419ec6f74db6c8f35f0": "2026-10-26T21:10:16.891573+00:00",
     "7111066a2cdae2db504ee61ea850d85dc20d19bf4c8df27298c7218fc2fb6b8b": "2026-10-26T21:10:16.891573+00:00",
     "e6ac9a073a58ec9812a3e297385540a40ce96dec95db6736548fdad6bf4ebf84": "2026-10-26T21:10:16.891573+00:00",
-    "2d7551b5040028d358ff2b639130bf670beee034b8489ffd8fbe7e25d25b2db2": "2026-10-26T21:10:16.891573+00:00"
+    "2d7551b5040028d358ff2b639130bf670beee034b8489ffd8fbe7e25d25b2db2": "2026-10-26T21:10:16.891573+00:00",
+    "6e334036720029181e71f0801383d76b7ff9ec532701b096d0016eddac9792d0": "2026-10-27T01:36:25.788808+00:00",
+    "59846ea22f9eca800b9743347a0f30c71adb578de22f9f8c39d79d9790da0fec": "2026-10-27T01:36:25.788808+00:00",
+    "abf1acc46732e524f75ac1fe66bc79818996c9bd1065ea5629ec2edb3a10b1e8": "2026-10-27T01:36:25.788808+00:00",
+    "81f92ea0990153bbd6f9231c7298fb37f2bf3274bde247502e266b4af5edfb1d": "2026-10-27T01:36:25.788808+00:00",
+    "b6f19f6c421adf1fe76215f1ceb847cbe723b6bb8b642886dae1eb1f224fd672": "2026-10-27T01:36:25.788808+00:00",
+    "44d99e098e62e0ae038304516199d72618994c624241818eaac891f0243b3acb": "2026-10-27T01:36:25.788808+00:00",
+    "a05e364f5237ac0773ea024b6839391f655e83db74aefb6b2cff4df685dcf839": "2026-10-27T01:36:25.788808+00:00",
+    "925dbf7c5169d404c6921f8fd7eb76cb4306c3a8e54a45591c42f2a46df44bc3": "2026-10-27T01:36:25.788808+00:00",
+    "cd659385fcfed504029902f12d5e68676204b9933a3295c1a559d490a51eedac": "2026-10-27T01:36:25.788808+00:00",
+    "d922cdd2491395de7994f9aa2a94d442406ab120bd272d720ddfb97cbbc5e8ef": "2026-10-27T01:36:25.788808+00:00",
+    "8b7464e2f62d45b3775778b9bb183271762ae43b1a34bc3ec9019ea7bf03b759": "2026-10-27T01:36:25.788808+00:00",
+    "080ef9456bb84930fb478d375d0cbd88d1af54974085469f182fd0eb8f6c34b7": "2026-10-27T01:36:25.788808+00:00",
+    "bd3ce67f6087dff21b04ddfd398d56ab8ceda1381190d7b1a620d99ebbeb191e": "2026-10-27T01:36:25.788808+00:00",
+    "0f6119a1002cfc2a3516a4418a82cbe58cdcb08beb03c1cdcaee0ffd86d7db29": "2026-10-27T01:36:25.788808+00:00",
+    "23bcea5856b90c0488fb2521af65a288938706e1b0e801b6f57ccda21efc9825": "2026-10-27T01:36:25.788808+00:00",
+    "4a7d70c54391814c8c82a51ad4e12cbd76bf7316b36d3350eecaafd5b9566b1c": "2026-10-27T01:36:25.788808+00:00",
+    "b879485b6b1ee6f8402ae8633648017ffd360de7e7ecd860966064d5e491e776": "2026-10-27T01:36:25.788808+00:00",
+    "7a3f6c3e78ddf27ee5068ecea14b693d39eb9355d5af8f7319471882a1a0ad29": "2026-10-27T01:36:25.788808+00:00",
+    "aaa33fd690f33559de1de24151da412fc6b156ae89bd2444ddf2ed290e5f46f0": "2026-10-27T01:36:25.788808+00:00",
+    "c66a1a1d14d99dfa5e78d42cadba3faaffe56927bd952cd70eef6be85db6f78a": "2026-10-27T01:36:25.788808+00:00",
+    "8e2b7ac21b8595e86dcecac648af42155a9434c80d517014aafdfd09f09d47de": "2026-10-27T01:36:25.788808+00:00",
+    "5e8dbe7f20a83fd5ea88a1f5359468c4410136660d1ebc2c8d812f4649526f87": "2026-10-27T01:36:25.788808+00:00",
+    "83ecdecc69706954319594fe970bc953c6431fd971d2ebbcd4f3d00302362c8e": "2026-10-27T01:36:25.788808+00:00",
+    "483db66d2d2457101f48575f7c21efa092974a91a862375320abea9c647255c1": "2026-10-27T01:36:25.788808+00:00",
+    "ea9c2a0cea36f6042b06e8092c619f1f506956a65167ec37d192d5e74e6e848a": "2026-10-27T01:36:25.788808+00:00",
+    "16b362782f2d50e496feb54ad4831878584ba10d33c6b89eca2fe160aa3a1354": "2026-10-27T01:36:25.788808+00:00",
+    "4fdeac55f0e00e67a2a78627fd367eb749bf31de2e7810477cf8e16025e9a679": "2026-10-27T01:36:25.788808+00:00",
+    "08e7aec9d6fe66e9d4d449f4fc9523bd9f87cc2d93a4a009df36bcca3d4f74e4": "2026-10-27T01:36:25.788808+00:00",
+    "74e2ef1f0f8803f32e5719686b72a3d88b101dfd4642829955b94c99bceec2a7": "2026-10-27T01:36:25.788808+00:00",
+    "a3cb35e9b89a522742d8c871a4117565dbcc9990959c62f2c02af338ebccda4f": "2026-10-27T01:36:25.788808+00:00",
+    "f8db32e7763b3f35953ba063ce17d0852b372855911dd843171686b96605eb7f": "2026-10-27T01:36:25.788808+00:00",
+    "752d5abfe724793a06a57ab1f35fb0d1ef7583ab46988c63294bbfdde537a3ce": "2026-10-27T01:36:25.788808+00:00",
+    "96f00364417848bf7bc5355d35a7c9c25e5ed05bfe5a1b797a4a895bb20056de": "2026-10-27T01:36:25.788808+00:00",
+    "93435475a8240381b3c4e292929465ba6708f1c7acd327c35e9846c159b39347": "2026-10-27T01:36:25.788808+00:00",
+    "ec72601cf0847928b1972f969477a866d672ded404f930a9ff296ab229a6a3cf": "2026-10-27T01:36:25.788808+00:00",
+    "9a2f999bd819bacd6cba5b11a56c71354b20e0b6f8c1a2d015e8f2c6c698dad1": "2026-10-27T01:36:25.788808+00:00",
+    "645b6a5e56bddaff9f56d70630c4b5eb1658450246b0ce8df65b4a7a14778197": "2026-10-27T01:36:25.788808+00:00",
+    "594525c4be0959c8353ad8e4c9315b7368e3dd63b24433bb29d9d9c95ad1f6f6": "2026-10-27T01:36:25.788808+00:00",
+    "1885ef3859bd229a04bd10627d9185778f2c47ce949010bb4e47e0f0582863df": "2026-10-27T01:36:25.788808+00:00",
+    "7c8864a9305f082c87458dfce9bc515f9954c0ca649f834a5346ef3b79f58223": "2026-10-27T01:36:25.788808+00:00",
+    "fe583998239deccfd86d7dd9fc2a37fbfe56b5f7efda7e471aa28a04f67fd617": "2026-10-27T01:36:25.788808+00:00",
+    "0d9b4091f8d05cb772b1fa18bd0f07d098c3e5329703331e6c539016298442ad": "2026-10-27T01:36:25.788808+00:00",
+    "128fc2879268d481a2a0af171e6ef523ff20cc0f630a8c4c6caafe47a99e6fd8": "2026-10-27T01:36:25.788808+00:00",
+    "514609bb8be1f186354593dc5bda540b0da83a000cf457eb3b6bbdcc819518ac": "2026-10-27T01:36:25.788808+00:00",
+    "3524abb2fe6af466819969c17af5493c1c97021fc16a0294dbdbd57fbb572fe9": "2026-10-27T01:36:25.788808+00:00",
+    "9a39a67075e039f4e1504145419e677221daf63b65358b90a368d62545ba77ba": "2026-10-27T01:36:25.788808+00:00",
+    "b8baeaefdcb515ca0e3e837c8ed360619ec7933e9fb5ba1028f1e92af19e14ca": "2026-10-27T01:36:25.788808+00:00",
+    "3d48170c46f63c2a9598bf76d73dc5a78edaaf93c7ec313a70f948d982a2dfe3": "2026-10-27T01:36:25.788808+00:00",
+    "fd6dc196820611adbc9ed15b2a4657beced6753b887811d85e0cbac45d0eae91": "2026-10-27T01:36:25.788808+00:00",
+    "71b71f40eddef40af95eedb03c08f9903331754673d873369b3d466ad714f12e": "2026-10-27T01:36:25.788808+00:00",
+    "6dbde70b8e101ace01e937ff78933073d9564ed98d78dd8fc7f797f689ac9655": "2026-10-27T01:36:25.788808+00:00",
+    "f7bf6b8b56fb3a3eef8f93d9f06442fe18311effa7a7955facf315f0031c267f": "2026-10-27T01:36:25.788808+00:00",
+    "e9e2d542a8198f55cfd1c8491a8b3c3cd7ecfe1c7e209f10a0e7594f8b597426": "2026-10-27T01:36:25.788808+00:00",
+    "97144013c68ea3185b34ee7aea63793ddcf675be86e09591f90e1271fb12191e": "2026-10-27T01:36:25.788808+00:00",
+    "05cecf74d07eea91c68d4e8503f8542c76159c508b839494317371463a50015a": "2026-10-27T01:36:25.788808+00:00",
+    "5459e275cf6335938f0cad3d2589135f904725fc32c4ab6eae62f952f89b725f": "2026-10-27T01:36:25.788808+00:00",
+    "a5990c71a1be02de71dada859a9d0f2bbe15d539ec342b39733452ed43053347": "2026-10-27T01:36:25.788808+00:00",
+    "df4f08c39df94408b0066431efc2df9d78b4a37ee840e105cb495ef6ccf26020": "2026-10-27T01:36:25.788808+00:00",
+    "d6b596c1564309093f260e7e683b3d42a5217a836278b292938dfbad70b3c340": "2026-10-27T01:36:25.788808+00:00",
+    "0a695912e890198639710b64acfe0b2d91b0c2bc0ca380af7be535717ed00064": "2026-10-27T01:36:25.788808+00:00",
+    "64371e1bc4183df153d1be6c74b62c7b04ec402047487d182bbd93ebe63d02b0": "2026-10-27T01:36:25.788808+00:00",
+    "0ae107dacccfa64e870ae5a8f4c7c9ababdb5fa9203e5a6b7d750bfba641102c": "2026-10-27T01:36:25.788808+00:00",
+    "632774eef6e9e570f093cfe5f6038b2d6087a79284b70d9dfb215f5476be2648": "2026-10-27T01:36:25.788808+00:00",
+    "974cba23a36854bcab48aaf5369b76c47442e0a00ee1f49ebe4a3c7f2f8744c3": "2026-10-27T01:36:25.788808+00:00",
+    "045295ad425306815948d2cf747e12a33db062e50c71eebc80fddd28f3e8ac41": "2026-10-27T01:36:25.788808+00:00",
+    "3f1e605ff9d78f9c7c032b9686677b408366e30242b55fabd76b41d297a7eb17": "2026-10-27T01:36:25.788808+00:00",
+    "140b7ee72385387a0aa80fc37b83bbf62cfdfe9af8eaacc86ec74008bf22a40f": "2026-10-27T01:36:25.788808+00:00",
+    "7db1bcd58872f3320b6d59931e9c7a50580473036c899218f8b4063dba48676c": "2026-10-27T01:36:25.788808+00:00",
+    "7a5faaa6c4cc567efb404575d8a504333813534bf8969b295245e8883fb05aee": "2026-10-27T01:36:25.788808+00:00",
+    "b1e58448717586a08c632c4bd3396943b2a306788c1ddd462da11cbee6400066": "2026-10-27T01:36:25.788808+00:00",
+    "43dbdda3de5da3210c355d744ca25e4ca2037dcb72419d00f4b1f3f0dee34f91": "2026-10-27T01:36:25.788808+00:00",
+    "e7daf5447d3572e30ddd54f2a7d0160034bcf35dc75ef2107a036bdabf1e6379": "2026-10-27T01:36:25.788808+00:00",
+    "17747a1837a85652d5c4f9033c47e61d29fe9c1ad3cb124457d8889d750999e4": "2026-10-27T01:36:25.788808+00:00",
+    "db531ed641850c127a926578657f26562cc42d98d2e2f74ec18172e82fcc9755": "2026-10-27T01:36:25.788808+00:00",
+    "172ce2a1dc3038764e6ffd2842ca70d665d982f17193d4e37ac8817534f36d68": "2026-10-27T01:36:25.788808+00:00",
+    "209e337ddeb3314980b083192f16503e41031705d0d4a1e48d779a7df1d329da": "2026-10-27T01:36:25.788808+00:00",
+    "7f0f2efdd6aaaf600ccf70de1f982f57161d4fb4b7c1bf7cb2f57d96b8e42800": "2026-10-27T01:36:25.788808+00:00",
+    "f303c2cdd90ff93681909ffd33a6f2c708891c06192f14c26e6f835e010c16f7": "2026-10-27T01:36:25.788808+00:00",
+    "6d4e484a6fa3b7514f2f881c2bc2983d836519346caa684d1d75be272e70978b": "2026-10-27T01:36:25.788808+00:00",
+    "ca7f351615e625e72a788b31d1cbbf80a4a3faccda350f035655c2a065c2805f": "2026-10-27T01:36:25.788808+00:00",
+    "bca03517c01eae6789bf60a983c89de969e9fdeb08f4a0bd76c8ead6310dd186": "2026-10-27T01:36:25.788808+00:00",
+    "689a3b6aef002bb3507458a1ceb0d27129e957450fd554019988b9777f4a370f": "2026-10-27T01:36:25.788808+00:00",
+    "80ea9ef45d482fd424c7306efb2789ee8e4d0bacd7bd76c21cf937ad168544a9": "2026-10-27T01:36:25.788808+00:00",
+    "9060e4f17ff81a9a730422be9728daa03dea7a2a0c59150dd18de582005e7cf9": "2026-10-27T01:36:25.788808+00:00",
+    "6f7c5bc034eeee3131d0cf7b08936eab1f0051e71f120a3b0f07793caaa494f0": "2026-10-27T01:36:25.788808+00:00",
+    "e6f50314ab22d32573850079c0d37328e4f2d397482469b422a879e41105985e": "2026-10-27T01:36:25.788808+00:00",
+    "fd2f7fb0a721dc7c72d2d147fe3d5a27cdfb401497e688c3b455ae769cd01172": "2026-10-27T01:36:25.788808+00:00",
+    "db808c59abafd10e43778b1554ddd06dc9e8d9f20f0d1cc831f1260b05f00cfb": "2026-10-27T01:36:25.788808+00:00",
+    "95180bbe719bab4dc0dbbb86b90185ec29d8f84db6b8ce68f3f2f28b332ca0b8": "2026-10-27T01:36:25.788808+00:00",
+    "5d06b5d8c42042cdf64fea212beb35d9d537a80efa033a446b12fcd7c4046512": "2026-10-27T01:36:25.788808+00:00",
+    "d3376f52250f5d3cb31e3f23ac1496526500b4859a1cb4db61d8e22c9682c8ee": "2026-10-27T01:36:25.788808+00:00",
+    "159d23c611460a7052dcda2633f0cfcc68b3aa48bb615e9a4bc893d47b1f25de": "2026-10-27T01:36:25.788808+00:00",
+    "ad36c995853014b69619c44489915ce0bb6fbcfe8a84a86d2e00fb8fb0a64af1": "2026-10-27T01:36:25.788808+00:00",
+    "beb2e96aba7bb8ae247b3a66e1cd3cb10a2008f002e054c82fc49de392d1564d": "2026-10-27T01:36:25.788808+00:00",
+    "862594370fb86e52ddf5942507689cc26a93217cd54f562fcc188049f52e002c": "2026-10-27T01:36:25.788808+00:00",
+    "bce57ff4087462d651633176dc4d84d557af26f9dfc6991db42969ffacbc36de": "2026-10-27T01:36:25.788808+00:00",
+    "0906f4e8c2cedacd45922c6b841e2697cd2223b0dde61ed83541cfb2133e50cf": "2026-10-27T01:36:25.788808+00:00",
+    "4ccdf8dbd6d0b5c54616930fcffb22184b3a544434195edeb064c0f8f5b68de0": "2026-10-27T01:36:25.788808+00:00",
+    "9dc0e26af01292537ffbc00e59a8b7bbf4ffb85682c769010bfcc76ca6d174f7": "2026-10-27T01:36:25.788808+00:00",
+    "029d8cb3f08626508a74d31ecddb948ff2d460e94f7fd0e04b5be41372dddc55": "2026-10-27T01:36:25.788808+00:00",
+    "6b948ac87045e32f3a76f7b3a4949b2e206c284e4806f28107b2988c427beacc": "2026-10-27T01:36:25.788808+00:00",
+    "d82a2b4e72d9e442e605c15e17362e4aadd1921a3b3204cf6da26aa36c47d2af": "2026-10-27T01:36:25.788808+00:00",
+    "e61eb5d7ca4655cf32835243e78cf3f13e73797de8788125811a55db6a338db6": "2026-10-27T01:36:25.788808+00:00",
+    "fe024b2f813aa3a703ae8160afae130961f6e12728e84661023d8077e416064d": "2026-10-27T01:36:25.788808+00:00",
+    "02f35c289de12b17e122db5a99c0abb692044f8cf93fdc5d951911c7b85c209a": "2026-10-27T01:36:25.788808+00:00",
+    "f94cd797ee517996cf58c8e96f2013af555090338c5126e6c72abdf4e9b2e536": "2026-10-27T01:36:25.788808+00:00",
+    "6044ec217acaabc6d7ba34c5c736a399fe1ee72fa382ceb4036df683b8b978b3": "2026-10-27T01:36:25.788808+00:00",
+    "c8aa0813dc3308f795f385a0f3ef24d93d31ee7d5907da30b10002393a505bb9": "2026-10-27T01:36:25.788808+00:00",
+    "9ceb911cae215591c356394bbd56c1566458f84eb617f69e8af96c6da8628914": "2026-10-27T01:36:25.788808+00:00",
+    "ad68f95a7cf5ec96b605b184e00c88eba8dca50f5c853cfa0efa4fcf51ce534e": "2026-10-27T01:36:25.788808+00:00",
+    "041326efaa5d6c5b7ed56d7e553b5e0cca69ac9258701659e5e63664e6f028bf": "2026-10-27T01:36:25.788808+00:00",
+    "92a4d1bdfcd16380e1b6f7669d60dc305692db85cac2f6dfec1f164fd2349eee": "2026-10-27T01:36:25.788808+00:00",
+    "4140da5849b5cee17362ccd16ef481a48ca87308f7e36dd291d7d7d83e3a5e9e": "2026-10-27T01:36:25.788808+00:00",
+    "d27c0b0e8ddf5a678e5f59951e42ac98b5589d45410e4e8f78db51852faa463f": "2026-10-27T01:36:25.788808+00:00",
+    "e786e4a25969ef7c452f7a4ad5af5ac9776a6fb6ca26d739aff156534d3a5885": "2026-10-27T01:36:25.788808+00:00",
+    "398f277bfa6f13afd39f8f7b279951bd89a5e5495e397d3e7766dc24a39ead57": "2026-10-27T01:36:25.788808+00:00",
+    "a783413a68a7acd5ab33f3fd3a6a9903fd9543cf7e7c055e76983aa7233c6b0d": "2026-10-27T01:36:25.788808+00:00",
+    "91fe0d780fa8781c206c946c2950865a78d43cc4884767938c50e95dc91723da": "2026-10-27T01:36:25.788808+00:00",
+    "4dc0c2e0188a8ddfae7d2d7de1289632a7ef5665ce5119f2b0b5f9a94e8c4368": "2026-10-27T01:36:25.788808+00:00",
+    "4ce4899e6e11ebdf04d5e8599a64262971716536b1a424672b05687a434bfe4f": "2026-10-27T01:36:25.788808+00:00",
+    "480ad1d23e3c6951017f432f251b92b29dafd8f23b48012a2f0abbe4cdff5fc7": "2026-10-27T01:36:25.788808+00:00",
+    "c4f32f9619e6dc4ae90c3721d642c1498688a82d23b67cf4c702c5387c55edad": "2026-10-27T01:36:25.788808+00:00",
+    "3116136f52eb56d716e879e20147aa8cb1710750461a4f62727180f86af0eefe": "2026-10-27T01:36:25.788808+00:00",
+    "1b8f9b4ce414fc5eb40f2665f94a12f9ae13d60e36df210f582e2b35ff306d0b": "2026-10-27T01:36:25.788808+00:00",
+    "3ed77d7bf7e53f6f79197e196f6b97ab57b3d67ee33839f033215a38f0568f3a": "2026-10-27T01:36:25.788808+00:00",
+    "9d2af304d1a405df524d6d87d2d10a49171cd4e760738d13b3a83de2b37be7f7": "2026-10-27T01:36:25.788808+00:00",
+    "accf58c209f7d2946f9fd86a85cc24d6b8b184365983b7a2374464b662130923": "2026-10-27T01:36:25.788808+00:00",
+    "bf6db32f1bd62a5e533b0e4fa5c6a7734f51b2c0010f8c5f2290f48efabaf7b7": "2026-10-27T01:36:25.788808+00:00",
+    "e2993ddd64790d2fe46f08db17a2205eadbfae56e895326e51f54481ad0ac134": "2026-10-27T01:36:25.788808+00:00",
+    "ba1744b0c3cb69864c9af58807ff6b350f941129e7be7e1abc97af290e20a865": "2026-10-27T01:36:25.788808+00:00",
+    "9f9f53b13a1c858ba02d76dc4726297c43e564b3105f58e4cfbdb44918999b66": "2026-10-27T01:36:25.788808+00:00",
+    "be386c1f1b40b07200781d6050d73dbe0c435cbdb82b400188760a47d6c3b9df": "2026-10-27T01:36:25.788808+00:00",
+    "aa72e05f9fae464e84948edf8a99926540e68fefb1a8a0db95780af064dea417": "2026-10-27T01:36:25.788808+00:00",
+    "612b3c2f925b50cf6d970a13dc74848fdf403e8f3cf4e85dcedaffb5a464e7e4": "2026-10-27T01:36:25.788808+00:00",
+    "2292dcfe38791283a95eef3d5ef46c8f17e467a822bf63ec2a3ce468f6e69004": "2026-10-27T01:36:25.788808+00:00",
+    "c3214aab8c2f9d08e20acd64a00cc45b7a034735389666cb87723aab90513a28": "2026-10-27T01:36:25.788808+00:00",
+    "07f96cdd0ec34001a248036561ce7b04186246c40c5dd103f011b57aa78916d9": "2026-10-27T01:36:25.788808+00:00",
+    "856da1c122fac34151969fb15ac55219baec717fd41ba2b48c49ce181d1df061": "2026-10-27T01:36:25.788808+00:00",
+    "74e16df2b5789ea46334a801e42e85ab17dde23bc99202d4e1703539c288a88a": "2026-10-27T01:36:25.788808+00:00",
+    "7fa4693340169f5e0e0b9d7ad7a4b70fb71519173dbebfa3b135a3a16aef2c77": "2026-10-27T01:36:25.788808+00:00",
+    "a495268bc61dba9717252a21513cc4697d4f1a04d1462b673a1854f55f3ed044": "2026-10-27T01:36:25.788808+00:00",
+    "5830d3cbd510b20f09157741b9e1d97918c564e35cc24428aad9dd4bc9d978d5": "2026-10-27T01:36:25.788808+00:00",
+    "d57288e028239b977a9f024c30036df8c36d190afa0e9b6b899309354fd3e7a7": "2026-10-27T01:36:25.788808+00:00",
+    "d987a08cd70659ff7508a6bd7fdd082c67250a74f13b1e2310414082ed953e3c": "2026-10-27T01:36:25.788808+00:00",
+    "2a0ca3cbfb77a6c52ce1d4dccae6c14f09b3db100948681a471bded743789b42": "2026-10-27T01:36:25.788808+00:00",
+    "17dd0fb5cf7f95531dc120fe050c2a0f0b79ddc4dc7e3a7b23af4801526908c0": "2026-10-27T01:36:25.788808+00:00",
+    "c793cf2cfd0d1564da877fe8ef3f1d352e53e93fbb9400514c91900f2c7bb250": "2026-10-27T01:36:25.788808+00:00",
+    "b8796d8c27149622edf9f9ce74bb9638e07f3a7953a2f82f36dde4de2331cc9e": "2026-10-27T01:36:25.788808+00:00",
+    "522cbe75c3d58ba2b6d290f32dc45a725d68c57d4a2a8f8ba797bea89bcb93c6": "2026-10-27T01:36:25.788808+00:00",
+    "ff994ab35759e75629055f38c68b4f7fabeaac971742097dde70e22707de5249": "2026-10-27T01:36:25.788808+00:00",
+    "ea3354ec88c46b43b9ddcfe69ecff97340268c80797c9c22e5e93d16224e7ec4": "2026-10-27T01:36:25.788808+00:00",
+    "34bafd352de681877d21bd4b335e4cbd5cd542280d7a5c3d0ed124fbcad8dfce": "2026-10-27T01:36:25.788808+00:00",
+    "87fb741237b9e8c81b0e25b24dfca0ce406ad83b02f60a1fa0be401dbd122f49": "2026-10-27T01:36:25.788808+00:00",
+    "90eb62da44f938f6ac78df258191382af7c3b79c8a25640c3d6a5e38e299c079": "2026-10-27T01:36:25.788808+00:00",
+    "ef827fb14ad635c8d855c05ee7b8ff852b555a0f4ab643c0757bd064b7231cbb": "2026-10-27T01:36:25.788808+00:00",
+    "83a585cd43f24ac3598409e96a17e7f815c1f68f5d94c2359d8c4b6c75b48d69": "2026-10-27T01:36:25.788808+00:00",
+    "b1e1ffe8ac4734b1e7049070cd8d0c425b04d2f23218b1e81fb6e103ae28ba47": "2026-10-27T01:36:25.788808+00:00",
+    "2435206ee30262522f35fc5f4869bdcfce6c13b458aacc2a4d70fe5bad69ca97": "2026-10-27T01:36:25.788808+00:00",
+    "207f47689a81cce4172151e1007b83633eedb205338588b740729da67ab6c392": "2026-10-27T01:36:25.788808+00:00",
+    "1e38a63e325bbd0d6b7f0782085fb6c72a581ef1f7a81fb2f0f7d9f32b8a3d9f": "2026-10-27T01:36:25.788808+00:00",
+    "488896ab917ccc1074954bad8c5eab6d03cfd2e7c67f61d17b83a7fbc1f8b654": "2026-10-27T01:36:25.788808+00:00",
+    "1355ddcc98ca9485874297e267135e12ca822f98304fa6795032d775b4abfe4f": "2026-10-27T01:36:25.788808+00:00",
+    "4e204d086f561a992bdbdec437d5832a6f4dbc0b08f27c25092e88d155932f2b": "2026-10-27T01:36:25.788808+00:00",
+    "1e0d16600e4fc7708c321e9da72bb7623900b22419d3f1e21c9091c13678da23": "2026-10-27T01:36:25.788808+00:00",
+    "271eba6d661b42153768816af07a443d02c020ccd96c340eebb0d2fa60ba0794": "2026-10-27T01:36:25.788808+00:00",
+    "03ec0c2d04ff7969bf076c8f6af5cda577deda7209f7212dd6edcfa0ae29f506": "2026-10-27T01:36:25.788808+00:00",
+    "1e4ccfe386ea6a8790eeb7a0ffddc1335dac424e3b2a8ff04d2b9d75f7bb568e": "2026-10-27T01:36:25.788808+00:00",
+    "54e85b623d63c1a0620d887e50bae1a679738ae394a8dee40454ee93eddebc40": "2026-10-27T01:36:25.788808+00:00",
+    "77f7f3f0f00de27fa777b64060a767afd2ed53c8bb1c2ce0ba7e921dbc782728": "2026-10-27T01:36:25.788808+00:00",
+    "e9a5237e064a18c3e35591f4f9d1918dd36999e256d94b2a6277ea9dd5f78168": "2026-10-27T01:36:25.788808+00:00",
+    "ef6adb9537fd09b5641b3f7cbe58c3f5abca9516394d6794972924e028070860": "2026-10-27T01:36:25.788808+00:00",
+    "f6db9560da7994f2ed788ea4200eff619ce3a502c17f0f17e9a6d1bd8eeb169a": "2026-10-27T01:36:25.788808+00:00",
+    "2ac13470bc710c5d8a0f1cb58e63fb299f28b25ca85cc413020caff55325c262": "2026-10-27T01:36:25.788808+00:00",
+    "632312450514cb5ae8908a968c0882d8536f8c55060113a4424f41654fe8c4c1": "2026-10-27T01:36:25.788808+00:00",
+    "4817f50b6e9a466bd5378f3c2798caf986973a4e0347cf1d1594953d0bf321bf": "2026-10-27T01:36:25.788808+00:00",
+    "a712dc8d3d3ad8ab3751c4d3e0c1a5662ea297804eddf5e272d9503cff5ec7c3": "2026-10-27T01:36:25.788808+00:00",
+    "9425f39bcd2fc393d3e2808a867817a8da03ead40e77d0ff07d4499b88a956d0": "2026-10-27T01:36:25.788808+00:00",
+    "5003d7701aa77a817b43e0cbff697efdea4c2643dd1d7415a0edbc5880661119": "2026-10-27T01:36:25.788808+00:00",
+    "7c3cd236b14f97a0ebd64bfdd54a333ed6245445a911f95527da82132a599d5e": "2026-10-27T01:36:25.788808+00:00",
+    "a6c482d1f0c0bd0f43e8901ecff225bf1fc9be6e887d2003705c6babdc2fd798": "2026-10-27T01:36:25.788808+00:00",
+    "c0bd4e9cdd052f96a1d4fd41695680375f6335baf54a87a957d50ed09b93dc33": "2026-10-27T01:36:25.788808+00:00",
+    "85721e2b3111587a9fe027b1ae672a201808336722dd06091b72375703467c27": "2026-10-27T01:36:25.788808+00:00",
+    "a167b0505abeaa7b1183eb419aaed6581115c8b8be4b1ef575bc32ced4d91596": "2026-10-27T01:36:25.788808+00:00",
+    "42c860da35a374bb63c6e0a8d9449da0c95a7652662afeaa818f3ec4bef8adc6": "2026-10-27T01:36:25.788808+00:00",
+    "9ce41040f78bbb00540f3c3c77fba34f4882d604d95ac68721326446e4e1680f": "2026-10-27T01:36:25.788808+00:00",
+    "77e44006c033b84f8ebeca23d6d492c01a7f135887b0dc1db1fbc716cbe42380": "2026-10-27T01:36:25.788808+00:00",
+    "e8edd2d9bb37d9733b54f36838fc3e9fc7fa39302209d2084b43798c7506be03": "2026-10-27T01:36:25.788808+00:00",
+    "a646b83f579f3a94b4a0153c9ec63514dfa94bacb0f600ce02bed467cc99771d": "2026-10-27T01:36:25.788808+00:00",
+    "fc73f43f6f2ceda6c94fd1e2e2d7a65f4e98e9d7ac8cdc66c17407279df36143": "2026-10-27T01:36:25.788808+00:00",
+    "6b84c8b191ecfabb9be9e79f44e9d13ed177855c1758556db9e55d46d325c161": "2026-10-27T01:36:25.788808+00:00",
+    "ca0564fd18ecca7075ff0c5794b948546cdacaa71e1da71e927282063c1ebd50": "2026-10-27T01:36:25.788808+00:00",
+    "f376455a724a79156d7cc3df01364066f0e2953c76dfa71cae7620d824b16253": "2026-10-27T01:36:25.788808+00:00",
+    "5c349225e01f76d79cde34ef3b485ae038d293714989fc20c4f7892ef8bf7b9f": "2026-10-27T01:36:25.788808+00:00",
+    "e97426ec724ecd3e4477e7eafdf05d1f73452c26446457f1ed0c89eae2105390": "2026-10-27T01:36:25.788808+00:00",
+    "b83025a522c3928201f5ba63bc3ae71153f6cfdf9eb1574cd4ea17537e059dc0": "2026-10-27T01:36:25.788808+00:00",
+    "658f4c8b6890fe8e7c0590f16664501154ca57548011856c00ecfdc95700e396": "2026-10-27T01:36:25.788808+00:00",
+    "b1ec4d93ad2903631ab2ab549a48010dd420eb0c9c1b927fdace64497a3a45fa": "2026-10-27T01:36:25.788808+00:00",
+    "90c019978121627f0f5350dfa6d0e30b382e158b387562b715e5dfe08faeb58d": "2026-10-27T01:36:25.788808+00:00",
+    "17f47dcd16451951aeb7ec6d592ab9dfd9d2de284479e77051b2c30cbbf54da0": "2026-10-27T01:36:25.788808+00:00",
+    "3fea62142f1ca88fbc4383d6e74cb14268359d5cef9b5c4444d79c50d3875361": "2026-10-27T01:36:25.788808+00:00",
+    "1804017fd29e7556c9100f100d77bba4a654203e2274063b561fa6a006eec5e3": "2026-10-27T01:36:25.788808+00:00",
+    "536dd917683e03d2fb49f6a429374348e36e99e56071158c1749c0b7f9edb9e7": "2026-10-27T01:36:25.788808+00:00",
+    "0b1acfed2642a7447c038ce1279476565f89ffc0723344f7da37ec9a3d85d4b6": "2026-10-27T01:36:25.788808+00:00",
+    "da96b2922c0bdd76426e6cdf7e5264e3498ae4671efa3364293dab18bab6935f": "2026-10-27T01:36:25.788808+00:00",
+    "33690fd10a9d5f84499465225a9bac7bb80d44b1f2d3707199e3fccdd539186f": "2026-10-27T01:36:25.788808+00:00",
+    "482f6ecf6dae0ca04e24c775191cc38788ba8e4225892d5a0bb75b6919cef1c3": "2026-10-27T01:36:25.788808+00:00",
+    "06c5351d158eba8b6ff9a3df6bdd8985a55f3be82a8b47719829b1c9460532cc": "2026-10-27T01:36:25.788808+00:00",
+    "5251508c7dbc8be61052697484083ab46ec782111137a30013c33290c9b2a13e": "2026-10-27T01:36:25.788808+00:00",
+    "dc852700226d6fb14639ecaba0394d5dd586f8eb59a9833265b7af21310c4c34": "2026-10-27T01:36:25.788808+00:00",
+    "3e84ca3b8839aa2eecfec39cb516825d3ace8c3b0c6d23247c0a7c33b5dbcf6f": "2026-10-27T01:36:25.788808+00:00",
+    "18f2840a6fa3aff3765a5ec332006ffcb96f1287b2595e321e903e457b3381c2": "2026-10-27T01:36:25.788808+00:00",
+    "085d5a7bb55472dbc102b5ec558bb4e5d10ad1bf233aa745eaad05fc31cca392": "2026-10-27T01:36:25.788808+00:00",
+    "5f2721007fecb05e6314d73807f0c71ce4c6513769a73f3af091eb3e089ab314": "2026-10-27T01:36:25.788808+00:00",
+    "073c0d2dde3e3ce6c3cd337d1125faddfc39128e5ac15471fbb5bb50e02b0c31": "2026-10-27T01:36:25.788808+00:00",
+    "6c49e260dbd5d996d2865e0a288d06a14003d0a6c7d87e0578e5a80f08ac0d94": "2026-10-27T01:36:25.788808+00:00",
+    "15004b77dbb3808a15331c21d637e59d55f4a0a95c1016ecadf41e0e73dcd1f7": "2026-10-27T01:36:25.788808+00:00",
+    "ba2be2d23725cbede9d2f697548e5b83429ed8f1a77302632a462a20764e0546": "2026-10-27T01:36:25.788808+00:00",
+    "3c13cf9d677e760cff6ea66d3432fcc53a3cc324a9e44e639047a3956b98cf73": "2026-10-27T01:36:25.788808+00:00",
+    "ff72839c2b3d2d42684f88bdf027e1c7ea73bca92db0845d95299b5c7cb50545": "2026-10-27T01:36:25.788808+00:00",
+    "fac9b2c09822333d89fda1de3863b88147e52875f3cf3b80598e9a29afc6740f": "2026-10-27T01:36:25.788808+00:00",
+    "0a66fdb77a99f0c7e5763309d5230037c22290a6bf76740afbd6923a41028877": "2026-10-27T01:36:25.788808+00:00",
+    "c2def1dd5caaeb8d8796375114a14ecc2356c621cebba1825112add5d6675a42": "2026-10-27T01:36:25.788808+00:00",
+    "20b41e17186035906651e6d65500e01fc3256b27b2eb3441223dd07c7d1984ee": "2026-10-27T01:36:25.788808+00:00",
+    "8e0914c9158f57e7aaac15d50f7849389e3d8da2dfd81308ccab778332a15c30": "2026-10-27T01:36:25.788808+00:00",
+    "b4c845b160e7aa250f622959643758b05dd55090c4a7b80c9ebae451d95d4cdd": "2026-10-27T01:36:25.788808+00:00",
+    "551f7bd6f2db432b226d2275e0fb97f2e955356b60f5de39d8fe1d6b1d452e2c": "2026-10-27T01:36:25.788808+00:00",
+    "fe0f4253343b6c7ac8c540505224c37f3c38795ea7eda22492b85d6f6e3b1700": "2026-10-27T01:36:25.788808+00:00",
+    "b6ab6678ad25feb7e2d0f1fecb052f9e2f6b9ddb1a9a0758ea82343008dc42c8": "2026-10-27T01:36:25.788808+00:00",
+    "f1798692e84960ad9a5e0d48ee392bc58f7e1f8d370d68e069adb8839d1b73d5": "2026-10-27T01:36:25.788808+00:00",
+    "1ea1166617faf15086922927ef76d02dcd9ee4319dcbdb3087fb70daf48ce721": "2026-10-27T01:36:25.788808+00:00",
+    "6b2994ed20a9c06c2fe9b2a9243b7438963317f600280fc8a408a1da224a4fdc": "2026-10-27T01:36:25.788808+00:00",
+    "855415f965f1b58d2bea39bc68c840fabd99b266ff4ae4484570f45aa12702a6": "2026-10-27T01:36:25.788808+00:00",
+    "2d947d7752bd50ccbfd1c567ca3aa6c9cd47570830018366c4e3a9692023e614": "2026-10-27T01:36:25.788808+00:00",
+    "f80c5a229b836b1cc502bbfc5a4971cce7fea5ca3f58c962c24f19fdc8c3fa78": "2026-10-27T01:36:25.788808+00:00",
+    "3a614a53207ca1851b78e9e30927b9479a1e4c14c75a6a40d2c8720b1a92502d": "2026-10-27T01:36:25.788808+00:00",
+    "f4105325cfedebb5d69cfc4bfd4642948e32e7969914da16cce2d25ca544418d": "2026-10-27T01:36:25.788808+00:00",
+    "64585f359fbd5156f18a2a5cd59d76fe4ba17f035d36d8cbe0458458961a2050": "2026-10-27T01:36:25.788808+00:00",
+    "40cbc8e837d52cce2df4921d67e73779c00be9992b949077fb1456ec0a5554a1": "2026-10-27T01:36:25.788808+00:00",
+    "0d35ef234826d21798e836fe038a490f46d090a5f68b3ab44129bb3e6381e8e4": "2026-10-27T01:36:25.788808+00:00",
+    "dd4c2170c77ddbc1b67d80890a54c0fdcabb782642de40df888925401a28f74c": "2026-10-27T01:36:25.788808+00:00",
+    "2792fc198fba84eac6d09c090af2ebddb491cb179e08858c12df7f2cda36c9aa": "2026-10-27T01:36:25.788808+00:00",
+    "0a0fcf869e55a5ba75dd6085996554bd5bb80f9dab132c11d5eed4de5bcd1b89": "2026-10-27T01:36:25.788808+00:00",
+    "0ee22ece9983eaa34b58783de9058306eeb6dc52b06249bfca5baa368c4ce9b8": "2026-10-27T01:36:25.788808+00:00",
+    "5e45902ddad8d9ecbbce92042446f40f47850f0eafa05fedc4428c24df4a2bb2": "2026-10-27T01:36:25.788808+00:00",
+    "096324984d4288dc5a614f3a87f61d46a95bbef40c90c36e8eeafd1edbfbad3f": "2026-10-27T01:36:25.788808+00:00",
+    "5c25d632dc4355b26dbd720161bbb54b7087590ed471803592c6c5bbf4559261": "2026-10-27T01:36:25.788808+00:00",
+    "398ea4ef5a671baa22ed9afb7e4cd21531c45c0ecf5c1e673797d52a318ccbb2": "2026-10-27T01:36:25.788808+00:00",
+    "a7f92706f59f442cf12287fee97b7b467b7b8f07960d446f2edf8db30d19a243": "2026-10-27T01:36:25.788808+00:00",
+    "18e6692befe4e4ccd39e93eae55841e8998cbfe426359460795ce7debc7ac1fc": "2026-10-27T01:36:25.788808+00:00",
+    "484c72ca2c6581f3ee45fbd6fefb2cde491d563258fab5ed6882d84d4e6c7c4b": "2026-10-27T01:36:25.788808+00:00",
+    "f7f0b8f6f643a6790139da9db31124c4e2f1c1b11fee8df1a6922d34f666b859": "2026-10-27T01:36:25.788808+00:00",
+    "3974674ac3bfcfcbd52f89d08c691ba4fff789edffad745b7f25b5521dc6d71a": "2026-10-27T01:36:25.788808+00:00",
+    "8ea69e3fcad49badfdcfd6b942faa715b7bf0744fe9ad774b9aa1fccd14d6160": "2026-10-27T01:36:25.788808+00:00",
+    "4c6408ba1de14884485e6dfd2175c1cd4d0a617ee82dc03b9c3a1e6799709a22": "2026-10-27T01:36:25.788808+00:00",
+    "7e69c5ce27eb08dfe3084e6904702876626f5f9430365aec65e9db8754f6c783": "2026-10-27T01:36:25.788808+00:00",
+    "a7bf94438d019a7a54558b20c41fe6b1329d03cc0aa7d9c952a404008d285e8d": "2026-10-27T01:36:25.788808+00:00",
+    "854f0a9380a83a862542022ad52eeeee2a343f19218ef4cb84260d801b930c4f": "2026-10-27T01:36:25.788808+00:00",
+    "0d3de6f01a65552e367bc04e4f5b2294ee50f54dbd718423de1ce4f185f07a6d": "2026-10-27T01:36:25.788808+00:00",
+    "e91086b5ee331f26253fefb7eb5194085b842980bd8379ed4daa02249a063fc4": "2026-10-27T01:36:25.788808+00:00",
+    "1eb7c397a4538085e2d93b7161162eb342b877b6022b5834c7533f4608b88144": "2026-10-27T01:36:25.788808+00:00",
+    "2f6367f13f3b17b0375432ea0dd95dc41ef3a1483465270eec0f54c7f9595099": "2026-10-27T01:36:25.788808+00:00",
+    "f83d909f178a5d916a995ae32728c55b5d3dcc4da210b7bf3fb6d9eed4d5d690": "2026-10-27T01:36:25.788808+00:00",
+    "7884868e37e8ee4ee37ca9c406d310114a95af907a605e649e3842feccd392f1": "2026-10-27T01:36:25.788808+00:00",
+    "4adcbf26fd778a77d9aceba58a8c11c0b9de1865e22087e333623e508e9c2848": "2026-10-27T01:36:25.788808+00:00",
+    "f0c6d4545d79d9d362cebdcd77add960f4556fd863eb881cc22bcfa77844fff4": "2026-10-27T01:36:25.788808+00:00",
+    "2a5dd85cde6263cccae761e012a782c75fb086bc7caf14f768e9218d33fc929c": "2026-10-27T01:36:25.788808+00:00",
+    "414336ccf19a01dd9df9d0ca14809db5e43d3bb4821d9a9f0637153dc1646e94": "2026-10-27T01:36:25.788808+00:00",
+    "ce1b9bc665c2a0a344e63de1c4268986eb35e77c4c1687ff3d7467ede2a9c5d3": "2026-10-27T01:36:25.788808+00:00",
+    "79e1147359d7d62fb01cfb9ea36e12d0a1d26b8b93b1debb132670707cf060f4": "2026-10-27T01:36:25.788808+00:00",
+    "37b29ae2fdedbfb1e6d3947f5ab77fa6dd3198ce54d27f3913e0ecb30ccf8c2a": "2026-10-27T01:36:25.788808+00:00",
+    "28195e9c63fc104e5b0dc9615fa91571872317bf71b3c719b328dbdbc055fe95": "2026-10-27T01:36:25.788808+00:00",
+    "9b6babd41373491108ee3ddae08dc353e573b9742b3b52f0ac18439df2b64394": "2026-10-27T01:36:25.788808+00:00",
+    "86986f06ff09b50c07b75352bc87c1328a6d56499fe583ed85eda85760da63da": "2026-10-27T01:36:25.788808+00:00",
+    "435c6ced1a353c706e348ae0b35638cc5b2e2fd6ab6545d4e128e2b88a5555e8": "2026-10-27T01:36:25.788808+00:00",
+    "0d58c3f7694d5dba32e862cf6b636dea8f79e0e00b7cc26d5e12981ae7e52a28": "2026-10-27T01:36:25.788808+00:00",
+    "968ca953f6831951a63549c2d12e774965cf78b829c48b990b2fbda8e2b684b5": "2026-10-27T01:36:25.788808+00:00",
+    "7cb55c7eb68e52ff26012a5c5d7a7c29991e4d601786dc0be477a8ab1fee7457": "2026-10-27T01:36:25.788808+00:00",
+    "0f21d0bd2adc697f7a64b1dfa40a27ee2ef82be49b2e5928f8d217a5d29ee750": "2026-10-27T01:36:25.788808+00:00",
+    "9c44e9ccb6f7342a06116c0c5659d26be7986e50ec9a8680f4e0f6b09c2a86b7": "2026-10-27T01:36:25.788808+00:00",
+    "227915294fcc20277563de4088d2f5aa69f83bf7af82f10bd4b4c3d8a9bc8fea": "2026-10-27T01:36:25.788808+00:00",
+    "1fc4598b013113c9cbce60193f6f81032f491553cbefce4e6f35ded0301ac3a7": "2026-10-27T01:36:25.788808+00:00",
+    "cc9bdf071296119a91622655ea5393523f77d9321b88e079f00cc162e5adeef6": "2026-10-27T01:36:25.788808+00:00",
+    "69d0a5ab81c638773f1c01831187eb951dd8e1af243dd4d09ffce91ca254f212": "2026-10-27T01:36:25.788808+00:00",
+    "bf9cbd882808df5cf7c6fe7c38557483bb5f717f55962d80eb70617cd3f42624": "2026-10-27T01:36:25.788808+00:00",
+    "9b45b704ffab96ac92021ed654cfa440a744f24ce11422fd02606597a4301b9c": "2026-10-27T01:36:25.788808+00:00",
+    "3b38e701a8e01dd1884b380033980648133f97e7c03a38a251b7f72501891b35": "2026-10-27T01:36:25.788808+00:00",
+    "40c08821e178d4aa7a6a99ae9266bda64d648f11b9a0e4c5e33d9c92ca819703": "2026-10-27T01:36:25.788808+00:00",
+    "ed13a304f1a1e62ae22996395e86deccbd96af45c66324fb13ce9f3215eba815": "2026-10-27T01:36:25.788808+00:00",
+    "e2349d5745ca4916d408af95cdfc4708dcfebade1c5a9ce0c134c9fbb17aeeac": "2026-10-27T01:36:25.788808+00:00",
+    "e7d8de04e68a25b21031fa8dcd3d3c97be9fdf3b5fc7bab4ec14e855d1d5e426": "2026-10-27T01:36:25.788808+00:00",
+    "b5ea66f89651fab1fa2b51ae093405fa6717e6d97eb990d69cdc54344f3106da": "2026-10-27T01:36:25.788808+00:00",
+    "68b25900049798378f50fe84bb58a27f3c518db2ff2cf5a5479997635b885180": "2026-10-27T01:36:25.788808+00:00",
+    "452a5a649ac70df70f95f29a7554a29941a9f651dbdf6034f8eeb5b3fd66a398": "2026-10-27T01:36:25.788808+00:00",
+    "fb865f5a9ca380978248713f16935fcd2da1097d322f8943080378ba7b39e8e9": "2026-10-27T01:36:25.788808+00:00",
+    "06e4676a3c4e33f0d2686353b7a1700255cc034f871e45a53f4122c7e4247fc1": "2026-10-27T01:36:25.788808+00:00",
+    "2c74ae5554d488f0eb4ebeac49dd430d1d3dd0509195beff996868a07af140c4": "2026-10-27T01:36:25.788808+00:00",
+    "80be133e3f7ccef2e2c6a6c9780a24f780d0d7f71d218e8fded69eacaef627fe": "2026-10-27T01:36:25.788808+00:00",
+    "fc2fa77fd66d79836c93455b0522fb11b6fe8ca0c4a4342a7d340d7071894a01": "2026-10-27T01:36:25.788808+00:00",
+    "726ce97436067ef3a481b847fb875bcd16462177ecec00e1dc251f9869196435": "2026-10-27T01:36:25.788808+00:00",
+    "ba3b1472119d83724e803a7477cd790ab67fa707c54360e8b757cb4b9aa2abe3": "2026-10-27T01:36:25.788808+00:00",
+    "abbd2d5fe9add1e1f737cef9d394415aaea6ead121b3c056d7e1c5e338091819": "2026-10-27T01:36:25.788808+00:00",
+    "fe3787f8b7ce34bf537d3ddb6631c2e384d96116ad8a9ead763d7177ad469171": "2026-10-27T01:36:25.788808+00:00",
+    "9e4e569b9d4d4973e3907968f82a060aa82f45b8a019fa591f6beed6aec05214": "2026-10-27T01:36:25.788808+00:00",
+    "62e1c7f1f703cc2cbb348588ada1a4a6dbd9c20c5082593347322637b28ed105": "2026-10-27T01:36:25.788808+00:00",
+    "cbaa1e86b29be97a034801559d0f5acc4dae170a014f8f2992614b8647579bfc": "2026-10-27T01:36:25.788808+00:00",
+    "874188817180e85526021606cfe6eb66a412507f6cb1f449045fc1b662575840": "2026-10-27T01:36:25.788808+00:00",
+    "501581733a47dd52916d95e1607fd0712a83cef635766403b85a32654c265442": "2026-10-27T01:36:25.788808+00:00",
+    "1d02ccf4e9d8f8ca9180918b70aa86b9b2ba8394a2d606192ae7903e7e0b6ff7": "2026-10-27T01:36:25.788808+00:00",
+    "bee1b9234869b1a31c09a2f73438cd62bdaff78b95f568a52922b70d9ca69071": "2026-10-27T01:36:25.788808+00:00",
+    "c7787ed521b71dbe458ff686f3dd169b509d32c37d30e159a68b0212f5065400": "2026-10-27T01:36:25.788808+00:00",
+    "f8aaa2e81c9367f76199d5bf2152f4875a11825bf829667adb3ef78e8b000ef8": "2026-10-27T01:36:25.788808+00:00",
+    "8798758e1e5fe36c49a0872060fb3425a50e698c4c247fd5ca813c5f9639cd9a": "2026-10-27T01:36:25.788808+00:00",
+    "4bd0187c1b895bdda8956022d0e119696cc3f23fb5d853f91be90610e8513f4e": "2026-10-27T01:36:25.788808+00:00",
+    "546200c2b11ea93115cc3a63a119aefc5d558c5ac7ae830eaf5e77fe8b18724f": "2026-10-27T01:36:25.788808+00:00",
+    "d413dd58025f8a23e118b25be1efdbbeda308edc0e30a45039753a7cacde0f89": "2026-10-27T01:36:25.788808+00:00",
+    "e528d060667f88a9f956782a2a17411e6b65087b459f1226d979b9f72825ff91": "2026-10-27T01:36:25.788808+00:00",
+    "a028a95f356b41ffbdc30dc20350ebcf1fcf3913acb8974f7c501fb1e1969cf4": "2026-10-27T01:36:25.788808+00:00",
+    "3f383f936ace1ce575df4192c3539a6054842a387aa7b4de452e5d2a887a0d0a": "2026-10-27T01:36:25.788808+00:00",
+    "6b594cc8a505bf8689b99272fad3d07aad55da9e751431d9c8d4ad01660bc894": "2026-10-27T01:36:25.788808+00:00",
+    "01b4f191db4febf614fdb2c8667389f38a1742ef9fb46657af684e3c00ed7692": "2026-10-27T01:36:25.788808+00:00",
+    "ce90a08e0ec2506ebd55bd691771e095dfa25d86606ea15b50ab84c3c7ab7b0e": "2026-10-27T01:36:25.788808+00:00",
+    "a949fc67cbfc0257fa542715c0d1fb49e12b8373cfa0f6c6068fa8ed8ea4891e": "2026-10-27T01:36:25.788808+00:00",
+    "101c7fb60ef63c2ca4d45f458e92f134cd69a299a2dff101ee463a2af395374f": "2026-10-27T01:36:25.788808+00:00",
+    "cdb2780e85603a4a4b4f8161633728c6919af74f52bc72d315f1647b5a9f8a3a": "2026-10-27T01:36:25.788808+00:00",
+    "776e7b70162cb9210f91504655e22e9dc4729d0ac09f4ace98ef52d3456f5f9d": "2026-10-27T01:36:25.788808+00:00",
+    "d12d67d5d63811c42032245e2c09313156d6e8b21dbfd41fcc26d636ffac4283": "2026-10-27T01:36:25.788808+00:00",
+    "6572c255ab0952ca7f6d6d5a0ecdbba994debf3c81937ec83f8382e61ea7636a": "2026-10-27T01:36:25.788808+00:00",
+    "f549aeb4ac716cadd35fd31d81f3d177f253b00d91d4c7f995674e28ed4b08ca": "2026-10-27T01:36:25.788808+00:00",
+    "327a60124b4261b669ae6b15c981bd72072ca631866ffc4894a30c9a4356cd20": "2026-10-27T01:36:25.788808+00:00",
+    "7dcaf682f9df44b3d2df1526a8ad5c9549d43116a6713dad81d4d35463569954": "2026-10-27T01:36:25.788808+00:00",
+    "97e0a3d7fef63ad2793478ae09267cd0e516ba3272a44ffdcd0174327d5c85f3": "2026-10-27T01:36:25.788808+00:00",
+    "5ff5c41c365bce0b8089e37ccd919e96e6e4ef2ac08409c784086c4000e29998": "2026-10-27T01:36:25.788808+00:00",
+    "8e17cd46cd9e9df2c31e49f5a45f15c637059a9de927384cd99c1f91c4a30ef8": "2026-10-27T01:36:25.788808+00:00",
+    "a7138bb28595172dbe15f369a276c7e90614a88726dea41881dbae07f026f2d7": "2026-10-27T01:36:25.788808+00:00",
+    "f8f617ab562cb2ca5f8dc85df12b63172d315eef4781971491dd65f9d60cc764": "2026-10-27T01:36:25.788808+00:00",
+    "6ad54d0064d1e006ed0aee6b1e01415214f0244809ac8389f318aa57f7a0d12d": "2026-10-27T01:36:25.788808+00:00",
+    "9c85b96a3df16b05fe91d04c8dd9985960f8c72599fdb27bac3d7a846d8f1870": "2026-10-27T01:36:25.788808+00:00",
+    "5f208329fb3ac3473d20749576953848bf7f965aea5056d38a60a7890734b90b": "2026-10-27T01:36:25.788808+00:00",
+    "9e298d2f8d97aab33ac9a47d38380e6cdd3fd188742c57aff59356d5fccc70f9": "2026-10-27T01:36:25.788808+00:00",
+    "c548418ef499cca859cfc1cded7064cfc8d7845c52785ad88f2d266d0a47d9a1": "2026-10-27T01:36:25.788808+00:00",
+    "ba70ea44972b21bdd6316ef4f67a55219ea817c49b6cb7c808e69502ffe25724": "2026-10-27T01:36:25.788808+00:00",
+    "d33fc76fa708c350aa6b87e7b77a24e1c66f4c9ad45082ac4dae2d176dbcd68e": "2026-10-27T01:36:25.788808+00:00",
+    "71fc39696f70c85c516241eaae4580d9fbb4f94836e8866bd9966a3e89ec371a": "2026-10-27T01:36:25.788808+00:00",
+    "f6490eef0acbcecc3cf2d53ae1302adce604b3f63bfc06b6007f46f581668cb4": "2026-10-27T01:36:25.788808+00:00",
+    "5fad42b7ad7843567ccd27345f218c46bcff1ac55b1d47d83d4134784abae6b7": "2026-10-27T01:36:25.788808+00:00",
+    "cde149df62d77023a18bb378ec4672d929804d033cb2b38f178c63c1e18a22be": "2026-10-27T01:36:25.788808+00:00",
+    "e783c543a05ffac0a6b2a8fc1faa0d5c65a1dbb5b362d87b0b38377cb4ab7310": "2026-10-27T01:36:25.788808+00:00",
+    "3f844e8abbc84dcf0b7d23cb0c548e9aa2d8e90f848e3b23678236657e66716a": "2026-10-27T01:36:25.788808+00:00",
+    "5e26655533e48a4cacd37dcc729039d7add55f794460e92e88ed0109196730e7": "2026-10-27T01:36:25.788808+00:00",
+    "6f9a9e8bfd928840f05e7cefff4687c7a0387136fe10558c0306c9066e919e98": "2026-10-27T01:36:25.788808+00:00",
+    "e7d20b0fedadc54dc451335e619a4c9330019fa51a175f022425e967d5d430b0": "2026-10-27T01:36:25.788808+00:00",
+    "a5db1b7e7e97036e2bfc347d44ecfc5703e15b485177e931a77238df4f509e30": "2026-10-27T01:36:25.788808+00:00",
+    "7229b94b347c206d4335a2cdcc5c8e2777faabff5245b199b1d6566fe08fc6a8": "2026-10-27T01:36:25.788808+00:00",
+    "8b2fb85ae4b31d7f3aca1994cd4641f1ad91572aa905b110b2ad4affc6ed064d": "2026-10-27T01:36:25.788808+00:00",
+    "73b2343e61ae7caca880afc4dfda85caa2d18d11b624883edb0b2060763ef52f": "2026-10-27T01:36:25.788808+00:00",
+    "f64803febb7509dafe0ac9578c08f821725cbdbd4707b2cfbbdcb8829468ad5d": "2026-10-27T01:36:25.788808+00:00",
+    "b63b8996d8ee4ea596b7ea17e306d86a8a06aea59ef1cbac7fbd744ff02e1938": "2026-10-27T01:36:25.788808+00:00",
+    "1921b72dc759f404faa8a7e93ab8a96a082506abefbca3caa945e78197d230b2": "2026-10-27T01:36:25.788808+00:00",
+    "fa51018370977ed1b98406795d17efb686cc78b374c3e50bf4c81105d7f876e1": "2026-10-27T01:36:25.788808+00:00",
+    "048fa2bc4eb5518fb20a19b316c720f890fa3371e4c5bbafee4c4e945ad50617": "2026-10-27T01:36:25.788808+00:00",
+    "61e97b2e448d38e2247ea05386ab8841f289eb079c306f02e8bf6794a6c67893": "2026-10-27T01:36:25.788808+00:00",
+    "216760dff62b36a2d49fea08b69e8e2815caa89aff7743004051146c1b208bed": "2026-10-27T01:36:25.788808+00:00",
+    "cb0a99835a70f29cccf3b2ff4db178cb17a7de73f06daa51ee2d99a9e7786e97": "2026-10-27T01:36:25.788808+00:00",
+    "edb94d0dce74f1efe66b97eee5ca95d4e85af6ed1f7703ce6b5e5b37ea44204c": "2026-10-27T01:36:25.788808+00:00",
+    "942a325bf10aa22f4e8687298f2660d08b5bcff56cd99c6b7c41525e5bcde73c": "2026-10-27T01:36:25.788808+00:00",
+    "46704445be17c0e9b93d1cb4e3c7ab01ef74331a3d7cc7a34d04ed4f21dc1477": "2026-10-27T01:36:25.788808+00:00",
+    "7b49ac35fa5064963d6c9a5fa6b8d4904e6d195ca6aee5569b7937fbe93daf8e": "2026-10-27T01:36:25.788808+00:00",
+    "3926805e9fbd392b1961ccc89d6d9c2ddfc58a1f63de8a75258b4f52ad4e871f": "2026-10-27T01:36:25.788808+00:00",
+    "9434cf28d318ff43e127cc7d1c4550755bc269aa3891f38d47f6f946df28a4a8": "2026-10-27T01:36:25.788808+00:00",
+    "3a391cfecd095faf34c6bf6332b9b786877ce3f800aadb48eb2b659efe3f9c0c": "2026-10-27T01:36:25.788808+00:00",
+    "b2f106af4c2742021ad16dadb89a7189260643bb4ab29035dac21268e543952a": "2026-10-27T01:36:25.788808+00:00",
+    "d9934c5bffbcd53988b3b521b237a6e31011e236e6203ed86bf657e856552166": "2026-10-27T01:36:25.788808+00:00",
+    "0a355b1a7563b4113bd7e6eade50955ad8c5c5efdd12a677dceca4a203d15890": "2026-10-27T01:36:25.788808+00:00",
+    "9b7a7ead6ed0220d46cb3d2fcab8193319d7baf845f11d456a559486a5e9efe5": "2026-10-27T01:36:25.788808+00:00",
+    "ad3f856ce70cbd2c44b5811a4f826fffae7848974264787506f6efc6f9b3dc53": "2026-10-27T01:36:25.788808+00:00",
+    "ffa5d013ee4831b2cf9c1877bd8a85b1004987cc9ba6ce3a8f3fc33860a8f9d1": "2026-10-27T01:36:25.788808+00:00",
+    "f4bc699aa74036c074111432a1a396925436a477d0af4ff59165c5a7d8517d00": "2026-10-27T01:36:25.788808+00:00",
+    "81f9cd02073d20dff72ec80dd23eb659c8a6b263d4beda611d5d39069629e150": "2026-10-27T01:36:25.788808+00:00",
+    "a4e809161dae81b4940cd511770a549214f4a05f9246d99aead2c1546daf5b7e": "2026-10-27T01:36:25.788808+00:00",
+    "b56d56c52b9e684ca46be78bd8a26fc2a3087d12b7048992e28ace18244a7930": "2026-10-27T01:36:25.788808+00:00",
+    "b7d3e6a27ff62afb1777367bf3fdf934bab366d8e2b45cd2e364a49db988cd66": "2026-10-27T01:36:25.788808+00:00",
+    "2be418292cf7536177afda95e483c85d23c0befd698bf11140c6fb52fdeff22b": "2026-10-27T01:36:25.788808+00:00",
+    "b8f88704a5a88f71c1b2391850170b2f28a999fdc8c302ca7d8c29c498213999": "2026-10-27T01:36:25.788808+00:00",
+    "91dc2928e90aefdc3c43a20870f40e18e518a879131d67f9679699c1c71d09cf": "2026-10-27T01:36:25.788808+00:00",
+    "9f0548f39a43de7b0db26effc398fb87fab7a33167dccc7d053598410578faf7": "2026-10-27T01:36:25.788808+00:00",
+    "32b965ef6c32c69bf765df72b78d3e4d6f82873c5bfbdb3f60c2c8c915fecefd": "2026-10-27T01:36:25.788808+00:00",
+    "5e419f217741ba2e12b03cbcfc24228aed430e5491fe5d32527df65f4f6b5c32": "2026-10-27T01:36:25.788808+00:00",
+    "0593b901a17af6ac23bf5dd45bd8ff7dc4f2c017c3451f620be89007e00e3c04": "2026-10-27T01:36:25.788808+00:00",
+    "e90e893a3a2cad51994698cbc16637fd33182999652caf9e1113a646b2b92eef": "2026-10-27T01:36:25.788808+00:00",
+    "752587c8259b7b0776cf9604b2c63f6b30b723e5cfbcd96990724eed2aef62ae": "2026-10-27T01:36:25.788808+00:00",
+    "a0bdc6e5e202e040fc4ffd5e88bc1b875779debe5a347b58ae12aaa08bea3f6b": "2026-10-27T01:36:25.788808+00:00",
+    "045bae518476d7a75f96774406f15a6e16ee3823371442254c7ce08eb5d7cb7d": "2026-10-27T01:36:25.788808+00:00",
+    "f1829552db7f07ebedb9d189d7552ddcca88e67884ee02c2e068f5ee34866ba6": "2026-10-27T01:36:25.788808+00:00",
+    "d6ff4281d7258fdd3c6db2003103854bd512a54c87c836b3a3807aee7bbb0a1a": "2026-10-27T01:36:25.788808+00:00",
+    "e2e375a529ef7b4633ad50491344ae6beaa18bb7b21747103f45d676dff94395": "2026-10-27T01:36:25.788808+00:00",
+    "13887c7526c2c1ebc50a27be26f7d7e699272f7e50f460fcf687c2b35828b84d": "2026-10-27T01:36:25.788808+00:00",
+    "49fc48d2af9f8bcd127430abbd60ac16f142b1c0ae8b06d0984bf5abb845650b": "2026-10-27T01:36:25.788808+00:00",
+    "5062b70f00c8057483389dc54a03a88f6219e92550a95998aa38554e68d38e5f": "2026-10-27T01:36:25.788808+00:00",
+    "f941c91b85cc6daeff4daf2c54610f47595c52b2202e6843fc6cae0a9633b3f7": "2026-10-27T01:36:25.788808+00:00",
+    "19f10c56a6a4b32542b30610b05c38da7ab56203485abf6fdb6ce0b6c206c06a": "2026-10-27T01:36:25.788808+00:00",
+    "b9b314f26e70673791c2ba49f2c019ba2cbf61e8c82340655a2cab4c50f42393": "2026-10-27T01:36:25.788808+00:00",
+    "adeb0dbbb5889618fe520463dfc9d873692ecda8ade115c3c7222f0dfd4dcedb": "2026-10-27T01:36:25.788808+00:00",
+    "04223d53706decae67aaa583c94d8e43769cf98d87ddd43f4e4acb0b882e8b50": "2026-10-27T01:36:25.788808+00:00",
+    "82b8a507c322e80163f2596990d106910bbc851919e23cb2a04e1b4ab4e6e1ef": "2026-10-27T01:36:25.788808+00:00",
+    "893f70337cacc568f9ad565a3add6d2314dbcc9ea2b4c68b44f4854a6d96b61a": "2026-10-27T01:36:25.788808+00:00",
+    "e81619b29dbfc5d876706a9d0c35f37b704d1eec642afe601cbee043e769541a": "2026-10-27T01:36:25.788808+00:00",
+    "25b085c7c21c689d020670ba256321144e7a5b852792d575138af75fcea9acf3": "2026-10-27T01:36:25.788808+00:00",
+    "5cb04ceef5e1dac15954af2c00d602dbe98b66aab264d244613b1977c77e719d": "2026-10-27T01:36:25.788808+00:00",
+    "0507b3ed73f74f82cf07c549de0bd3380adea71488a9158ba9229891ffdf71a5": "2026-10-27T01:36:25.788808+00:00",
+    "5db8219a5cfae2fca4aab92499121c90ecef92c92f9e171ef4c26ab9612b32d4": "2026-10-27T01:36:25.788808+00:00",
+    "4039246f811dee5695517e98d312bb8117545b03bec9103e92cbbfee86e0264c": "2026-10-27T01:36:25.788808+00:00",
+    "73fc4720924df0bfb0dccb1fe563a1a445828e86f52729833f8ef9de5e3aa8cd": "2026-10-27T01:36:25.788808+00:00",
+    "913fa928b332d04bd836109b450bc00681ce89115265ae4b76fd3db599abb7b8": "2026-10-27T01:36:25.788808+00:00",
+    "4d516ede865684ca18b972f1bfc7b058994949910449b4366d1042679f19eea2": "2026-10-27T01:36:25.788808+00:00",
+    "f7e132bc481fe990346a1d4deea0d546ed08f94715555d2ed49de7d55a778004": "2026-10-27T01:36:25.788808+00:00",
+    "033fa803e88c387383b01bab0c38179ac768a13931f7e216e2a91e6f86567eee": "2026-10-27T01:36:25.788808+00:00",
+    "05336419337a17f440e87a7e6936dd0aebe28699ba27592e5f33b93ece01ef0e": "2026-10-27T01:36:25.788808+00:00",
+    "9945daf64a26cbf3a72a3f51b8237d2113364da91add9b2dc84f91d42751a2b7": "2026-10-27T01:36:25.788808+00:00",
+    "d88c12899dba761b653b7aa2f4524850f5934fada51f4affcb80c815e8ba38a2": "2026-10-27T01:36:25.788808+00:00",
+    "f57dbe13d814db06386adcc1c099529779ca43bfb0d50644bf592ab4b771a576": "2026-10-27T01:36:25.788808+00:00",
+    "aa2aa0cb942b19054fb959a6e538dffc104117a51ef1258ac16add75f382f905": "2026-10-27T01:36:25.788808+00:00",
+    "935183e2f32c026c0a860ac374c5e24999f7d1157a5b6161906eb25a31319a30": "2026-10-27T01:36:25.788808+00:00",
+    "b4494806684c9b5d473630b4951edc8a24b98044c0c0a8e941e6384813869e74": "2026-10-27T01:36:25.788808+00:00",
+    "a601d5d8427e7a863568c72b9ca79106e89b5fec2785a41ccd4b88934d39d056": "2026-10-27T01:36:25.788808+00:00",
+    "91a75ba4995bfd7d1c33854a7b73ea3b3967a0cb8fa61d91d7175f822dd8fb37": "2026-10-27T01:36:25.788808+00:00",
+    "4b3adf85603dfbab46cc1935d0dae5ef4c8630809f9966cd663fb72bfef89d7a": "2026-10-27T01:36:25.788808+00:00",
+    "bd2b0c33eb055df29249e0efb53c2a47ff1d909aecef93d3caf00239cc78d84e": "2026-10-27T01:36:25.788808+00:00",
+    "f6ba5189b5c0384b58cf53ec12001019c2bc15a7d5f33d949371977047514f9a": "2026-10-27T01:36:25.788808+00:00",
+    "6d2db10cbce3eca30468c129623c1ed19aa99dd234816d6b57af5ca2f8659603": "2026-10-27T01:36:25.788808+00:00",
+    "eb9feeed99375fae877427c2c70e191c9b532e8b8e03227d8efeb736d3116ef4": "2026-10-27T01:36:25.788808+00:00",
+    "549fc3c3ca98265272991d9c2cf3aa017f5859b9604604c88cb24cbda3a9bc46": "2026-10-27T01:36:25.788808+00:00"
   }
 }
