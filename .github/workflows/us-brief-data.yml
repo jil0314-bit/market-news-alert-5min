@@ -2,11 +2,14 @@ name: 미국장 브리핑 공개 데이터 수집
 
 on:
   schedule:
-    # GitHub can delay or drop one scheduled event; retry before the 06:45 KST briefing.
-    # Mon-Fri UTC = Tue-Sat KST, after the US market close.
+    # 기존 06:08, 06:20, 06:32 KST 재시도
     - cron: '8 21 * * 1-5'
     - cron: '20 21 * * 1-5'
     - cron: '32 21 * * 1-5'
+  workflow_run:
+    # 별도 작업의 05:37 KST 실행을 이용한 독립 복구 경로
+    workflows: ["AI 뉴스 두시간 모음"]
+    types: [completed]
   workflow_dispatch:
   push:
     branches: [main]
@@ -22,33 +25,75 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      collect: ${{ steps.decide.outputs.collect }}
+    steps:
+      - name: 직접 실행 또는 아침 복구 실행만 허용
+        id: decide
+        shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          UPSTREAM_CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+        run: |
+          set -euo pipefail
+
+          if [ "$EVENT_NAME" != "workflow_run" ]; then
+            echo "collect=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          kst_day="$(TZ=Asia/Seoul date +%u)"
+          kst_hm="$(TZ=Asia/Seoul date +%H%M)"
+
+          if [ "$UPSTREAM_CONCLUSION" = "success" ] \
+             && [ "$kst_day" -ge 2 ] && [ "$kst_day" -le 6 ] \
+             && [ "$kst_hm" -ge 0500 ] && [ "$kst_hm" -le 0730 ]; then
+            echo "collect=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "collect=false" >> "$GITHUB_OUTPUT"
+          fi
+
   data:
+    needs: gate
+    if: needs.gate.outputs.collect == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
           cache: pip
-      - name: Install existing collector dependencies
+
+      - name: 기존 수집기 부품 설치
         run: python -m pip install -r requirements.txt
-      - name: Collect public data only (no Telegram secrets or sending)
+
+      - name: 미국장 브리핑 데이터 수집
         run: python collect_us_brief_data.py "$RUNNER_TEMP/us-brief/latest.json"
-      - name: Publish data to dedicated branch (leave main and news state unchanged)
+
+      - name: 브리핑 전용 데이터 브랜치에 저장
         shell: bash
         run: |
           set -euo pipefail
+
           if git ls-remote --exit-code --heads origin briefing-data > /dev/null; then
             git fetch origin briefing-data
             git checkout --detach FETCH_HEAD
           else
             git checkout -b briefing-data
           fi
+
           cp "$RUNNER_TEMP/us-brief/latest.json" latest.json
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -- latest.json
-          if git diff --cached --quiet; then exit 0; fi
+
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+
           git commit -m 'data: publish public US briefing inputs [skip ci]'
           git push origin HEAD:refs/heads/briefing-data
