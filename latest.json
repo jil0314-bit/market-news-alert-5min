@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-10-28 09:28",
+  "generated_kst": "2026-10-28 09:32",
   "us_session_date": "2026-10-27",
   "indices": [
     {
@@ -48,22 +48,22 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.34,
+      "price": 102.33,
       "chg_pct": 0.37,
       "as_of": "2026-10-27"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 100.44,
-      "chg_pct": -1.3,
+      "price": 100.47,
+      "chg_pct": -1.27,
       "as_of": "2026-10-27"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1328.84,
-      "chg_pct": 0.31,
+      "price": 1329.28,
+      "chg_pct": 0.34,
       "as_of": "2026-10-27"
     }
   ],
@@ -688,14 +688,6 @@
     },
     {
       "n": 4,
-      "title_en": "Robinhood stock falls 7% after earnings miss despite record trading volumes",
-      "source": "Yahoo Finance",
-      "score": 15,
-      "published_kst": "10/28 05:40",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSjJqWkVQVG12Tm05cXNIN2FLOTdYUlpOb21HaWd2SkM4ZkdtaGhGM213dWQ5U0tUcnFhYzIwVk5pSHF2bmhtLUFGN1ctdDRVQ2dmTVRTaHl5MDVPNWtja0I1REZ6aXdXWFNJMlRXTGVhT2U5MExoUlprbnZ0bWVMd1NYNTdBR2Q2Tjg5dzJ6Sm5QQXFXdjM5bXg5bERWTndCT01CbzRqUnJ2XzRvYVkwME9kWGJueGFxeHk3Y3pLeEJsOUxfcjVWblpNZWFFWXZKNXZLbQ?oc=5"
-    },
-    {
-      "n": 5,
       "title_en": "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193",
       "source": "AI: Reset to Zero",
       "score": 14,
@@ -703,7 +695,7 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ocTZ1V2FnQnZ6QXZ0UlI3VlJTSFN4amVoTHRpWU5ZRHJDa18wXzVIdFRMVWhlaXpnYnVqMzBDeXU2R0lTandKV01DbjVNb0xVdDZGWlNPVVI2Q3cwM2lSTjVzNmRSb1h3YmNNeXhDVTdmdjZVcXVOdWxZTmU?oc=5"
     },
     {
-      "n": 6,
+      "n": 5,
       "title_en": "Oil Falls $2 as Middle East Talks Help Ease Supply Worries",
       "source": "GV Wire",
       "score": 14,
@@ -711,7 +703,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWklaeXp3cVdZQzF5RkxoajE4QUNYSk9adUdjcUFvdVdnclJHRmJHbHM5YXI0a01RNW82VVVtTld3bmtTT1RaTXRVTUxaVGZmcTlJNGNBUm5ydVZLdDc5XzRndHlCdldGQldma1hvTEJ1eUFuOFdiMDN6bWFrd0pmWjFoa0NkQWFHbHNtVXVGazNwUQ?oc=5"
     },
     {
-      "n": 7,
+      "n": 6,
       "title_en": "Seagate Technology Holdings (NASDAQ:STX) Posts Strong Margins and Above-Consensus Guidance Despite After-Hours Slide",
       "source": "ChartMill",
       "score": 13,
@@ -719,7 +711,7 @@
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRUZJbFA2WHUtak5TV3dxNkc0ZVljazQ5V3ZxcVl6R2ZLMlM4LTA4SThDN1NkSmJGQXg1WDUzaVU2dXZCei1oUF9hc3FMNkpsOFM5c3dZT1pEaFBtLUoxeHZmZFZiZTQtNm9Ta1VkYnZXcmgwX3NlWklLOUw0U1RVTGQtT0JyVi1fMF9ycGt1REtKTmNlWkhIVmpkTXZoc3huOUh1aDNob3oxSnhhcXZNZDVCWHhVa0ZUdjQ0OENKMzJkNEd0RnZXbzUySUc0WmpRb0VaQVJMRzNWU3M0cUNmNXpCUThhRTJvQkNUck83ODhaYzBrU2FF?oc=5"
     },
     {
-      "n": 8,
+      "n": 7,
       "title_en": "Intapp (NASDAQ:INTA) Falls After Q2 Guidance Disappoints Despite In-Line Quarterly Results",
       "source": "ChartMill",
       "score": 13,
@@ -727,7 +719,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdXJiOHZzV2tWWFBNTDNVMTNlenN3Qzd0Uk1jWFZDNFpKUV94TFZYXzFpMDV4STJCTHJZaWFQT2pfb2M5U1hqUzNoSDFoVmRkU3lhcjl2NW1JYUVWSk4xS3YtcncwT1lpU0prblpldkJkSDhKNU9rcU9mWkpVVy1Tb3JsMU0wVmhodmJFa0x2ZjdLdHhUbTFKRG13MElBQV8yYUFzTnBDSnNyeThnUUlKTDVIRTRPclF2OHVUTkdDZjFpMUFfblVTN0hGaVZUZ1FBSU1QTm5B?oc=5"
     },
     {
-      "n": 9,
+      "n": 8,
       "title_en": "Stock Market Today, Oct. 27: SoFi Soars 13% After Beating Estimates and Raising Guidance",
       "source": "Yahoo Finance",
       "score": 13,
@@ -735,7 +727,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQazNQV0NfZXJucG5KdUJFbWVaWjY1NHNmdkJYb0NBZXF5QUxhLXNIVDhQcENKVjB4YVJod2tQZkhtc3RiMUk4UEVBNEplRUdReGZfd3diQldrejZfNGxFNURQS0F4cGhfdktPSG1xdGM4Uk5RTkpDWkpIQWJZeXNCT1d2MDl4dnEzNzh5RkZ2QWZiTDM3?oc=5"
     },
     {
-      "n": 10,
+      "n": 9,
       "title_en": "Houthis attack Saudi Arabia’s Ras Tanura refinery amid $1 billion ceasefire offer reports",
       "source": "The Economic Times",
       "score": 13,
@@ -743,7 +735,7 @@
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRUp6TFJMT3BlNWNXSmlzdDV5UnFkWGRLVzZQUl9BZEh2UUV4R1hTeUx3eER6Z3dtZEUxRDlNZGU2Y3RFSUJEVjFfVUNtcUpCSXZKYW5aZ0d1UVkwS21QVzZjS3BfZTVYc19HVjRMTjlOUHRCOVJIVnFLSWdSbnhRY2RieDhraTJfX2o0OURGYm9zUk41OVFhWHNOd1NxV2IxYUs4ckJvVG50TExJcDJNVkNRaVQ0ZVFpd0Z5Y2RFMDZhQmYtS0F4QWZqajBsNHZJdWtEaGd1RU02RDFoeXJib3BoWnhzbjFNRzhaN0lOY0vSAfYBQVVfeXFMTWlpVlFKQXpFTzhCYnJqV0VTTHY0OWpvT1g4alpyVFZFUjM1Nl96Y0Zrdks0aGxRMnNEcldVX25LQzZTVGtPT0ZrWWtoakV5eng0QjNKck9NdGhPN0RkdS1VbFZWbTd0ZGNEb0xmZXZQeU1SMHIzT0Q1a0ppY3l2b0ZYNTlYQlBINm9mQ2l2clBMOHFucGlMeGgwWHhoX0NRRXZzY01vVkpxT1lzVjhGS1A2V0Vib0RBX3FOdkNwTndYYzlzLU16ZXZESFI0bmVheXQ3V3NrMEtnMnBydl8zbWM2MlhIUHFVSzNPRmRJVXRMQkx6WC13?oc=5"
     },
     {
-      "n": 11,
+      "n": 10,
       "title_en": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
       "source": "Al Jazeera",
       "score": 13,
@@ -751,7 +743,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemlIMHJJMGZ1UExNeVFoQ1hrX0c1RGp2RGFYaWdNSUhUR2liSk1NTXFZRk0xYXU3ZklqbFdKZmRGMFptR2ZobWNoYTd4c3p5RUNWQ2lmVWFsMUVJX1BEX1hpVUY3TTIxRlp1Z05acy1YVzA1R1NhYlZfcG9FcDZ0czNaMDNJMlVTcFBGS3BkTnhBTko4eVREYktDUW8ycmxUWnhHZzRRb0hCVWRIQS1RNFpxMNIBuAFBVV95cUxNZVBoRWhBRGRtMTJQVktxNXpMaXhRaFdQeGNEVFdzUVpDQ1haVzBHV2U4NHJsRmxheVd2RWRUWGpCdzA2TzE1SFBocVNwZWtQMHd0ZFEybkdTbUNmOFYxcVJOdDFCaEFGU2pmbDdnSTZ2bVBqSW5MYl9DR1F2TjdCU3NuZVhiUEExNklBbk9za2ZYX0xhbDB1WjRnWGdjbzVCckMzdndwMmpaWm1EcjdxcVkyUlg3VzFh?oc=5"
     },
     {
-      "n": 12,
+      "n": 11,
       "title_en": "Robinhood Misses Q3 Earnings as Crypto Revenue Rises and Prediction Market Bets Grow",
       "source": "Yahoo Finance",
       "score": 12,
@@ -759,7 +751,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXI0SHZEc3U1TFNRT3hoUWpTRXZiYzYxZEhSSzMyM19iRzltQko0TXc3M1FQZkMtVUZGTFdLZEFobVpDTWRlQS14cnNlQjdzUjY2WHdTRmpZZGNPWHFpMzNGWHE4aW9iZkEyN0NtRXhYZXA2ZWYyWUc1WjY3M1I5R0ZVVDFrcGNsc3JqUFAtbldXR1BXcWZIeVAtNDROZXdLX2c?oc=5"
     },
     {
-      "n": 13,
+      "n": 12,
       "title_en": "Robinhood Falls Short on Profit Despite Record Revenue, With Prediction Markets Outearning Crypto",
       "source": "Yahoo Finance",
       "score": 11,
@@ -767,7 +759,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0lqWlFiZ29lS05sNlJ5aGstc1hWQW5kTjVKeG5SYnM3cU9DYWR5MGJPQXQyekx1LUtOVXh3QlFnSjUtVzV6WkxHRXpTYzhQZ2szTEJiQmR1dWN3UGRoWXg1YUJPNkxOcllhbDkweEk0M2NDRU1EYjR0eWRBU3pQbWZZdDZfdGRTRldyT2NuNUg3VkdpajNMZ1g4N1VTRGo4Q2Zn?oc=5"
     },
     {
-      "n": 14,
+      "n": 13,
       "title_en": "Micron Zacks Rank #1: EPS Seen at $31.29, +932.7% [2026]",
       "source": "https://tech-insider.org/",
       "score": 11,
@@ -775,7 +767,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNam9NTHZpbkRkdldESmJCUUFHaDR5Y0xtTjZGZ3dMakZsLWhpZUtDVDV5NUJQTExQR25IblVKdHg1eE1jQ1JDMUVsbnRfajZzeWZoVXZ5UTNmSVE1c2x4a193dGZzeThtMjB4UFZwcTlqdXU3N1drdHRJeTVucm5HVWRRdm8wZw?oc=5"
     },
     {
-      "n": 15,
+      "n": 14,
       "title_en": "Stock Market Today: Nasdaq, S&P 500 Jump on Busy Earnings Day as Tech Stocks Extend Rally; Boeing Weighs on Dow; Oil Prices Decline",
       "source": "Yahoo Finance",
       "score": 11,
@@ -783,7 +775,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVZVZU41WDR2cm9hMkhTeEo0a0FGMjk0eHNKTS1kWm5HVDFFRFNwSXkzQ2M3bmJCVjNVc3QtUVpIUjkySE8ya0tiLS1hMW4wd1RkaFBhMHowQWVIdWkzcnhmczR3SnI5SFJETEw5b1RfYmxEang1WlBoMWhLeHRKZGNMU1hiUWo1ZmZDX0xWZ1I3OHUzOGZz?oc=5"
     },
     {
-      "n": 16,
+      "n": 15,
       "title_en": "SK Hynix Affiliate Solidigm Pursues $45 Billion NAND Plant in US; Approval for China Dalian Equipment Is Key",
       "source": "BigGo Finance",
       "score": 10,
@@ -791,7 +783,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yNXc0MFdnY01EbC00dzBNYW9zR3BEaTNKNjFidmxEUGRDV3BoWU1BbWIxVTZ0MkxYY3B4eG1BaGNueXlnUnktX0FscGZxa2dyMnc1Q2F6a0ZpX2xUNTZZZmo1bUt0SjM0amc0UWZhUFVKZWdpRmc?oc=5"
     },
     {
-      "n": 17,
+      "n": 16,
       "title_en": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
       "source": "Yahoo Finance Singapore",
       "score": 10,
@@ -799,7 +791,23 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwR3dOYjE3WFNiWHJyVlFBM0NSRklETno5Mjh3YjFQbEhXVDNuU2FQWURiX2pPWjhXUjhkLURpSWE2X0hNZFVSb1RyNUxoX09HZ3c?oc=5"
     },
     {
+      "n": 17,
+      "title_en": "Wall Street points higher in heavy week of earnings; GM heads to Nasdaq after 115 years on the NYSE",
+      "source": "Rocky Mount Telegram",
+      "score": 10,
+      "published_kst": "10/27 21:30",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWWFoNjFuZ0Y0YnRHZU11cGdZOVJpZEYwelRkZFdLZ29jdmVDd0prTHJUYkJJRzl0VlF6WGhYTW14WmF4UmRmNUduQnd2T29GRFZJeWdrWU1iN1I1dDFNSGlwdmNYNGR3UF9PQ3VvenVKTy1NOXJmc2o2YVE3R2pIenB0U2xfWlAxeHFFcnZId3FJVmhXNV9yRHNKUURDZF9GZ1diWG80TUJ0VUgzLWdtZjRWbGstemZBbHVnaWhnbFlRZFV6MEhjS1F3d1lFbE9pV0pHWXRxR2hwdk44VUZILXdzVFdiWkNOcEJ5MU5zVE5ReVNQUWg5Yk9GZkk4angxdnlvN3RtTQ?oc=5"
+    },
+    {
       "n": 18,
+      "title_en": "Risk appetite falls below zero; has the window for increasing equity positions finally opened? Amid the rebound trend in semiconductors, Goldman Sachs maintains its \"overweight\" stance on equities.",
+      "source": "Moomoo",
+      "score": 10,
+      "published_kst": "10/27 16:47",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb1BObUdzbVBuSGc5R094MHZWMFI5b0lZZUFORV9RZXR6NGJVdDZoYnM3NlljX3dXTlBkV0dTVzBYNjA3bUowVmVGTW5jVFFZTVIyLWw2c241a2tsbURfYUdQRGV6dnhwMWo2YkpiUkYyMXRmeTVNS0Jpb2lZMnFtTTYtVGIxYzRKczNNVElLZVVQTDdrbkpVaEFob051MUE5dzYwU25pdw?oc=5"
+    },
+    {
+      "n": 19,
       "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
       "source": "Britannica",
       "score": 10,
@@ -807,20 +815,12 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
     },
     {
-      "n": 19,
+      "n": 20,
       "title_en": "[Focus] 'Samsung Electronics & SK Hynix' Shaken by U.S. AI Investment Anxiety… Midterm Elections and Earnings as 'Variables'",
       "source": "뉴스워치",
       "score": 10,
       "published_kst": "10/27 13:13",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4bmEtYmROVGNZWExWS0padGhZaDdCV2xVQWdPeGU4c0hNVmFVUTFUMHlvZkZFUU9yelAxamFTTlJMeFFoRWZuck12c2h0NFp0cXN1X05lamZ2YUFlbXhYOWtiSFhnZk1td0E?oc=5"
-    },
-    {
-      "n": 20,
-      "title_en": "Hyundai Motor Securities: Solar, ESS to Rebound on U.S. Midterm \"Blue Wave\"; Limited Impact on Semiconductors",
-      "source": "BigGo Finance",
-      "score": 10,
-      "published_kst": "10/27 13:05",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLZzFJcF8tV2tsTDBHUHl4Tlk3Mkh1WDBSZERXT1BGYmxGdFJ1R2ZyRUUySnhXNHo3eGZPLXgwbGNtTmlCUjNTY2JMWHdLQ3phRVRjaTZ6OVBLSV8wbGlMMkU4TUZjNmwtYTlOX3JSM2NWMjNTOUE?oc=5"
     },
     {
       "n": 21,
