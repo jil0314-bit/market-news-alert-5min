@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-10-28 09:32",
+  "generated_kst": "2026-10-28 09:41",
   "us_session_date": "2026-10-27",
   "indices": [
     {
@@ -48,22 +48,22 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.33,
+      "price": 102.34,
       "chg_pct": 0.37,
       "as_of": "2026-10-27"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 100.47,
-      "chg_pct": -1.27,
+      "price": 100.71,
+      "chg_pct": -1.03,
       "as_of": "2026-10-27"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1329.28,
-      "chg_pct": 0.34,
+      "price": 1330.96,
+      "chg_pct": 0.47,
       "as_of": "2026-10-27"
     }
   ],
@@ -672,6 +672,14 @@
     },
     {
       "n": 2,
+      "title_en": "Oil Prices Rise as Iran Talks, Houthi Attacks and Middle East Tensions Keep Supply Fears Alive",
+      "source": "Newstrack English",
+      "score": 16,
+      "published_kst": "10/27 23:40",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNjhrU1VZTy01OFlqeVRsVldtWGw0aVBEbVFmNGhUYjNxUFRVdUFsWlRxZUNkbHpWTVlNcmJ0czBvOUl3RXIzV3hFWUJ6TmlLdjl2RFVGa1R1QjE4ampHQ2hWR0RwekY0VlpfVXVqYnhvV01UY3J4ZS1YSDMxMXd4NGRiMUwtYzB4TFZXd0JzZXpjcVZCd0VBQjEyNWEwYThLTW1kV1BiSHR1aEJFUzV0WFRYdVlhY2tBZHl3Vk8yT21TYl9BSU04YklBTVJHU3FEUHRBaGVCNVlUQ0dZakHSAd4BQVVfeXFMTTY4a1NVWU8tNThZanlUbFZXbVhsNGlQRG1RZjRoVGIzcVBUVXVBbFpUcWVDZGx6Vk1ZTXJidHMwbzlJd0VyM1d4RVlCek5pS3Y5dkRVRmtUdUIxOGpqR0NoVkdEcHpGNFZaX1V1amJ4b1dNVGNyeGUtWEgzMTF3eDRkYjFMLWMweExWV3dCc2V6Y3FWQndFQUIxMjVhMGE4S01tZFdQYkh0dWhCRVM1dFhUWHVZYWNrQWR5d1ZPMk9tU2JfQUlNOGJJQU1SR1NxRFB0QWhlQjVZVENHWWpB?oc=5"
+    },
+    {
+      "n": 3,
       "title_en": "Oil prices slip on peace hopes, Saudi attacks fuel supply fears",
       "source": "Aaj English TV",
       "score": 16,
@@ -679,7 +687,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQVZPTDlxczBZdHJoYWlPVDB5WlZacmRVU1c5Qk9OS1Y3RXRvRzcxTU5SNlA4WTRJVHNlODJlSmNLS1JiTm9kN21TVS1acktVSzF1NTg2RnJVV3hHWlZIMlJBbXNFdzk1VHF0MXlZR21aVDJoa1ltREU5SVdQSGZWMk9PYk8ydlR0blNjU2JEUmRwM1BtLUw4LW14R3ZxMjBXZmc?oc=5"
     },
     {
-      "n": 3,
+      "n": 4,
       "title_en": "Robinhood stock falls on earnings miss despite record trading volumes",
       "source": "Yahoo Finance",
       "score": 15,
@@ -687,7 +695,15 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS05XVXBSMWZnb0tLQW9CNVR5cF9WRVEyQm5FNURjc1NoTkVVMjBCTTM1WkNTanhCUFhhbkVZYm9xZEJXMGhRaV96eV9fMS10TFBxSVZNa2lhTk91czA3OFNjT1ZMSEhTNGtpdlVKQ3lIbEQ1QkNGdG01dXAzcGNmemJRcjdaV3VpMEtYMFJYYmFndzV3Y3dFMjdjei0wbDhlM3djUXRPQnp4cmh3Y2k5M1l3bWEzSGpNdGpVWEZsSHpPSktG?oc=5"
     },
     {
-      "n": 4,
+      "n": 5,
+      "title_en": "Seoul stocks open sharply higher on revived AI optimism, SK hynix earnings",
+      "source": "The Korea Times",
+      "score": 14,
+      "published_kst": "10/28 09:30",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHlvQnhjN21IcDU3ZVg3YWNESEdRXzNPdEw5bl9Udy1jc3l1S3lmQmFRMEQ3eXpHSXVFQUphQkVWeklJdzh0UEtGeWpaU0NJdWxmeWhxdkVGQzlGNEtsbGdCbUJjX05jYVVDcmdGQzRCNVVZaUR4N2lDeXZSNmlvd1FscjVTSGtYRDlYcDdfUmlkQ2pUUlVLZEtCT2xhbGJ0QUpJWHZlZ05zbm1zRl9ERmdTNkVGX1A1c2FZ0gHAAUFVX3lxTFBzeG1DZFJldDJvcHhXOFdJclIwemFtTUNJaVhlZ1B6UG9Ebi10RGw4aW4tWURqQ3hpVExxckM1T0dLaXN3VmhLNXo5WWRJZDdLYk5qR3o1REV1NV93dXFvVXlQSWg0TXlTX0ZYTTZnQzVILXFxOUpSZmRNYkxqRnUyN1RLd1o5QlFVWHRCQXgyaTg4WDNvbU5xRkJFWWNTSXoyR1kzT1RNTVRYeENWS2swTFBKX0FYYnNONHFaTWRYVw?oc=5"
+    },
+    {
+      "n": 6,
       "title_en": "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193",
       "source": "AI: Reset to Zero",
       "score": 14,
@@ -695,7 +711,7 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ocTZ1V2FnQnZ6QXZ0UlI3VlJTSFN4amVoTHRpWU5ZRHJDa18wXzVIdFRMVWhlaXpnYnVqMzBDeXU2R0lTandKV01DbjVNb0xVdDZGWlNPVVI2Q3cwM2lSTjVzNmRSb1h3YmNNeXhDVTdmdjZVcXVOdWxZTmU?oc=5"
     },
     {
-      "n": 5,
+      "n": 7,
       "title_en": "Oil Falls $2 as Middle East Talks Help Ease Supply Worries",
       "source": "GV Wire",
       "score": 14,
@@ -703,7 +719,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWklaeXp3cVdZQzF5RkxoajE4QUNYSk9adUdjcUFvdVdnclJHRmJHbHM5YXI0a01RNW82VVVtTld3bmtTT1RaTXRVTUxaVGZmcTlJNGNBUm5ydVZLdDc5XzRndHlCdldGQldma1hvTEJ1eUFuOFdiMDN6bWFrd0pmWjFoa0NkQWFHbHNtVXVGazNwUQ?oc=5"
     },
     {
-      "n": 6,
+      "n": 8,
       "title_en": "Seagate Technology Holdings (NASDAQ:STX) Posts Strong Margins and Above-Consensus Guidance Despite After-Hours Slide",
       "source": "ChartMill",
       "score": 13,
@@ -711,7 +727,7 @@
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRUZJbFA2WHUtak5TV3dxNkc0ZVljazQ5V3ZxcVl6R2ZLMlM4LTA4SThDN1NkSmJGQXg1WDUzaVU2dXZCei1oUF9hc3FMNkpsOFM5c3dZT1pEaFBtLUoxeHZmZFZiZTQtNm9Ta1VkYnZXcmgwX3NlWklLOUw0U1RVTGQtT0JyVi1fMF9ycGt1REtKTmNlWkhIVmpkTXZoc3huOUh1aDNob3oxSnhhcXZNZDVCWHhVa0ZUdjQ0OENKMzJkNEd0RnZXbzUySUc0WmpRb0VaQVJMRzNWU3M0cUNmNXpCUThhRTJvQkNUck83ODhaYzBrU2FF?oc=5"
     },
     {
-      "n": 7,
+      "n": 9,
       "title_en": "Intapp (NASDAQ:INTA) Falls After Q2 Guidance Disappoints Despite In-Line Quarterly Results",
       "source": "ChartMill",
       "score": 13,
@@ -719,7 +735,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdXJiOHZzV2tWWFBNTDNVMTNlenN3Qzd0Uk1jWFZDNFpKUV94TFZYXzFpMDV4STJCTHJZaWFQT2pfb2M5U1hqUzNoSDFoVmRkU3lhcjl2NW1JYUVWSk4xS3YtcncwT1lpU0prblpldkJkSDhKNU9rcU9mWkpVVy1Tb3JsMU0wVmhodmJFa0x2ZjdLdHhUbTFKRG13MElBQV8yYUFzTnBDSnNyeThnUUlKTDVIRTRPclF2OHVUTkdDZjFpMUFfblVTN0hGaVZUZ1FBSU1QTm5B?oc=5"
     },
     {
-      "n": 8,
+      "n": 10,
       "title_en": "Stock Market Today, Oct. 27: SoFi Soars 13% After Beating Estimates and Raising Guidance",
       "source": "Yahoo Finance",
       "score": 13,
@@ -727,7 +743,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQazNQV0NfZXJucG5KdUJFbWVaWjY1NHNmdkJYb0NBZXF5QUxhLXNIVDhQcENKVjB4YVJod2tQZkhtc3RiMUk4UEVBNEplRUdReGZfd3diQldrejZfNGxFNURQS0F4cGhfdktPSG1xdGM4Uk5RTkpDWkpIQWJZeXNCT1d2MDl4dnEzNzh5RkZ2QWZiTDM3?oc=5"
     },
     {
-      "n": 9,
+      "n": 11,
       "title_en": "Houthis attack Saudi Arabia’s Ras Tanura refinery amid $1 billion ceasefire offer reports",
       "source": "The Economic Times",
       "score": 13,
@@ -735,7 +751,7 @@
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRUp6TFJMT3BlNWNXSmlzdDV5UnFkWGRLVzZQUl9BZEh2UUV4R1hTeUx3eER6Z3dtZEUxRDlNZGU2Y3RFSUJEVjFfVUNtcUpCSXZKYW5aZ0d1UVkwS21QVzZjS3BfZTVYc19HVjRMTjlOUHRCOVJIVnFLSWdSbnhRY2RieDhraTJfX2o0OURGYm9zUk41OVFhWHNOd1NxV2IxYUs4ckJvVG50TExJcDJNVkNRaVQ0ZVFpd0Z5Y2RFMDZhQmYtS0F4QWZqajBsNHZJdWtEaGd1RU02RDFoeXJib3BoWnhzbjFNRzhaN0lOY0vSAfYBQVVfeXFMTWlpVlFKQXpFTzhCYnJqV0VTTHY0OWpvT1g4alpyVFZFUjM1Nl96Y0Zrdks0aGxRMnNEcldVX25LQzZTVGtPT0ZrWWtoakV5eng0QjNKck9NdGhPN0RkdS1VbFZWbTd0ZGNEb0xmZXZQeU1SMHIzT0Q1a0ppY3l2b0ZYNTlYQlBINm9mQ2l2clBMOHFucGlMeGgwWHhoX0NRRXZzY01vVkpxT1lzVjhGS1A2V0Vib0RBX3FOdkNwTndYYzlzLU16ZXZESFI0bmVheXQ3V3NrMEtnMnBydl8zbWM2MlhIUHFVSzNPRmRJVXRMQkx6WC13?oc=5"
     },
     {
-      "n": 10,
+      "n": 12,
       "title_en": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
       "source": "Al Jazeera",
       "score": 13,
@@ -743,7 +759,15 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemlIMHJJMGZ1UExNeVFoQ1hrX0c1RGp2RGFYaWdNSUhUR2liSk1NTXFZRk0xYXU3ZklqbFdKZmRGMFptR2ZobWNoYTd4c3p5RUNWQ2lmVWFsMUVJX1BEX1hpVUY3TTIxRlp1Z05acy1YVzA1R1NhYlZfcG9FcDZ0czNaMDNJMlVTcFBGS3BkTnhBTko4eVREYktDUW8ycmxUWnhHZzRRb0hCVWRIQS1RNFpxMNIBuAFBVV95cUxNZVBoRWhBRGRtMTJQVktxNXpMaXhRaFdQeGNEVFdzUVpDQ1haVzBHV2U4NHJsRmxheVd2RWRUWGpCdzA2TzE1SFBocVNwZWtQMHd0ZFEybkdTbUNmOFYxcVJOdDFCaEFGU2pmbDdnSTZ2bVBqSW5MYl9DR1F2TjdCU3NuZVhiUEExNklBbk9za2ZYX0xhbDB1WjRnWGdjbzVCckMzdndwMmpaWm1EcjdxcVkyUlg3VzFh?oc=5"
     },
     {
-      "n": 11,
+      "n": 13,
+      "title_en": "Seagate Technology Q1 Earnings Call Highlights",
+      "source": "Yahoo Finance",
+      "score": 12,
+      "published_kst": "10/28 09:04",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnlyakpqSG1wN0ExczBhSHBONHFjMWRhZk9ZWW9wZ3U0OG5wTEZHRkh5dmd0Wng0d28wWU1qOWV6eTR1UktFSm1YVk1iSURVNkVEQzBULTFQdHg3RFNrRW0wV0lNcFJieU5seFNXejlRREFRMWpfRXdJMjduY3BfVkF6QlFtWWNZUzg1a1FWOURsU0RLMUVzZTZRN25vdEpyWFE?oc=5"
+    },
+    {
+      "n": 14,
       "title_en": "Robinhood Misses Q3 Earnings as Crypto Revenue Rises and Prediction Market Bets Grow",
       "source": "Yahoo Finance",
       "score": 12,
@@ -751,7 +775,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXI0SHZEc3U1TFNRT3hoUWpTRXZiYzYxZEhSSzMyM19iRzltQko0TXc3M1FQZkMtVUZGTFdLZEFobVpDTWRlQS14cnNlQjdzUjY2WHdTRmpZZGNPWHFpMzNGWHE4aW9iZkEyN0NtRXhYZXA2ZWYyWUc1WjY3M1I5R0ZVVDFrcGNsc3JqUFAtbldXR1BXcWZIeVAtNDROZXdLX2c?oc=5"
     },
     {
-      "n": 12,
+      "n": 15,
       "title_en": "Robinhood Falls Short on Profit Despite Record Revenue, With Prediction Markets Outearning Crypto",
       "source": "Yahoo Finance",
       "score": 11,
@@ -759,7 +783,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0lqWlFiZ29lS05sNlJ5aGstc1hWQW5kTjVKeG5SYnM3cU9DYWR5MGJPQXQyekx1LUtOVXh3QlFnSjUtVzV6WkxHRXpTYzhQZ2szTEJiQmR1dWN3UGRoWXg1YUJPNkxOcllhbDkweEk0M2NDRU1EYjR0eWRBU3pQbWZZdDZfdGRTRldyT2NuNUg3VkdpajNMZ1g4N1VTRGo4Q2Zn?oc=5"
     },
     {
-      "n": 13,
+      "n": 16,
       "title_en": "Micron Zacks Rank #1: EPS Seen at $31.29, +932.7% [2026]",
       "source": "https://tech-insider.org/",
       "score": 11,
@@ -767,15 +791,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNam9NTHZpbkRkdldESmJCUUFHaDR5Y0xtTjZGZ3dMakZsLWhpZUtDVDV5NUJQTExQR25IblVKdHg1eE1jQ1JDMUVsbnRfajZzeWZoVXZ5UTNmSVE1c2x4a193dGZzeThtMjB4UFZwcTlqdXU3N1drdHRJeTVucm5HVWRRdm8wZw?oc=5"
     },
     {
-      "n": 14,
-      "title_en": "Stock Market Today: Nasdaq, S&P 500 Jump on Busy Earnings Day as Tech Stocks Extend Rally; Boeing Weighs on Dow; Oil Prices Decline",
-      "source": "Yahoo Finance",
-      "score": 11,
-      "published_kst": "10/27 19:39",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVZVZU41WDR2cm9hMkhTeEo0a0FGMjk0eHNKTS1kWm5HVDFFRFNwSXkzQ2M3bmJCVjNVc3QtUVpIUjkySE8ya0tiLS1hMW4wd1RkaFBhMHowQWVIdWkzcnhmczR3SnI5SFJETEw5b1RfYmxEang1WlBoMWhLeHRKZGNMU1hiUWo1ZmZDX0xWZ1I3OHUzOGZz?oc=5"
-    },
-    {
-      "n": 15,
+      "n": 17,
       "title_en": "SK Hynix Affiliate Solidigm Pursues $45 Billion NAND Plant in US; Approval for China Dalian Equipment Is Key",
       "source": "BigGo Finance",
       "score": 10,
@@ -783,7 +799,23 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yNXc0MFdnY01EbC00dzBNYW9zR3BEaTNKNjFidmxEUGRDV3BoWU1BbWIxVTZ0MkxYY3B4eG1BaGNueXlnUnktX0FscGZxa2dyMnc1Q2F6a0ZpX2xUNTZZZmo1bUt0SjM0amc0UWZhUFVKZWdpRmc?oc=5"
     },
     {
-      "n": 16,
+      "n": 18,
+      "title_en": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
+      "source": "EnergyNow.com",
+      "score": 10,
+      "published_kst": "10/27 22:53",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNE1fMzFiSjhrOFpJV21kajdMYkJEd20zcGM4Sm0yREpWU09IZnBwX0VyUk9LTWlHYWhDYXZCOS04eng0d1lPdVlKX2pZUjFwYzAwZkM4NWlDazVaSUFfRHlLaTczenpiZTdrb0lXd09XZTRiWHpNVGYxcDRjaHhoZ3JvcVFtb1VZM29raVc4RE9kUXBZWVdkbmktRU5FbV9hb1Fweg?oc=5"
+    },
+    {
+      "n": 19,
+      "title_en": "Oil Prices at Near Three-Week High as US-Iran Peace Hopes Fade",
+      "source": "EnergyNow",
+      "score": 10,
+      "published_kst": "10/27 22:44",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0dobWFMMG9yT29rOFBobWVVVkk1XzJaN0JtVWMzMHZiQmphdEk4d2JSb2xDMG1oODhzVW9BbGVOYVBISFRKd0p1QWMxUkItcmFmaGhIbTB6aWtaUzlsWFVhSHIxQ3lhZmlEQl9nZGxKT1dCcGFnUm90eWtlaE1YRGpsUG14VVNzbWpiLTR0SGgybVFWay0w?oc=5"
+    },
+    {
+      "n": 20,
       "title_en": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
       "source": "Yahoo Finance Singapore",
       "score": 10,
@@ -791,15 +823,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwR3dOYjE3WFNiWHJyVlFBM0NSRklETno5Mjh3YjFQbEhXVDNuU2FQWURiX2pPWjhXUjhkLURpSWE2X0hNZFVSb1RyNUxoX09HZ3c?oc=5"
     },
     {
-      "n": 17,
-      "title_en": "Wall Street points higher in heavy week of earnings; GM heads to Nasdaq after 115 years on the NYSE",
-      "source": "Rocky Mount Telegram",
-      "score": 10,
-      "published_kst": "10/27 21:30",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWWFoNjFuZ0Y0YnRHZU11cGdZOVJpZEYwelRkZFdLZ29jdmVDd0prTHJUYkJJRzl0VlF6WGhYTW14WmF4UmRmNUduQnd2T29GRFZJeWdrWU1iN1I1dDFNSGlwdmNYNGR3UF9PQ3VvenVKTy1NOXJmc2o2YVE3R2pIenB0U2xfWlAxeHFFcnZId3FJVmhXNV9yRHNKUURDZF9GZ1diWG80TUJ0VUgzLWdtZjRWbGstemZBbHVnaWhnbFlRZFV6MEhjS1F3d1lFbE9pV0pHWXRxR2hwdk44VUZILXdzVFdiWkNOcEJ5MU5zVE5ReVNQUWg5Yk9GZkk4angxdnlvN3RtTQ?oc=5"
-    },
-    {
-      "n": 18,
+      "n": 21,
       "title_en": "Risk appetite falls below zero; has the window for increasing equity positions finally opened? Amid the rebound trend in semiconductors, Goldman Sachs maintains its \"overweight\" stance on equities.",
       "source": "Moomoo",
       "score": 10,
@@ -807,7 +831,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb1BObUdzbVBuSGc5R094MHZWMFI5b0lZZUFORV9RZXR6NGJVdDZoYnM3NlljX3dXTlBkV0dTVzBYNjA3bUowVmVGTW5jVFFZTVIyLWw2c241a2tsbURfYUdQRGV6dnhwMWo2YkpiUkYyMXRmeTVNS0Jpb2lZMnFtTTYtVGIxYzRKczNNVElLZVVQTDdrbkpVaEFob051MUE5dzYwU25pdw?oc=5"
     },
     {
-      "n": 19,
+      "n": 22,
       "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
       "source": "Britannica",
       "score": 10,
@@ -815,7 +839,15 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
     },
     {
-      "n": 20,
+      "n": 23,
+      "title_en": "Oil drops from near six-month highs on hopes Iran war hostilities to ease",
+      "source": "Aaj English TV",
+      "score": 10,
+      "published_kst": "10/27 13:38",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa2VpQWd3ODJfLTN1amZWdFBHNzc0N0lvRkVTMlNRWXZrc2NuUTRwa0czNG5YaW5mc3FuaVJHZnNaejFGVWZNMGpxNF9yelZ5T1R2M2NLVnVYd1NTUkJQMHlYYzVLOEoxRU1rNGVlN3dzemh3cDM5ZEhSU05yQW5zVk93Nm0zUmF0N29RaGdIekFVaHpJcDFrbS1vSEdKd1dWay05dHJOMk1Ia1I3TW5pbg?oc=5"
+    },
+    {
+      "n": 24,
       "title_en": "[Focus] 'Samsung Electronics & SK Hynix' Shaken by U.S. AI Investment Anxiety… Midterm Elections and Earnings as 'Variables'",
       "source": "뉴스워치",
       "score": 10,
@@ -823,7 +855,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4bmEtYmROVGNZWExWS0padGhZaDdCV2xVQWdPeGU4c0hNVmFVUTFUMHlvZkZFUU9yelAxamFTTlJMeFFoRWZuck12c2h0NFp0cXN1X05lamZ2YUFlbXhYOWtiSFhnZk1td0E?oc=5"
     },
     {
-      "n": 21,
+      "n": 25,
       "title_en": "All Three Major US Stock Indexes Rise, Nasdaq Gains 1.18% as Memory and Optical Communications Sectors Lead",
       "source": "BigGo Finance",
       "score": 9,
@@ -831,7 +863,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXZTVpYnMxVGFvY05XUjhmODcxMmtSbzhNdkZIRmstdktGTHA5cVZtZWpjaGhjZHc3dHRDYUJMN0dqWGZUbEFFMW45cTU5OEliWWFyMVhOTmVheXdlSUdNenpqckZkYmo5ZzNGU3pfVkFCa1hzZ1E?oc=5"
     },
     {
-      "n": 22,
+      "n": 26,
       "title_en": "ASM International Raises 2027 Sales Target Three Years Ahead of Schedule",
       "source": "Startup Fortune",
       "score": 9,
@@ -839,7 +871,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1Rvb3FYS0dwVEZCZ1RYb3VqT2ZwRjNoVVVBaVBteHI5cFFYUUhtcWZtUXZvUlkxTE1ZbWRCZVk0T0VENUIyaVlVTDR1TGEycnduTk9PSEhTSG9HRUczUERzeWtLWk11RG5fVHNnalNmWUx2dEJQd2hGZktzRi0xRElCZl9xUHdCMjZUaU95X2dmVnd1Y0Fxd3pYY1lNT21IcEE?oc=5"
     },
     {
-      "n": 23,
+      "n": 27,
       "title_en": "Anthropic’s $750B Compute Ambition Puts SOXX, SMH and AI Infrastructure ETFs in Focus",
       "source": "Benzinga",
       "score": 9,
@@ -847,7 +879,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS3lmdlBramJDSFpPdlJIX0ctbmpOSWRCaVNlNC1UV1pOandSa1M1aDM0Ykt0WVpFNGZEbHZWR1hVci1xelhBSjIzT2ZNcWdlQXlENTNEdUtnclRSdEpPbE14eGxnQUJiZ2w4NWhfUzFfYmJ1VlNjaWhLbGZnSVlqbGJ4SkZFMnhRMVB5UlJkcnoxNFZvQ04zaUhwbE1fWk5TRjV1MEFTM0ZveDBDeGZLejdRM3VZZldMVUlqOWFKUVl0dC1fdTNnOER5bXROQUJIdGFMUg?oc=5"
     },
     {
-      "n": 24,
+      "n": 28,
       "title_en": "Stocktwits Tech Watch: More Big Earnings, Apple’s Touch-Screen MacBook And Intel Results In Focus",
       "source": "Stocktwits",
       "score": 9,
@@ -855,52 +887,20 @@
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM2hFNGJOUllvdzRCV2NuOXlWZG1RX1AxeWFSQ1FBbEVDT2QyaDI1eHNaQVNrZjRQMUp3LWtQdmllUE1LZ0dOUTVRZGIxMnRTSFNXZUY1VG8tMTZLb1BWUFpjbXJSUFJqTW1saGV6WWxtRkt1dnJWV2tOQWNhV1lRSm54WEtTTTFJelJ4b2NPcHktN0NlQnVOT1lGWFdqVmFSdnRpNnhhYnF0UHdVa1FZd2dQbGk2amRkakhyLXRhbk9fYTJIY2dHS1ZTVDVNZjBxZWVxekVUend5a0hFV0FyNnBRVzhCcUxKdG9XcTJFUklEdw?oc=5"
     },
     {
-      "n": 25,
+      "n": 29,
+      "title_en": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
+      "score": 9,
+      "published_kst": "10/27 23:01",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ESjBlRGpDQXhyQTFJSTNwY08zMnRrcVpJNTJlUkJpU0twRFF0M0FDT2sxempYcW96azJ0VUEtNkxXUjVOX2pGZ0ZHcnkwak13?oc=5"
+    },
+    {
+      "n": 30,
       "title_en": "Big Tech Earnings: $1.7T Backlog, $600B Spend [2026]",
       "source": "https://tech-insider.org/",
       "score": 9,
       "published_kst": "10/27 22:51",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc1EySnU1UGFOZjdGb2s3dkVoY3kwNmthcHI1MG82dmYxNW1EeUhYNTNmRDZlVnlNZzRKZW52QmpRMzJZemdhc1VvYUlJaW5hQXhGTlJVU3c0RDZfclBGa1pWbnhBY0VtVXJXNldKZUtJVm1RQXFWSE5FQzMxel84V0NlWlJ5MmxxRzlJb2NqV1NXdVZLRnNobUR5RFl3bnBfcWc?oc=5"
-    },
-    {
-      "n": 26,
-      "title_en": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, News, Quote & History",
-      "source": "Yahoo! Finance Canada",
-      "score": 9,
-      "published_kst": "10/27 21:44",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ESjBlRGpDQXhyQTFJSTNwY08zMnRrcVpJNTJlUkJpU0twRFF0M0FDT2sxempYcW96azJ0VUEtNkxXUjVOX2pGZ0ZHcnkwak13?oc=5"
-    },
-    {
-      "n": 27,
-      "title_en": "Taiwan Semiconductor Manufacturing and Sonoco have been highlighted as Zacks Bull and Bear of the Day",
-      "source": "TradingView",
-      "score": 9,
-      "published_kst": "10/27 21:13",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcWZZZ0FmcXVrU0hvakhNWkV5SEVBSVVKOHl5MU1hYk5lcDF4bTVSTVNsaS1zelJRRFdyT0JHaXR3T2JOUXNPQTZQMGVRX3FNZE1fODVjVU1mZlkwd05zYV9NVndlbDdzRVhYRHpEcW1IRmZ6WG1Ma05WYWFYSUxBYkY0ZHlyYU0tMmpmR1p4ZUc5aVQyOExYbmc4Yk1QQVBneXVQNEpwVFhBaDY2WTZNcmszWTZyYXNhYUhaWjBCd2ZKY3JMOXlHSGN0RDlWMmVEZkh1cHJKZ09Gamt2YTJaWjh6YkRGZ2Zkc2FVUHZR?oc=5"
-    },
-    {
-      "n": 28,
-      "title_en": "Magnificent Seven Earnings Preview: Is the AI Boom Facing Its Biggest Test Yet?",
-      "source": "StoneX",
-      "score": 9,
-      "published_kst": "10/27 19:46",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkc2YU1XQkgxWDY4MW9lVFdvTnBSNjdtOERDSDJ6Z3VQZFprcWllZTE1V2JmUzJjckxtTThLaVc4V1RuUkU1aTNXV3NBSjFleGk3bmxGTndkOGNvTlJxNUViWnIzeVZNYWI0VkZLZnUwa29IS3JSMzdieXAyUDF5OVNGRXhTU01oRG1wUzlwX3BqaXRXUERCZWRQem5LNDlRcE50NGoyaHJ1MnBkbHBySlFEb2lyTVBmQ0UwbVJUNmwzM2c?oc=5"
-    },
-    {
-      "n": 29,
-      "title_en": "[Exclusive] Samsung Electronics, SK Hynix to Launch Record $152 Billion-Plus Shareholder Return",
-      "source": "bloomingbit",
-      "score": 9,
-      "published_kst": "10/27 18:15",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmakpKMG5CbE5BUUxuM2N6RVgtaTJfRXB5NVlHanRlMmktWTNXTENoZlo0VUpCVzZfZDU1aFZ1MzFIaVZnYTVFNkpjSGZqU2dYOFFDQg?oc=5"
-    },
-    {
-      "n": 30,
-      "title_en": "Bull of the Day: Taiwan Semiconductor Manufacturing Company (TSM)",
-      "source": "TradingView",
-      "score": 9,
-      "published_kst": "10/27 16:00",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmZNeFZUcWhwWXV2OWtXb3cxazltMFltYWpFNnh3QUNqMEJLd3BBYWJzcTZWc2dJRmtCM2pBZlhCUVNUeHlXRjJCMlc2cXFOR055RW00WDBXQTMzc1N6cHlUcHVMNHZfcVNVX3VRbHNGamRyOXhUbEp0Q3hpVHlBOG9rZXFsQkZpR1JWeWdlNlZDaHp4b0Q4cXg4THdKVDVNbXBQZWpnaVNCSG4xaFVEbTg0VWhkQVhXR2c?oc=5"
     }
   ],
   "earnings_calendar": [
