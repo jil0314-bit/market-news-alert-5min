@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-10-29 09:51",
+  "generated_kst": "2026-10-29 10:00",
   "us_session_date": "2026-10-28",
   "indices": [
     {
@@ -48,22 +48,22 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.26,
-      "chg_pct": -0.06,
+      "price": 102.24,
+      "chg_pct": -0.08,
       "as_of": "2026-10-28"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 102.12,
-      "chg_pct": 2.22,
+      "price": 102.0,
+      "chg_pct": 2.1,
       "as_of": "2026-10-28"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1336.64,
-      "chg_pct": 0.74,
+      "price": 1335.38,
+      "chg_pct": 0.65,
       "as_of": "2026-10-28"
     }
   ],
@@ -678,11 +678,11 @@
     },
     {
       "n": 4,
-      "title_en": "SK Hynix Stock Jumps On Q3 Earnings Beat",
-      "source": "Investor's Business Daily",
+      "title_en": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
+      "source": "EnergyNow.com",
       "score": 14,
-      "published_kst": "10/29 07:02",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWEJiVDVuWVJnMVVCS0luMkxkNnBocjhpSWVvRHNqSTRNc19HN1VwcEtfRzZNazBKTWJTMnUtSGRTcXU4akFvTHpFTlVyV3d5SVpQVU1jTXdDdUgxcXZSMFBEei1XVjhscHg2Z3hmWUhJREJBalYwR0FrdEpzd3RWSzRzLS1BR0l5bEVsWTJB?oc=5"
+      "published_kst": "10/29 04:12",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNE1fMzFiSjhrOFpJV21kajdMYkJEd20zcGM4Sm0yREpWU09IZnBwX0VyUk9LTWlHYWhDYXZCOS04eng0d1lPdVlKX2pZUjFwYzAwZkM4NWlDazVaSUFfRHlLaTczenpiZTdrb0lXd09XZTRiWHpNVGYxcDRjaHhoZ3JvcVFtb1VZM29raVc4RE9kUXBZWVdkbmktRU5FbV9hb1Fweg?oc=5"
     },
     {
       "n": 5,
@@ -726,6 +726,14 @@
     },
     {
       "n": 10,
+      "title_en": "Microsoft and Alphabet Just Reported Earnings, Putting the AI Boom to the Test",
+      "source": "Yahoo Finance",
+      "score": 12,
+      "published_kst": "10/29 09:19",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFpfZDBQNy1JbzJMVnAyQTNXeTdvWDZnSGpoQi03MkZfLU1NXzJyekZrbzl5WDl6SV83bFVuUm9qVGIzOWVydFdfdzVDdDgxTFB2c0k1T3l4MlVSRS1iV19MY25iOFhMSEpLYjVkQmZyR09xa1g2aHZoYUY5UXJXYTNleE52QkVtUzJPWU5XVmliLXhGYlNMb2FzZ3dYRHMzbkZKSlR0TXF5UQ?oc=5"
+    },
+    {
+      "n": 11,
       "title_en": "NOW Stock Declines Double Digits After Hours On Earnings Miss And AI Concerns",
       "source": "Yahoo Finance",
       "score": 12,
@@ -733,7 +741,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGhYMkphV09WQlgzNVY5Y1JiRXJ5VXpoM29Qem9DOXYxXzdvcnFfcnRycVYtYmxoa3BIcE96Mk04R05CV1FMM2VjYWlXYnNadHFwVzBjNUZ4TEFLcXdMVEFoVnh4eUVZclU3X0NBZVp1d3JGcGtxcE96dF9IaUYyWDJqNXBWV255R2tEeGQ5LW1OUEVDNmJqU09XNUREQQ?oc=5"
     },
     {
-      "n": 11,
+      "n": 12,
       "title_en": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries — GOOGL, MSFT, ORCL, NVDA, MRVL In Focus",
       "source": "Yahoo Finance",
       "score": 12,
@@ -741,7 +749,7 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSHFrQlZMOWZ1cW96WjF6VHJLWkI0c0dPcmJweHlhU0swOFh5aW9tMDVEM1BpUzNnQndUVEs3cXpsa2hUX0FPMTFIa0pZc3pFWlJBMzRhbFNLTkhrZThfTTVVVzhUTWNyZm9PMkVvOWdGSDNaQkJZbjB1clJiT1RaamRTUGVMX0ptN3ZwUFEtb3lyQVk?oc=5"
     },
     {
-      "n": 12,
+      "n": 13,
       "title_en": "Jim Cramer says these tech giants can weather market turbulence",
       "source": "CNBC",
       "score": 12,
@@ -749,7 +757,7 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yRlBaVktxcDJxVDYwSHJBcFQwWVBlZ1VSNGtvbi00R2JEWUVLZ3JUYlNlajl0OTUwNzVidmY3eW1kRHMwQUVtQzVnVE5nbjMwSU16RmZJUUJpVUE0Zzc1Sm5GcXk2aDBYUTRQOHhhb3dvc196dzFWUG1IZWcyd9IBgwFBVV95cUxORER6OVIyYVN5Skl6bXJHZ2x6ZWlDLXdrOXlaVVVJQkF6WHVQT2oxZ3lXNi1ndHhzc1k0X1ZUbU9YSE04NFNBUWx1UGl4RnVlTUhnRmdfTHNSNVZ1ZURPa1RuU1lza1FHc1lTLTg3WXA4ZG1CR00zQ2xaMXpoRjFiaGh0bw?oc=5"
     },
     {
-      "n": 13,
+      "n": 14,
       "title_en": "Microsoft Q1 earnings: Why capex is the big number 'worth watching'",
       "source": "Yahoo Finance",
       "score": 12,
@@ -757,7 +765,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeWRFUm5qaGlYeXdqVTVCb2NRRlk1RzlHZTUydVlIZlBkejAwVE5pN1V2dzAtcV9POXdtTDVGYXhCTVFraGpHN3hweXpVdXR6Q2lDRjlKODZFSnEteVVzeWNEbHdFYkRQblZzVUVGVWJaaC1xb0Z5WkxPVFBOZkFLNWphNHdiNVowMjYydzBXOGY0S014bF9DUmVQcThxUVVfUzZUZElncGVVcHBVRjQyRg?oc=5"
     },
     {
-      "n": 14,
+      "n": 15,
       "title_en": "ServiceNow shares sink on earnings miss, weak Q4 revenue outlook",
       "source": "Yahoo Finance",
       "score": 12,
@@ -765,7 +773,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYU1jTWRGODBPVjNPT3ZsTjhKbmhMcU5lNGJDSXVoMW51a2JzYmczanByZWZYREZSX2dKRjY5VW90X0NoOFNCLWQ1MzROQl9BdVV0S3pRWmhoVkFkMnpUYkh1a3RBckQtb3Fxb2czdlBFbFBTdXRVaUtqY3FNY0szemlIcEFkY2g2NlVUbFdMWEg3SzFwUEhyRVhOVWNZazNQRWVv?oc=5"
     },
     {
-      "n": 15,
+      "n": 16,
       "title_en": "Samsung, SK Hynix Surge Over 8% Intraday, Kioxia Jumps Over 12% as SK Hynix Record Results Boost Memory Chip Sector",
       "source": "TradingKey",
       "score": 12,
@@ -773,7 +781,7 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQODRxcEVfcGpTWlFudkNMaGhvcG5Lc2dBRE5mTHc0N1AxdEFSZ2ktQXRoNmJCc09ua1NFZWdHdUxNaEJhQzJCR1AwY2M3WXdXaEMzZVN6WU9HNzlyVjBSSTdaT3lZUkJlQm53SEpyMnZ4YlhUYmhWdEoyQi1ja1U3ME5UOE5hLWFHNzZvU3BSX0RBRFN5dmg4WUVrWk9neVVkYV9jWlhQR2tlT1ZkWnFGcmZUR1RKTGh5UWhEYnEwZnNHX0NfaW53Z2QzQzB0cmlQQ3cyajZXLWpSLTA3bE5PSC12YlFqQ3ZJ?oc=5"
     },
     {
-      "n": 16,
+      "n": 17,
       "title_en": "GOOGL Stock Slumps 11% After-Hours: Alphabet’s Surge in AI Spending Pressures Third-Quarter Profits And Cash Flows",
       "source": "Yahoo Finance",
       "score": 11,
@@ -781,7 +789,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd3h4MlBjNlBvOEhEUDh0REZXRENkMzU2N2RQbmIxLVlhM1BYemszZlF2YXdLN3BGaDRDX0ZuVkNvbHVSRzI1di1IR3p2VmVXSkNLQUFUTWJlcGxxeHU1REtMQ1JZYVhFTWdtMURjQ29NanllOHowSEJxYk40VWVTd1hWRENNRWdGY2RETUljeEtjcmFkeEVN?oc=5"
     },
     {
-      "n": 17,
+      "n": 18,
       "title_en": "Stock Market Today, Oct. 28: Markets Edge Higher as Fed Holds Rates Steady",
       "source": "Yahoo Finance",
       "score": 11,
@@ -789,7 +797,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNalJiVUQtakJQSUE3Xzd4cHRveVFoOFhkbXR0aEp6ZEJJSVdkLVM0b3l5Rk5lNmRSS3NjSkZINU5wbGRtWTYwV1hPQVlJVzdSN0tiOTF4VWxiemI1am5kU1VNMzZ4aUlxWnc0UmtJTnB3aVpsYzBuM3czMzFxSjExVFlvdkJmend3aHhfRjZDMy1XTDJt?oc=5"
     },
     {
-      "n": 18,
+      "n": 19,
       "title_en": "Google stock plunges as Q3 sales fall short of expectations",
       "source": "Yahoo Finance",
       "score": 11,
@@ -797,7 +805,15 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNW1ndVA2aDB3NVhNVkpCbWloU01zYzhkZ3U1RzIyeVlYVkNVcU5SMmk0WmZobnpyQ2lwMkdHdER4eVJUak00RkZwenFxdnZGNWpvNjl4WTFnQ3phWU4xYVRQdW9iNHlIc2ppYUVka3d3VEtKZE05aTU5Y1cxVDV6MDBydTUtWHNrb0pXTE1STmYweWRFaXA5a0xjQmZrOWkwTFYzTDR6TUlNbmhRSW5EWS14Ym54Zmk4M3VN?oc=5"
     },
     {
-      "n": 19,
+      "n": 20,
+      "title_en": "Turkey working to resolve Hormuz, Yemen crises, Recep Tayyip Erdogan tells Donald Trump",
+      "source": "The Jerusalem Post",
+      "score": 11,
+      "published_kst": "10/29 04:42",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0tmSHlKZEhrX2h1SkEycE55WUdmZDh6aWZtY0pTSWdxX0dhbWYzXzNtSmRidXlYUzVsa091Vm52Sml4SUNWWTJXQXdlb2owREYzdE1QWjNUX3ln?oc=5"
+    },
+    {
+      "n": 21,
       "title_en": "Iran says Trump's Islamabad MoU remarks expose 'hollowness' of US commitments",
       "source": "The Express Tribune",
       "score": 11,
@@ -805,7 +821,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNEpGNi1KQ1ZScVZ6NWZZdXdiNmRyZllkREp4UlA1LTR3WTVfTVdtOHZXTnpPaUdmT3ZRd0xkcjBkdUN2OXNiREdGNndPWlFNWFY5NXE0RW9oWExoWGttQXMzR19ndG91LWNWZF9mVm9vdXZrcldJSEc0NlYzYzRWdDFFY2xaT2R1Y182bEFZaWRBTFRmYnB1cU9OcE9HQVRvZGZXZ016V2laeVBJd1RMMA?oc=5"
     },
     {
-      "n": 20,
+      "n": 22,
       "title_en": "AI stocks rally as SK Hynix jumps 11%, Micron and Sandisk gain 4%",
       "source": "CoinDesk",
       "score": 11,
@@ -813,7 +829,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRW4yTS1hSXdEWTZnXy1LSDl5aWFXSEdSZ1B6a0kxZ3FON2dzU1dXMmpMTVc5d1U3ZHY4NldqNjctY0RkWDBYc2xxZzNUTmJQRjA5enBWUjV1a2lPOVkyRXgtVzBlQWVGb2VJSmpGZENrSXJ1VnJnMENfX1FyaHNrWnhFUXdQbkZnSDYwME9VNUhlMGtialFsNHByc3BtUUlEckFv?oc=5"
     },
     {
-      "n": 21,
+      "n": 23,
       "title_en": "Robinhood stock falls 7% after earnings miss despite record trading volumes",
       "source": "Yahoo Finance",
       "score": 11,
@@ -821,7 +837,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSjJqWkVQVG12Tm05cXNIN2FLOTdYUlpOb21HaWd2SkM4ZkdtaGhGM213dWQ5U0tUcnFhYzIwVk5pSHF2bmhtLUFGN1ctdDRVQ2dmTVRTaHl5MDVPNWtja0I1REZ6aXdXWFNJMlRXTGVhT2U5MExoUlprbnZ0bWVMd1NYNTdBR2Q2Tjg5dzJ6Sm5QQXFXdjM5bXg5bERWTndCT01CbzRqUnJ2XzRvYVkwME9kWGJueGFxeHk3Y3pLeEJsOUxfcjVWblpNZWFFWXZKNXZLbQ?oc=5"
     },
     {
-      "n": 22,
+      "n": 24,
       "title_en": "\"Three Years of Sold-Out Stock\" and Return to 6,000 Points... Samsung Electronics Announcement Today",
       "source": "SBS 뉴스",
       "score": 10,
@@ -829,7 +845,7 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMlQwVTc5QlZKMEIwU0sycndNbW1GaHp1aGxPY1k5ZEg0aERkZjlPOWRhRzJuNlQxZ3lBUTZocGNaZEFTQTdyMG1oNWduVU93Y0U0MTc1WWFZYTE0RzQ5YkdqWDgyd9IBZkFVX3lxTFBGMlQwVTc5QlZKMEIwU0sycndNbW1GaHp1aGxPY1k5ZEg0aERkZjlPOWRhRzJuNlQxZ3lBUTZocGNaZEFTQTdyMG1oNWduVU93Y0U0MTc1WWFZYTE0RzQ5YkdqWDgydw?oc=5"
     },
     {
-      "n": 23,
+      "n": 25,
       "title_en": "S&P 500 Adds 0.22% as SK Hynix Lifts Chips [2026]",
       "source": "https://tech-insider.org/",
       "score": 10,
@@ -837,7 +853,7 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeHVwc3ltVklXMzlaSHZSYm5KRnpBbk1vMVVuYm8wS1Zhd3ZIWGVyWXN6TFNIRjliQ0p3UkpXYjE3R2x2clJ0WFQxVW5CNEFqY2NuZVFLaDFjUnBRUjRKRjRLZmpaMkF2bndJTUZiUnhTeHBPZElZbHp0T3I1ejJjWm83bW94NFlidnc?oc=5"
     },
     {
-      "n": 24,
+      "n": 26,
       "title_en": "SK Hynix's earnings smash sends AI chip stocks up as investors cheer strong demand",
       "source": "Business Insider",
       "score": 10,
@@ -845,7 +861,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSXB3c1lCUTJjdjhHbjdWYi1ObktnNTJoN2tMQjNMaTYxaUpRVWJFa3AxOW9pSkllYkdOay1sLURSdmpVT3Q1ZENaVEc0aFQxc0phcWhJTVBoRGpla2lvWWh0ajROdTZYZlFPRDV1d25PZm9nXzg5b0hlNlFQTUhPX2JPM1dORC1nSWlfV2F3?oc=5"
     },
     {
-      "n": 25,
+      "n": 27,
       "title_en": "Oil Prices Rise After Reports Container Ships in Hormuz Hit by Gunfire",
       "source": "EnergyNow.com",
       "score": 10,
@@ -853,7 +869,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNkJpN2lycDhrcjd3U3JNVUsxVjNsU3ZaY2Nnc294NHFES3dnUjNKR1NtaUZFa29BWHNsZG03NVltS29iTWJYWkJBV0Zic2luNmw4cnRfUTFZczk5dml5ZEhEZ2tHV08tNFBPV29zLUpyWVVPdFROSFAxQTVkY0xBWjBGTm5jUWNRMEV4QUVlYkhfRHVRdzQzTTRCako4NXEzLUdV?oc=5"
     },
     {
-      "n": 26,
+      "n": 28,
       "title_en": "Oil Falls After Lebanon and Israel Agree to Ceasefire",
       "source": "EnergyNow.com",
       "score": 10,
@@ -861,36 +877,20 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdNNFhOakNzanM4OEJDMDJ0SnFnYTNzb2hjV3VjVzdua0VXWS1maXZqNnBOX0h3WEdwb2I4NGRDSllZMlBjalQ2OE95NDFKUGdDWGZjbWNNX0tPaVN1OVRMWVlWNlB1OURmRS1Nc2tEc0JDV1Z3b25aRm5WeGlsYmlhR19DaGxGUC0wSA?oc=5"
     },
     {
-      "n": 27,
+      "n": 29,
+      "title_en": "Oil Prices at Near Three-Week High as US-Iran Peace Hopes Fade",
+      "source": "EnergyNow.com",
+      "score": 10,
+      "published_kst": "10/28 17:10",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelFMVUg3TmhGN1ZXdnVQODdKYmRzTzFvNG1DWGYyYVdmLXk1N1NvcDBwNjhROWJ0SEJYNTNjQWpmOERSSjRXRjVBVm00eFFYSjhEMVlwM3IyOWNjZmNlYW5MOUI2ZUJoQXhkWUtwLVg5VnRhQXVDOXl4aC1qM2FfLWwwZUhTRm5ka1c5UnVhckltNlhveHNlYXR3?oc=5"
+    },
+    {
+      "n": 30,
       "title_en": "Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon",
       "source": "EnergyNow.com",
       "score": 10,
       "published_kst": "10/28 16:57",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenRKWEpXeWJsMU8xX01hWFBmd1p6YUpZZERjRVZCN0V1NVVGR1h6WEg5b1VsTGpndTQ1elI3ZHp5VEhsV09VMmNBUmVDeTFCcVZob1RBbTI3OEEzZ2hfcHM5U1Z5ZUJqX09DeXJWTHBITTZPT0RTMGlXUVFVTmNRU1F4WjlxTHJkaThBNUdlTllYQlJsZDh6cklJOUloRDN2SHVpdmhlVjA?oc=5"
-    },
-    {
-      "n": 28,
-      "title_en": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-      "source": "Yahoo Finance Singapore",
-      "score": 10,
-      "published_kst": "10/28 13:59",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwR3dOYjE3WFNiWHJyVlFBM0NSRklETno5Mjh3YjFQbEhXVDNuU2FQWURiX2pPWjhXUjhkLURpSWE2X0hNZFVSb1RyNUxoX09HZ3c?oc=5"
-    },
-    {
-      "n": 29,
-      "title_en": "Azure grew 48% in fiscal Q1 2027 as capex doubled to $39 billion",
-      "source": "24/7 Wall St.",
-      "score": 9,
-      "published_kst": "10/29 05:18",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVjM2eW1XSzF5WWRFR0Fzd2dpTXJXWS1MaFVCSXJFNnFlODA3M1IxWFlCamtlcmstRzBNekZ1dV9TaVR1dlhjLVZSYzF1a3JRRk5qcWVWSkk0cFZuOU9QZHRiU2VrUzBMNXVnZHhQdHBibGsyYUotOVlkS1dzZ0dfM0JMdm03VVFBTWZhREptOA?oc=5"
-    },
-    {
-      "n": 30,
-      "title_en": "Why Is AMD Stock Up Today, 10/28/26?",
-      "source": "TipRanks",
-      "score": 9,
-      "published_kst": "10/29 02:04",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MTjdBd05Ic001SUVqSmtzNVdaall4RWVISjc0QXcwQ01LeDY5N1ZrUnRobzJ1ZjhKRTU2cWJQa3N2VVdpM2duMXZSX2ZKUldYYWpmanNUV2hkWWl5WTUtZmZ4aTJhNDg1M3BOV3pMam9iZw?oc=5"
     }
   ],
   "earnings_calendar": [
