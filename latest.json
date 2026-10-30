@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-10-30 10:04",
+  "generated_kst": "2026-10-30 10:18",
   "us_session_date": "2026-10-29",
   "indices": [
     {
@@ -48,22 +48,22 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.75,
-      "chg_pct": -0.43,
+      "price": 101.66,
+      "chg_pct": -0.52,
       "as_of": "2026-10-29"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 102.57,
-      "chg_pct": -0.2,
+      "price": 102.55,
+      "chg_pct": -0.22,
       "as_of": "2026-10-29"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1338.38,
-      "chg_pct": -0.15,
+      "price": 1337.78,
+      "chg_pct": -0.19,
       "as_of": "2026-10-29"
     }
   ],
@@ -691,14 +691,6 @@
     },
     {
       "n": 6,
-      "title_en": "Coinbase Profit Is Mostly Crypto Gains: Rapid Earnings Reaction",
-      "source": "Yahoo Finance",
-      "score": 12,
-      "published_kst": "10/30 07:59",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMEhpcmRmeDlTODZhV2F2NFZ5cUp1MnpObFJhOUxYSUk0WlpZdDJqS2JwQXlUZjF5ZUZrekZyWmxVYTJ0bnRWbXNVYXBFblJVbDZBMmpnUmwtX1NobzFoelgxbEx0T2hlb0lLZ0pFTUdma2JWYkl4QlpYMmhYSVhGOGx6MUtYUzhWZHo0OGVlYkRoQXppcnp4QURVR2VwUEVlRmc?oc=5"
-    },
-    {
-      "n": 7,
       "title_en": "Stock Market Today, Oct. 29: Amazon Falls on Q3 Earnings Report and Capex Concerns",
       "source": "Yahoo Finance",
       "score": 12,
@@ -706,7 +698,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObW5OVEl6aEw4bGg2aUYzTm9nQ0VzSDdnVnNvYVlEaDFPT1FWOHROcnh6U1QwTFBLeENJOTM2VTI2ZDR1WGdKekllRUZZZTFwTEFQU0JUdGFYcUpFWFU3RFYwaWhuQlJwZXg0LUhRaHcySG50UkZtUmhrdjlQWVM5QjR3aG5PemdhSGFNenFoTFVRX1ZF?oc=5"
     },
     {
-      "n": 8,
+      "n": 7,
       "title_en": "Intel's Weak Earnings Shake Up Chip Stocks, SOX and AI Players",
       "source": "Global Banking & Finance Review",
       "score": 12,
@@ -714,7 +706,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDlIMklUZl9GRVVVTXVYMTFKeDRadkxWYUNJajQyYmQ0bkNVVGVpeUdXZlBaMmJNRFVBY1ExRktkdDFmNGJGYUtmSGJIYnN1OXU1aHZRM0VzSERtMnc4bDBrc3cxbXlHYjZJb0tmOXhWZjNuR2Y1VlVGa1hRNkx6c2xQVEFPTGtiTHdOTlFBSlpWeFNnVVctZlk4ektmVnBoMTVv?oc=5"
     },
     {
-      "n": 9,
+      "n": 8,
       "title_en": "ServiceNow stock sinks in worst day ever, Fortinet shares drop as Q3 earnings reports send software sector lower",
       "source": "Yahoo Finance",
       "score": 12,
@@ -722,7 +714,7 @@
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQUpuMFR1MVJuYWRfQnZKNDlVRThQT1VyZl95Y2lIWWxoOWV5R2ladVplWk03blZrRWttbTJ3bFdmYXVZMEowQ1pVS0diYUFDaWsxWHNhd2VIWVVjcVdOZXRjVHFrQzdWaENucXc3R1NDVnpnR0YzVEVBZFA5Mk0yVmdvUmpjNmlKSWVJa3pxTmFaX0w0OS00MWZsbzhsQl9oelpYVmZhdEFJZXVHVTY0STdBLVliRW0wTkpheVZZZ0g0TTFBUkdHa3NpR1hyZGtpQXV5ejhJZGRwMHYyQW85QmtXVkNxWEtjSHY2QnJpYkZWOS03?oc=5"
     },
     {
-      "n": 10,
+      "n": 9,
       "title_en": "Why Microsoft stock isn't getting crushed like Google stock after its earnings report",
       "source": "Yahoo Finance",
       "score": 12,
@@ -730,7 +722,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNl90cjBzWjNJM3p0T0tXLXc1aXVuTThBNXg1blZUZTRfV2xXbXJrN3hzOVVPX2czZEliMkNZYVo4UGxyVndhOUo1X2hXUnd1VklTTmlMTmYwZzMtUWhJUlBQeXVjM2dZT25qNlh4cGQwNmxUWHMybzBzR3ZOLXd4TldVSkVlZXZxZWF5MEdGY1JSUWJ1Nzd6Sk5mMVBNb2VVeGpjbGJxMWo2dkpYbmpUTGJSbFF6MGF6SHNFOG5kdEtpZEFBZXFzYU14OE0xYXp1VXdUTWJhMkIwSjNsSm1MUFVn?oc=5"
     },
     {
-      "n": 11,
+      "n": 10,
       "title_en": "Google stock plunges more than 12% on Q3 earnings miss",
       "source": "Yahoo Finance",
       "score": 11,
@@ -738,7 +730,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFB0eUlHUndiMWdzRDRqWExlUGI0ZHdwM0FMeVRSNHVla0I2QS10aUxmdWV2VHpMUkZLUVZTb1NvcFJ1SnJiVjlkc0ltTjFGRjRacTE0NDNCemZqSHNzeUI5TmxncHhQLTFac1I1cUFPRm5ySFB0THFJc0JEb0xNMTB1S0t3d3lMNzNJRmRXWU9KU2phb0tEQnp5VU5SOEZpUjlqWEU2cm5udXoxdVNqV0Rxaw?oc=5"
     },
     {
-      "n": 12,
+      "n": 11,
       "title_en": "Why are Micron, SK Hynix and SanDisk stocks falling on Thursday?",
       "source": "TradingView",
       "score": 11,
@@ -746,7 +738,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa1ZFNXlmOTg1VlhZbnVBOEtYc2VjZ0pac1NlcUx1Wjd3bUZ1ZlRrYVhQaXJkRTN3SzJzRm9FbXZFb2JJZUpTeVBpN09DRi1ISFhGR3VBMWtHZW1ndDh5SEo5cDdyczRNSnlZa0FWa2Z1aEQ5R2pXbERUNGpaVTJwYlBoQ2thczZOeGVjdDRMMExzSV94UVZVd1lFbWRxcjl6dllLUDN3QzJySEZrRDBqamRSMHNkem1TcndR?oc=5"
     },
     {
-      "n": 13,
+      "n": 12,
       "title_en": "Andreessen Horowitz's Fund: Samsung, SK Hynix as Critical as Nvidia",
       "source": "조선일보",
       "score": 11,
@@ -754,7 +746,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWUxZFFlb2ZoLThhZHpsUjlZN3h0YVR1QUp0NmwwS3R5OHlMQkRFdjdQVEt1OXE5QW9hOTlyaWFLT0RtQjdYRUlXUnd3Q0hwTDdKa1VZbVFSdnJzODJuMzBXdXNILUVHcGMwUnJlXzM0bjJ1T3J1LW1uZXBlWjM0YVRGYWNudVRm?oc=5"
     },
     {
-      "n": 14,
+      "n": 13,
       "title_en": "Kospi Gaps Down Over 4%, Kioxia Tumbles Over 7%, SK Hynix and SoftBank Slide Over 5%",
       "source": "TradingKey",
       "score": 10,
@@ -762,7 +754,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbHRsWlB1ZkFqSFI2cWV0cWF1SUgzaU1Cd1BCdVc3RFhpTHhmaF9fQ0Z0OGdLaVhaSXZ1UFdWMnV0U2FYSGhvVy1zUHdaa2plbXBsVjByOEQ1ODFWdkdEVWw0dkVtOGtlUUZmVU11TzVzQVBRaHliODZ3bGJaN2M2SUtLXzVycGl4dmNJTF84N1NDUlg2aVdvMnhxYVFUZS1mcDNqbE1IT2lrcmRzVk43M2xqUWgwd0NjeGd2LTlBbC1jeXpCb3EwUjNxVVNidDAwYVhLb3Bjc053ZllRakpBdkZ3?oc=5"
     },
     {
-      "n": 15,
+      "n": 14,
       "title_en": "[Good Morning Stock Market] AI Stock Wobbles Fuel Volatility... Construction and Defense in Focus as Foreign Investors Buy",
       "source": "아시아경제",
       "score": 10,
@@ -770,7 +762,7 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FTEdtZ0JwTi1lT3NkS1dlcWg1VkN4cFBMQ09tazJhd0lpYVRYZHpXcnNfTWE3Y3NrWmtVd1lWVUo3ckFKT3BzaTNnX1daSlBXOEVZalJ0MFg1UHZWZVdXM3FCYkI?oc=5"
     },
     {
-      "n": 16,
+      "n": 15,
       "title_en": "Samsung Q3 operating profit up 783%, misses estimates; stock falls 6%",
       "source": "scanx.trade",
       "score": 10,
@@ -778,23 +770,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkFVWWtTeEtFdC1kc1lMemZCXzk2d3NnTEZWaS1yWUJxb01TSnRxXzNGeS1kWXlkQ2tPSTQxdmQ3RzdBQnQyajd1cHlxZlJfa1NHT29lYzJEejI0RUVHNEN0dy1zeFlBLXBrTHdYWkRFSDRtQVdPak01Sl9WZkZGY055OXUzczF0Vm9nSU41bzViV014QklNSlBWY0ZBQWtEN084b2RuWXZBRlBjRDhtc1pWSUU1VUlNZEJj?oc=5"
     },
     {
-      "n": 17,
-      "title_en": "South Korea's SK Hynix Price Target Raised to 3.7 Million Won on \"DRAM, HBM Sold Out Through 2029\"",
-      "source": "BigGo Finance",
-      "score": 10,
-      "published_kst": "10/30 03:16",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLNWdGa3E2bGJ0aTVEdmduQVRxajFyZDlMaVNEQjVtWG5zblByWm53RXV0QS0teFBVR25SWjBxNmJFWTFaTWx4TUI4UG1yX3pyNjJvTnNFX25LNGZwWDFYemtMWU56eXNvZ0VSYUphWnh2ZXFFekE?oc=5"
-    },
-    {
-      "n": 18,
-      "title_en": "Nomura Emerging Markets Fund Q3 2026 Commentary",
-      "source": "Seeking Alpha",
-      "score": 10,
-      "published_kst": "10/30 02:05",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNby11SG1OZHhNQzFuR1dzSWFTZ01NT0lyRmx0UUhmR0Z0bmhmUS1uWkZYUUV6OVZzTUh2LVZKNHZWTHAyVlhOTEdER1ZpQ2dQazFfbG5OWkNkcEp6cm9VelVVQUVXUXF1U2txVWRWbUNzQkpHTmZCa191cTVKOC1NejNJRElUb0llVWoyYTBNZEZZQQ?oc=5"
-    },
-    {
-      "n": 19,
+      "n": 16,
       "title_en": "Oil Falls After Lebanon and Israel Agree to Ceasefire",
       "source": "EnergyNow.com",
       "score": 10,
@@ -802,7 +778,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdNNFhOakNzanM4OEJDMDJ0SnFnYTNzb2hjV3VjVzdua0VXWS1maXZqNnBOX0h3WEdwb2I4NGRDSllZMlBjalQ2OE95NDFKUGdDWGZjbWNNX0tPaVN1OVRMWVlWNlB1OURmRS1Nc2tEc0JDV1Z3b25aRm5WeGlsYmlhR19DaGxGUC0wSA?oc=5"
     },
     {
-      "n": 20,
+      "n": 17,
       "title_en": "World shares and U.S. futures are mixed after Google parent Alphabet’s earnings disappoint",
       "source": "myMotherLode.com",
       "score": 10,
@@ -810,7 +786,7 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ09jaTNoTlZpdF9RR3ByRzNGNXpfdTRDUlItYWF3WjdvMkdOZXNZMGw1VEhoaUdyYVlpUkpLM05YVHlUR2FPQUV1X2REWGZQSm1QazlZekVwU1NLQW0ycURCYjhMa1gzWmVqRU5PQW9OZ0w0eHJFcFFwOWhQblFURnpLSzVIVTVDTXlUM1RYX1dHdE1fR1FVaThOZ2U5bFJmSjFRRVFsdjhzMXh6ZlZWMnFZWHdlOFRKT2VtSE1SYkZrc1J3VkxHa1NfUFRqZU1RQ00xT2x1WWl3UzdDLWfSAd4BQVVfeXFMT2dPY2kzaE5WaXRfUUdwckczRjV6X3U0Q1JSLWFhd1o3bzJHTmVzWTBsNVRIaGlHcmFZaVJKSzNOWFR5VEdhT0FFdV9kRFhmUEptUGs5WXpFcFNTS0FtMnFEQmI4TGtYM1plakVOT0FvTmdMNHhyRXBRcDloUG5RVEZ6S0s1SFU1Q015VDNUWF9XR3RNX0dRVWk4TmdlOWxSZkoxUUVRbHY4czF4emZWVjJxWVh3ZThUSk9lbUhNUmJGa3NSd1ZMR2tTX1BUamVNUUNNMU9sdVlpd1M3Qy1n?oc=5"
     },
     {
-      "n": 21,
+      "n": 18,
       "title_en": "Economist Warns Against Debt-Funded Future Reserve Amid Semiconductor Boom",
       "source": "조선일보",
       "score": 10,
@@ -818,7 +794,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmw4ZHk5RkxDWlZUX1VCUDM2b1J1THpSTEF1R05FR3BiMVpzajVzX3E4Z0VJcjBhbDYtb0dBU0VoaHk3bTRyandYRjl4S0E1YnBmZE9neXZuVnd1a1RhMVF2VXRzZnc3UGZGMkxKVEVjamxqTldsdlZSV0FLOWdRbVVaNmc1RVpNVko0MGx3?oc=5"
     },
     {
-      "n": 22,
+      "n": 19,
       "title_en": "Nvidia Stock (NVDA) Falls 1.2% on Reports of DOJ Inquiry (Oct 28)",
       "source": "Gotrade",
       "score": 10,
@@ -826,7 +802,7 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05eXZPckRmQmhqZlJDQXFVcVZRYi1uUU9ROTQwd3puQmJrUVFqdmd5cXJzaUR4b1ZVVHhpRkFNblhtMFdzUG9FSVFUWDd5alFpSVBfc2FFdVFqWEZIdWl6TUxFVHFCeG1yTE5vTEZUVnNRc3BNRnZRbHpWY1pJbTg?oc=5"
     },
     {
-      "n": 23,
+      "n": 20,
       "title_en": "Global Market: South Korean shares fall 2% as Samsung Electronics slides after earnings",
       "source": "The Economic Times",
       "score": 10,
@@ -834,7 +810,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNkdNR1RMQmY2SC1SY1NUYk9mSG8zdWhIVFFWY3JIcTBPS3lBeEt0Nmttd2xSTGZaQ0ZjdUEwbndBQ2FEVHNaOEFDa3hZdGtGellSdnZqTmRITTlRbU1DUDItMWlWa0h0ZE5JRF9BUVgyRVpmVHE4UEhYUlZERkMtcF9hWkZ3S3RSNFRTVV9mYzhJbDJENi04NF90YjFXbV9tZEZSek93bl9WZHFoNC13WUlZd3ByQmVDTE02WHRJWG5FU1JWeUNTaUJJcUpQR3Yya2R4Tk5hVno3aVlZRm5nR2lGNG5CMEI5TGVyTlFvN0hoUGpWdklWUGxRM0prU09C0gH6AUFVX3lxTE1haVZqWDYwMFpMMUZDQWxjLWRKcERWMV83dk8wSjRXd3Y1LU1YTXljWk81QTZ4czZsWC1zNy1uR3c3WVYyWTNXTFBqek1VZ3JmY1BrbUl5cUZnbGdKRkdmR1gwTVdWMUhNWmFJcXo4RFdxWkFLUDJVNTlpRmxlblZoQlg0dzNPMF9IMS0wakFoc3JYbVZsZVV2MWQtN0tNempGLWhvcnFYS19MQlNpbzVHZ29PRHI0OHNONG5tSktzRXhsaS1XeUthelRZTWlHNGlEQUF2eXBMZ2lwQTFtNVVHb1pJNjZVV2syRzdHSkpXX2VwQXh2bkgwQWc?oc=5"
     },
     {
-      "n": 24,
+      "n": 21,
       "title_en": "Oil Prices at Near Three-Week High as US-Iran Peace Hopes Fade",
       "source": "EnergyNow.com",
       "score": 10,
@@ -842,7 +818,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelFMVUg3TmhGN1ZXdnVQODdKYmRzTzFvNG1DWGYyYVdmLXk1N1NvcDBwNjhROWJ0SEJYNTNjQWpmOERSSjRXRjVBVm00eFFYSjhEMVlwM3IyOWNjZmNlYW5MOUI2ZUJoQXhkWUtwLVg5VnRhQXVDOXl4aC1qM2FfLWwwZUhTRm5ka1c5UnVhckltNlhveHNlYXR3?oc=5"
     },
     {
-      "n": 25,
+      "n": 22,
       "title_en": "COMMENTARY: China is Balancing Asia’s Crude Oil Demand by Itself: Russell",
       "source": "EnergyNow.com",
       "score": 10,
@@ -850,7 +826,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDlPZERreTB1RldlV2ZtR3p1NmdNdUU0TXV2U05UTzh0ODB6UXo2S0xxRW1HbEVncmhvOTd2MElYNzJjd2o5SEFoYm1OZWg4M1FveXBLeGpIU2lESFcwZDBJOGw0WC1FcVNoQ1dVQUxEem1QbWJ3anpjcnhSOUZRcHZlN19kaWVrREtOYlRZUWxwVlJlOWV6dTRPaHUwVWJQU0I0?oc=5"
     },
     {
-      "n": 26,
+      "n": 23,
       "title_en": "Intel shares drop 21% on Israel factory blast, PC weakness",
       "source": "The Straits Times",
       "score": 9,
@@ -858,7 +834,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnlmM1NCdGRlVG40LXN4cHYzVGdpZUZUU0wycmp3V0xRM0tKQkZMLUVGV2V0NGRtQkJsYnBmdFVZbHNPMEJTN0w3b1VDczNqa043ZXVERlNuWWRDSEl5N2toYzFUM2RRMlNmYjRIZmZ2TF94VmNoektfN09PT3BJaHlCRTFYVnBHcU5Ub3RhR3BYWVI1S1RMYTFB?oc=5"
     },
     {
-      "n": 27,
+      "n": 24,
       "title_en": "Quarterly Highlights for the Invesco QQQ ETF",
       "source": "Invesco",
       "score": 9,
@@ -866,7 +842,7 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EcUVSNEpyMlNMNlZUWVVuOGRQa0l2Z0dTSGVpWE1uXy1PS051T1E2VGZBbXVGVDRIU19OM3haZUZUMWxpV01GOWdyMlRsckk0QXFydTBkZWxkdEtZaDRjMmxybVY4QTdOR2NVS0U0UXRrTk0?oc=5"
     },
     {
-      "n": 28,
+      "n": 25,
       "title_en": "COMMENTARY: Morning Bid: Firefighting cash burn",
       "source": "Reuters",
       "score": 9,
@@ -874,7 +850,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTm9EX3pBcklqTS1idFI2Z3lHVVJDV25PNWcwZE1vZWxtUDJFd2dpY1BOYkxuX1RETm13SW5Jc0RaZklMR2R1TFJCWmNrM05XY0JlX1gyeGVNVVV1cnlWTk8zc0llYTFSaGFjY3gzeFpjUEFTaWJLV21xc2xpZ1lnSE5ydS1Ec2U3ZVJtdmFFUWNFOFhlQklj?oc=5"
     },
     {
-      "n": 29,
+      "n": 26,
       "title_en": "Global Market: Samsung Electronics posts record $80.5 billion quarterly operating profit on AI chip boom",
       "source": "The Economic Times",
       "score": 9,
@@ -882,12 +858,36 @@
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNS2IxVHUyUXNVQWhaWFlsTkJEZmt6NHdTM0xYMnFDSzJ4U19aYmMyUU1jaVdtbkpVX2lFUVpob0N0NmdiS2o0cExvczBYTnh2eEN5T1RUOWFVUGhpVFc1LUdrQWp0eTMzN0xfYi1EWG1BMks1NW1WV21zU0ptQ1kzV0JBMC1Yd0kwdGFQODFtRmlCX01jRVFnSndqWDVCWjVGa0lqaFp2Wl9uQU1ud3JRS0lxLUVpU2w4OGVSakpKRkxxaUZBNzIwWTdoWjVUTUpMYWh4M3hReVFwQWNleW5xOGxwUmtkeEdEOV83RllteU0xV0U1WXBPa2xVajNSQmk0aGNHVXk1OThLN2fSAZACQVVfeXFMUEs2S28zc2NEcjdQMnpSeTZ1Z3E4MDI2LVFOOWQ3bW5RX2JfeUVmX2wweUpmd1ZtdC1aMHg5T1I1Sm5sbWJLcGNmQkJKeTQtMUdNWFV0dVVSM2h2a0NTUGtxZXdreWcwNmU1bERfSkozazVLQmpseldyZ3pSSGZpZ0lLQkw2aTJuMl84RHJvemhGYWZoN2VqcXFNTWZTSHp1ZXVzRGNmcW9TbGZSM3EzUGxBbUFTNnMyVk1sN2psTUd1bW9YMzluUFE1T0xzOElqU1JXYlhvaXBZakdYWFJIcXVweV9rdXVQcG1qeXoycjFuc3VHYVB4ZUQ3bkNwNWdYM1ZQVWQyNkNxeWwza1lZTUc?oc=5"
     },
     {
-      "n": 30,
+      "n": 27,
       "title_en": "Samsung logs record $80.5 bln profits despite investor AI jitters",
       "source": "The Economic Times",
       "score": 9,
       "published_kst": "10/29 12:06",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd2J1TnpvMUJIVkdDcEF3UHlVTjZKbkhWRTduR3dFNkxHR2ZNVHVZN0JPLUNQYTNpSXhaOGxCRjcyZUNaTXZyRlh2eVVKeGJCZlhtYmNvdjBBRmlaRy1PWWxWREtuOUZhQm1iSjRfcFlWRmtBdUZZbVVNOFJJc2VPbUNHVEtQZHhNdzNKbTA2OFI2bkE0R3RjQVdGcTNGNjhOTFZvOWU2MEJEekh1YmlnYm14SlV4NWUzc3c0a2ZKTUl5b1BFbFI1T2hJQy0wZDVucGw1MFhsalhhZ0dmTkdZ0gHkAUFVX3lxTE1sYzA0Um9POW13R29CT1ZaY0xSY2wtZXF0RmMyVTU0aWNFcmdFT2x0RDhBSFE4RV9ZYlc4enVUT1NBYXRKWWREbzNwaW5sNkN2cVdoZXQxODc3a18yLUFRdTR3OWlYQXQxSHgtVmE0aW1vWDJleERUSmFLVVEyU1hVOHdTVFJoRnNJcTRpVl9RSDlzdUxLTXRFX2JsV0J0WWR5ZDNrYUg0WGllSHdoTklILWhhUk9Ec0tQeWlrbm1wT2JWcE5TbnIyZFdNaHpmaGd4a25uMktNc0VzV0VXQWRPU0psRw?oc=5"
+    },
+    {
+      "n": 28,
+      "title_en": "Rocket Companies beats estimates on strong market share gains",
+      "source": "Yahoo Finance",
+      "score": 8,
+      "published_kst": "10/30 07:09",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORk1OZ3JINUhtVm1fcEF3R0ZoWWVyN0VNWXh3QVJaOENYc3Z5cXRYdGRqNUstcDlKRHZ4Zy1MSkpDanpnS1VUNmpKQTh5S2FDclhyU0l2S05XVWpTRkZJdFFDbGxtaDgyQzdaeXpVNnhWdXVyWmluQmVWT1R3SkZfaF9XMHhzX1BtejFCbFFyTkV1b2ZPaVR0NzVCS2FWT3ZUOTF4b1ZCYw?oc=5"
+    },
+    {
+      "n": 29,
+      "title_en": "After-Hours Market Movers: Oct. 29, 2026 Gainers and Losers",
+      "source": "ChartMill",
+      "score": 8,
+      "published_kst": "10/30 07:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS3JhMXBjbEpNZDgzTmFOVEhkNEJlTERxYUJobFFyTVBxX194RGZDWm9OemNfbDBIenpxY0xhemNlbGZPMmlPZTgyX2dNazVWOWhROGh6ZlZib3FpLVdqN2JReXpZNXNwbXlBa0duT3NHelBkb0RObHRXWTU3V25VekN0YkNtNWlla0xNWjJpUXFJSU94eDl4bnl4UDFkNS1PQ1ZQWkRSNjNGVlBq?oc=5"
+    },
+    {
+      "n": 30,
+      "title_en": "Amazon shares slide over 6% after hours on quarterly results miss",
+      "source": "Yahoo Finance",
+      "score": 8,
+      "published_kst": "10/30 05:31",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORTNPb01qZE9rdFM3VEF4b085UEZWWFlKdk9QNUtfVjJFWjVVYlZCZ0JsanhfYmQzTVpwZkEyUkRSclRDNS1iRWt3anBhU3p6UmlOWThwT2swM21FakdSUldDaXIwRW9SVkptUmhvd19neTBSeTlZd3NQWXZPQjkyc240R0x4RktSODUzSm4zRlpldVNJWWc?oc=5"
     }
   ],
   "earnings_calendar": [
