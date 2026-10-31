@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-10-31 09:43",
+  "generated_kst": "2026-10-31 09:48",
   "us_session_date": "2026-10-30",
   "indices": [
     {
@@ -814,6 +814,14 @@
     },
     {
       "n": 18,
+      "title_en": "KOSPI Plummets on US Tech Earnings Shock",
+      "source": "조선일보",
+      "score": 10,
+      "published_kst": "10/31 00:46",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOFV0ekZGWGlfcTM2RGdkM2dfb2NGbV9IcTZNbzdWVTlJRE9hMzRwemNJMHV1N1cyd3oxdV9nQWtTYkZDZmZzMjM5N1FvRXFvblV0bmVYNmlqN2hhd1BBS1BMNDNFNThuU0h4aFEzR0NPeExUeHFuRm1ERlFFdTFHOEhWWnAzWnFjMUhfQmFB?oc=5"
+    },
+    {
+      "n": 19,
       "title_en": "COMMENTARY: China is Balancing Asia’s Crude Oil Demand by Itself: Russell",
       "source": "EnergyNow.com",
       "score": 10,
@@ -821,7 +829,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDlPZERreTB1RldlV2ZtR3p1NmdNdUU0TXV2U05UTzh0ODB6UXo2S0xxRW1HbEVncmhvOTd2MElYNzJjd2o5SEFoYm1OZWg4M1FveXBLeGpIU2lESFcwZDBJOGw0WC1FcVNoQ1dVQUxEem1QbWJ3anpjcnhSOUZRcHZlN19kaWVrREtOYlRZUWxwVlJlOWV6dTRPaHUwVWJQU0I0?oc=5"
     },
     {
-      "n": 19,
+      "n": 20,
       "title_en": "Oil Prices at Near Three-Week High as US-Iran Peace Hopes Fade",
       "source": "EnergyNow.com",
       "score": 10,
@@ -829,7 +837,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelFMVUg3TmhGN1ZXdnVQODdKYmRzTzFvNG1DWGYyYVdmLXk1N1NvcDBwNjhROWJ0SEJYNTNjQWpmOERSSjRXRjVBVm00eFFYSjhEMVlwM3IyOWNjZmNlYW5MOUI2ZUJoQXhkWUtwLVg5VnRhQXVDOXl4aC1qM2FfLWwwZUhTRm5ka1c5UnVhckltNlhveHNlYXR3?oc=5"
     },
     {
-      "n": 20,
+      "n": 21,
       "title_en": "KOSPI falls 3.48% as US tech earnings fuel AI investment concerns",
       "source": "The Korea Times",
       "score": 10,
@@ -837,7 +845,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMlJXYWNOa0RrdHZPeGR0ZFhweGFLSVpsVlVjV3hsVTdRT1ROOVZNckJnVjVKQThzTDRsdXNTUkJ4VGdicHcyOThKNjFkaHdQbFppWUxIVDRuckZUUXhMVC1oWjhNZ3o5TlRzZkF4dnFzTkNReFBtOEx2ZVI3bUNRQUtPN0N5dHRvZ2prbnBWamVCakhoZGFlcDc4N0hRT1BCR2hUWXVwTTRVdGFXWHNHNjFDUlFlb1XSAbwBQVVfeXFMTXItSjhmUUN1SlpPZHI5WUdzOWl5ZFBNX3BJdnF2QUlnMHhLUFYtSlBRZEptYXdwc1NERTVKWTVfUkFIT1oxU1ZUNms5czFwa1BGaFUtRlN0V1J4V0tFRU1iRTlSUGRvUGRSODhwNndvcmIyenpaUUtONzNTMXRaN0hFVkx2QTFHX1htcmJuTVFORFd5VHNwQ1phMDFEekxGZkNNMHplVEY5ZzFxS0ZvWFZZQmJXSHdhSVExc3c?oc=5"
     },
     {
-      "n": 21,
+      "n": 22,
       "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
       "source": "Britannica",
       "score": 10,
@@ -845,7 +853,7 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
     },
     {
-      "n": 22,
+      "n": 23,
       "title_en": "Alphabet Earnings Shock Sends KOSPI Down 5%, Sell-Side Circuit Breaker Triggered; Samsung Electronics Falls 6%, SK Hynix 8%",
       "source": "BigGo Finance",
       "score": 10,
@@ -853,7 +861,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10RWI3c0NGSlZYU2o2Ukl5dzJUOGFSeHFkN2FCT282eHB2bm9TNm5PZUlRaG9pUlBfUS1Ec2dOUWs1dzFSbEZIQUxnQ2pBSFNyV1hmX1FUSm9naTJ2aTlqa1JkRTBlaTRBM2dfaTVacmtRRUF4OHc?oc=5"
     },
     {
-      "n": 23,
+      "n": 24,
       "title_en": "Nvidia Stock (NVDA) Falls 0.8% to $213.66 (Oct 29)",
       "source": "Gotrade",
       "score": 10,
@@ -861,7 +869,15 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CVG1Id3dQc1cweFpKUU81SURfLXlNZTJHYk1CaU5RNjA2clcxa0ZEZHlmZzhOVWk5VEF6Vk1fU3NCQ3k4dlNTNUpqM2l6MDBTMTJqV2wwZTVBM1psSTV0MUpQSWhQT2tPZEZTaklRZ2NyaC1FRERWMnF1SWdOaEU?oc=5"
     },
     {
-      "n": 24,
+      "n": 25,
+      "title_en": "Tech Giants' Earnings Misses Deal Blow to Asian Chip Stocks; Haven Demand Floods Into US Treasuries",
+      "source": "BigGo Finance",
+      "score": 10,
+      "published_kst": "10/30 12:06",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iVm0yX1pBbE9CS2dwckNVaHlmclg5cWIyOVlvWlhIcjUyckttUl8xYS13dGtWWlJpM0NaY3d5VGRFSG9TOGgtY2JsdlA4TUVnRVYyWXdGQ29rcnFhMjRZci0zVk94YTlIUzllbkdmVHIwSjJzNWc?oc=5"
+    },
+    {
+      "n": 26,
       "title_en": "S&P 500, Nasdaq Slide Sharply As Netflix Guidance Disappoints And Chip Stocks Extend Losses — NFLX, GE, META, AAPL, SPCX In Focus",
       "source": "Stocktwits",
       "score": 10,
@@ -869,7 +885,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOV2VoV1B4dS00RTJROG9NcjBkTVE2ZG4xQjQzci1IeTkyRzdrSm9mb21VZDJRQm5LRERNdDlGSlVLalhtbjl6M1JxRnlxbVBFZDUtQmlTNlpYX2lfOGtuYW9KSUR1S205RFI3QklLY2Q2TXpqR3JaZDhFWmFJYlh4NmJLb2tWd0xGX3hybGR5QzZrREhUNTFsNzVDUXdfLTFqZ1VTZWtQUFZncU5EQzJOZjMweDN2YUJsam1iLXJpcW9WN0ktVGhIRUlITzFGOERYMTdaa0JUZzBCUG0xYW1Id2hyRjlhQ3F4VFR2QVFuZ3JHelVYNDFhaDlhWTdUWC1VOEIybUtLZzFWUzNOMVJtWC1SMG1mM2tNRGc?oc=5"
     },
     {
-      "n": 25,
+      "n": 27,
       "title_en": "Global Market Today: Asian stocks slide as tech earnings disappoint, AI fears mount",
       "source": "The Economic Times",
       "score": 10,
@@ -877,7 +893,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFYwZU4zU2hYSkZoQVhobFg0MnNnNHZ1OGtHS3hmeWMtUXNCMHVCVWxrR19KVUJRS01PZi14MTZJdXNpTEswd3pqd3JjNFZSeTRJMDVHRVl2dWViVVZWQTdnaGp6bWxYQzNZLVpfamJVSUduMGUtejdNNVBObUxSZVVaOE4zRVNEWmJ3NEpzNmVXMkF5WU44TlZBbFfSAaIBQVVfeXFMTko0TndjamNtNkNhRS1KZzd2YWdkYWJMTjFhdkFnZ18xYW04YnJ4U2hFOE9zbnpnU1RRUi1Kb0tBb1lQUy1VaW9wSEdHelRBUHplY2lpbkF2YjM4VS1hNnU3cEp4cWVTUGtfcmd4ODJydWNxVVhmaUJsMkZLeTh5WTVSS2ozZzE3RlV4ZnhCTlRpZGpKZHZWZndocGdzWk8tY3NB?oc=5"
     },
     {
-      "n": 26,
+      "n": 28,
       "title_en": "The AI Boogeyman Haunts the Market this Halloween",
       "source": "Pension Pulse blog",
       "score": 9,
@@ -885,7 +901,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUjEzdEl5aXNRZnowdXRUUDBmNWJxUlZpZnVsalZpSHoyOFV2UnlWNGxXWFZzSFQ2QUlwOEVRWGhaV0NOa3FucVh2RFBOckRWTkZPVzNZOGFhV1cxMk1aWGhpc0Q3dVJkVWozVnczbm9CYlBxRk9faWZ1NDlFMldCWmNicEdxSzBa?oc=5"
     },
     {
-      "n": 27,
+      "n": 29,
       "title_en": "Chip Stocks Wipe Out $1 Trillion in Friday Bloodbath: 5 Stocks Alone Account for 60% of the Damage",
       "source": "TradingView",
       "score": 9,
@@ -893,28 +909,12 @@
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNGgtX3dwdWoyb3lIV0VYSkJITHZCel9Vam8yZEdDTjNqOENnUTFFNHdPR0tmN1I3Rk5RNnhTOWxJeGN4S2ZwczZ2UDkya1Ezc01VN2NCb1Z2YVh6dkt3bGpldnNCZlUzX2dac2pmYUlYZzdkWjA5TVRMQVBFTzg3ZVhJaEJUR0YxT3hyQmNnUzR3cHlYZnVENUMyYTlEV3F3eVZIbVdoNTVrNlE4SlNvaWV0MWxtQU0zeHlBbS1iU2ZMU2lCT1lsUGYzVmp0Z3QxdklhbnJnajNBMlNMZjlvdGVaYmlwUUp6YlE?oc=5"
     },
     {
-      "n": 28,
+      "n": 30,
       "title_en": "Q3 earnings disappointments from Amazon, Intel, and Alphabet have the AI trade on edge as capex spending swells",
       "source": "Business Insider",
       "score": 9,
       "published_kst": "10/30 22:19",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnZjMWhIN1BScWNzbVB6YWZKWnAyd0dzODlxbklaRHFMNWRqaTMwOFJfd3dIei1jWGVuNVIxZkZZSmx3aVFRYnV6Z0U0QjVyNjF5NzhtV1F0T2loNEtTaTR2VWhKNUx5Y2Z0LVVyRnh0VWU1TW1tV0dzNXdlU1JCLXVtODVxWHVMcmVzQ290RENaYTNPaVFfaUFuTlE4NWhOQnVTbDRsSGJrRThxMHc?oc=5"
-    },
-    {
-      "n": 29,
-      "title_en": "Apple, AMD, Palantir Lead Big Earnings Week",
-      "source": "Investor's Business Daily",
-      "score": 9,
-      "published_kst": "10/30 20:46",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1INHJFZUYxUU16OExrQlowSVFHYUYtM3B2R2QtZEVQdFo3T1FSUHRnZW5NWWwxQU42UVFsX3BKY2RTcXJ2dkpOTVpUNHVtZHNNOEJpZHF5Ynk1ZHF4Njl1VVBXN2RiZFAtdC0yRDNVZw?oc=5"
-    },
-    {
-      "n": 30,
-      "title_en": "[Closing Market] KOSPI Plunges 3.5%, Barely Holding 5,700 Level Amid Global Tech Rout",
-      "source": "Businesskorea",
-      "score": 9,
-      "published_kst": "10/30 17:36",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FMm5oWXM0QlVWTjZ2aUdKY1dDRmpvM3B5UmxvOGdwWHZuanRURlVqMmk4RjhZM0VoR3pleXJmOTdPYWNlZzZrUG1TV1RVZE1sM3JOM0VOSG5saW5meGF4Y2ZzQ1duelYyYm82MWNUdHRSOVdq?oc=5"
     }
   ],
   "earnings_calendar": [
