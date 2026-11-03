@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-03 11:52",
+  "generated_kst": "2026-11-03 11:56",
   "us_session_date": "2026-11-02",
   "indices": [
     {
@@ -48,22 +48,22 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.86,
-      "chg_pct": 0.11,
+      "price": 101.85,
+      "chg_pct": 0.1,
       "as_of": "2026-11-02"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 96.82,
-      "chg_pct": -7.01,
+      "price": 96.87,
+      "chg_pct": -6.96,
       "as_of": "2026-11-02"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1339.36,
-      "chg_pct": 1.04,
+      "price": 1338.28,
+      "chg_pct": 0.96,
       "as_of": "2026-11-02"
     }
   ],
@@ -674,6 +674,14 @@
     },
     {
       "n": 2,
+      "title_en": "Tanker attacks, Houthi strikes deepen Gulf-wide conflict",
+      "source": "Bol News",
+      "score": 17,
+      "published_kst": "11/03 04:11",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2U4VnAxRTItZ0s1cGFHNWVVRFhSWU9kOU5mX3hra2NBVTNwVkFjS3hwVlllUlN5SmZIR3NJUVhIZ3VUd1c2RzZ3eGpxTy0xUlFtRmpyNTFkemY4QUZ2R052UnFuazlhck1oc3k5MmxoYlFUV0dVQmp1ZTY1OHhnTU5GTllDdkJwYmR0MVV3?oc=5"
+    },
+    {
+      "n": 3,
       "title_en": "Apple (AAPL.US) Reports Record Earnings, But Market Concerns Arise",
       "source": "KuCoin",
       "score": 16,
@@ -681,7 +689,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVBEYmZaZDVENHhFWXZlTWdJNUtpR1BDY0g5WGNIVjVuSmdnNWFGWjdqa1d2Q05pSGJjbVdxdEVmN1pYYl9qakZrOUg1WDJmMGsxYkRMbHpLMDRRRmpES0N6ckFyNzQ0MHA0Z3pDUjJUYlNGNDRPTEl4bnVqS0Z3aE9nNU5zNnhEb0ZxQzBzM3ZEdDFnYTJXeFgtaWE?oc=5"
     },
     {
-      "n": 3,
+      "n": 4,
       "title_en": "AI Rally Cools, Investors Wary Ahead of Midterms: Philadelphia Semiconductor Index Plunges 3.37%, TSMC ADR Falls Below $400",
       "source": "BigGo Finance",
       "score": 16,
@@ -689,7 +697,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82SkxueTJJN3lMU25RY3BINkh2NFhLZ2labjJDMjJEN2dGYll2QmwtbEJxa2RnNTdvSm51eXpZR1NNdGxjbl8zZmEwaVBTU2FDWGtUdHJmSUpRZFZ1MFVMd3c5RlBob3lVZU9ocFpraDhoZllzMGc?oc=5"
     },
     {
-      "n": 4,
+      "n": 5,
       "title_en": "SK Hynix Q3 2026 Earnings Hit Record High Amid Surge in AI Storage Demand",
       "source": "KuCoin",
       "score": 16,
@@ -697,7 +705,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNEFBYWtiSUh2TzZpNFR1VHYxVS0tY1hLVTYyTzFHSzJocnN4b0lJRUU3RDh1UEhSUEIxMjlOSEdLQThLaEgzYlNwcWlTZnpZbDViNjk0bGtkd2I4RmM2d3N3NF8tai1KMWJONmRLdDNKVXc1dHlBYW5TbUpMWG5TTkU4NHJvRDAza0lqRVJXYldvSHNhTmp2bnNHUy1zWHNkUlE?oc=5"
     },
     {
-      "n": 5,
+      "n": 6,
       "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
       "source": "Britannica",
       "score": 14,
@@ -705,7 +713,7 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
     },
     {
-      "n": 6,
+      "n": 7,
       "title_en": "KOSPI plunges more than 3% on Wall Street tech sell-off over AI profitability concerns",
       "source": "머니투데이",
       "score": 13,
@@ -713,7 +721,7 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxbExkWC1hNjY3UVB6OGx3eFl3U01qUTA2S18yNHVLTzN5QUdUMUFCUDNwX2hiRU9GX2VQZFJrZUdramliOE5rVld6SktuZTM3YXUzZGNOOWJuc1ZhQllQTVV1S281RzBuXzlqMg?oc=5"
     },
     {
-      "n": 7,
+      "n": 8,
       "title_en": "AI Earnings: 3 Reports to Watch This Week",
       "source": "TradingView",
       "score": 13,
@@ -721,20 +729,12 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGFUT3hoa3lVRU1DU2I5ZVVmYnRFNmpkTlRwVlJyTTBVOWJyWXlMb0tMYlJFTW44bFFsbDJYNVFsWVdZUkRSelZrYnQzXzZNSzdwWTJRWGRZY2NSaHlieXlrS0QydFQxVXowcWh4dkVDTnBJZVEyQzhXYTNJZUNnYWhIZW5pb25iVFAzVmFJX20wQjBLcEl5MFc5bjU?oc=5"
     },
     {
-      "n": 8,
+      "n": 9,
       "title_en": "Palantir Stock Falls Over 3% Despite Strong Q3 Earnings — What Spooked Investors",
       "source": "TipRanks",
       "score": 12,
       "published_kst": "11/03 11:09",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEg4Qm1ZUUg0VGd2cTlHdEtVWE40RDJaWnkyWGpGY3l6eVZycEhjemxaY011Tm5od2Uyd2w5cmNjNGZLelRPR3JpWWVMVWZMUllxaXlFVWRCR2FPS01GSWRZWEhuZFRxWWtZUG4tUXBFSV9GUUJxQmQwTmF3UFpuajh1bmdaRHZRV0hkT1N0TmktbGI5ZEExWUZzVTVhLTJVaXFyRVhVQjEyNWM?oc=5"
-    },
-    {
-      "n": 9,
-      "title_en": "TMX Group Earnings Call Highlights Broad-Based Growth",
-      "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/03 09:49",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ3Iydnl5V0NhdzctS19fNU84eTdVd0dSUDd4NUNaUU5NV2JzdGl2bm5Kc3Npc1dXcFIzRF9qOU9qVU5zWmRfNmFxZ3hQWE1IS1JxVkhNVzI2eWt4SnhfWDJCNGJFQnFBb1E4c1FRT1FnYUh6am9FZDY0eGlaVHpsNHBKcjFnSlUyUUt5R2U2ZnB2VjBWTkJUNl95ekI3WFR4emFWdXlldHI?oc=5"
     },
     {
       "n": 10,
@@ -802,19 +802,19 @@
     },
     {
       "n": 18,
-      "title_en": "KOSPI drops 3.55% in early trading following sharp decline in US tech stocks : Finance : JKN",
-      "source": "재경일보",
-      "score": 10,
-      "published_kst": "11/03 10:30",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ISWc2MFN4V2F2VlRCdXh5Q0w0YkhIcGh4dmg5RFVxdmlxdXVGZmhvc183c2V1U190VnNoZmFBdnNPdFliYWVSLW1FVTRZcUZ3aVpHLWhyOC1KZDVCak53OHFB?oc=5"
-    },
-    {
-      "n": 19,
       "title_en": "US Stock Market Trends: Updated Data Analysis & Real-Time Quotes",
       "source": "TradingKey",
       "score": 10,
       "published_kst": "11/03 06:51",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uM1UzVmxNX1BWNS1sSDMxWnA5RjlRbW5teTdkTVFwelFQekhtZVhKWExwYUdvVG5JbTY5MHhZeDdzSHlSMEJoVTN2RkFYNk1IQzRn?oc=5"
+    },
+    {
+      "n": 19,
+      "title_en": "Oil Prices Rise on Doubts US-Iran Peace Talks Will Ease Hormuz Disruption",
+      "source": "EnergyNow.com",
+      "score": 10,
+      "published_kst": "11/03 01:10",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2h4eFJVTlNTNmxjY3AwaVktZjBKcHgyNEVSUmJTVEVsREdONEtDN1U1V1VqRG0tQXlQdWhBX2ZudG01NnhjQkQxNTBOOUlUYVlvZEN3aTdwX25MVnctV2tvVHZWeFJDMXNIUG5WdUVJWG9kS2JrZk1nQVdILWYyLS1DTjJ0Y2xuZlpHTWpCb3JzUk83amx0YUItemNpT3NZM3EyTEFsRQ?oc=5"
     },
     {
       "n": 20,
@@ -826,6 +826,22 @@
     },
     {
       "n": 21,
+      "title_en": "Oil Prices at Near Three-Week High as US-Iran Peace Hopes Fade",
+      "source": "EnergyNow.com",
+      "score": 10,
+      "published_kst": "11/03 00:37",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelFMVUg3TmhGN1ZXdnVQODdKYmRzTzFvNG1DWGYyYVdmLXk1N1NvcDBwNjhROWJ0SEJYNTNjQWpmOERSSjRXRjVBVm00eFFYSjhEMVlwM3IyOWNjZmNlYW5MOUI2ZUJoQXhkWUtwLVg5VnRhQXVDOXl4aC1qM2FfLWwwZUhTRm5ka1c5UnVhckltNlhveHNlYXR3?oc=5"
+    },
+    {
+      "n": 22,
+      "title_en": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
+      "source": "EnergyNow.com",
+      "score": 10,
+      "published_kst": "11/03 00:16",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNE1fMzFiSjhrOFpJV21kajdMYkJEd20zcGM4Sm0yREpWU09IZnBwX0VyUk9LTWlHYWhDYXZCOS04eng0d1lPdVlKX2pZUjFwYzAwZkM4NWlDazVaSUFfRHlLaTczenpiZTdrb0lXd09XZTRiWHpNVGYxcDRjaHhoZ3JvcVFtb1VZM29raVc4RE9kUXBZWVdkbmktRU5FbV9hb1Fweg?oc=5"
+    },
+    {
+      "n": 23,
       "title_en": "Oil prices fall as Iran talks shift market mood, though risks remain",
       "source": "The New Voice of Ukraine",
       "score": 10,
@@ -833,7 +849,7 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0x0aWw1UFd6Y2RyZWpDaU1OMXFGV3JmM3FWbEVPVWV1d1lMdl9heGJfYVZJcTZQZXhERVBoTTNaSjMyTFMzMXZyQlJZYlhIdFo0NC1JRWo1VkI1ckVZcjliT01sYS1oMEp5eU5WWHg3dVU0LXh2VWhlX0tLZ3lLa3ZWQ0JETmxfU2pmZTZ6RWNJYS03b3Z4SGlYUEhqNmpZX1lLR2xB0gGmAUFVX3lxTE8zTHRpbDVQV3pjZHJlakNpTU4xcUZXcmYzcVZsRU9VZXV3WUx2X2F4Yl9hVklxNlBleERFUGhNM1pKMzJMUzMxdnJCUlliWEh0WjQ0LUlFajVWQjVyRVlyOWJPTWxhLWgwSnl5TlZYeDd1VTQteHZVaGVfS0tneUtrdlZDQkRObF9TamZlNnpFY0lhLTdvdnhIaVhQSGo2allfWUtHbEE?oc=5"
     },
     {
-      "n": 22,
+      "n": 24,
       "title_en": "Crypto Weekly Digest | Wall Street’s AI selloff meets Bitcoin’s rebound: What’s next for Nvidia, Robinhood and QQQ?",
       "source": "Moomoo",
       "score": 10,
@@ -841,7 +857,7 @@
       "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNWXVXNGprX1lTVUEtR2Y1U0JhYlBqaDJseHNjc1hPbDhpQTZsMXowaDRzSzk1ZzBLa3NrVG9wcFhSSEpNTTBINHBSTUNkdlVWSkVoc1dSZFNZcUplWUNWVHhEYmJ2REdKTTcwLTFlOHg4RTBSMEEzdlcyeWpsTHVTbmhRWno2dGgxSjdoRlRXRlZteHNqNWtsd2JfX0V4RFhhNlhVMjJoalFmd1FfemdSU1hYRFVJSkE1dDJIb0JJbmFOQzlqd3BKSEJybi1GbFZiVy0tQkhQeEUzSVlVSl9zQ0ZxVngyTHpWR2l6VE5Rb1RSUlZHZFFmZ01MRTdzR0hZd05Wd3BrTEdNdzdsMzVvSFlVYnpsQXNlWmExTjZvcnZyRWxmSklPSjluVXZUME9XQlZPREhCa2xvenFHMlhXQ2xhaE9KdzFkUmVhYVEwdlFpa0JuUUNtSkxfNWtoVjhmRnliMk9wbnpwM1FMYVZRTzZNZnd2MmNMSFNhRVFKdU8wWnZ3?oc=5"
     },
     {
-      "n": 23,
+      "n": 25,
       "title_en": "KOSPI Rebounds 2.24% Despite U.S. Semiconductor Slump",
       "source": "조선일보",
       "score": 10,
@@ -849,7 +865,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXVwdDBFUnU4UmRYVlhaRjFNa2hleW9wQkpCN09ZOTQ2Zk9rbFhLNEM1U214OEVEby02emRfVG5MZU5DQWJuSEhkOFJCd1lZV0hIMGVnOC14QlVoOEswUDZYand5LXhUNXdDTERVcVlzcU9mclFBVDlWV0d3UHdvNnA0VUJNYkFMUjlXZFFR?oc=5"
     },
     {
-      "n": 24,
+      "n": 26,
       "title_en": "Oil Prices Rise After Reports Container Ships in Hormuz Hit by Gunfire",
       "source": "EnergyNow.com",
       "score": 10,
@@ -857,7 +873,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNkJpN2lycDhrcjd3U3JNVUsxVjNsU3ZaY2Nnc294NHFES3dnUjNKR1NtaUZFa29BWHNsZG03NVltS29iTWJYWkJBV0Zic2luNmw4cnRfUTFZczk5dml5ZEhEZ2tHV08tNFBPV29zLUpyWVVPdFROSFAxQTVkY0xBWjBGTm5jUWNRMEV4QUVlYkhfRHVRdzQzTTRCako4NXEzLUdV?oc=5"
     },
     {
-      "n": 25,
+      "n": 27,
       "title_en": "Apple (AAPL.US) is not burning cash, but is the “safe haven” amid the AI sell-off truly safe?",
       "source": "富途牛牛",
       "score": 9,
@@ -865,7 +881,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTlXbGlRRkpBVXdQcHEtcDFFOE1sRFkyc1Z2TDFSQUg4anJqSThMdFVVV1RvWnVtYzN6Rm9TYlRwSm1nWDhIR19mWFB6N0RCSVdVV3BPV3FfNzlnOG96d2JKQzJVc1o3TUd5bXlnNndyTEdsZnp2dWxsZDJoeUt2RUJXNUpzUktDanNteGFIZmJ2bWtTbGc?oc=5"
     },
     {
-      "n": 26,
+      "n": 28,
       "title_en": "S&P 500, Nasdaq Drop As Capex Concerns Grip Tech Investors, Outweighing US-Iran Diplomacy Hope — ORCL, META, PLTR, AAPL In Focus",
       "source": "TradingView",
       "score": 9,
@@ -873,7 +889,7 @@
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOaVFNdDk5WHNFWm1yYjJuSG1zWHdUWFIyWDRNTnJHTXdwLTdzWXlWSkdaRml0X0FnY1BoYUptTTd6WEFSOGFsUnJvYmxxNFUtMUtTam1na3lDdUEtcXhuVUxNMHdKa1hLSE5QSVFYTHRMQWZCUmZoRi1XTnoyVjl0b2ZLWWdwbVJlY3N5VGdWMFVNNHZJTnlQZG1MV3JiRi1VdjROR2FpOU9BcDRiWkpYZ2lnaWNfWWl3N0VuY19TNURPZlpUOE1GZjZoN1U3TnlOanRRUVhxTEhoX1lteV9oeHhvMC1WRDh1Y2xSaXVncjQ0VVBUYWJXT1hRTGJoWFhvSVNkTG9hbjdrQlB3Zktv?oc=5"
     },
     {
-      "n": 27,
+      "n": 29,
       "title_en": "Big Quarterly Beats After the Close: AAPL, PLTR, LSCC, ROKU",
       "source": "TradingView",
       "score": 9,
@@ -881,28 +897,12 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXYyZkFGYTBvX1RCZm1qWE9PNUdOR2ZrSHhPUTAweHRBYTNoelUwNVdtQ0V2Y21uNlNxYnRQcWtvMG1hM1NPc0NoN2IydFZ4eG9yU3hJQXNYbzZtV3A5UUV6OER5aEJYTFRwS3g3MERINng2ZUw5SjlQdXRNbG1uaGc5UzlDZ2YtTWxFMnFXcEhVT1VUZ2NnMkpXbHBacm5kVmhSZTFyVXlCZU1fU3pUVw?oc=5"
     },
     {
-      "n": 28,
+      "n": 30,
       "title_en": "PROG, Morningstar, and Paymentus shares skyrocket, what you need to know",
       "source": "TradingView",
       "score": 9,
       "published_kst": "11/03 05:35",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV3k2SnMzR3lnVzlpYzVTMy0tcFB4R3lPOHh5OTJQbUVfQ3h3MEROWkQtREZ5SDRiZ2I2Mi1LNkJxbS03bjUyNEgxdTZ6SkZOU2c4clEzN0lla2F5TllnQ21PaTR0X1I0YUhqYnc4aktFM0cyeVhIRTBHLXNad2tBZW9xODdWYzkzU3pLUldOZTM4NDlwblB3Qi02WTA4T0pfUGlHbFQzNWFiYmd2V0xYeEIyUmZWM282Wk5IcFFLd29GZTVGV3VBWmx3?oc=5"
-    },
-    {
-      "n": 29,
-      "title_en": "Micron is the Real Loser in Lumentum Deal Which Assumes “Market Will Collapse in Two to Three Years”",
-      "source": "Yahoo Finance",
-      "score": 9,
-      "published_kst": "11/03 01:22",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGxLa3pNZmJCekw5Rk53S3RTY1lFM0ZQR3JDX2ctZTJHeXViUU5tZkk2TjAtU0tjM0FyV2NaYnFja2lwYVM4T1hIZTB1VHI5LThCT1I4Zm1taFlqZENmQVZ4bXFjT2ppNUJnTDRVLXBhcWtOLWVfd011Q3RRd21ETUVMdlFBRFFpQkRWaWpJS2JFYUN5djdFUkVWbVc?oc=5"
-    },
-    {
-      "n": 30,
-      "title_en": "Apple's New CEO John Ternus Faces First Earnings Test",
-      "source": "The Tech Buzz",
-      "score": 9,
-      "published_kst": "11/03 01:07",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS3pBNVU2ODZ3d1dET0RHODR2VXJzblZjemZCcjNBZE9OMEdvWWJvRWtsMHJ5NUNFOGZ5aU9VeS01T1V4MHRaTHJwb2o0ZzFwcHNCcWVWN0R6RjhKb3FPbkJkTGxpR3QtcU9rZHBIMUFKak9wcXJtdXRUTmd1d3NjRldqaUgyZjlSMmh5NUNlWQ?oc=5"
     }
   ],
   "earnings_calendar": [
