@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-04 10:16",
+  "generated_kst": "2026-11-04 10:25",
   "us_session_date": "2026-11-03",
   "indices": [
     {
@@ -48,22 +48,22 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.54,
-      "chg_pct": -0.21,
+      "price": 101.49,
+      "chg_pct": -0.25,
       "as_of": "2026-11-03"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 96.83,
-      "chg_pct": 0.38,
+      "price": 96.41,
+      "chg_pct": -0.05,
       "as_of": "2026-11-03"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1342.88,
-      "chg_pct": -0.14,
+      "price": 1341.28,
+      "chg_pct": -0.26,
       "as_of": "2026-11-03"
     }
   ],
@@ -683,7 +683,7 @@
       "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
       "source": "Britannica",
       "score": 14,
-      "published_kst": "11/04 08:00",
+      "published_kst": "11/04 04:58",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
     },
     {
@@ -696,14 +696,6 @@
     },
     {
       "n": 6,
-      "title_en": "Arista Networks shares jump on upbeat Q3 results, strong guidance",
-      "source": "Yahoo Finance",
-      "score": 13,
-      "published_kst": "11/04 06:44",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXR5bmFobjZsY2FGbnRYalFsa2lGSDdweGV5djQwMTE2YVZjWmlhdGFnRnRTcEdoeWd5Nk50WDJGd1FreUpqQW1EX0VkTzlIanpheFp3RDMwQnY0aGJTSzZHaDIwWk9aRl8wYWJ5NFRyZ0xTc0RDRHB4NzZQY3BRY3dlUjJJZXl2RmFJcDhCZDZUVERDaUszVFNyaGtTX081?oc=5"
-    },
-    {
-      "n": 7,
       "title_en": "AMD stock jumps after hours as quarterly results, revenue guidance beat estimates",
       "source": "Yahoo Finance",
       "score": 13,
@@ -711,7 +703,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZE5fMmotR09jRWJVcTVFcURmVlZiRHR3NDBEMVh6MzVfTHZZSEhLaWotLXNsWVNMMjNsZUpBc2tab2tTS0wzcDFDcFRURWUyRThyMl9NM3lsS3kxMnRZU3JqYUZwektUYzdNNTA0eVJyVnZMb2tscW9scWg5Vmt5LVd4MjFnVmhnNlFQVklPUWlESFBMcHFOVGxnV0Q?oc=5"
     },
     {
-      "n": 8,
+      "n": 7,
       "title_en": "“My account is the only thing melting away”... A surge to cheer, but a day later it’s back where it started",
       "source": "파이낸셜뉴스",
       "score": 13,
@@ -719,7 +711,7 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12SVVubjBwVzZ1SnZETk9QNnJmOUxMdHNRUW8yRzMzdnFRYmhPYXozQzN5VHB4X1d2eDZhUWZLalp4UXJpeERWdm42N1h5cmxSdUFuZTE4ZVY?oc=5"
     },
     {
-      "n": 9,
+      "n": 8,
       "title_en": "US attacks on Hormuz. Qatari mediators in Tehran for talks on reopening the Strait. Vance: ‘We are optimistic about an agreement with Iran’",
       "source": "Il Sole 24 ORE",
       "score": 13,
@@ -727,15 +719,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWRVUG1fQU42cllfUnhod0R3c3Q4OWxRWGhPbGZ1YnFjMWNCd1ltd3p6bTNSZmFiZEJweWVPOGhrN0lqRkFoeGVsU3NaNzBtQ2ZsaTlqeDdLbzdoYnZ0MU9HTFZ3bHBnZ2lmeXNoaktQbXpaMWk0b2pRX0Vxamc3Tjhobk5aSkp0aDZoX0J2MnpyeFBmekExSEJTZzNDX2pkT25VR2dyVEs?oc=5"
     },
     {
-      "n": 10,
-      "title_en": "US Strikes Iran's Qeshm Island, Oil Prices Surge Above $106: What Happened Near Hormuz?",
-      "source": "The United Indian",
-      "score": 13,
-      "published_kst": "11/03 20:27",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUUliRjFWU2gtRmVIeFBqRld0WlJkdS1TOTVpSlhKdDVJVlBYRUJFMWY0SUFxQ24yX1RRa2hPVGFlcno1cEhBRURmQzJFR2NpWHEwZmRYMEtXVjBZSkFkU0tibGc5eTJ2OENmYk93ZGZLQ2UwSGpYamVPaVdJY2l3aEZMbzZtTFRscS1Rbm9R?oc=5"
-    },
-    {
-      "n": 11,
+      "n": 9,
       "title_en": "CVS Stock Rises After Hours On Alleged Pharmacy Spin-Off Ahead Of Q3 Earnings Report",
       "source": "Yahoo Finance",
       "score": 12,
@@ -743,7 +727,15 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOE5KbTh0YVFWNlFPd1dxUkVDYXZGZDZHb2c4b2t0NWFFZDFTRkZXT1BvSHBsendBWWtvaEo3T0VyaXNBVXFPMllJSnlKQXF0NEROc1d3eW80Rk5uRnAta3lwSlptVjB4bEd3Q2xHX2luVXRVQlRNeEQyX3lJQTVCUzBzQmNNYUJ6ejVlNFdtLWM0VktHRmhwRmJB?oc=5"
     },
     {
-      "n": 12,
+      "n": 10,
+      "title_en": "AMD and SMCI Stocks Jump After Earnings. What Wall Street Sees Next",
+      "source": "TipRanks",
+      "score": 12,
+      "published_kst": "11/04 07:13",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVnh2YWNYcW1wTFFxeXZXWDZzdEMzUlNIUm5lNTRQdENIUjJxTVUwZHowMjhCaV8xbHpjU0xNVXJiMFE1andDWDI3ZEJ4MWdpRjNVVzZScmpRangyNkZOOWVWNmNocTlGcWtIbTFRWEhueTRWQ20wemtKM3hnYlFDU2R4S0Q2cXctN280bmdaSmRpQ0pNZ3hGcXZmSXY?oc=5"
+    },
+    {
+      "n": 11,
       "title_en": "Phoenix Education: Fiscal Q4 Earnings Snapshot",
       "source": "Yahoo Finance",
       "score": 12,
@@ -751,15 +743,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3k5ZXRQZzlISGR5bFJjYndhMVRHWWd3VjJVQ0M5ekpUUFZHOGNBX2VpcDNMZ25qdVpncVo5RzJyOWE4LU9rVTU4bFhNVTE1NEp2cW9yTlVRckxYdUlZWGRqdUZWa3kydnlHWEVJbUlVMmVwbmI4bG01cEdlTDBsd3dlaWNVbWxYQk5LWkRaclVNR0lRdVBkVEY1R1drTXVrOElB?oc=5"
     },
     {
-      "n": 13,
-      "title_en": "Addus HomeCare falls on revenue miss despite earnings beat",
-      "source": "Yahoo Finance",
-      "score": 12,
-      "published_kst": "11/04 07:11",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWE40djFRbjE4VG1LN1UwNDA1SUprLW9yRXpvZWZVM3FoQW1WYzl5dFpRZGVMaEZQTVNTVDV3cnlnRjhiekdkcXFYMjI4SEQyczhOZDNNR1FwS0xfVkxiMjBzMkpEaW9ienZFdmNJTG1ST0VuMnZkSmUtSE4xZmNLdC1Pajh4OUR2cTQ4cmh5bGlfQ1Zyem50TUFoOVlhUk0?oc=5"
-    },
-    {
-      "n": 14,
+      "n": 12,
       "title_en": "AMD Data Center Revenue Nearly Doubles as MI450 Ramp Drives Record Q3",
       "source": "24/7 Wall St.",
       "score": 12,
@@ -767,15 +751,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTWVhZ0dHT1cxRDl6MWNtQTVOR2pvYjVwVVo5VEJwbS0tMVZGVU4xSUZSRm9rSlE1Y2hVUm1nTHZqcm4tOHFGRng4VXh5ZTVneHl4QzFRcm5lRlZsbDEwQ3Faa05QUzVmZ0Q2UmFueXY1dFdpMGxVSEQ2cWxQTEVpT2lxSUJhdw?oc=5"
     },
     {
-      "n": 15,
-      "title_en": "Super Micro: Fiscal Q1 Earnings Snapshot",
-      "source": "Yahoo Finance",
-      "score": 12,
-      "published_kst": "11/04 06:19",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTlZiMnpKQzZlOEFDbmNQMHNqdHk4a1JoOVY0WVZwM2pITjE2Sk9UQWx6bjE5T29iMl93NEtfUmNzSEVpZk1Uem5CdmRyMVAybG5pOG9CZHNpUHlOSkdHNUI1U0U1WkpWeUVMRkJRclNCZDZLWEE3M2hzRnp3Wnl3N184WmRWUUdYa3VNbXJsTWRqYVJDSWtlTHZxdw?oc=5"
-    },
-    {
-      "n": 16,
+      "n": 13,
       "title_en": "AMD Stock Surges After Hours As Q3 Sales Surge 45% On AI Boom, And Expectations For 80% Revenue Jump In 2027",
       "source": "Yahoo Finance",
       "score": 11,
@@ -783,7 +759,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbHQ5RmZtLVlrd2RrQVlMQnB5SmtvRmxPbzBZWWZMSDRseGZJVHlPMFM5T1JvYkppUVdnc1lBRnFhR2NXSzZhV2E4SE1Yemw1NEI1bGQzdWdoeHdKV1p6bHNEcFZoWkRXMy0zNWRUTDJnTVNtUEkwczZRWnFJWmxybkhENU5aQkVkTFE5S0pVZG9GQUNk?oc=5"
     },
     {
-      "n": 17,
+      "n": 14,
       "title_en": "Cipher Digital Surges 14% After Hours, Closing at $8.12",
       "source": "24/7 Wall St.",
       "score": 11,
@@ -791,7 +767,15 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHZ2Y1p5djBKdWF3aTFuVUNRN0xlSTllYjJXcWN1SzdneG41dGM2Rm9PUm10LVlhZUV0YkhTUHgxQ2hSM1UyblhzeDh0UG1ycHdkaFRPZGVBcEtwVENsTVRWVTBrcDJ1R2NCOGprNG9fc21rVDRYeGhVb0NTd3c5NkVYclMtM1ljWVFqb2tvcw?oc=5"
     },
     {
-      "n": 18,
+      "n": 15,
+      "title_en": "Bitcoin Miners and Data Centers Dominated Monday's Gainers, Led by Cipher Digital's 17.7% Surge",
+      "source": "24/7 Wall St.",
+      "score": 11,
+      "published_kst": "11/04 06:45",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdzNyYkRpQWpfMDZEUHY2VHQyMWZnYUhpQnk1azZqUVhoTGs3TzhQZFdxNWdlbHUzNW1pVWViNXRKUWdoai1SZzMzNnVHSkg0b0tXanV5ZV9QdVFXTDM5N2FuSGh4cUNrMVRjNjdBd1BDSnRiM2JkSzRvWDV4LXFHQXpWckNGbldJYjN5VmlWVnhBMnZCUnpuQ2ZDOUs1Zk0yUl9wMWxtRXRHLWI4OUktLTJoX0lkYy10MHp2ZjFSMW93WjNhQ250cXlsUktFaEg1?oc=5"
+    },
+    {
+      "n": 16,
       "title_en": "Iran US War to resume in full scale in Middle East? American strikes in Strait of Hormuz on Midterm electi",
       "source": "The Economic Times",
       "score": 11,
@@ -799,15 +783,15 @@
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOa2FZWFBwS0VKN0lsWW04OXhKb0FWOEFCWFN5cWdORmpleERPTmxQeExvbXJjMlI1bDJvZW1uUXFsSUxMc1F0RTVzaFBRb2dfVFRJcUNNWUd3ekYxQlAzVlNEdHZoa2R1dW5JZFdIYTZ0Nl9WQzVQaF9JVlY5QktQQzU1SlpyR3R1ZG1oeFNrU2xnbVNIWVd2bWZ3ZENiNTVOOW00dDBDSVpYaUJkN1YyV1dUN3VmaklCTUJ1ZVVUalpwc0N5RWV4ZkNvRnJxcGJLd3ZMbnRMZUlQYmhRYTJZZndFWDltNXJpWEZZdXZodS1DaXFVMC1vMUQwT2dTQWo5QUpKVV9KaXhMMll3YVdrQlhSdWcxamt6ekNMTGdEQldwS0oweERHcE5kMlR2WU5q0gG2AkFVX3lxTE9VT2J5aHBfWFByYVBrR0JFQjkyeFZGMGtGcHM1RlU2eDdEVkZGbi11TWRQZkRRVGlCVUlQQjhmcW9HbnZlY1pxdENHTnZjaDlVUUZscEU0NVl0S3Q2RklaQUQwM09iel9PY2J5bFg2UkdIXzJxTDNHR1d2RHFKZjlLd042SmdDNUNIUjRaLVFwRUNMMTBsbElnUnRrMHpqUmNJRzVOZ2tYeC1URHg5Sk5pVEV1anlQMlBqR3BWQzA1VjNIWjkyUDVPMXF2RHhiTkQ3TDMzUHZuX1dfOEVITW12cGl6TEtQWE9XSWIxeHBxaDZfc2lXbU9XUW9TRUU2MnBGUVNyQXptOFRNeEo1aTBna2FlbTA1ay1GRkFUYkZsZTZEWVg0VXFhUUIzOGZvTUJDdU4wc2c?oc=5"
     },
     {
-      "n": 19,
-      "title_en": "US carries out 'defensive' strikes on Qeshm Island after Iran downs drone, officials tell 'Post'",
-      "source": "The Jerusalem Post",
+      "n": 17,
+      "title_en": "Cipher Digital (CIFR) Surges 13% Intraday, Hitting $8.05",
+      "source": "24/7 Wall St.",
       "score": 11,
-      "published_kst": "11/04 05:14",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zREl5Nkt3VXYwcXU1ZGhSZnZLZEN1dGhqWW83eFo2X05HTlFZYXhraUxoaEdwekw1M29MTWlsT1JxdS1SN2FDR1d4Yy1EdHctTFprX294ekcxVTdwMTIyYWE3QTNkdk5lRkE?oc=5"
+      "published_kst": "11/04 06:24",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2FHWkxwX0Ntc0sxcm85amVoTjkwM2V0aTBwVXRjcXl0Rko4MnB2aG1XY1p2QzhlMjQweDNYMHFsaF9NYnBSMVJQUmFZTDZRLVl3WW5odlZ4MTJIWk9PeDQzeWVVSTIzbXNYTmFpaThKU0hOOVg4UTFTY0pVTEg5aVJRWlVNR1VGRzRwcUtxZw?oc=5"
     },
     {
-      "n": 20,
+      "n": 18,
       "title_en": "US approves Qatar-presented draft deal with Iran: Sources",
       "source": "The Express Tribune",
       "score": 11,
@@ -815,7 +799,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXzBtMW5FWlJJNGFweVU2THkwSmJtZ3Q2UWJfSEhRYjhzRVp1V1hFVm9PSE1QYklUdDJ2WWRyc1Y5bVo1WUVydHpfS1Q5eDBqNVByVGVfanh5VnNfb1ZxYzhpcXVDY3hNeUJXUi1MUTN2STA3Vi1zNEdCOHlMTUw0YVMwSldzVHY0N0FqS0U5cjZRalR3RV9N?oc=5"
     },
     {
-      "n": 21,
+      "n": 19,
       "title_en": "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple",
       "source": "reflector.com",
       "score": 11,
@@ -823,7 +807,7 @@
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWkJyc21oSXpWUlVKemx0aDM0R0pWMDVaMEVSeDRwRU1Mc1J3cHpGOHgyN2cwMHRTVGlxOE9rSl9hUUlyU1dMOEhrV29fRnNnMGN6dF84MGxkM3VZRzE0QlRjMWhTcnhMVFBLUUtBR3VldVd0N2xhN1phNzFudzJkZ1VMalJ5WWxoZUZ1ZFFqdXJZN0t3MW14YUVhN0JPcWh1QUttdk4zYmVtOUJHMllmMVVfWHFVLTlZbEJIaDR2aC0yT21mTTRvWXh0eWlmRXNZWnpzTXRzRjVabEZnUHp6YUZrQWZIOWJrR1FWX1ZDMU43c3pt?oc=5"
     },
     {
-      "n": 22,
+      "n": 20,
       "title_en": "Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street",
       "source": "dailyadvance.com",
       "score": 11,
@@ -831,7 +815,7 @@
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWHB3Njg1bERkREhLY29mRzVmXzdyNEYwY29JNUNvUUtvbk9fU2dIUDhBcGZZTU1wbjZMM0tVcTNTM042akxqSkpxWG1wZEwxRG9xVHpoZGFIT1Rwai13ei1vZmVFTWFMM21kcGdMd0FkcFJUeXV6YUZUb1RIb013dnhBZ3c5aVlpVGkyRFN5YWd3WDJfYmJ1LUc1Uk9mVVdUci1fSWxLYTJpOFZvb012SHJqd09XZnI4N2lFQV9NcjJKZ01Lc1dWOGgxVDFFMlB3VnZRUmxEczJIcVp5cHBhVGZfUjRWN2QtSWx6cXJJRkZOLWpXbERRNWw5VVdBLUJPWWZ6ZVk4Yw?oc=5"
     },
     {
-      "n": 23,
+      "n": 21,
       "title_en": "KOSPI also rises 1.6% as U.S. tech stocks rebound; bargain hunting picks up [fn Morning Market]",
       "source": "파이낸셜뉴스",
       "score": 10,
@@ -839,7 +823,7 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sR01oOS1aQ3FHOWNicExMcGhWeUthOXNISXlmR0VEVGpVeDZBa0RDa1MxcnVjLVJmLXJGTThyRnVWNFA0Y05Xcm4zcFNnUkdMUHNZVHVEd0Q?oc=5"
     },
     {
-      "n": 24,
+      "n": 22,
       "title_en": "Asian Stocks Slip Ahead of U.S. Midterm Elections as AI Funding Worries Send KOSPI Down 3.6%",
       "source": "BigGo Finance",
       "score": 10,
@@ -847,7 +831,15 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mZDB4cjJRQ0VCV1h4S1VtcVp1UnVuc0VJMmVrOHNiTWZCWmJzUUNVZzRVSFVwSnhNME9kMTZnMG45ZU9GdURNSXVyTzQyeTlibEdkSnBuZDBUWjZIazdRVGhuME9sYWNXa3NNOV8wdDRXLVJuNEE?oc=5"
     },
     {
-      "n": 25,
+      "n": 23,
+      "title_en": "Korean Stocks Brace for U.S. Midterms; KB Sees No 2018-Style Rout",
+      "source": "Seoul Economic Daily",
+      "score": 10,
+      "published_kst": "11/04 07:52",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWl4dG1tOUp1dXdocGw2ZmdVQTliQnhEdkxwUFh3ZzQxSlBocXQ1MTBIeWpOOVEyWl94TGxydlJHU2ZPWkMzci1ONWNDR1JRVTFHcVVJMzNJZERRQWY0UFd0b0QxdUJiOGNHYlR0RVI4RE53bG1TWnByUXhWS2hrYzlHMWNONGNVMVBaeVNIQzNzeEs4ZFF3c0J4RDRvR3ZT?oc=5"
+    },
+    {
+      "n": 24,
       "title_en": "South Korea's KOSPI Sheds 19% in a Month as 7% Daily Swings Leave Retail Investors Reeling",
       "source": "BigGo Finance",
       "score": 10,
@@ -855,7 +847,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55UkxUQVRQbHU5VUNZSkVBZHVqRkptaFoxMGlLY2VUU1Q1YU5OTVA3THdFNHdkNFp2dnpaUzZzaDk2MTJaWHhzZG4yZ1pBX3F0RFFmSENWVnpJeDRYY01xVGROQVBFNTVwYVJNRFZtdTdqZ3puenc?oc=5"
     },
     {
-      "n": 26,
+      "n": 25,
       "title_en": "COMMENTARY: On AI and Iran, Trump risks bombing himself in the foot",
       "source": "Reuters",
       "score": 10,
@@ -863,15 +855,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmtQdFh0bkk2aXhMdk5pZTFnWkxib1RjTmlZMnFva0pNUFprSExfMHB0VW95QnI1aUZQR3p2b093Vmo4cFI1NzJKZl9XWEFCUmp1QkE3Z20xdEFiMWZOVk5kT3JUUG92bkpEZ1ZrZm9ZV3RXMFRrQ2h1T0hCOFVyZnhiMkk3a3lrVXg4Y29NOGdWX0ZEWFBvMTk4NzRfOWRKYmFZNWNBTjUzQWw0a2RCMXlKY3BuMTBOejVvcEZ6TkFzY2s?oc=5"
     },
     {
-      "n": 27,
-      "title_en": "Record Diesel Prices Could be Trump’s Achilles’ Heel: Bousso",
-      "source": "EnergyNow.com",
-      "score": 10,
-      "published_kst": "11/04 00:50",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcmszWUlLY2NkMHV4Zko2QlhubUpBSTFMdHBvaWptU1JOUXU2cmU5ZUkxMEtfQ0xrZEVnb1B2U0QyZFUycGxQNmZWM2xxaGpNYzhhMXBYRmdrS20xOXFJMktoRmFBeko3VjZvcDZoMURHY01kNDdSZ3dpZExMVXh1b2FWamwtUUpwLTlVMTgzVmRzZw?oc=5"
-    },
-    {
-      "n": 28,
+      "n": 26,
       "title_en": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
       "source": "EnergyNow.com",
       "score": 10,
@@ -879,7 +863,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNE1fMzFiSjhrOFpJV21kajdMYkJEd20zcGM4Sm0yREpWU09IZnBwX0VyUk9LTWlHYWhDYXZCOS04eng0d1lPdVlKX2pZUjFwYzAwZkM4NWlDazVaSUFfRHlLaTczenpiZTdrb0lXd09XZTRiWHpNVGYxcDRjaHhoZ3JvcVFtb1VZM29raVc4RE9kUXBZWVdkbmktRU5FbV9hb1Fweg?oc=5"
     },
     {
-      "n": 29,
+      "n": 27,
       "title_en": "Oil Prices Rise After Reports Container Ships in Hormuz Hit by Gunfire",
       "source": "EnergyNow.com",
       "score": 10,
@@ -887,12 +871,28 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNkJpN2lycDhrcjd3U3JNVUsxVjNsU3ZaY2Nnc294NHFES3dnUjNKR1NtaUZFa29BWHNsZG03NVltS29iTWJYWkJBV0Zic2luNmw4cnRfUTFZczk5dml5ZEhEZ2tHV08tNFBPV29zLUpyWVVPdFROSFAxQTVkY0xBWjBGTm5jUWNRMEV4QUVlYkhfRHVRdzQzTTRCako4NXEzLUdV?oc=5"
     },
     {
+      "n": 28,
+      "title_en": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day — META, AAPL, AMD, SKHY In Focus",
+      "source": "TradingView",
+      "score": 9,
+      "published_kst": "11/04 08:29",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOTBmS01NS2hLRklqZ2thMGRHQmRJcnZDMDBpS3JVNmV5dG0zVTV4WHNzY1pGRGxsLTZpclU2V0RjNzM2eGg3cDlvSjduZldtTXdwdjg3d09zRHlBQmotMGJIWlZQaUxxYnpzVG1hSU1ZVE9hdUZfblRMSE45eWRDNTRkd2tNX2JVSkZRUDdENnQ5Q3dlRDF3a0Q3RHFxUW4yakhLZVJxSWt1bDFUX3FfM0VmczdQR1YwcVl6bzNndkl2b21LRHhXUXRNYXZiNkdzS0psWVZsSm5uSFRDaVdXMVNoN1Y5dw?oc=5"
+    },
+    {
+      "n": 29,
+      "title_en": "US stocks are higher as Technology leads and Consumer Staples lags",
+      "source": "24/7 Wall St.",
+      "score": 9,
+      "published_kst": "11/04 03:54",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRUZ0OWlfR2tFZUo0RnotRjVtNTVGVE03MUk5MUhTVHd6djZkLTZ5MlhvYzBTRmxhaU1HY2ttekpNTVJfOVZsX0lpZjVzUEtRLTBGV1V4eURJXzZtMWw3Y3VzU0hQblpjSGZ3LUYwM0k1aTg2M0ZnLURfMWpyMW1wWEQtSTR0c0VLQWdKeGc5UFVib0ZYWEVoUkxFVGNZNVdRRXhuaGRYeHlINktianJrSlRpYV9WVXVsSzhRSURZOVdFdnhINXJnaTJicWlPaF9BcDNjUF91NU5PUQ?oc=5"
+    },
+    {
       "n": 30,
-      "title_en": "Oil Ends Lower Ahead of U.S.-Iran Ceasefire Talks, Posts Steepest Weekly Loss Since 2022",
-      "source": "EnergyNow.com",
-      "score": 10,
-      "published_kst": "11/03 11:21",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVUdtaFBtRFYxdFUwWlJmekJPbGRBcEVuU1JBMXpQSXRfTWxpbFFpckRPcldLU2g1YXdobkFYWklEUzRubWgxNlBxd0RxZl9jMlJ3MkdoblhDeFFmYTgzRjNZc2VYb3B6Q1JJSFNMVS1JU2dzV0k3MjZna0tsZkxWRjhhR1BoUldKR0RzbmdvWVJRZFk3N1E?oc=5"
+      "title_en": "[Closing Market] KOSPI Plunges 3.6%, Sliding to 5,640 Amid AI, U.S. Election Fears",
+      "source": "Businesskorea",
+      "score": 9,
+      "published_kst": "11/03 17:22",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4blNxTEdPZW1yUFMxWkhmSktYWEpSUnVNZkYxYTY0ejczbUJzSWZNeWtISml4Mnp3VTRDWWo1SUI2OFhfTTQzU1NFc19BMXV2dV9VbVNHV1JYZThrUUxSQ254YWEzWWRnVUR4Q2VLS1hMMGpG?oc=5"
     }
   ],
   "earnings_calendar": [
