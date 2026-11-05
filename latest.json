@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-05 07:09",
+  "generated_kst": "2026-11-05 10:26",
   "us_session_date": "2026-11-04",
   "indices": [
     {
@@ -48,15 +48,22 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.53,
-      "chg_pct": -0.34,
+      "price": 101.32,
+      "chg_pct": -0.54,
       "as_of": "2026-11-04"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 88.1,
-      "chg_pct": -8.32,
+      "price": 87.81,
+      "chg_pct": -0.35,
+      "as_of": "2026-11-04"
+    },
+    {
+      "name": "원·달러",
+      "symbol": "KRW=X",
+      "price": 1339.79,
+      "chg_pct": -0.23,
       "as_of": "2026-11-04"
     }
   ],
@@ -92,7 +99,7 @@
     {
       "sector": "양자",
       "avg": -1.56,
-      "up": 2,
+      "up": 3,
       "down": 2,
       "count": 5,
       "expected_count": 5,
@@ -618,9 +625,7 @@
     }
   ],
   "expected_stock_count": 63,
-  "missing_symbols": [
-    "KRW=X"
-  ],
+  "missing_symbols": [],
   "big_movers": [
     "모더나 +13.1%(제약바이오)",
     "마이크로소프트 +6.7%(AI·빅테크)",
@@ -670,11 +675,11 @@
   "news_candidates": [
     {
       "n": 1,
-      "title_en": "What Wall Street is Missing About Micron’s (MU) Ultra-Low Earnings Multiple",
-      "source": "Yahoo Finance",
-      "score": 17,
-      "published_kst": "11/05 00:11",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZm5OcG9fOWsxbGR6RGlCZXVQRFdDNFZYb1dWUVZqNUw3UUdKcWd6Rk1XVkFZVFZTc0RKMUZuRTVIZmxZSUhFTVZZYm81al9uT3B4QXQzUzRKR3FjdXVhOW55WF94enVWdWpha3RJUHJPZ0JGUEtvTjNxbmtmNTQzOEdNbldicGtjNXU1TGd4dzJqeld2bjZEalV3?oc=5"
+      "title_en": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus",
+      "source": "TradingView",
+      "score": 15,
+      "published_kst": "11/05 08:32",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPWlpUS3JmMHdEMFF1NnA4cXd6UlZvVlpKcEtXMk5TS3NiTTJLVWc4UmtrTjBLSFZDVk9wMkF2U2o1bmtNMk4wZVRqNW1yNzhpZ1YtakZrUXhuaWtNem5pWE1hem9KeUQ5bnBVTVdsUkFtSFp0TUQ2a2JlanY5TFJzdzgzYWN1Nzh3aXJXbWNxSUZjREduMTRLUncwWm10Wkpvd05lcFNSZERBaTJ5bnFFUVN1SUVLYWtwX0k0bUdZUDB2SXlCTnFZMEtQSWplYW5TdG04RW5rUDVicVZEYXpfbmdXQndRVTlHZVkyd2ZHMWo4bWsxZGQ2T2owcmlfNThxa1o3RGl3TnVGX0wxeTRuQXhR?oc=5"
     },
     {
       "n": 2,
@@ -694,19 +699,19 @@
     },
     {
       "n": 4,
-      "title_en": "Forget Nvidia: Why Samsung, TSMC, and Micron Just Generated 'More Free Cash Flow... Than Any Other Listed",
-      "source": "Benzinga",
-      "score": 15,
-      "published_kst": "11/04 21:57",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeDNveUdtOWNfOHlrcXhCTHYxeDJLS2pfYlBZblhwLU5LQ1hyNGxEYkg0RU5JT2FqSlpYTUQ0NmVzVmlVa3ZwaTQzVmhNYmNQV1Y2NGp2V0xwczNldkN5ZUUxeUMyUGRWeTJjMjh0U3Q1RXFPUGpab3R1Y19fZU1zTjJPaUd6Y0hQSGRKTFkxQmtGdHYxeU1FaHlIQUhYYWRwV0xmcHhjMVQwM2JmSThpTzVvYjZ4M25aSVBDaFZqWDVrVG9GVHVFVk1KUEh4RThPVTV3V1ZFd1pHUHlENWVaeVUzTWRxWXdHRHFId25td2hkODQwRndwQ0p3?oc=5"
-    },
-    {
-      "n": 5,
       "title_en": "COMMENTARY: China is Balancing Asia’s Crude Oil Demand by Itself: Russell",
       "source": "EnergyNow.com",
       "score": 14,
       "published_kst": "11/05 05:23",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDlPZERreTB1RldlV2ZtR3p1NmdNdUU0TXV2U05UTzh0ODB6UXo2S0xxRW1HbEVncmhvOTd2MElYNzJjd2o5SEFoYm1OZWg4M1FveXBLeGpIU2lESFcwZDBJOGw0WC1FcVNoQ1dVQUxEem1QbWJ3anpjcnhSOUZRcHZlN19kaWVrREtOYlRZUWxwVlJlOWV6dTRPaHUwVWJQU0I0?oc=5"
+    },
+    {
+      "n": 5,
+      "title_en": "Semiconductor and Memory Stocks Weigh on ETF Returns Globally in October",
+      "source": "Morningstar",
+      "score": 14,
+      "published_kst": "11/05 03:45",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRmpGMlBDQVFKQi0yVGZPbFNGcDlHdmhDUFB3RER3QTJjd3ZjREVPOU5qSW5QWjJoNEhrOXVSVnJfd2o4dVJJRVFxTG9YSmJQZmwzWGxMNlFLZWROZzRjWGRPQloydzR1OXdIT3RfNy04eFdGWDJOYmhxQ1VlNVZfSlNPXzM3LXhwbmNOVUc4NkhsLVpYNElJT0lxR3k?oc=5"
     },
     {
       "n": 6,
@@ -726,22 +731,38 @@
     },
     {
       "n": 8,
-      "title_en": "Better AI Semiconductor Monopoly Stock: Taiwan Semiconductor vs. ASML",
-      "source": "The Motley Fool",
+      "title_en": "What Wall Street is Missing About Micron’s (MU) Ultra-Low Earnings Multiple",
+      "source": "Yahoo Finance",
       "score": 13,
-      "published_kst": "11/04 23:55",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGltQ1laWTRjdVRfcGJwWTZHVkE0Y0J5MlJtd015amczUnFLLWs2c1RNSXNsdHppUlI4WHp3MHdCdWtYOVVQVEZScWRaenhtdzl6eWJ1TEpOaEJkWWRyaS1PZ1lGTkVZVEVxTjN1T3NLRHBRLTRac2w4YTJGOU4ydmZWUGZDb0xTODBPeXJmZkh3QkFJQjZoUg?oc=5"
+      "published_kst": "11/05 00:11",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZm5OcG9fOWsxbGR6RGlCZXVQRFdDNFZYb1dWUVZqNUw3UUdKcWd6Rk1XVkFZVFZTc0RKMUZuRTVIZmxZSUhFTVZZYm81al9uT3B4QXQzUzRKR3FjdXVhOW55WF94enVWdWpha3RJUHJPZ0JGUEtvTjNxbmtmNTQzOEdNbldicGtjNXU1TGd4dzJqeld2bjZEalV3?oc=5"
     },
     {
       "n": 9,
-      "title_en": "Stock Market Today: Dow Eyes 2% Jump as AMD Earnings Ease AI Spending Fears",
+      "title_en": "MercadoLibre falls on earnings miss, margin pressure",
       "source": "Yahoo Finance",
       "score": 12,
-      "published_kst": "11/04 23:20",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTVjNHdOSm9KSTQ0MkhGZWY1cElrWXNmUURPWFV4Y2dMTDVNSEQ5YXVmYWM1cmRhVVppTFBYY01WSUpiN0NqaXpaM0lndmJFTTB3bjFpVlcwUEZlUkFoLVZxXzdUT3hYbnpnUklhNXYzMFA3WVR1UnVCQzdSU3Vuc0oxT3Y1Y2JyUHkwc1dEeU43bTgwX2lv?oc=5"
+      "published_kst": "11/05 06:43",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTklscC1seExMaU0wUTBzc3UwWmNrcXdsMEYwZDdIZG1Sbm9FV0xZZVRPLXZEYXI1Q2hvVDNjRjdoUllXQUFETm15ODBuSDBXUzY2ZGhOaVlVelVPYVJtNjF6bWcwN3ZOWFNWT09LRExiNzdKdU00OEZqLXNaRXFhQmdFU2NKUmtFcnVOQWNNdUdIbXdXOGNGNm5nVkt1b1ZxTXN4U0JtUQ?oc=5"
     },
     {
       "n": 10,
+      "title_en": "AppLovin Stocks Jump 8.8% While Tonight's Earnings Face a $2.08 Billion Test",
+      "source": "Yahoo Finance",
+      "score": 12,
+      "published_kst": "11/05 03:30",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORFpQZ0Y5NnM1YzRsbmdBdERwQVJrRnZwR1YxQ3p3ZWVPYm5sMGRadXdJbExuYnhaWUxzbkpJNlBYbmtHdG1SQ29tVjZrdUxrUzRCaThHM3R0SmlIMDhicTZxS3pqZm1MdUxBdk9FSnZGYmw5dFA2bE9OMl85a2pLVXkxTU96bmNDLTZtOVRORGRlTWs?oc=5"
+    },
+    {
+      "n": 11,
+      "title_en": "How a Houthi Blockade in the Red Sea Tightens Iran’s Grip on Global Energy Supplies",
+      "source": "EnergyNow.com",
+      "score": 11,
+      "published_kst": "11/05 07:46",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEJndXMtbHRQb1Q1YnhKMk1vdGtSUG5GWGdDZHRMOUFwbVVDM3V0OHVCTzVhemt2clNmZFFTUjRKa05kdFNLYUNrTU9fQ1dHQnpCLWJ5YzFqazJESlhBOGtCU1F0MlVaVHBzbG5Bcmx3b1ZNS0E3X2pkNTF5TXVIUC1KMVJqNUNHZThmNF83T05jUHN5QzFlMmU1SzBpMkJQVWdUSFJlbGNXUVgxdGJ3cFN1dw?oc=5"
+    },
+    {
+      "n": 12,
       "title_en": "Nvidia and other Big Tech stocks lift the U.S. market despite drops for Apple and much of Wall Street",
       "source": "朝日新聞",
       "score": 11,
@@ -749,63 +770,39 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhUWZ4Vm54SFgxQXVFbDFIYmw3eGdUNk9vQXBSSjJkV21ZT2hQaWYtTG1uX3pCbjBfOTFBRzFfazhVdUk1RVJYOGJzRlQxamx5Rnd4WWFn?oc=5"
     },
     {
-      "n": 11,
-      "title_en": "Can AI spending prove it’s more than a trillion-dollar bet?",
-      "source": "Korea JoongAng Daily",
-      "score": 10,
-      "published_kst": "11/05 00:04",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRW9BRVVEQVBNMXRyZ0FnX3Z2UG16MGtWZkF1Vm8wRzdraTZEdjNmN0dSQzlmYUNXYUNOTFR6dHM1TnRhcHFRVURoZmd3dkRFazNqVUhQeEg2YmtPcU0zbnQxaDU5ZVg5cGR4MlJOUjU3dG9NWEFYOXk2cUl4cWU2Z01UYk01VWhQN2JvcDBPb0VqYXpt?oc=5"
-    },
-    {
-      "n": 12,
-      "title_en": "Iran's IRGC says four tankers ablaze after hitting mines near Strait of Hormuz",
-      "source": "Reuters",
-      "score": 10,
-      "published_kst": "11/04 12:50",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbjcyLUxfeTMxaHFnbENrc2tqdlowSDFqWU5DUWtqOWhVUUdSYWdSbFpBRGQ4VHI3Rm5DbDVsLTV6bkM4d3FjcmVPRnpsQlJ6RkNSLWNZX0ZtWURvUExKaGZ2M2diWUFvZWZfSE5FN01PR2FXc1pSN1kyeXhHX0ZFS0k4S1FjSDJLc2ZfbGx2cm9TYW9JSThiZVZIeFQxTnVBXzAwYnhlaGxsN3lwQkxOZTdFRVVpc3RPa2J2M0JZNVduZXA3Z2pz?oc=5"
-    },
-    {
       "n": 13,
-      "title_en": "OPEC+ Loses Oil Market Sway in Iran War as China Gains Influence",
-      "source": "EnergyNow.com",
+      "title_en": "Nikkei 225 Bucks Trend to Gain As Kospi Slumps 3%; Kioxia Tumbles 8%, SK Hynix and SoftBank Drop 6%",
+      "source": "TradingKey",
       "score": 10,
-      "published_kst": "11/04 08:14",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHl3S3dvMDV0YjZLZ1dXTDZQbTlHSktXYUtMRk8tVzUzQkF1eEt1RTBLNmZzbnd3YVZieTVVczZxUWw3dzgwdFVNZFlYY2NVUktIMS1peUI3QzRhOUd6Z20wWTVtQ25SU2h6R2pLRnowY1B1V2dmTTE1ZTFzeC1CcUpYQlo3X0YxeDNKSnlrREhMeC1rWjBoM2xR?oc=5"
+      "published_kst": "11/05 09:45",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMURaWW9jc053d1V1cHMxc09PSkhhRy0yaFFvVUdlWlZad3NOWjZtbzFsX0U0cTNQV3diUWJINFBoMTFHVjNHYXJ2eUhyQW9rVTA4dkZtVnhRYlJicVhJa0F5VXpWcm9LMTNFZWF5cXdIbHA0ak9wd0tSbW5FemhwNFVkSVRQNHhVQWxlMVNubUVUcXJjTmhQT0FOTU00WkVRQS1hN1VLUDRTUl9tUnM0T1JCa0JXX0U4RTJWY2otcEFER0ZtMUdqNGItdTZ1SV9WMXNGTG9OSnBKLVdBV3VYMnpR?oc=5"
     },
     {
       "n": 14,
-      "title_en": "Oil Prices at Near Three-Week High as US-Iran Peace Hopes Fade",
-      "source": "EnergyNow.com",
+      "title_en": "Korea stocks fall as foreigners sell and chip, AI shares slide after US vote",
+      "source": "Chosunbiz",
       "score": 10,
-      "published_kst": "11/04 08:10",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelFMVUg3TmhGN1ZXdnVQODdKYmRzTzFvNG1DWGYyYVdmLXk1N1NvcDBwNjhROWJ0SEJYNTNjQWpmOERSSjRXRjVBVm00eFFYSjhEMVlwM3IyOWNjZmNlYW5MOUI2ZUJoQXhkWUtwLVg5VnRhQXVDOXl4aC1qM2FfLWwwZUhTRm5ka1c5UnVhckltNlhveHNlYXR3?oc=5"
+      "published_kst": "11/05 09:20",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWGhTQUQ5TTlxb3VJLTRYZWhCaTlFUXkyUUlrNS13alNPTkRkaWdZNVA0NkY2bUFJbWRxTm1ibG1ybmNlMXlaWHIyR25jUjQ1cldNU3VEc19XV0lfTURGQ0JPNm1rT0VmZ3B5YVZKRXgtTlA0X2tTWWpEWE1KV21sX9IBlAFBVV95cUxPcGpPb0NQZ24zaFMxeTFaZEFjclpwbk9JcjU3c2NVVVJHTGZMT0lkU2RtdUV1cF9kY2ZVRVc3c1hjcnE1eWhYaWl2bGR6U0R6NHprdzVMQ0xKYUNXTjV5OGJrWnBMVElicTNVU19QUWJVaWJ1ZFh2bEZab0gzLUFSd1Bfb00wanJ1MXJjeHR5WHUyUDJS?oc=5"
     },
     {
       "n": 15,
-      "title_en": "Big Tech Rallies as Midterm Results Lift Market Uncertainty",
-      "source": "The Tech Buzz",
-      "score": 9,
-      "published_kst": "11/05 05:35",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZUREWVNmQlc0TjNqSm9MSWV2NGlKY19hNlVLVVJreW9zRlRZVUpOdHpNbGhFRVluUFAtMmRXdGNjd21WWTdIZEdMbEU0T3pxX1NvQnBEZGtKNVIzNHFfVVNRU0s1czJ2SFVDam9sYzlPSEhOV05ibWg5MjBuV3hCelZSal96MnJGMV9LY1M5MTR6bmhvaHhZ?oc=5"
+      "title_en": "Democrats Win the 2026 US Midterms: What It Means for Markets",
+      "source": "Admirals",
+      "score": 10,
+      "published_kst": "11/05 08:18",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTkxOC1QYlhMMWhlTnB4OWU1ZmkxWHdRWEVQT3RFM2hIcmFlcUpUTzZXdjFLd1JycjM3TGltdGJkNUNfaHp0UVJ2cllRd0J0VXI3WU9KUDRLd3NFcURYSkRtdkpWb3lyR3dzQ3AzMFpiUUZnMTFLeFZLUGxBZTNEaFZzeWdOaFlRTlJ0ZjNXWU9sVFdpRXRPYg?oc=5"
     },
     {
       "n": 16,
-      "title_en": "One Wall Street Analyst Says This Stock Is the Best Way to Invest in Anthropic and OpenAI. He's Right.",
+      "title_en": "Better AI Semiconductor Monopoly Stock: Taiwan Semiconductor vs. ASML",
       "source": "The Motley Fool",
       "score": 9,
-      "published_kst": "11/05 00:10",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd21NUnNic0o5UE95R1BvMmt3VG1UTF8tT1BWR2JfLUFydG42U0lZdHZPaG9yN0lmaGRLQzdCWEUyS2FvRXVTcUx4bWdyelc2bEd5bHdZNW5jTjYwNlpibDZsVnExeUxPYnp4LUJwb21TWnRLQkVSamZMcVJDWGxQdlZ2ZW1sNHFPbHI4dHZ3TlZoWWFkb1dRbw?oc=5"
+      "published_kst": "11/04 23:55",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGltQ1laWTRjdVRfcGJwWTZHVkE0Y0J5MlJtd015amczUnFLLWs2c1RNSXNsdHppUlI4WHp3MHdCdWtYOVVQVEZScWRaenhtdzl6eWJ1TEpOaEJkWWRyaS1PZ1lGTkVZVEVxTjN1T3NLRHBRLTRac2w4YTJGOU4ydmZWUGZDb0xTODBPeXJmZkh3QkFJQjZoUg?oc=5"
     },
     {
       "n": 17,
-      "title_en": "Amazon Rallies 7%, Apple and Microsoft Climb 5% as Big Tech Leads Post-Election Rebound",
-      "source": "24/7 Wall St.",
-      "score": 9,
-      "published_kst": "11/05 00:02",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUd0Nk1NTHVOcHFsbmRVVFpxeEVBajlIbzV1T2h4LTVCRHg3aUxPcEVfWDlTdWpwUEJUU1o4VEJaRko2cjdkTFNaMlFzR25xR0xwUlgyR1BwbldMbWZVY1RVWkpkdVlHWG1UU2YzeE5XSFZJMHVrNm12Z3g2Ukl6WG05X2R0aTlxcld1blhjR01RUG9JS2kwMW1XU1QtYjJ0cEFIczJiMkg4ODIxTFZtN3hNcFRvT0FnZUV6Q2pGdW45M2VjUm1R?oc=5"
-    },
-    {
-      "n": 18,
       "title_en": "World shares are mostly higher as Democrats gain majorities in both the U.S. House and Senate",
       "source": "BNN Bloomberg",
       "score": 9,
@@ -813,15 +810,39 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYlYxNHZ1bGJrd2NwTkVXbHcyeElzN1REU0IzU1lfbENjTkxNS2NKa3NxX2JRU1FWOFkzMzRhM1Q1em84OTVJSXdSdElUX01IbTNSMm9EUWczTG51UkZCWmhUSjRRaWRDQ0FTaWdzV3VSRDhKUlNxdkdDbE9XeklhWkM3UHlLWmxvVnllRkUxcWZNdzNtN3YxWHJvOS1xa3RuNWNYNzNIUHJlck94aEFuWlBfSnhjV1VDYWswSlBDSGlqSzE1UFZWbzRKQUJORzg4ajRITlZR?oc=5"
     },
     {
+      "n": 18,
+      "title_en": "JOBY Stock Rises After Hours On Q3 Revenue Beat, Advances Final Stages Of FAA Certification For EVTOL",
+      "source": "Yahoo Finance",
+      "score": 8,
+      "published_kst": "11/05 09:02",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZXE4X3VGNDVUNWZUbUxKdWFCTnduazZMeURnNks3ZWxJZ0o5eHVoMTU3eFJQSFh1VEtCcTJhNDlUVEZPZUlVMnFZNFpmcnMwN1BhZlAtTExJTDVkenJ1WE9rRWZGUG5yWDcyNk0wZEN6UzV6dWFPUXhIU1pHNFZDRzVxSnFuUG5wdG5mSHhpbTZDSTI3?oc=5"
+    },
+    {
       "n": 19,
-      "title_en": "KOSPI Rebounds Over 3% as SK Hynix Surges Over 5%; SoftBank Drops Over 4%",
-      "source": "TradingKey",
-      "score": 9,
-      "published_kst": "11/04 09:42",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTjJZWE5ncUZobGZGTEwxcFR1aW1SWm44M0k2ZDV6TUdVa19uYWVoTllDMTBqc2JkMXRsR2RUQVZkMmVqdWp1MjhvdTJ4aEl2LXdBdVBqWDJ2RXNVcEwyZG05U3RQcWt6ZFp1bVB3MnhYZDJRZWdEUm4tTjNFUGJfQjJWdVJ1X0pvX054WW5CRTFWS1MtOHNtWEc3SDJ2X0NVYnNnTGxyd3gyODhGeXlZMXFCemUtQ3Zud0xTVnNyUVliTFZ4aEFTVnpmTlhLU0pLbzRv?oc=5"
+      "title_en": "SNAP Stock Slides 11% After Daily Active User Growth Falls Short of Wall Street Projections",
+      "source": "Yahoo Finance",
+      "score": 8,
+      "published_kst": "11/05 07:16",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd0kzQmE2ZWpWRV83R2ZUOURvS1hmYXVNYjdGLW43Q0RxT21sRmZsYmFLOXBRTmhONEFZMWpXdUJmYWJ1QUFxWXZHRHVBMXBybmhEOElYUmo0dDhranBvb0lReWpjUzJfaHVQU3JldHpuejVGVFJxTTJlcUtwZUZ5cnJXUGNuOTRqUUEwOUlHYURpYnhlb2c?oc=5"
     },
     {
       "n": 20,
+      "title_en": "Stock Market Today, Nov. 4: Amazon Jumps 6% From New Perspective on AWS Growth and AI Strategy Following Election Results",
+      "source": "Yahoo Finance",
+      "score": 8,
+      "published_kst": "11/05 07:13",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWVQyS1JrNU51QVRVbjU2NU9zU1RGc2xBRnp0aUV1WmRIdG4tUkdXQ0JfS0JLWEVZUGd6VVpfZWJ6M2pzTEUxOHE0dFFpa2pGeWlIbldYZmdUS0xLVWpXX3h6NVBlRGM2RV9zcUE5RUViQklUd3VORUxJeVBrY2l5TkVUVWZPdWs2RFF3UFo2QXlFRWM?oc=5"
+    },
+    {
+      "n": 21,
+      "title_en": "S&P 500 After-Hours Losers: FICO, EXPE, QCOM Lead Postmarket Declines",
+      "source": "ChartMill",
+      "score": 8,
+      "published_kst": "11/05 07:05",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdmxDQXk4dkY2NWVsd0hOYXZzV3JJaS1wQVl1bjFKbk00ZG1wZUpIaHZ5NmxrMmVlS0FLUzBNeTJSR1dYSkpSX0RpSXNEQVQ4QUxoRHdNbTM3T2IyYWg0MmcwaUdDaWVYaTdMM3BOZmExS21PaUNEZjFIS3J4M0JBR1hJZHlvdE1tRmdTRkRxUHlWTC1TQXdEYnJqWUFwdnpPc3ZrWEN1M0xjZ0Z0Qjd3R3dWSHNET0pY?oc=5"
+    },
+    {
+      "n": 22,
       "title_en": "Duolingo stock soars 26% on strong user growth, monetization plans",
       "source": "Yahoo Finance",
       "score": 8,
@@ -829,7 +850,7 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWl6NTRKZE4yMTUyb1hRQnVoYWtHbnFNQkJiMGY1LUVUYXJ0M1RvQ3Y0eFlmanFPSmFRRGdVemhDc1poZGZPektucEJ1SDFza01qVC1rdnFoSFJPRzBLZG9wRm5qd3NUSmd1VlQ4VUJPTk45b216R1dTbklzUTgtRFYwUWtPQlJlOWxVV1FlYnltS2x5VjkwQTJibDZGOTNhX283Qzhtek5hZzBFZWR0cnU2YVhsZGd4bjlrWXpxWE9jTS1uYTNJ?oc=5"
     },
     {
-      "n": 21,
+      "n": 23,
       "title_en": "Qualcomm Outlines Weak Outlook as Fourth-Quarter Results Decline; Shares Fall",
       "source": "Yahoo Finance",
       "score": 8,
@@ -837,7 +858,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVXk3Qy12SUVLWElLMHp1MmpMMnlaVnkwajRrOC02eHFpaU9pdWpYV3gxbHdDcXRVeDRwSDlwVXpKb2R4QWpqeUY1dUp3SC1SNUJYWG85YVdJTXBfX0x5UHplbTNscXY4VkpOTE5GZkJoLXFLb1IyY1JWem02RGZ5NExVZS1ySXYzN2d1Nmlld1poRzROMXotUkFCQjFfNzg?oc=5"
     },
     {
-      "n": 22,
+      "n": 24,
       "title_en": "Why Cricut Stock Soared 50% Today",
       "source": "Yahoo Finance",
       "score": 8,
@@ -845,31 +866,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSTVlUjQ0UTAyRTE2bHE4T1NMSWVFZ3Z6NjdIQnJTaGY2bzJYTUlCTm5SdnhwZi1waDEtT3ZnYTJscld5dFhGLTF5MmNMNU13MGliNFdhejZYZDdLXzJ6dVdqUXRSMFpMc2pTSWxja3RhcjVWcjBMQUVVVkExaDM0TG1ieC1lVUVkMFFBU0FBcFRCT0txN3c?oc=5"
     },
     {
-      "n": 23,
-      "title_en": "Stock Market Today (Nov. 4, 2026): Nasdaq climbs as Democrats take House and Senate",
-      "source": "Yahoo Finance",
-      "score": 8,
-      "published_kst": "11/04 23:54",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYkd5VHpCNU1mOXp5T0wybnpvcTVVdEIxa0hUcHRWWDF6OHlrUDh5Y2pPVjcwSHprQjJuOEhQNFdBT2Z4OGY5Y19Zdk9IN2doN19nMllhVXFBMkEwVmZ1eFlxbzAxYTNpYmZXamkzeGhsb1JYd1lEMDlSVVFSdnpMeFJoU0Q3UkI5U0NHbnhQMW9GT2s?oc=5"
-    },
-    {
-      "n": 24,
-      "title_en": "CVS Splits In Two, The Morning After The Midterms",
-      "source": "Yahoo Finance",
-      "score": 8,
-      "published_kst": "11/04 23:42",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU2htLUdKbk1zMm1PVWxnTk9MOWJReU1fNERUQnhfX05GQ2ZNdXhXS3lGUzhNdTFTRF93c01BcXdZUE5ZWGRycDNZemdVWEdlVm41d3JLTHVXM2lNSGdWcXJ1T3lTTHFkMUV4aDE1QWlLWUVHNWQ3STB4c2RnVk1oQzcwd3pMMHViRmxPeWltbGFhQkY0aVBNeXlOUTU?oc=5"
-    },
-    {
       "n": 25,
-      "title_en": "Arista Says Its AI Business Will Double to $7 Billion",
-      "source": "Yahoo Finance",
-      "score": 8,
-      "published_kst": "11/04 23:29",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUEdVUXROTWtrOGxWU1ZzVWVaYzRadEtjNFRETGFkQ1BMUFlnMHlfUTZ5V2RWUDBsMmdCeDYyUkN3TFkxNk16QkFCQlJacHZYaFhQUlNLUEhLYlIyYmtJVkVybkE0TnZpS3NtNkZtcmdKTzhhaTUxbS1oTXR4SmNEUUpwZTRDREhmVko0NnlEV1VkbngxT09pcll3?oc=5"
-    },
-    {
-      "n": 26,
       "title_en": "AMD Earnings ‘Checked Every Box,’ But Wall Street Remains Split On The Stock",
       "source": "Yahoo Finance",
       "score": 8,
@@ -877,7 +874,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMnAwYS1kRk1Wb1NQM3JzZThFc2RkT0Q0aVNlWTZTSWV4RFJKekdxRkR3QTR2Z3A0Vk0zZHFQd2tGUkNPNXlvcXM4VHlJRjBsLVhYY18tOUYwd2d6YnJ2SWtFM3VRZUczOXF5V19YSlBPWEhMdzRqX0ZDZDJTSWx0MXNLTFBSdE4yeTYyR3k4QzFHUGl0d3M0Tjgwdw?oc=5"
     },
     {
-      "n": 27,
+      "n": 26,
       "title_en": "AMD Data Center Revenue Nearly Doubles as MI450 Ramp Drives Record Q3",
       "source": "24/7 Wall St.",
       "score": 8,
@@ -885,15 +882,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTWVhZ0dHT1cxRDl6MWNtQTVOR2pvYjVwVVo5VEJwbS0tMVZGVU4xSUZSRm9rSlE1Y2hVUm1nTHZqcm4tOHFGRng4VXh5ZTVneHl4QzFRcm5lRlZsbDEwQ3Faa05QUzVmZ0Q2UmFueXY1dFdpMGxVSEQ2cWxQTEVpT2lxSUJhdw?oc=5"
     },
     {
-      "n": 28,
-      "title_en": "CVS Stock Rises After Hours On Alleged Pharmacy Spin-Off Ahead Of Q3 Earnings Report",
-      "source": "Yahoo Finance",
-      "score": 8,
-      "published_kst": "11/04 08:37",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOE5KbTh0YVFWNlFPd1dxUkVDYXZGZDZHb2c4b2t0NWFFZDFTRkZXT1BvSHBsendBWWtvaEo3T0VyaXNBVXFPMllJSnlKQXF0NEROc1d3eW80Rk5uRnAta3lwSlptVjB4bEd3Q2xHX2luVXRVQlRNeEQyX3lJQTVCUzBzQmNNYUJ6ejVlNFdtLWM0VktHRmhwRmJB?oc=5"
-    },
-    {
-      "n": 29,
+      "n": 27,
       "title_en": "Stock Market Today: Dow Futures Jump 1,000 Points as Major Indexes Set to Surge After Resounding Victory by Democrats in Midterm Elections",
       "source": "Yahoo Finance",
       "score": 7,
@@ -901,12 +890,28 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX2dlTEVhSTlXNUJGcUY5ZVdJRm1GcUVSM01JWTVxQk82OEV6dnlKY0VuaHdwOTVZUWZBYkw4QXBYeTV4UDlxaFZhWWRmQlRfOHZvS09SLTJWZXBQejlqN2dnVG01Y0Q1Q3VkdlhfOWVvUFFIR2Q0MER4b1hJVTQtZlNWTWktenFobG5odXBBTXhxd2pVOHU1ZVFUVQ?oc=5"
     },
     {
-      "n": 30,
-      "title_en": "60% of S&P 500 Stocks Are in a Bear Market, With the Index Near a Record",
-      "source": "Yahoo Finance",
+      "n": 28,
+      "title_en": "Iranian officials welcome U.S. midterm results after voters rebuke Trump administration, Iran war",
+      "source": "CBC",
       "score": 7,
-      "published_kst": "11/04 22:28",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVEJwQTE4bWQ1SmU4T1QwYjRSdVZSRS03enRoc1djYjdqc3BIOTBhWW5uc1A1bm05eWNrM1lpa1p2bHloUWlFY1NNTmZxZkNDaFZwbk14dDlTUXU5WHhtaEc4bXJiYzJ5Q1IzVHdBWGhEVUI5UlJ6dmpNeVBhRFZSbThxUTVxZ3lzTWkzZ2Fn?oc=5"
+      "published_kst": "11/04 21:54",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQnpTNERQc3hBYVo0R0cyY0dpdVNWT1hYRVkxR29tZ3dGV0VmOS1QaUFJRWdUOHNsdjNuc3ZIUUZaWVNyakszUVRVVHVvODFleHFwS3NZa0FVbmVZcUdrcHRFZnZpd3lvVDRXaWFERll5WFhZOHlyUFVZS2hMYVZkVHhtbFA3emc?oc=5"
+    },
+    {
+      "n": 29,
+      "title_en": "The Dow Had Its Best Day Since April 2025 as Oil Fell, CNBC Says",
+      "source": "Stock Titan",
+      "score": 7,
+      "published_kst": "11/04 21:11",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWm1VZDN2NGdnUmxRN3lyWUxzZUVwUHRTUmRWYm8xZzNCb05oMTN6OENfSlpRc3M4N1oxVzVUTS03X1BFN0ZaMml2dDdYTUtHczdhQXJ0Umt1QkUtNkJNblNLem5CNTRhNlZwYXE5cmJsZHBhLWY5RVh2T0hMUWJfMw?oc=5"
+    },
+    {
+      "n": 30,
+      "title_en": "Iran war live: Khamenei says US midterms change nothing in conflict",
+      "source": "Arabian Business",
+      "score": 7,
+      "published_kst": "11/04 20:40",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
     }
   ],
   "earnings_calendar": [
@@ -921,7 +926,6 @@
   "korea_points_rule_based": [
     "필라델피아 반도체 약세: 국내 반도체 시가와 외국인 선물 방향 경계",
     "나스닥 변동 확대: 국내 성장주·코스닥·선물 갭 출발 가능성 점검",
-    "유가 급락: 항공·운송 비용 완화와 정유주 약세 가능성 동시 점검",
     "미국 AI·반도체 감시군 동반 약세: 국내 반도체 추격매수보다 지지 확인 우선"
   ]
 }
