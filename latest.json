@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-06 10:35",
+  "generated_kst": "2026-11-06 10:46",
   "us_session_date": "2026-11-05",
   "indices": [
     {
@@ -48,22 +48,22 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.57,
-      "chg_pct": 0.06,
+      "price": 101.62,
+      "chg_pct": 0.11,
       "as_of": "2026-11-05"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 91.06,
-      "chg_pct": 3.34,
+      "price": 91.15,
+      "chg_pct": 3.44,
       "as_of": "2026-11-05"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1356.68,
-      "chg_pct": 1.24,
+      "price": 1355.11,
+      "chg_pct": 1.12,
       "as_of": "2026-11-05"
     }
   ],
@@ -707,6 +707,14 @@
     },
     {
       "n": 4,
+      "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
+      "source": "Britannica",
+      "score": 14,
+      "published_kst": "11/06 08:32",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
+    },
+    {
+      "n": 5,
       "title_en": "Not Nvidia. Not AMD. 2 Chip Stocks I'd Buy Before the End of the Year.",
       "source": "The Motley Fool",
       "score": 14,
@@ -714,7 +722,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbk04S2hZZmNzbEVxTWY5ZXh5ay1DX0RNRExSN1l2ZXJYMHNoTy1qcU5oc01OSWpvY0kxLVdrTjkyQVphUnZZdTZ4dFdmRThicUZBUHhhd0FpUEhERTNPYnplSk9meC1Gd0lMcHVlQ0ZpQVNlaUEyNHpJd3pBUk5lanZUWjM1LXVQLUI1M3RqY2d2SGZx?oc=5"
     },
     {
-      "n": 5,
+      "n": 6,
       "title_en": "Samsung Electronics Plunges 11% in Premarket, Breaks Below 200,000 Won; SK Hynix Tumbles 13%",
       "source": "BigGo Finance",
       "score": 13,
@@ -722,7 +730,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsejBWSmdXR0VibUpGNmlzTVB2RWFBelhiRmRlM1o0Nmd3SDg4djAwSDZWaXdOMWsyTDEwQ1QwNnJUVjc0cXRvWDN0MDlJaXk2Rl94OUJoN0s5QlVGN29ZaTMyZG9Cc2VGa2xvcGRjMHV4Q3RsalE?oc=5"
     },
     {
-      "n": 6,
+      "n": 7,
       "title_en": "Halozyme falls 6% as raised guidance fails to impress investors",
       "source": "Yahoo Finance",
       "score": 13,
@@ -730,7 +738,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlAxLUhxSm5RaFlnTjlYQnlRUEJoX1IyYnVHX3k0aEJxQWJKMkd6WFJhTU9NNXAwUFZTaWpTVlFXQy1sdnd5U0VJQWlCb0p5QWM0WS0wMVBaNWlWRG1nVW1XZ1Y2d3A3ckhJWXlrSWprTFY1dUpDS3ZDXzhCczExZ3E0OXhHT3Z4Y3Z6a2VJNmNxNXZweFR0WQ?oc=5"
     },
     {
-      "n": 7,
+      "n": 8,
       "title_en": "DraftKings Stock Dives on Q3 Miss, Lower Guidance: Company Sees Up to $750M in 2027 Prediction Markets Revenue",
       "source": "Yahoo Finance",
       "score": 13,
@@ -738,7 +746,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUhLLTFkYXoyYzZ1SEdZY1ZMZXh3NGkwRzlRTDRBbU1DaTQtZjZqdjBjX1BMSi1XMU1TTlhiaHlVZURDNkhBeHdraTY5a1hBS1EwOUhQMm1MeWRCM0paR1dIQVVQMkhVRUhpV2FSYVhrNHhLcHJacWVlWDkyZDNZaFRxYk5vSHZsWWM5cnZnb0hQTzdPRDZuV1ZKYw?oc=5"
     },
     {
-      "n": 8,
+      "n": 9,
       "title_en": "US Stocks Tumble as Nasdaq Drops Over 4%; Micron Plunges Over 12% on Fears Slowing AI Data Center Expansion Will Dent Infrastructure Demand",
       "source": "TradingKey",
       "score": 13,
@@ -746,7 +754,7 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTHpLN09qTHQ2ck1fcmV0X3NYeUl1elNlbWdFc1JJd0QtNGNFdUtGS2Zvd0FfcWFkZVZyWFRqd0djd29UckQtYmVQTl9PVHJsMklLYlJfNEc2VksxbXVOUlEzaUVuWDY4Z05SUlpraWd1WTFxa25pYjE3WFB3WVcxbVh3WTE0VVRVZllJVU5kR3R4TXdNRE9JYkNuU25QNlN3UnlVdTRyUm1sVzVoM2p4Ui1JWWdRUHVBWjh0VFJsOF91Zk56N1VfT3lkbzJHVFJzZDQ5SGR2cGE?oc=5"
     },
     {
-      "n": 9,
+      "n": 10,
       "title_en": "Affirm Sinks 8% as Fintechs Slide Ahead of Affirm’s Earnings",
       "source": "Yahoo Finance",
       "score": 12,
@@ -754,7 +762,15 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcW5wUXZUNnp2ZEotWjlUckFXQjFnWkQ1RXU3T2hXY3JVNE9pMVdkWkpOYUg4bENXNDJrenlaNHVEYkpYLUF1X0hvVlZYWFdBcHVIY0h6aUlOVlQtd013OHdfaVMwdUk4d1prYS0ySDEwd3hGX2N0enJZZ1ZFNEtRR2FSOC1FSTBka0dwOWJyc254a3JwempIMWJR?oc=5"
     },
     {
-      "n": 10,
+      "n": 11,
+      "title_en": "How a Houthi Blockade in the Red Sea Tightens Iran’s Grip on Global Energy Supplies",
+      "source": "EnergyNow",
+      "score": 11,
+      "published_kst": "11/06 07:45",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXV1NXBjcGJ6b2tGVG4zMTZPTTVFRjRkd3RLN2ZQRVRONGUzLWoyVUMyVEJwcHplSlpWRndNZk5jSXRxM3Y4aElFYjZEOWprcGpHQjNZNmY5Q0lsa1Bqd3FUTkozbHJJZkFGYjZTbU1JVGYwejlDbW1HcUlPRU5waGQ0S25URTNDRmZzV2hHSkt3ekhsTEduWG9JNDUzSXYyaEVWcmR6ZnJrTXlqUWJxblFR?oc=5"
+    },
+    {
+      "n": 12,
       "title_en": "AppLovin Surges 30.7% While Dutch Bros and SanDisk Lead Broad Selloff",
       "source": "24/7 Wall St.",
       "score": 11,
@@ -762,7 +778,23 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZkxnUjlaMElsYTdkRWhReGN1cGNWa0Y3amdGR0ttZnRsZXpkdGFIUXN4MFVlaGk0aGs2c0VLSTg5dkFRY3cwS2JGVk5xOHNOelNiUU5BcS1nRnNOOGo4V1BxTzJMUTVQUHdHa191aFBoMHhwZXJfelBaM3pZclRiYU5YM0ZwS3c4RkhXSjhiVENuckphN2NKQUFXVVJuQmNEZTlZR2tPckFPLWw5TWpTTENOMTY1YldnQnFPNFRkdkg1TmhaLTVMMm41a3g?oc=5"
     },
     {
-      "n": 11,
+      "n": 13,
+      "title_en": "US and Iran agree to two-week ceasefire brokered by Pakistan",
+      "source": "DD News",
+      "score": 11,
+      "published_kst": "11/06 03:31",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVZYa0JxdTNuWlRLZS1sU3lSNVJ3YkxWbjZEWnloVFN0ZGFYenRmdHBBMXM4TWU1TVdWOWhINkJLVVZ1bHlwejV1bDl5eWlmZGpwbFhHSUhQRDZuQ1VLX1o2UV9CYXRyYi15Y1VycGU5VTVqZ3EzNHZEb01ST2NRelB0OEp5eUNXRk9RQWRJMA?oc=5"
+    },
+    {
+      "n": 14,
+      "title_en": "KOSPI Breaks 5,000 Amid AI Sell-Off Shock",
+      "source": "조선일보",
+      "score": 10,
+      "published_kst": "11/06 10:39",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnZOV09ZU25PN3Utb2FIV3ZPNkdYSW1SQnF0VTVGY1lDUzI4WUk4enBBWjcxc1YxblFTWFpWQ3djTmtHcDZzX3BkNmJSMkQ2VmRlMjhTcUtjUmN5YlZNYlBOdzNiLU9NYzlmak1QT2o2NWNQLVI4cURHa2FjRDd2dlRSOWV1cjNTSXc2cHpn?oc=5"
+    },
+    {
+      "n": 15,
       "title_en": "“Is the AI party over?” U.S.-led AI shock devastates South Korean stocks as KOSPI breaks below 5,000",
       "source": "파이낸셜뉴스",
       "score": 10,
@@ -770,7 +802,7 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zSUVIWGd1cUxUb1dzSGs1alAtZXFqTUlGWUNlaEVyWklUX2pCcVNSa2otRE9MbHVKZ05TYkk1dmxuSUFtMzRNcWZ0YU41VWVTUjZWRFozOE0?oc=5"
     },
     {
-      "n": 12,
+      "n": 16,
       "title_en": "AI Sell-Offs Drive Kospi Below 5,000 Mark",
       "source": "조선일보",
       "score": 10,
@@ -778,7 +810,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTWFJY2J4UVg4LXhTOW5hUXlRQU9pUTBDTWVJOUQxTnczZWhycUNZZGZkeGlaWXlQVjh5ZUtNLTNDSDAtV25hTjNCZHpScUJVUkFDbGhLWC16Y0VkV1pscE95Z2FFS0RzRmZ0MS1Bel9ITTNfTVRmbHRCcERaVWo3Zm1RaktLa0hNd0dQOGh3?oc=5"
     },
     {
-      "n": 13,
+      "n": 17,
       "title_en": "Hana Says Data-Center Regulation Fears for Samsung, SK Hynix Are Overdone; Buy the Dip",
       "source": "bloomingbit",
       "score": 10,
@@ -786,7 +818,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvZDlRRG9ZeGFxLXZNcXhQaUhCbjZheXVrMnBFZEpsYjRQSWU2Z3JSdDV3YVFOY21FOHQ1Z2h4ZFkxTmxzVHM0ZzVRUFhuOTRVd01VRg?oc=5"
     },
     {
-      "n": 14,
+      "n": 18,
       "title_en": "AI Panic Selling on Data Center Regulation Fears... Volatility Set to Rise in South Korea Too [Good Morning Stock Market]",
       "source": "아시아경제",
       "score": 10,
@@ -794,7 +826,7 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ueXN6ZllEdUtJSzdNUWVLUEI5MVBESGh5MGIxWF9VZzBYcUhUS3huTzZMb1YyMkRNZ3pCdXNqSkdLcy11Y1ZWUlBGTjJrZEcwbWotdGN1Vk1ZRXF4Yk5MalNiQ3k?oc=5"
     },
     {
-      "n": 15,
+      "n": 19,
       "title_en": "U.S. Election Sparks AI Data Center Regulatory Storm",
       "source": "조선일보",
       "score": 10,
@@ -802,15 +834,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDhXcFE1azI0czFRWVNwZTFGYXE3alJXVXZ0YUJkandOWV9IMHRQanF2WnhRN1lQMWhWdUFfNjMzYzEyZGhWZHYzU256cklEc3BzTDlDak1lak1DMGtGNEI3SmpnZXlpVW11eHJxQVZ2U25kbWxNcHA0Y0JySjhSenRtOHNJeVA2?oc=5"
     },
     {
-      "n": 16,
-      "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
-      "source": "Britannica",
-      "score": 10,
-      "published_kst": "11/06 02:31",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
-    },
-    {
-      "n": 17,
+      "n": 20,
       "title_en": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
       "source": "EnergyNow.com",
       "score": 10,
@@ -818,15 +842,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNE1fMzFiSjhrOFpJV21kajdMYkJEd20zcGM4Sm0yREpWU09IZnBwX0VyUk9LTWlHYWhDYXZCOS04eng0d1lPdVlKX2pZUjFwYzAwZkM4NWlDazVaSUFfRHlLaTczenpiZTdrb0lXd09XZTRiWHpNVGYxcDRjaHhoZ3JvcVFtb1VZM29raVc4RE9kUXBZWVdkbmktRU5FbV9hb1Fweg?oc=5"
     },
     {
-      "n": 18,
-      "title_en": "Living with loss and constant danger in an orphanage on Lebanon’s frontline",
-      "source": "Reuters",
-      "score": 10,
-      "published_kst": "11/05 23:08",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NbUMyYVdITjhTc0tsTVJJbTBxMFRGYlJERmZPdHpDT2xucXhRMGZCMTZyY243Y3VJNGxodVZpaHNSYTdhaFFseFBHSlFNLW1yR3ZzZzA1ZjBlVEpNRWxXY2dYamtRT1FuaXBFUGJWd3VKTUs4Ukt3R2tR?oc=5"
-    },
-    {
-      "n": 19,
+      "n": 21,
       "title_en": "Oil Prices at Near Three-Week High as US-Iran Peace Hopes Fade",
       "source": "EnergyNow",
       "score": 10,
@@ -834,7 +850,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0dobWFMMG9yT29rOFBobWVVVkk1XzJaN0JtVWMzMHZiQmphdEk4d2JSb2xDMG1oODhzVW9BbGVOYVBISFRKd0p1QWMxUkItcmFmaGhIbTB6aWtaUzlsWFVhSHIxQ3lhZmlEQl9nZGxKT1dCcGFnUm90eWtlaE1YRGpsUG14VVNzbWpiLTR0SGgybVFWay0w?oc=5"
     },
     {
-      "n": 20,
+      "n": 22,
       "title_en": "Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon",
       "source": "EnergyNow",
       "score": 10,
@@ -842,28 +858,12 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVJQY1ltUFNqWkdiSGxyTHluMk91TzRuQS1keU8xWEE5dHFEZ29BMnlYTUJ6azl1WlN1REQ3cWg4dTBmaHVZRWFqYXV6UloycThYSHRPdGh3ei14VXV3eC1XZDdJRnNGNU9qalhkSWtwVWprZjRTcmJ3VXk3ZktBQnhXc0JzSzVLSGp5djhWamE1WXZHTnQ4QUNvNS1mX284RE96cW1uUQ?oc=5"
     },
     {
-      "n": 21,
+      "n": 23,
       "title_en": "OPEC+ Loses Oil Market Sway in Iran War as China Gains Influence",
       "source": "EnergyNow.com",
       "score": 10,
       "published_kst": "11/05 19:12",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHl3S3dvMDV0YjZLZ1dXTDZQbTlHSktXYUtMRk8tVzUzQkF1eEt1RTBLNmZzbnd3YVZieTVVczZxUWw3dzgwdFVNZFlYY2NVUktIMS1peUI3QzRhOUd6Z20wWTVtQ25SU2h6R2pLRnowY1B1V2dmTTE1ZTFzeC1CcUpYQlo3X0YxeDNKSnlrREhMeC1rWjBoM2xR?oc=5"
-    },
-    {
-      "n": 22,
-      "title_en": "South Korea to expand anti-piracy unit operations closer to Strait of Hormuz",
-      "source": "Reuters",
-      "score": 10,
-      "published_kst": "11/05 10:54",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWmlVV005TWpIcUdLT2ZZaUpORmNMc09CYnNzQnFBRUhJeF8yTklGM20tcHlpZkI3bGpCa2VXQlJfOGd2MEdOTWtpN1BpMnNmUVUyYzF1R2U5SjN4bl90X2xGRDZ2MzY2aGU1WTVYM3otVlRhTjRXR2JMUWp5cGZsZFV1MFUtWG83QW1tMG44aXY3dmg4Zl9GbGFjMEZ5bWhUbGliempaM2dRaE9pZHlHUldkUndDZEtLTkdTUlQ1RQ?oc=5"
-    },
-    {
-      "n": 23,
-      "title_en": "KOSPI Swept Up by Blue Tsunami... Semiconductor Stocks Crumble, 'Sell-Sidecar' Triggered [U.S. Blue Tsunami]",
-      "source": "아시아경제",
-      "score": 10,
-      "published_kst": "11/05 10:42",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xU3drT0J4V0RaTmc0U25MLUM4UnBMOWE3QzdBZ2RlZ3Y4b0FnMFZtZ0NoLUJWZUV1UWhHckZxOENybVNfeHpZTTNKanJfZlVoQ0dTYk5nT1NLd2p4ajc4YkxyNk15S0NKYTgxcFJ6N05jX0kxdWhTUDFR?oc=5"
     },
     {
       "n": 24,
