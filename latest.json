@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-06 10:29",
+  "generated_kst": "2026-11-06 10:35",
   "us_session_date": "2026-11-05",
   "indices": [
     {
@@ -48,15 +48,15 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.61,
-      "chg_pct": 0.1,
+      "price": 101.57,
+      "chg_pct": 0.06,
       "as_of": "2026-11-05"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 91.23,
-      "chg_pct": 3.53,
+      "price": 91.06,
+      "chg_pct": 3.34,
       "as_of": "2026-11-05"
     },
     {
@@ -707,14 +707,6 @@
     },
     {
       "n": 4,
-      "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
-      "source": "Britannica",
-      "score": 14,
-      "published_kst": "11/06 08:32",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
-    },
-    {
-      "n": 5,
       "title_en": "Not Nvidia. Not AMD. 2 Chip Stocks I'd Buy Before the End of the Year.",
       "source": "The Motley Fool",
       "score": 14,
@@ -722,7 +714,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbk04S2hZZmNzbEVxTWY5ZXh5ay1DX0RNRExSN1l2ZXJYMHNoTy1qcU5oc01OSWpvY0kxLVdrTjkyQVphUnZZdTZ4dFdmRThicUZBUHhhd0FpUEhERTNPYnplSk9meC1Gd0lMcHVlQ0ZpQVNlaUEyNHpJd3pBUk5lanZUWjM1LXVQLUI1M3RqY2d2SGZx?oc=5"
     },
     {
-      "n": 6,
+      "n": 5,
       "title_en": "Samsung Electronics Plunges 11% in Premarket, Breaks Below 200,000 Won; SK Hynix Tumbles 13%",
       "source": "BigGo Finance",
       "score": 13,
@@ -730,7 +722,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsejBWSmdXR0VibUpGNmlzTVB2RWFBelhiRmRlM1o0Nmd3SDg4djAwSDZWaXdOMWsyTDEwQ1QwNnJUVjc0cXRvWDN0MDlJaXk2Rl94OUJoN0s5QlVGN29ZaTMyZG9Cc2VGa2xvcGRjMHV4Q3RsalE?oc=5"
     },
     {
-      "n": 7,
+      "n": 6,
       "title_en": "Halozyme falls 6% as raised guidance fails to impress investors",
       "source": "Yahoo Finance",
       "score": 13,
@@ -738,7 +730,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlAxLUhxSm5RaFlnTjlYQnlRUEJoX1IyYnVHX3k0aEJxQWJKMkd6WFJhTU9NNXAwUFZTaWpTVlFXQy1sdnd5U0VJQWlCb0p5QWM0WS0wMVBaNWlWRG1nVW1XZ1Y2d3A3ckhJWXlrSWprTFY1dUpDS3ZDXzhCczExZ3E0OXhHT3Z4Y3Z6a2VJNmNxNXZweFR0WQ?oc=5"
     },
     {
-      "n": 8,
+      "n": 7,
       "title_en": "DraftKings Stock Dives on Q3 Miss, Lower Guidance: Company Sees Up to $750M in 2027 Prediction Markets Revenue",
       "source": "Yahoo Finance",
       "score": 13,
@@ -746,12 +738,20 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUhLLTFkYXoyYzZ1SEdZY1ZMZXh3NGkwRzlRTDRBbU1DaTQtZjZqdjBjX1BMSi1XMU1TTlhiaHlVZURDNkhBeHdraTY5a1hBS1EwOUhQMm1MeWRCM0paR1dIQVVQMkhVRUhpV2FSYVhrNHhLcHJacWVlWDkyZDNZaFRxYk5vSHZsWWM5cnZnb0hQTzdPRDZuV1ZKYw?oc=5"
     },
     {
-      "n": 9,
+      "n": 8,
       "title_en": "US Stocks Tumble as Nasdaq Drops Over 4%; Micron Plunges Over 12% on Fears Slowing AI Data Center Expansion Will Dent Infrastructure Demand",
       "source": "TradingKey",
       "score": 13,
       "published_kst": "11/06 00:48",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTHpLN09qTHQ2ck1fcmV0X3NYeUl1elNlbWdFc1JJd0QtNGNFdUtGS2Zvd0FfcWFkZVZyWFRqd0djd29UckQtYmVQTl9PVHJsMklLYlJfNEc2VksxbXVOUlEzaUVuWDY4Z05SUlpraWd1WTFxa25pYjE3WFB3WVcxbVh3WTE0VVRVZllJVU5kR3R4TXdNRE9JYkNuU25QNlN3UnlVdTRyUm1sVzVoM2p4Ui1JWWdRUHVBWjh0VFJsOF91Zk56N1VfT3lkbzJHVFJzZDQ5SGR2cGE?oc=5"
+    },
+    {
+      "n": 9,
+      "title_en": "Affirm Sinks 8% as Fintechs Slide Ahead of Affirm’s Earnings",
+      "source": "Yahoo Finance",
+      "score": 12,
+      "published_kst": "11/06 06:24",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcW5wUXZUNnp2ZEotWjlUckFXQjFnWkQ1RXU3T2hXY3JVNE9pMVdkWkpOYUg4bENXNDJrenlaNHVEYkpYLUF1X0hvVlZYWFdBcHVIY0h6aUlOVlQtd013OHdfaVMwdUk4d1prYS0ySDEwd3hGX2N0enJZZ1ZFNEtRR2FSOC1FSTBka0dwOWJyc254a3JwempIMWJR?oc=5"
     },
     {
       "n": 10,
@@ -803,6 +803,14 @@
     },
     {
       "n": 16,
+      "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
+      "source": "Britannica",
+      "score": 10,
+      "published_kst": "11/06 02:31",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
+    },
+    {
+      "n": 17,
       "title_en": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
       "source": "EnergyNow.com",
       "score": 10,
@@ -810,7 +818,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNE1fMzFiSjhrOFpJV21kajdMYkJEd20zcGM4Sm0yREpWU09IZnBwX0VyUk9LTWlHYWhDYXZCOS04eng0d1lPdVlKX2pZUjFwYzAwZkM4NWlDazVaSUFfRHlLaTczenpiZTdrb0lXd09XZTRiWHpNVGYxcDRjaHhoZ3JvcVFtb1VZM29raVc4RE9kUXBZWVdkbmktRU5FbV9hb1Fweg?oc=5"
     },
     {
-      "n": 17,
+      "n": 18,
       "title_en": "Living with loss and constant danger in an orphanage on Lebanon’s frontline",
       "source": "Reuters",
       "score": 10,
@@ -818,7 +826,7 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NbUMyYVdITjhTc0tsTVJJbTBxMFRGYlJERmZPdHpDT2xucXhRMGZCMTZyY243Y3VJNGxodVZpaHNSYTdhaFFseFBHSlFNLW1yR3ZzZzA1ZjBlVEpNRWxXY2dYamtRT1FuaXBFUGJWd3VKTUs4Ukt3R2tR?oc=5"
     },
     {
-      "n": 18,
+      "n": 19,
       "title_en": "Oil Prices at Near Three-Week High as US-Iran Peace Hopes Fade",
       "source": "EnergyNow",
       "score": 10,
@@ -826,7 +834,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0dobWFMMG9yT29rOFBobWVVVkk1XzJaN0JtVWMzMHZiQmphdEk4d2JSb2xDMG1oODhzVW9BbGVOYVBISFRKd0p1QWMxUkItcmFmaGhIbTB6aWtaUzlsWFVhSHIxQ3lhZmlEQl9nZGxKT1dCcGFnUm90eWtlaE1YRGpsUG14VVNzbWpiLTR0SGgybVFWay0w?oc=5"
     },
     {
-      "n": 19,
+      "n": 20,
       "title_en": "Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon",
       "source": "EnergyNow",
       "score": 10,
@@ -834,7 +842,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVJQY1ltUFNqWkdiSGxyTHluMk91TzRuQS1keU8xWEE5dHFEZ29BMnlYTUJ6azl1WlN1REQ3cWg4dTBmaHVZRWFqYXV6UloycThYSHRPdGh3ei14VXV3eC1XZDdJRnNGNU9qalhkSWtwVWprZjRTcmJ3VXk3ZktBQnhXc0JzSzVLSGp5djhWamE1WXZHTnQ4QUNvNS1mX284RE96cW1uUQ?oc=5"
     },
     {
-      "n": 20,
+      "n": 21,
       "title_en": "OPEC+ Loses Oil Market Sway in Iran War as China Gains Influence",
       "source": "EnergyNow.com",
       "score": 10,
@@ -842,7 +850,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHl3S3dvMDV0YjZLZ1dXTDZQbTlHSktXYUtMRk8tVzUzQkF1eEt1RTBLNmZzbnd3YVZieTVVczZxUWw3dzgwdFVNZFlYY2NVUktIMS1peUI3QzRhOUd6Z20wWTVtQ25SU2h6R2pLRnowY1B1V2dmTTE1ZTFzeC1CcUpYQlo3X0YxeDNKSnlrREhMeC1rWjBoM2xR?oc=5"
     },
     {
-      "n": 21,
+      "n": 22,
       "title_en": "South Korea to expand anti-piracy unit operations closer to Strait of Hormuz",
       "source": "Reuters",
       "score": 10,
@@ -850,7 +858,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWmlVV005TWpIcUdLT2ZZaUpORmNMc09CYnNzQnFBRUhJeF8yTklGM20tcHlpZkI3bGpCa2VXQlJfOGd2MEdOTWtpN1BpMnNmUVUyYzF1R2U5SjN4bl90X2xGRDZ2MzY2aGU1WTVYM3otVlRhTjRXR2JMUWp5cGZsZFV1MFUtWG83QW1tMG44aXY3dmg4Zl9GbGFjMEZ5bWhUbGliempaM2dRaE9pZHlHUldkUndDZEtLTkdTUlQ1RQ?oc=5"
     },
     {
-      "n": 22,
+      "n": 23,
       "title_en": "KOSPI Swept Up by Blue Tsunami... Semiconductor Stocks Crumble, 'Sell-Sidecar' Triggered [U.S. Blue Tsunami]",
       "source": "아시아경제",
       "score": 10,
@@ -858,7 +866,7 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xU3drT0J4V0RaTmc0U25MLUM4UnBMOWE3QzdBZ2RlZ3Y4b0FnMFZtZ0NoLUJWZUV1UWhHckZxOENybVNfeHpZTTNKanJfZlVoQ0dTYk5nT1NLd2p4ajc4YkxyNk15S0NKYTgxcFJ6N05jX0kxdWhTUDFR?oc=5"
     },
     {
-      "n": 23,
+      "n": 24,
       "title_en": "AI Stocks Are Having The Sale Of The Year, But Avoid These (NASDAQ:QQQ)",
       "source": "Seeking Alpha",
       "score": 9,
@@ -866,7 +874,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSE9LQjA4ZmtsY1dJM2dicGV1bWUxdlh2N2N4ZW5xN2FyTEozeVhoZDZ4djIyRmNRQjBOQlUtUkp6YnlCaGd4ZzVmaUc1djNUMTdVbllLclB2aFZXcEc3bmpqb3RtQ0JSMDRtMjlXUzQxRllsdTN4NzhSQkJrRWMycElvc1JZR3QtWjJGeTZrbzJyc1ExcTd1Wkl0cE9FQzQ?oc=5"
     },
     {
-      "n": 24,
+      "n": 25,
       "title_en": "Seagate, Western Digital, Vishay Intertechnology, Impinj, and Allegro MicroSystems shares plummet, what you need to know",
       "source": "TradingView",
       "score": 9,
@@ -874,7 +882,7 @@
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdF9BV2R2WWptVnlxaUNoX3I4Z28yUGNOVWgzeGNqV3RVcVJHWnVDZGNKaDFmdGVrU080eEYyZkQ1MmJxSjZxeVRldnlVcU85bFRmTkF6TXlGanVOX0VuZExicHY3Ry15NkpsakU2SlZHcnlBcW5KYzQzZ0FaWjNONW1HZVMtVm5KMjhNbUlQSGFobFZrc0t5c1N4akQ3X1dQb1VOSDZVSmk3U2FPc1k4RzMtWEszVUVhNjBzTXI3NHpIQWUtVjI1UGJDZmFTWXVMUF9VMUtKZ2pRdVRVTmh4U0lqQlVjNHRHa0RRcXdURnFxTDZJWlE5S1BzZXIzbmZER3pnWFBnMA?oc=5"
     },
     {
-      "n": 25,
+      "n": 26,
       "title_en": "FICO Just Stopped Giving Guidance as It Rewrites Mortgage Pricing",
       "source": "Yahoo Finance",
       "score": 9,
@@ -882,7 +890,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSXFXVXVOX0lsRmRwNkpBN24xOS12RHYyOURNbDFpaEpBSzZTcjRnQ2N5ZVZLWjVDeTRPcnFWOGVLNXlLeC1ILTJGdjAxNk1nQThiZzdHMlVzUmt4WW5DSEdDTGRfMS12WWktZUVJS2FUc2U2akp0VThwb0RnZ3ZMOXdKSDdQNmE3dUpQSjA0UVZ3RW1objN2a0RZTQ?oc=5"
     },
     {
-      "n": 26,
+      "n": 27,
       "title_en": "Korean Stocks Hit by 'Blue Tsunami' as Samsung Electronics and SK Hynix Both Plunge",
       "source": "PANews",
       "score": 9,
@@ -890,7 +898,7 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hMVB4M2R4WktkWjlTaGM3b2FVOGJzYUpwa0lVUkh1RXdjYk1qWER6VHpuRG45ZzRIYVZjdlJWR3YxaGFFSUFuU1MxOGlHNGtQOGdOMlpDSUYxYzZoNlBzenJMTWRmQlpxcEVOMkx3TEZYVldBOXBKYVNtdzgxVkE?oc=5"
     },
     {
-      "n": 27,
+      "n": 28,
       "title_en": "Nvidia Just Dipped Below $200 for the First Time Since August",
       "source": "Yahoo Finance",
       "score": 9,
@@ -898,7 +906,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVdZbm54VXJuc25IZ1R2ME01UTBpZGhsSXJ4TksyMTIwd1dORnJ6bDJzMTlweDRKdnpiajB3SExpemUtUkxUY3B3RjNYc2JVRHJYMW9vTVluOVloN0s5TlZYV2QzTnhOanpqTXY5UHhGMTF6blo2WnBkRXhWSktkWU5jY0JfVjZ6WjVJekhTdGhDU3V2YVkybQ?oc=5"
     },
     {
-      "n": 28,
+      "n": 29,
       "title_en": "Micron Just Closed Below $800 for the First Time Since July",
       "source": "Yahoo Finance",
       "score": 9,
@@ -906,20 +914,12 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXhpUDJFazJpa0Uwal8zUDUtVWtPemNMMGNLWU1TMzZQdy1Lc1JKY0RGdkFTQ1ppc1BYMTFnbXVBcFlSOVR6N0p3aDZSdk1pWWFXRVhuRWJYM1hDNHFDUzdsQ3BpYXZYQi11aVVaUjFKTUt0eFdxWmQ0eW9Sd1dKdnZFd0ZNQ3J0LW1SaHNvMWpPZVZjaHVMYQ?oc=5"
     },
     {
-      "n": 29,
+      "n": 30,
       "title_en": "AI Regulatory Storm Hits South Korean Stocks; KOSPI Plunges 5.28%, Breaks Below 5,400",
       "source": "BigGo Finance",
       "score": 9,
       "published_kst": "11/05 18:56",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zUlN2aDFjeW9PaW5Tb3lhc1ZyVUxoTFAwUW12a2xfOEVteUtyWTJPb2FkNmRqal9EWnZLUEVYeU0wTDZOWlFNS1RXWDZ1dXVBT25RenpWYWlZbS1WaEFXNkpQSFdaU1pjOURJZC1mX2Jqb0dxS2c?oc=5"
-    },
-    {
-      "n": 30,
-      "title_en": "KOSPI plunges 4% as Samsung, SK Hynix shares slide",
-      "source": "The Economic Times",
-      "score": 9,
-      "published_kst": "11/05 14:29",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWTNmUGVVaGtXSmtuZnRRY3RPeXVjLVZTM2FQLU85RWptVlZpMkhPdnhJV2pvcEw0cTJNaUhPSzlsWDhCaE5CS0hrUmhaLXE3NzAyT0tUN0hLSWYwQno1RzREOUItcnpaYWEyc0QtdnBaOEViT1ZoZGloU3ZEU2hDalppMlRBaktLT3gwQmZaOHZlUGV3dU1iaVhLVGIxLURmU0NsOTBXS0pnSVFHdTBFR0RHSS1wb29UeWpEdkVfV0tpd3fSAcgBQVVfeXFMT1FsSXJ0dEh3XzkzcEJqb2dnS0dOZjNRU3A3dzVGTUFtWF9vWjlXZ3duaDVWR3Y0V0tBWlVlc1pvX3BYdWNxZldkZExNNG9yTjlIM2JjYTVlcEFNczgxaTFUZHFQeExKWV84VkdwTHZWbHU0OE1OMjNhejdjd2RRLTdaeVdGOUo0RWRJVU53eVRCbUxRMWJPSmh5bkZDcFhQT25qNUk4Z2YxQUNUdll4dEluSE5iNEZHbkx6TkFoSXViT1k4MHJqVHI?oc=5"
     }
   ],
   "earnings_calendar": [
