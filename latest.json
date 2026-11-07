@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-07 09:52",
+  "generated_kst": "2026-11-07 09:57",
   "us_session_date": "2026-11-06",
   "indices": [
     {
@@ -695,6 +695,14 @@
     },
     {
       "n": 4,
+      "title_en": "Iran war: Gulf tanker attacked, 1 seaferer killed",
+      "source": "DW.com",
+      "score": 17,
+      "published_kst": "11/07 03:06",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNk1KUEc4UEU2TzQ4eFRSaUozNGM0LWxCeXNJYUpzWmtSUkxOWW53a2M3ekpFTzRiTElScWJfUHFWM2FoNDkzSTQwTXB3bmkzYVNFa0liaG40T29Kcld6RHdkQnNHbWZETTZlZFVRYXNuenFZR3NLZ2l5WUtrTjRSc1dEVXRIMGfSAYcBQVVfeXFMTy1wLTlEdy1RajY3bE1BdjllT1RmQktJOXF6MXppQUxfVUd5QXVIWTYyQTJZTG5fR0p1QUY4Ql9YSklLdlBDZ3BCbzZfZDJ3cE1sb2o3M0U4cHhZQy1TRG9rREczTnQ5b1dPYi1OZFduNmRKQ3A3VkxFWkNYS1Z5TlFHMF9pc1lB?oc=5"
+    },
+    {
+      "n": 5,
       "title_en": "US Dollar Weekly Forecast: Can CPI fuel further gains?",
       "source": "FXStreet",
       "score": 16,
@@ -702,7 +710,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMExmcGdoTmp2c2N6Yy1JNENkdkJBdWFxN1V3TlhjU0VsTWRFclBWbzYyVDQ3a3RINXE4cFo1QXdoS3ByYXJleU16S0MyYTVCU04wVk5veU1OQXJ1UjhTdFROcFl5QlpIenNDVGgzTy1abnB6TTdkdkFEdGRtMmpXbDFSQmcxVG5NWHZMOExkUTVGOFJuWjdmSkh2cXAyVDBFNFZvcDlWeDdIczc0Nm50eTVkMkxDUVlkeUVZbmhxa3dQMkE?oc=5"
     },
     {
-      "n": 5,
+      "n": 6,
       "title_en": "DraftKings Cut More Jobs Ahead of Q3 Earnings",
       "source": "Yahoo Finance",
       "score": 16,
@@ -710,7 +718,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb0VKQ3dsa1BwZ1hfZXFrejlEQ29qNC1mUTVEZmFSV0xualBYSXY3TzFtcWF4Wkh1d3RTSXNaX042Tjc0RzBaOE4taU9FNnh2OF9WZ2t6T2N6MzN1bElCWExjYzNGUkFJUjhIRVZ5RXdiMkNyWWR4dmVTcmhsRjBrRU1IZmxzR1dVR09GUUFFdmF3ZnVpX3Z6UUJPVQ?oc=5"
     },
     {
-      "n": 6,
+      "n": 7,
       "title_en": "AI Hardware Stocks Rally in Pre-Market: Lam Research Surges Over 9% as Philadelphia Semiconductor Index Stabilizes After Prior Day's 12% Plunge",
       "source": "BigGo Finance",
       "score": 15,
@@ -718,7 +726,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OVkQwcnJXS0dHd0EtejBXeWlOc1NndG1FcnpPNWJIT0Z1WDdod3l6Z1VaeHhwdXlSa3RYSzVwaW9vWHhvZ09jNHdVT0c2Vjgxc0FxdVhYUUFDMV9xeHhNM21qci1HS1VhYmFIV0VseEEwaFJob1E?oc=5"
     },
     {
-      "n": 7,
+      "n": 8,
       "title_en": "Semiconductor Stocks TSMC (TSM), Nvidia (NVDA), and AMD Rebound After a Midterm Drop",
       "source": "TipRanks",
       "score": 14,
@@ -726,7 +734,7 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlZzaUV3dWdMSnRmNHo3RlFIV1FxUFczSHdfU2t4ZkhPSHFNTmtsQlRVbi1mRUhaOHFoaTdrMnAyUkU1RFhnLXVDbDkxaTZwX1gweGx1cHZWaUFGZDZRZGN5NG9KWUNCalJ6cDBZdUdsbnBhT1otTTlrRWZhRWN0Si1zcHFVeTQ5d3lEa2FtT0dBWjZtSGVybnpPTF9INDhHVkFsd25IUzhBR3Jo?oc=5"
     },
     {
-      "n": 8,
+      "n": 9,
       "title_en": "Markets fret over growth and inflation, just as tech rout gains speed",
       "source": "Reuters",
       "score": 14,
@@ -734,7 +742,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUh4V2hzQnA1Rk9zNTN6d3ZxcVZycGZQVmNUNjR3NmpXSmphZHh4LWZvaGJmTTVEWDdBc0lNWmZyUUp3MTFndk5uZl80Qnk0QXotRmo5S1g0MVhDejlwMjJlczNLVWY1eHRLZ1c4dExyOUNqdjJPaUFhVnE2WC16QUc4aTVfUlAwQUtKMktZYi1STk94cXBnSXF5OEQ?oc=5"
     },
     {
-      "n": 9,
+      "n": 10,
       "title_en": "Australian Dollar Short-term Outlook: AUD/USD 3% Plunge Puts Multi-Month Range at Risk",
       "source": "StoneX",
       "score": 13,
@@ -742,7 +750,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV2U3MkgyZEpUa2tYMDdnNTlDYm1zM29QcGlQbkZPMFp0TW9SR0VfbDVKZ0tETnl4dTlyXzJxLWMyYllNNEZKYzRRM3E5UkpucVdXTXNNY2tlY1p1VmFsLWVNbTZBc2NDUk5nc0lZXzlxMHhiblRHSDQzelVxRXJmaVV1V2oxR2ppNnVrR21icmx2OEQtX2ZTOEg1NVl4ZHpFaUNFYng0TzREUjNvQVFWRXdOWExEZWgyY2NCOExTQng0LWZFczNmbXVnZXVGRThW?oc=5"
     },
     {
-      "n": 10,
+      "n": 11,
       "title_en": "Affirm Shares Fall as Strong Quarterly Earnings Fail to Offset Credit Concerns and Cautious Guidance",
       "source": "Yahoo Finance",
       "score": 13,
@@ -750,7 +758,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaTc4RWM1NnYySEJUS0VTcDQ4MDFBWFROdEFNRkNqTzZ5bEN6a0s4ak8xcXI4YW9EWC1EZVJJbm9jMzZMMDY5WkJtWGs0MGJOMEh0WkpFRERIdXZPUEJBUTcydmJkMUl1V2d4YlNpNG1xMHM5enRJUDNtdmdQRTNlNklkM0ZEM3RGQlZFRXV2UHFuM2ZrQzFiOXJZU3lKMEhjOWc?oc=5"
     },
     {
-      "n": 11,
+      "n": 12,
       "title_en": "Nvidia (NVDA) Stock: $181.60 Friday After a 9.3% Plunge Pushed the Nasdaq Into Correction, Bull $200, Bear $165",
       "source": "FinanceFeeds",
       "score": 13,
@@ -758,7 +766,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWEdSTnVORFRWcGlUdXhib2VyWVJjeGRJajNEb09abkE3Wjc0Z3hrcnRSMFpWSVRaUWhlNE94TjVBS3NLR0xjYm1OWVhfc0g2NGJuZF9OcExGWUtITEh6Q3E0MzBXVFFScFZVMnV3ZUsxNldyNklwQ1R3TUpZWWtySEowZU94Yzc3Tl9DU0t2X3ZUQjNha1R5YWJQZlE0dXBLN3M2RjRHTGtFdEd3cTFINS1LNkJoWTc4eFRaTGFSSVNrdUNUNTZIRVZmWkExUGNGRnd3VWZB?oc=5"
     },
     {
-      "n": 12,
+      "n": 13,
       "title_en": "Philadelphia Semiconductor Index Plunges 12%! Burry Takes 25% Profit on Semiconductor ETF Puts, Keeps Rest of Bearish Bets on AI Correction",
       "source": "BigGo Finance",
       "score": 12,
@@ -766,7 +774,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SVlJ2QVluSVRsaE5WX1RER09hcHpwYVZ1YjZrdThzMV9UWlpDaFBFYV9tVFQzNWRxcS0ybXVjZ0Zudng2TDlrVkF6TUlUTjZqZXpQaEhOWllBdjZxRk5MZXZUZWtlLUhORFdGYmM5N1lEbEhXVnc?oc=5"
     },
     {
-      "n": 13,
+      "n": 14,
       "title_en": "South Korea stocks plunge as US midterm results spark AI selloff",
       "source": "Reuters",
       "score": 12,
@@ -774,7 +782,7 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUXFPZWJ0ekg2Mnl6b3ZEMDRpRzJON3M1b3FnWlpsbVZSSlpnMDR1YXJFWG0zMmROd0NybFRLWXdtcjdQWm1hckFsTE15d2FoY0hnMGZsMjctbnc1VjFCZ09uUWhDbVpGOUtmQmU4UEhLNmtINHZjbTA4cXZPSmpqTFM3TEptUUU4clROU0xCc3QtM3NNbThZOHMxU1lqU1I4Y3EzRnRnY1hqUFpwUTJWcWcxQWhJNVh2VER2dGtzZUxxSmJSeXc?oc=5"
     },
     {
-      "n": 14,
+      "n": 15,
       "title_en": "Week Ahead – Inflation and Geopolitics in Focus as US Political Landscape Shifts",
       "source": "Action Forex",
       "score": 10,
@@ -782,7 +790,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRzVRcElUdzBzNjU2cUg2X005N1FaZThvTkVDVVRIT1RhenBTcDVMLVZCNnZ4WmRQYl9hY0xaVlNtemVhNUQzZEtBRUdEQ1d3Rks2eTVkVzFvR1hhRGE4N1NKUFBCZGFBSV9NUFQ4cEFOUFJENEtBV1NNRGdlNmRHT3hTN2oySlVOM1dWRWtYMDE5QjZ1Nmw3VkpEZVBDOV9fSWxDcHVxXzNGTG45aE4tZ29GelpHcmRCQTJqSG9OeFp4MmxBTlozcW5LdDAxMG91X0JSandCT25ubml1UU1Wbkl3?oc=5"
     },
     {
-      "n": 15,
+      "n": 16,
       "title_en": "Oil Prices at Near Three-Week High as US-Iran Peace Hopes Fade",
       "source": "EnergyNow",
       "score": 10,
@@ -790,7 +798,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0dobWFMMG9yT29rOFBobWVVVkk1XzJaN0JtVWMzMHZiQmphdEk4d2JSb2xDMG1oODhzVW9BbGVOYVBISFRKd0p1QWMxUkItcmFmaGhIbTB6aWtaUzlsWFVhSHIxQ3lhZmlEQl9nZGxKT1dCcGFnUm90eWtlaE1YRGpsUG14VVNzbWpiLTR0SGgybVFWay0w?oc=5"
     },
     {
-      "n": 16,
+      "n": 17,
       "title_en": "Steady Oil Prices Set for Weekly Gain as Iran War Rumbles On",
       "source": "EnergyNow.com",
       "score": 10,
@@ -798,7 +806,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0hybHB2cl9Pekh6U0pXVHdhbXhxODREQy1JczduYmJLOU1Oc1BLWXJDY2RaUmVKdGt3YV9LTjV5b3BRaVRHY05BUUdtYUw2QlBaQmI0MVlaVTZNSk1Sc2E1bVZsbFhLaFV1WlhNUE5Vcks3blYzMDJ6N1UyZHB4UHVIb3dPX0lkdXVlWGFUb3J3cktienc?oc=5"
     },
     {
-      "n": 17,
+      "n": 18,
       "title_en": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
       "source": "EnergyNow.com",
       "score": 10,
@@ -806,7 +814,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNE1fMzFiSjhrOFpJV21kajdMYkJEd20zcGM4Sm0yREpWU09IZnBwX0VyUk9LTWlHYWhDYXZCOS04eng0d1lPdVlKX2pZUjFwYzAwZkM4NWlDazVaSUFfRHlLaTczenpiZTdrb0lXd09XZTRiWHpNVGYxcDRjaHhoZ3JvcVFtb1VZM29raVc4RE9kUXBZWVdkbmktRU5FbV9hb1Fweg?oc=5"
     },
     {
-      "n": 18,
+      "n": 19,
       "title_en": "Is Cathie Wood betting on the next stage of the AI boom amid Wall Street’s tech stock crash, buying SpaceX",
       "source": "The Economic Times",
       "score": 9,
@@ -814,7 +822,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQeE5BUFlsaTlqaW9wOVphOGZqYzRhMmR6VTg2Wk9KclVEMnE4MkNCYTRZTGltS0x1V04xejJ1Z1RoNmthNTNnZ0xxUGtXbGVwVWZJN0JGWmx0bnhPdmZvNWYteVl1U1UwMl9DcE56elJMeW5NVVZFMUxJOTFXRXY1UC1jc1dKczE1dU8xQTJxZGZVNnBVR1JyR3R1Z0JQRm91SU1IWGFleEJuQVkwTHZxUkd2NF95STdZa2dqM3oyRWNVVVRucWhpbnRpODlrTF84N0k0VEdMZjhTYTFzSUFic2E4NTl0WTZEQXhwMUlzb3VJWTNYMjdPcjJLUFRKQzFRNUQwZTJxWC0weHctU1BPaFdrYkxHa1pHNjJtOGhuXzZwQWNYb2Q2cnp6LWJ2cGQ4UjVadm5BNGZXRURMVHFoQ05sa1RtbmNFQXZuTFJ0YmxVRWxGSmfSAdsCQVVfeXFMT3lLeGlidDlNVG9mTEV1QmVjalRyTnRHamVoRWkzVzdBeUhFajZ5aXJVY1JfdklSVTVIeUJrV1cteWwyRkxnbzlENTBoQ3c4dkNWSkN0OVVVR0N0SVhSRU03cnRMZFh3Mm9FbjctYzExZ0hTd3A4d0N4c0lnTWVxeUxUR2hiZW1OUDM0ZS1yV1JWaVRiTHgwYU12N1BIbVJSTUZaN1BGY21RSWRYN3RxaTJGWGg4ejktZmdWZ3dxY2Q0RFNoYUp5bVJtZGFvZ0J4S3NobW5kcDBITTA3c3RmRDNnT2QyU1RKYUV3dWNVczEya2hjYTFZbFB3cG91YVhMNGF2YVIycXFEbU5zQ1FmQ3FfOXJtcDhaWGdUaUk4NzRhdzlOUW5vSEdEU2hkdHJ1YkNhczhaY1huX2I3dXVEY19uRS1mU0hnOHh2N3R6RkY2VnpNeng0VzRaV0k?oc=5"
     },
     {
-      "n": 19,
+      "n": 20,
       "title_en": "Apple Is Now Worth $600 Billion More Than Nvidia",
       "source": "Yahoo Finance",
       "score": 9,
@@ -822,7 +830,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1hQb0JpQk5sSEJUR3N3d2hjV0FZb0ZEWWpkMjl3WW1CaW5iVFlVdmdoMk93QWxHTDN4enFxQjltOHNkLV9wQXNXM1ktMXhUem1ERDFCVURRcXc2RllOclp0RDJSdXpTek9aSWhaUkd5c1NQVWlLQkZ2OTdxTzEzM2pEV3F2LTZ3cVJxM0F3ckZUeWRsZDNn?oc=5"
     },
     {
-      "n": 20,
+      "n": 21,
       "title_en": "Another 'Blue Wave Shock' Plunges Kospi, Barely Defending 5,000 Level",
       "source": "SBS 뉴스",
       "score": 9,
@@ -830,7 +838,7 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Oa3NlZXVXWUl1cFVoSHl4eVlHbU5pcGYwaXFZQ2tfU2VqbGlfOFFwMVR4NFY1dnAwbVBVbW5MYnhKNFFoWDZRVlo2N3k4V3lmU3ZIdjdINWJKaUdmZVV1UUVfMUlVMnFIb1hjb1dR0gFmQVVfeXFMTnU5LWdsMVJGMFpsUWZBSElUNGlRTGRKS1hNc3ZNVXpMTGlmbEpyQlRleExuc1RqTThuUnc3azEyR2ExdGpLR3NlNG9yejR3Q3V5eHRfbWttdW9JRnJYcnlpV1pOVURR?oc=5"
     },
     {
-      "n": 21,
+      "n": 22,
       "title_en": "Global stocks plunge over AI fears after US midterm elections",
       "source": "Helsinki Times",
       "score": 9,
@@ -838,7 +846,7 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOG9PT1JMNnF3N2VaQ0IwOGZPa0tFd2E1UDFJSTVrdXJoY0Z5WWR4YkhxTHhGRmI3SEZFdnZrSFR4eGt5Vm1rS3QzY3FXWlNOUFB3N3ZHTEVZRDZ4ZDVJLVdfNHNLTzJsSHNZa2p0ZGd5dWNmUTBqRlUyUmFSMUNuVXRybk85WDNBYjdadGNWWlVVOFRqc0N2QVJLa0Z0SVRwazFudXlrVVVvNDVLZEpJ?oc=5"
     },
     {
-      "n": 22,
+      "n": 23,
       "title_en": "Korea retail investors suffer twin losses as U.S. tech and KOSPI plunge",
       "source": "Chosunbiz",
       "score": 9,
@@ -846,7 +854,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWHAtS0JfOW9LMDNGTnIzc204MnIteU4ycHA1Y2s5THBQNVJ5ZmNqVHNWNmdtRk81N0txS0lRU0syUlVRWEtpdm1FbjF2LTZZRmZKTTZrU2l1RzU0NkNQXzhQRHU5c3BHdTRTaDl1WDVrU2NwZWJtVDNyUzRNLVNSWtIBlAFBVV95cUxPMF9qTGh5SHlwdDJCQ3RhSkhudU04by1ha2gwSkg1RUpweEEtT2J3R3BOejZaUEFubEQ5SktCUFExdXhmZjNtRjB4MmxTUWhhYzBUa3dpak9qeTFndmVnb2o0bC0zYzN5bzJYRTNEb0k1RFRQOWRCU3NFOHlENHhUMnR1Q0tHMHlpSHNuWlphcVBwUktx?oc=5"
     },
     {
-      "n": 23,
+      "n": 24,
       "title_en": "South Korean Stocks Plunge 8.8% Intraday, Triggering Circuit Breaker; Government Waives 140% Collateral Ratio for Three Months to Shore Up Market",
       "source": "BigGo Finance",
       "score": 9,
@@ -854,7 +862,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sZzNwQ1BQSTNGcWFEVEdadmloRkRJSVFldWhnRzZVT0ZlMzRZRmctR3VqdHpXaWdyWlktQkNlUWZjMmdUZlZsMHplR1Ixbm1MR2FQc05NUUlaZUhGNzZwNU9WWFgtWDl4LUgzcTNVQk9oUWIyd2c?oc=5"
     },
     {
-      "n": 24,
+      "n": 25,
       "title_en": "Why Did Global Markets Plunge After the US Midterm Elections?",
       "source": "TradingView",
       "score": 9,
@@ -862,7 +870,7 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWxxOXdsS1h4S1p4OF81R2JTTHdNV1RZaGNubTlEdTBPN0s1VlMyRmZxb1BRRmplMUNEbVNXU0xYMi01WmIzLUQ2cVZyVkFjMnlmQ01PME1mcC1sdUQ1Y3VvTlVDRTdxYlpFXzBLMnhOdVRLcG96SmFVeENldGpYYXNtT0hKeko2OVo1cF9TekRDRG5KQkRVcjIwUzNUVlJWb05uUEFLVThmSklxb1N0SlJGTS1CaEZ4QzJsMQ?oc=5"
     },
     {
-      "n": 25,
+      "n": 26,
       "title_en": "Asian Stocks Plunge as AI Selloff Spreads From US Markets",
       "source": "Demokratis.co.id",
       "score": 9,
@@ -870,7 +878,7 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fa0Jrc2treVZjS0hUeWh1Ympmb2J5N3I5Q3VqRnVnSkVQVFAyUE5na0hvazJUUDVNc1Q1Y1hEeXFaTGl3bnVvSkdWQWlhcmlTOWpLUmhyU1N3bEc1UFdJTg?oc=5"
     },
     {
-      "n": 26,
+      "n": 27,
       "title_en": "KOSPI crash today: why South Korea halted trading after an 8% plunge",
       "source": "Invezz",
       "score": 9,
@@ -878,7 +886,7 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxb1pVUlBlOHBMS2xqV1VtM241OVJ1WE5FS0hNYlp5RGd4cEVES3NudTJLSE1kRVJXWGxLUDgxQ290RGxXTlhoZ2NGUkJEb3hvZllYVzJ5R3prRldra3VTTzBzOUtFVERZOGFsUDljcnlLS2hZaDN2dGNZNA?oc=5"
     },
     {
-      "n": 27,
+      "n": 28,
       "title_en": "Tech Bounces, but the S&P 500 Still Has Its Worst Week Since April 2025",
       "source": "RealMoney Pro",
       "score": 8,
@@ -886,7 +894,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTTdsV241Y1hTMzVjZjFiMmRiWG91ZloyUElCNmJnUUVXWHF6Z1IxUzVYQUpPQ1ZHcXZBTlZoRVpKVGxJNXR3Rzd6Q2ZjWXNKOTFhRUt0SFNBSEdlaTJUZ2JYLTdLMkpDaTNCeVNZeUZqU3d1VjJKNk9IbWN5MjVJZGh0TGRmckMza1E0UUwzRk1aUFA5S1R0a0ZmTEk3eEk1VmNMT0h1eTY2R3RCQkktZWtaOA?oc=5"
     },
     {
-      "n": 28,
+      "n": 29,
       "title_en": "After-Hours Market Movers: Gainers and Decliners From Today's U.S. Session",
       "source": "ChartMill",
       "score": 8,
@@ -894,20 +902,12 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjYxYTBRU1J4a2FtX05ETXFqOFQ3SWlnZ1NBU21ieExuZWhfeXVUWkc4Uy1kY2JfdFRGODBtcWF3TkIwZlQ4blJiZ25HdEZOQUxwQXd2dTR5S2VPalNjV28yM1JQTXRaQlhqbmNBbTk5NlNfd1dsaWRIYVJhemZUNDJUaDVUdzAyMkdOYmhaMmN0X1RsTV9GU2FGeWpKcE1PYm5HaUJUTEdPbjcwZkxEYk0xdUZXQmNoN29rNHRR?oc=5"
     },
     {
-      "n": 29,
+      "n": 30,
       "title_en": "Nasdaq Adds 264 Points as Tech Stocks Rebound, But Ends the Week Lower: Stock Market Today",
       "source": "Yahoo Finance",
       "score": 8,
       "published_kst": "11/07 06:09",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEdsUUREdENzUlpRbWFxUVZ1OGR3NDhPMHFwOURSRktweFRHaVU3MTdYT3dkMmVwVzZNLWhIaDlhM1NKeXhZRTZRVTNpQ1hBX3FYWGxUMFRfSFViM180WXJHRlNzVGg0YjJnek5rMHhDQW9xaWJLZ21sX203ai1RaVRHNVU5U1FjbXVxdDNaa0RJVHViWDBv?oc=5"
-    },
-    {
-      "n": 30,
-      "title_en": "5 Companies Buying Back Their Own Stock Hand Over Fist As the Stock Market Sells Off",
-      "source": "Yahoo Finance",
-      "score": 8,
-      "published_kst": "11/07 05:07",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGpSYmRUeUFYNVdhXzZrR25BVHRlOUZPTW95YmdKRlIyOEU5OE81SXRlUzlYMkQ4V295MG5NZXR4cjRlcEVreXdfbFFISXBrNmV2OGJOLWQzMG94d01wNHVKVGZzcVFsUncyOUkzdjVSelJZdzNSWVFjc0N0djFHLXlydUtGODlQNDJEMmZqWXB3ejZ0NVJB?oc=5"
     }
   ],
   "earnings_calendar": [
