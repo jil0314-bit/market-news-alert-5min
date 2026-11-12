@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-12 11:14",
+  "generated_kst": "2026-11-12 11:17",
   "us_session_date": "2026-11-11",
   "indices": [
     {
@@ -48,22 +48,22 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.86,
+      "price": 102.85,
       "chg_pct": 0.61,
       "as_of": "2026-11-11"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 85.86,
-      "chg_pct": -0.21,
+      "price": 85.85,
+      "chg_pct": -0.22,
       "as_of": "2026-11-11"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1333.13,
-      "chg_pct": -0.65,
+      "price": 1333.55,
+      "chg_pct": -0.62,
       "as_of": "2026-11-11"
     }
   ],
@@ -680,8 +680,8 @@
       "title_en": "US CPI and PPI Preview: How Inflation Could Move Gold Prices",
       "source": "VT Markets",
       "score": 22,
-      "published_kst": "11/12 01:43",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWkxVzZvSkFmQ1NlUEQ3Q1VGbTNIdlJFUVVXTXhZX2NkSjR4NHpiajdWRENzNHVjR1dBc0FCM0lsZldMbmxDSWE0b05US1RZQTF1R3RfX3RlT2l4dmlHRWYtT3FFbi14YkN5Wk9HWFJUVU1QUUFRMWNNT0hiV3ZINDBrcnNibHdvLVlLTUxyaFZwNXlhYmJRYmwyYVJoclk?oc=5"
+      "published_kst": "11/11 23:48",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVzN4NUN5VnpES1Rfb2tBalhTMTRDM0dxSmxzMkNvMlJfUGNNUC1ySlRRb200ZmpMUHdCbkZ6SzdybXpGeGx3Wi13Y29HLUt0TXN1Zmg1UEs2am5EWnEzdXFHTUgzTFdOa1htTXJhczc2VVF6Q29UNGQyX2FWR2lYeEcyYzNObXpRaF9VRTdhTDJCVERqRjBOQVRMV3NQOW8?oc=5"
     },
     {
       "n": 3,
@@ -813,14 +813,6 @@
     },
     {
       "n": 19,
-      "title_en": "GBP/USD Forecast — Pound (1.3274) Slides as Fed Hike Odds Hit 100% — 1.3420 Target",
-      "source": "TradingNEWS",
-      "score": 13,
-      "published_kst": "11/12 03:16",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnhQU0lZVEx1OGxyT0xuSWljZjNUcG15WlRXa0dsM19HMmZyS0d6eVFfbFViYWFweFVZRGl1b2xiOEJNWF9YSi12T19kdlpSLWphUUN2WmtabVh6Y3hxVmNHWU5YQ04xVGljbEItd3M4b29TU0lfS1NwalkzLXBPSE5RR3ktTVBaX0VRNEptMnlKNlJPS3E5a2pDcjQ?oc=5"
-    },
-    {
-      "n": 20,
       "title_en": "South Korea's Semiconductor Exports Surge 331%, Lifting Samsung and SK Hynix as KOSPI Rollercoaster Continues",
       "source": "BigGo Finance",
       "score": 13,
@@ -828,15 +820,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3OWVEVURtQnlXdkVpdndwUUtVZGhTZTgxODNNZWR3NGZXUWFhQTBkUWRscmUxWW5hVzh0WUxmci04RXY5NjBDWmN2ejBMN2VLUjY2S3liU3VtanFhOVlJMmlLcWRZM2JTZkRTYVlVVHdReF84N2c?oc=5"
     },
     {
-      "n": 21,
-      "title_en": "Mobile Infrastructure Earnings Call Shows Strong Operating Momentum",
-      "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/12 10:13",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcG55WkVGN29YZ2JUMUZ3RktwSk0zNXA4SDlhOHh3b3pNSHJIVWd0SE42NkZpNVhqZHB0ODFxYnBFSEY1RGRVeEFQbGd1Rklid1ctdTJZa19IcGpYbzBOR3ByQXNaeGxFcXljemFZbzdWTmhhcWhWclFNSl9hOXVmcVg0cFpZb0YyVWtyeHNhNkw4MlQ0N2pmSE1Wc2VVaXBQX2xTaXh0RnAtSDdtdE1VQTJ3YUNhY1RkVzBZ?oc=5"
-    },
-    {
-      "n": 22,
+      "n": 20,
       "title_en": "Gladstone Commercial Earnings Call Highlights Industrial Strength",
       "source": "TipRanks",
       "score": 12,
@@ -844,7 +828,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQemVackNzeDVUM25VMjdsZXV4WUFndWFyWHlSUno0TG5qc2duZnFxYnlubkhlbTVCRFFvUm9JZVVSUjdpVVVfdm91S3B2cURSNnhOR3pQZktzMmE2RVdUcWlGQktrSUlqN0U3c29VRkhXSkxicmZBdVdPQzRqVGxZc3Q0OVpCVU1JMkRNR3BCQ0w5UXV6bHA5TzJkeXk3ZVNkbGx5UER6OHhVOWdyMnNDNlVJZGI1SGtQ?oc=5"
     },
     {
-      "n": 23,
+      "n": 21,
       "title_en": "L&T Earnings Call Signals Strong Growth Despite Margin Pressure",
       "source": "TipRanks",
       "score": 12,
@@ -852,7 +836,7 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZk5uNGJEdzdPR2JNcDZTTTVrN2FYOTZ2OG9mT19pQzE5WUtJUWlqekhySEprb1luNGIwS2RKT3RRaUR3T2FHQ3RpT050ZFAtNlIweU41TmZZbUtwZFU4Z0lJOGprUHpSTzBVX1JaX3M1UkN1amFGWVhHRGFrTkJKbWFCbGVrT0RkX244dXFuT1N1aE1CaklST19qU0htdWZOTEtzMmFvUkozeDZIWndKVTNIaEw?oc=5"
     },
     {
-      "n": 24,
+      "n": 22,
       "title_en": "Aware Inc. Earnings Call Signals Progress Amid Uncertainty",
       "source": "TipRanks",
       "score": 12,
@@ -860,7 +844,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWFkwb01NNEF0RndMR3FVUzRSdTdKbV9odXdKMkhwdENScjlLcDdVZmFRZ1NFSVYtOUhqS0d4c3F5Ml9wNGpqcDhwak13b1pqMzlKeGxjTDNTblFkYVRDMXhndTBuRjE5RkpEdmZUNEVVQTU5M2k0TE5HWjJmc2xJd0FIVjByanpHanNtZmxhbHpXN05yVjFVeGhTNk9GWnVPdTB2VTkyRzlrYS16cVE?oc=5"
     },
     {
-      "n": 25,
+      "n": 23,
       "title_en": "GMR Solutions Earnings Call Shows Growth Amid Headwinds",
       "source": "TipRanks",
       "score": 12,
@@ -868,7 +852,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0M0UklCeERtUUhGWFVsWER6XzFUbnA1UkxnWDVMbDNfV3RLUDRObXhLQmtTdjVmYjR4T21rbHlsWjFfT0ZjUTlwMllFbDN0WTJZSUVMVngweFZHVnhVeFU4dVBWQnVJUHF6NlN3RFE4RHlLWUJCdlN1T2RJQXNPM180VFNUcWNtM2tXcW9SdDcydUVLVWMxTHNMVG1vWkIxYnZJM0dQd2h4Zms?oc=5"
     },
     {
-      "n": 26,
+      "n": 24,
       "title_en": "Cloudflare Earnings Call Signals Growth and Profitability",
       "source": "TipRanks",
       "score": 12,
@@ -876,7 +860,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGdxV2gxSHM0UUdaWE9Rc2ZGVGFwUS1WdjUwSjRPZjRQZW1ZSmxCMGkzakZuV0NLZ2xWRzg0R2I5dFVFTGZFTFg5ZFJ4WlE4UEQwQVpCNFF2RFc0TmFCeWIyMVVBcFoyZEtRY2pWdlBtR0JqM2UzT3BxREYtMWVQTF9Fcm55N0V3RDZwa0c0eFFNQ3BmT2gyNnNEU2tURGNZcTJjSjhKSTkzZHluaHc?oc=5"
     },
     {
-      "n": 27,
+      "n": 25,
       "title_en": "Acadian Timber Earnings Call Signals Maine Recovery",
       "source": "TipRanks",
       "score": 12,
@@ -884,7 +868,15 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1VrMDNKVjJMUVlHUTZXUjlWMDFyWE1aOFE1aTJnMWZTemdVRnV5SXYyd2lQNTV4VUpTVGlPRWFwcVNFNGNtOXRjUHEyVThaZzNwRlJVNXUtYkMyZWhidFhoeWxKak45Z2xORlR0QzNUNGlqQmEzMTh1emxMa1pnZWNtYXdCekZiZF9DVmxOS3lSVmpoZ2xfbTgzUEUwcXVRS3E2Tk9B?oc=5"
     },
     {
-      "n": 28,
+      "n": 26,
+      "title_en": "FirstSun Capital Earnings Call Signals Margin Momentum",
+      "source": "TipRanks",
+      "score": 12,
+      "published_kst": "11/12 09:55",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWJkQnFUWXh1ZVNuMDZ5Rkw3X1ZFei1uV29oODdJUjJhaGFHOXV1cEhzcGpFVXN1X3dibDg3RUNvQnZwVUpYazZiNEtrOHVjUDRWaG5fVUsxbWtyQlNFSmgtdTUtN2Yza3d0eERrR1lyZmZJQTMzTC1KbFd6VzdmeWcwSll0NUJrOUhYS3BPMDhHeHlzMGNIUzhScVNQUkxIQXA0NlYxUlpIZw?oc=5"
+    },
+    {
+      "n": 27,
       "title_en": "H2O America Earnings Call Highlights Growth and Risks",
       "source": "TipRanks",
       "score": 12,
@@ -892,7 +884,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeWV3OWd2MXNsUnVWMWhTekRhYTBrRUI3NXRPOXE1Z01XMHRTdEhVOGhPVjdTVnhmZGtBQTNQR3JFUnE1ZTRmc1p6ZWtYTWpTZHEtbXRfclZPRlAtNDdHMDhxZWVHOUYzQ1dfMHg0bXpjU1BScHEwZi1aZnNpd0plTzdfb3Y1MlozLVNPTV9scXQ0cjBCRUEwdlh5ZGtERHZLeUgzY3JDTk9rS1pSaTNCMTZDRF9HZXpkYUUtMmlsZE1MNnhrcUp0blN0bFZQOHBFZHBOb1FHVU1lNmp6Sy1pNXZvcEcyUQ?oc=5"
     },
     {
-      "n": 29,
+      "n": 28,
       "title_en": "Nine Energy Service Earnings Call Signals Profit Growth",
       "source": "TipRanks",
       "score": 12,
@@ -900,12 +892,20 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajQ2UEJlQTY5bWoxUnpoNzJnNnRidDNxWXZtMlBEY1RoTGxlZUtzcUxZNzh1ZnBDQndWay1yd0dKb1FtYWhtOEhkU3phLWI3dHJ0NVdGOXVCQlZTZzFxblFtVzhNNEpHVEw4OE11VHFRSEhnNThFU1RRWmZiWGVzSEQwRkhOd3MxNjFEMDdaRW1laVFDVmRoZ1VrOXBMcGpTN2phVTE4MjdCN2c?oc=5"
     },
     {
-      "n": 30,
+      "n": 29,
       "title_en": "Ridgepost Capital Earnings Call Signals Broad-Based Growth",
       "source": "TipRanks",
       "score": 12,
       "published_kst": "11/12 09:55",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmJZMF82ODctWndnZWtSY3F6TUExSGljLWUwUjJqU0N2TVJpd092ZjNKOTNPeERzdHVoUWNXRU5tUzVuZEJtNk85bFFXejZZSGZiSHNNVXVDSVhjSjFCelZkOFRlWk14ZTV0dnlJeHppMW5JQzV4Y2ZfdmM0TXBGSEtRVGNJMzBZMS00ai1Zem92clFBRWV3X01mbFpXYUZCSmZ2VlVaRXJQUUxwd3h3?oc=5"
+    },
+    {
+      "n": 30,
+      "title_en": "American States Water Earnings Call Signals Broad Growth",
+      "source": "TipRanks",
+      "score": 12,
+      "published_kst": "11/12 09:55",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDE3QjNSbHdOM184dUhqTHk0Y1pxbHBVd0FlZlFoYzZfdS1KTXhtUVEyWnhzY2RlRGRpZnllQmVza3FFTEpJOXhhdmQ3U3p1MHFnc1N4blg4Z3M3MHZKdUdLamplbjlQc1Y5UmcyYVJwWUpvMW8ySWFJajJLbGpaR3h0NUpIOUNyd1V2T0w3dVdLQ0JYcnRoZ1lsWUdqZTNMdlNzYmtLaFVHYWlD?oc=5"
     }
   ],
   "earnings_calendar": [
