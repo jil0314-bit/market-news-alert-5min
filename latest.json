@@ -1,909 +1,925 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-11 10:27",
-  "us_session_date": "2026-11-10",
+  "generated_kst": "2026-11-12 11:14",
+  "us_session_date": "2026-11-11",
   "indices": [
     {
       "name": "나스닥 종합",
       "symbol": "^IXIC",
-      "price": 25065.88,
-      "chg_pct": -0.74,
-      "as_of": "2026-11-10"
+      "price": 25466.19,
+      "chg_pct": 1.6,
+      "as_of": "2026-11-11"
     },
     {
       "name": "다우",
       "symbol": "^DJI",
-      "price": 52231.89,
-      "chg_pct": -0.3,
-      "as_of": "2026-11-10"
+      "price": 52486.49,
+      "chg_pct": 0.49,
+      "as_of": "2026-11-11"
     },
     {
       "name": "S&P500",
       "symbol": "^GSPC",
-      "price": 7520.93,
-      "chg_pct": -0.38,
-      "as_of": "2026-11-10"
+      "price": 7619.38,
+      "chg_pct": 1.31,
+      "as_of": "2026-11-11"
     },
     {
       "name": "필라델피아 반도체",
       "symbol": "^SOX",
-      "price": 9998.33,
-      "chg_pct": -0.35,
-      "as_of": "2026-11-10"
+      "price": 10564.11,
+      "chg_pct": 5.66,
+      "as_of": "2026-11-11"
     },
     {
       "name": "VIX 공포지수",
       "symbol": "^VIX",
-      "price": 19.46,
-      "chg_pct": -2.31,
-      "as_of": "2026-11-10"
+      "price": 17.49,
+      "chg_pct": -10.12,
+      "as_of": "2026-11-11"
     },
     {
       "name": "미국 10년물",
       "symbol": "^TNX",
-      "price": 4.98,
-      "chg_pct": 2.45,
-      "as_of": "2026-11-10"
+      "price": 5.0,
+      "chg_pct": 0.3,
+      "as_of": "2026-11-11"
     },
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.29,
-      "chg_pct": 0.62,
-      "as_of": "2026-11-10"
+      "price": 102.86,
+      "chg_pct": 0.61,
+      "as_of": "2026-11-11"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 86.58,
-      "chg_pct": -0.31,
-      "as_of": "2026-11-10"
+      "price": 85.86,
+      "chg_pct": -0.21,
+      "as_of": "2026-11-11"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1337.98,
-      "chg_pct": -0.44,
-      "as_of": "2026-11-10"
+      "price": 1333.13,
+      "chg_pct": -0.65,
+      "as_of": "2026-11-11"
     }
   ],
   "sectors": [
     {
-      "sector": "반도체",
-      "avg": -0.01,
-      "up": 7,
-      "down": 5,
-      "count": 12,
-      "expected_count": 12,
-      "top": [
-        "브로드컴 +3.9%",
-        "TSMC +2.0%",
-        "AMD +1.3%"
-      ],
-      "worst": "엔비디아 -5.5%"
-    },
-    {
-      "sector": "제약바이오",
-      "avg": -0.68,
-      "up": 4,
-      "down": 6,
-      "count": 10,
-      "expected_count": 10,
-      "top": [
-        "일라이릴리 +1.4%",
-        "길리어드 +0.9%",
-        "화이자 +0.4%"
-      ],
-      "worst": "모더나 -6.8%"
-    },
-    {
-      "sector": "AI·빅테크",
-      "avg": -0.8,
-      "up": 3,
-      "down": 8,
-      "count": 11,
-      "expected_count": 11,
-      "top": [
-        "아마존 +1.5%",
-        "테슬라 +0.5%",
-        "메타 +0.0%"
-      ],
-      "worst": "델 -3.4%"
-    },
-    {
       "sector": "메모리",
-      "avg": -1.3,
-      "up": 0,
-      "down": 4,
+      "avg": 10.97,
+      "up": 4,
+      "down": 0,
       "count": 4,
       "expected_count": 4,
       "top": [
-        "웨스턴디지털 -0.2%",
-        "씨게이트 -0.9%",
-        "마이크론 -1.1%"
+        "샌디스크 +13.7%",
+        "마이크론 +11.9%",
+        "씨게이트 +10.0%"
       ],
-      "worst": "샌디스크 -3.0%"
-    },
-    {
-      "sector": "전력전선",
-      "avg": -1.83,
-      "up": 1,
-      "down": 6,
-      "count": 7,
-      "expected_count": 7,
-      "top": [
-        "AES +0.1%",
-        "넥스트에라 -0.7%",
-        "콴타서비스 -1.4%"
-      ],
-      "worst": "GE버노바 -3.9%"
+      "worst": "웨스턴디지털 +8.3%"
     },
     {
       "sector": "광통신",
-      "avg": -3.51,
-      "up": 1,
-      "down": 5,
+      "avg": 10.08,
+      "up": 6,
+      "down": 0,
       "count": 6,
       "expected_count": 6,
       "top": [
-        "시에나 +1.0%",
-        "루멘텀 -1.8%",
-        "POET테크 -3.6%"
+        "어플라이드옵토 +15.6%",
+        "루멘텀 +10.7%",
+        "POET테크 +10.3%"
       ],
-      "worst": "어플라이드옵토 -7.3%"
+      "worst": "파브리넷 +5.9%"
+    },
+    {
+      "sector": "반도체",
+      "avg": 5.68,
+      "up": 12,
+      "down": 0,
+      "count": 12,
+      "expected_count": 12,
+      "top": [
+        "ARM +12.1%",
+        "마벨 +9.3%",
+        "인텔 +7.5%"
+      ],
+      "worst": "퀄컴 +1.8%"
+    },
+    {
+      "sector": "AI·빅테크",
+      "avg": 5.04,
+      "up": 8,
+      "down": 3,
+      "count": 11,
+      "expected_count": 11,
+      "top": [
+        "코어위브 +24.7%",
+        "델 +11.8%",
+        "슈퍼마이크로 +9.5%"
+      ],
+      "worst": "마이크로소프트 -2.3%"
+    },
+    {
+      "sector": "전력전선",
+      "avg": 2.72,
+      "up": 5,
+      "down": 2,
+      "count": 7,
+      "expected_count": 7,
+      "top": [
+        "버티브 +6.3%",
+        "파월인더스트리 +5.6%",
+        "콴타서비스 +4.3%"
+      ],
+      "worst": "넥스트에라 -0.3%"
     },
     {
       "sector": "원전",
-      "avg": -4.2,
-      "up": 0,
-      "down": 8,
+      "avg": 1.38,
+      "up": 7,
+      "down": 1,
       "count": 8,
       "expected_count": 8,
       "top": [
-        "BWX테크 -1.1%",
-        "비스트라 -2.0%",
-        "콘스텔레이션 -3.0%"
+        "오클로 +3.1%",
+        "콘스텔레이션 +2.6%",
+        "센트루스 +2.1%"
       ],
-      "worst": "나노뉴클리어 -7.2%"
+      "worst": "BWX테크 -0.8%"
+    },
+    {
+      "sector": "제약바이오",
+      "avg": 0.51,
+      "up": 6,
+      "down": 4,
+      "count": 10,
+      "expected_count": 10,
+      "top": [
+        "리제네론 +4.7%",
+        "노보노디스크 +1.0%",
+        "암젠 +0.6%"
+      ],
+      "worst": "모더나 -0.9%"
     },
     {
       "sector": "양자",
-      "avg": -6.16,
-      "up": 0,
-      "down": 5,
+      "avg": -2.52,
+      "up": 1,
+      "down": 4,
       "count": 5,
       "expected_count": 5,
       "top": [
-        "아이온큐 -1.0%",
-        "리게티 -6.4%",
-        "아르킷퀀텀 -6.6%"
+        "디웨이브 +1.6%",
+        "아르킷퀀텀 -1.0%",
+        "퀀텀컴퓨팅 -2.1%"
       ],
-      "worst": "디웨이브 -8.6%"
+      "worst": "리게티 -8.6%"
     }
   ],
   "stocks": [
     {
       "name": "엔비디아",
       "symbol": "NVDA",
-      "price": 168.89,
-      "chg_pct": -5.47,
-      "as_of": "2026-11-10"
+      "price": 173.73,
+      "chg_pct": 2.87,
+      "as_of": "2026-11-11"
     },
     {
       "name": "AMD",
       "symbol": "AMD",
-      "price": 515.21,
-      "chg_pct": 1.3,
-      "as_of": "2026-11-10"
+      "price": 552.9,
+      "chg_pct": 7.32,
+      "as_of": "2026-11-11"
     },
     {
       "name": "브로드컴",
       "symbol": "AVGO",
-      "price": 331.98,
-      "chg_pct": 3.91,
-      "as_of": "2026-11-10"
+      "price": 345.22,
+      "chg_pct": 3.99,
+      "as_of": "2026-11-11"
     },
     {
       "name": "TSMC",
       "symbol": "TSM",
-      "price": 396.48,
-      "chg_pct": 2.02,
-      "as_of": "2026-11-10"
+      "price": 413.35,
+      "chg_pct": 4.25,
+      "as_of": "2026-11-11"
     },
     {
       "name": "ASML",
       "symbol": "ASML",
-      "price": 1507.85,
-      "chg_pct": -0.36,
-      "as_of": "2026-11-10"
+      "price": 1534.42,
+      "chg_pct": 1.76,
+      "as_of": "2026-11-11"
     },
     {
       "name": "퀄컴",
       "symbol": "QCOM",
-      "price": 173.53,
-      "chg_pct": 1.2,
-      "as_of": "2026-11-10"
+      "price": 176.57,
+      "chg_pct": 1.75,
+      "as_of": "2026-11-11"
     },
     {
       "name": "인텔",
       "symbol": "INTC",
-      "price": 58.13,
-      "chg_pct": -2.09,
-      "as_of": "2026-11-10"
+      "price": 62.5,
+      "chg_pct": 7.52,
+      "as_of": "2026-11-11"
     },
     {
       "name": "ARM",
       "symbol": "ARM",
-      "price": 181.49,
-      "chg_pct": -2.58,
-      "as_of": "2026-11-10"
+      "price": 203.36,
+      "chg_pct": 12.05,
+      "as_of": "2026-11-11"
     },
     {
       "name": "마벨",
       "symbol": "MRVL",
-      "price": 154.39,
-      "chg_pct": -0.14,
-      "as_of": "2026-11-10"
+      "price": 168.8,
+      "chg_pct": 9.33,
+      "as_of": "2026-11-11"
     },
     {
       "name": "램리서치",
       "symbol": "LRCX",
-      "price": 222.39,
-      "chg_pct": 0.49,
-      "as_of": "2026-11-10"
+      "price": 235.88,
+      "chg_pct": 6.07,
+      "as_of": "2026-11-11"
     },
     {
       "name": "어플라이드머티리얼즈",
       "symbol": "AMAT",
-      "price": 372.53,
-      "chg_pct": 0.53,
-      "as_of": "2026-11-10"
+      "price": 395.08,
+      "chg_pct": 6.05,
+      "as_of": "2026-11-11"
     },
     {
       "name": "KLA",
       "symbol": "KLAC",
-      "price": 152.99,
-      "chg_pct": 1.06,
-      "as_of": "2026-11-10"
+      "price": 161.01,
+      "chg_pct": 5.24,
+      "as_of": "2026-11-11"
     },
     {
       "name": "마이크론",
       "symbol": "MU",
-      "price": 725.11,
-      "chg_pct": -1.1,
-      "as_of": "2026-11-10"
+      "price": 811.3,
+      "chg_pct": 11.89,
+      "as_of": "2026-11-11"
     },
     {
       "name": "웨스턴디지털",
       "symbol": "WDC",
-      "price": 289.2,
-      "chg_pct": -0.2,
-      "as_of": "2026-11-10"
+      "price": 313.31,
+      "chg_pct": 8.34,
+      "as_of": "2026-11-11"
     },
     {
       "name": "씨게이트",
       "symbol": "STX",
-      "price": 501.62,
-      "chg_pct": -0.89,
-      "as_of": "2026-11-10"
+      "price": 551.72,
+      "chg_pct": 9.99,
+      "as_of": "2026-11-11"
     },
     {
       "name": "샌디스크",
       "symbol": "SNDK",
-      "price": 859.99,
-      "chg_pct": -2.99,
-      "as_of": "2026-11-10"
+      "price": 977.69,
+      "chg_pct": 13.69,
+      "as_of": "2026-11-11"
     },
     {
       "name": "코히런트",
       "symbol": "COHR",
-      "price": 214.66,
-      "chg_pct": -4.68,
-      "as_of": "2026-11-10"
+      "price": 234.51,
+      "chg_pct": 9.25,
+      "as_of": "2026-11-11"
     },
     {
       "name": "루멘텀",
       "symbol": "LITE",
-      "price": 585.57,
-      "chg_pct": -1.78,
-      "as_of": "2026-11-10"
+      "price": 648.06,
+      "chg_pct": 10.67,
+      "as_of": "2026-11-11"
     },
     {
       "name": "어플라이드옵토",
       "symbol": "AAOI",
-      "price": 48.32,
-      "chg_pct": -7.26,
-      "as_of": "2026-11-10"
+      "price": 55.86,
+      "chg_pct": 15.6,
+      "as_of": "2026-11-11"
     },
     {
       "name": "시에나",
       "symbol": "CIEN",
-      "price": 272.1,
-      "chg_pct": 1.03,
-      "as_of": "2026-11-10"
+      "price": 296.04,
+      "chg_pct": 8.8,
+      "as_of": "2026-11-11"
     },
     {
       "name": "파브리넷",
       "symbol": "FN",
-      "price": 348.52,
-      "chg_pct": -4.76,
-      "as_of": "2026-11-10"
+      "price": 369.01,
+      "chg_pct": 5.88,
+      "as_of": "2026-11-11"
     },
     {
       "name": "POET테크",
       "symbol": "POET",
-      "price": 5.07,
-      "chg_pct": -3.61,
-      "as_of": "2026-11-10"
+      "price": 5.59,
+      "chg_pct": 10.26,
+      "as_of": "2026-11-11"
     },
     {
       "name": "일라이릴리",
       "symbol": "LLY",
-      "price": 1432.29,
-      "chg_pct": 1.44,
-      "as_of": "2026-11-10"
+      "price": 1437.29,
+      "chg_pct": 0.35,
+      "as_of": "2026-11-11"
     },
     {
       "name": "노보노디스크",
       "symbol": "NVO",
-      "price": 40.7,
-      "chg_pct": -1.64,
-      "as_of": "2026-11-10"
+      "price": 41.09,
+      "chg_pct": 0.96,
+      "as_of": "2026-11-11"
     },
     {
       "name": "화이자",
       "symbol": "PFE",
-      "price": 29.36,
-      "chg_pct": 0.44,
-      "as_of": "2026-11-10"
+      "price": 29.45,
+      "chg_pct": 0.31,
+      "as_of": "2026-11-11"
     },
     {
       "name": "머크",
       "symbol": "MRK",
-      "price": 148.05,
-      "chg_pct": -0.48,
-      "as_of": "2026-11-10"
+      "price": 147.18,
+      "chg_pct": -0.59,
+      "as_of": "2026-11-11"
     },
     {
       "name": "애브비",
       "symbol": "ABBV",
-      "price": 293.89,
-      "chg_pct": 0.2,
-      "as_of": "2026-11-10"
+      "price": 294.98,
+      "chg_pct": 0.37,
+      "as_of": "2026-11-11"
     },
     {
       "name": "암젠",
       "symbol": "AMGN",
-      "price": 465.23,
-      "chg_pct": -0.0,
-      "as_of": "2026-11-10"
+      "price": 468.11,
+      "chg_pct": 0.62,
+      "as_of": "2026-11-11"
     },
     {
       "name": "모더나",
       "symbol": "MRNA",
-      "price": 250.83,
-      "chg_pct": -6.75,
-      "as_of": "2026-11-10"
+      "price": 248.69,
+      "chg_pct": -0.85,
+      "as_of": "2026-11-11"
     },
     {
       "name": "리제네론",
       "symbol": "REGN",
-      "price": 916.06,
-      "chg_pct": -0.42,
-      "as_of": "2026-11-10"
+      "price": 959.41,
+      "chg_pct": 4.73,
+      "as_of": "2026-11-11"
     },
     {
       "name": "버텍스",
       "symbol": "VRTX",
-      "price": 547.89,
-      "chg_pct": -0.54,
-      "as_of": "2026-11-10"
+      "price": 547.03,
+      "chg_pct": -0.16,
+      "as_of": "2026-11-11"
     },
     {
       "name": "길리어드",
       "symbol": "GILD",
-      "price": 170.87,
-      "chg_pct": 0.92,
-      "as_of": "2026-11-10"
+      "price": 169.73,
+      "chg_pct": -0.67,
+      "as_of": "2026-11-11"
     },
     {
       "name": "GE버노바",
       "symbol": "GEV",
-      "price": 797.04,
-      "chg_pct": -3.89,
-      "as_of": "2026-11-10"
+      "price": 808.24,
+      "chg_pct": 1.41,
+      "as_of": "2026-11-11"
     },
     {
       "name": "이튼",
       "symbol": "ETN",
-      "price": 354.22,
-      "chg_pct": -1.41,
-      "as_of": "2026-11-10"
+      "price": 360.62,
+      "chg_pct": 1.81,
+      "as_of": "2026-11-11"
     },
     {
       "name": "콴타서비스",
       "symbol": "PWR",
-      "price": 583.14,
-      "chg_pct": -1.41,
-      "as_of": "2026-11-10"
+      "price": 607.94,
+      "chg_pct": 4.25,
+      "as_of": "2026-11-11"
     },
     {
       "name": "버티브",
       "symbol": "VRT",
-      "price": 194.22,
-      "chg_pct": -3.12,
-      "as_of": "2026-11-10"
+      "price": 206.51,
+      "chg_pct": 6.33,
+      "as_of": "2026-11-11"
     },
     {
       "name": "파월인더스트리",
       "symbol": "POWL",
-      "price": 138.21,
-      "chg_pct": -2.43,
-      "as_of": "2026-11-10"
+      "price": 145.9,
+      "chg_pct": 5.56,
+      "as_of": "2026-11-11"
     },
     {
       "name": "넥스트에라",
       "symbol": "NEE",
-      "price": 86.27,
-      "chg_pct": -0.68,
-      "as_of": "2026-11-10"
+      "price": 85.99,
+      "chg_pct": -0.32,
+      "as_of": "2026-11-11"
     },
     {
       "name": "AES",
       "symbol": "AES",
       "price": 14.92,
-      "chg_pct": 0.13,
-      "as_of": "2026-11-10"
+      "chg_pct": -0.0,
+      "as_of": "2026-11-11"
     },
     {
       "name": "콘스텔레이션",
       "symbol": "CEG",
-      "price": 267.76,
-      "chg_pct": -3.02,
-      "as_of": "2026-11-10"
+      "price": 274.73,
+      "chg_pct": 2.6,
+      "as_of": "2026-11-11"
     },
     {
       "name": "비스트라",
       "symbol": "VST",
-      "price": 131.18,
-      "chg_pct": -2.05,
-      "as_of": "2026-11-10"
+      "price": 133.45,
+      "chg_pct": 1.73,
+      "as_of": "2026-11-11"
     },
     {
       "name": "뉴스케일파워",
       "symbol": "SMR",
-      "price": 5.22,
-      "chg_pct": -4.04,
-      "as_of": "2026-11-10"
+      "price": 5.23,
+      "chg_pct": 0.19,
+      "as_of": "2026-11-11"
     },
     {
       "name": "오클로",
       "symbol": "OKLO",
-      "price": 25.09,
-      "chg_pct": -6.52,
-      "as_of": "2026-11-10"
+      "price": 25.86,
+      "chg_pct": 3.07,
+      "as_of": "2026-11-11"
     },
     {
       "name": "센트루스",
       "symbol": "LEU",
-      "price": 109.87,
-      "chg_pct": -6.37,
-      "as_of": "2026-11-10"
+      "price": 112.17,
+      "chg_pct": 2.09,
+      "as_of": "2026-11-11"
     },
     {
       "name": "카메코",
       "symbol": "CCJ",
-      "price": 72.87,
-      "chg_pct": -3.32,
-      "as_of": "2026-11-10"
+      "price": 74.32,
+      "chg_pct": 1.99,
+      "as_of": "2026-11-11"
     },
     {
       "name": "BWX테크",
       "symbol": "BWXT",
-      "price": 126.64,
-      "chg_pct": -1.05,
-      "as_of": "2026-11-10"
+      "price": 125.68,
+      "chg_pct": -0.76,
+      "as_of": "2026-11-11"
     },
     {
       "name": "나노뉴클리어",
       "symbol": "NNE",
-      "price": 11.58,
-      "chg_pct": -7.21,
-      "as_of": "2026-11-10"
+      "price": 11.59,
+      "chg_pct": 0.09,
+      "as_of": "2026-11-11"
     },
     {
       "name": "아이온큐",
       "symbol": "IONQ",
-      "price": 34.99,
-      "chg_pct": -0.99,
-      "as_of": "2026-11-10"
+      "price": 34.06,
+      "chg_pct": -2.66,
+      "as_of": "2026-11-11"
     },
     {
       "name": "리게티",
       "symbol": "RGTI",
-      "price": 12.15,
-      "chg_pct": -6.39,
-      "as_of": "2026-11-10"
+      "price": 11.11,
+      "chg_pct": -8.56,
+      "as_of": "2026-11-11"
     },
     {
       "name": "디웨이브",
       "symbol": "QBTS",
-      "price": 10.48,
-      "chg_pct": -8.63,
-      "as_of": "2026-11-10"
+      "price": 10.65,
+      "chg_pct": 1.62,
+      "as_of": "2026-11-11"
     },
     {
       "name": "퀀텀컴퓨팅",
       "symbol": "QUBT",
-      "price": 6.3,
-      "chg_pct": -8.16,
-      "as_of": "2026-11-10"
+      "price": 6.17,
+      "chg_pct": -2.06,
+      "as_of": "2026-11-11"
     },
     {
       "name": "아르킷퀀텀",
       "symbol": "ARQQ",
-      "price": 15.74,
-      "chg_pct": -6.64,
-      "as_of": "2026-11-10"
+      "price": 15.59,
+      "chg_pct": -0.95,
+      "as_of": "2026-11-11"
     },
     {
       "name": "마이크로소프트",
       "symbol": "MSFT",
-      "price": 533.16,
-      "chg_pct": -2.2,
-      "as_of": "2026-11-10"
+      "price": 521.12,
+      "chg_pct": -2.26,
+      "as_of": "2026-11-11"
     },
     {
       "name": "알파벳",
       "symbol": "GOOGL",
-      "price": 287.38,
-      "chg_pct": -0.27,
-      "as_of": "2026-11-10"
+      "price": 293.45,
+      "chg_pct": 2.11,
+      "as_of": "2026-11-11"
     },
     {
       "name": "아마존",
       "symbol": "AMZN",
-      "price": 270.87,
-      "chg_pct": 1.48,
-      "as_of": "2026-11-10"
+      "price": 266.17,
+      "chg_pct": -1.74,
+      "as_of": "2026-11-11"
     },
     {
       "name": "메타",
       "symbol": "META",
-      "price": 641.39,
-      "chg_pct": 0.0,
-      "as_of": "2026-11-10"
+      "price": 628.77,
+      "chg_pct": -1.97,
+      "as_of": "2026-11-11"
     },
     {
       "name": "애플",
       "symbol": "AAPL",
-      "price": 348.51,
-      "chg_pct": -0.62,
-      "as_of": "2026-11-10"
+      "price": 355.63,
+      "chg_pct": 2.04,
+      "as_of": "2026-11-11"
     },
     {
       "name": "테슬라",
       "symbol": "TSLA",
-      "price": 379.78,
-      "chg_pct": 0.46,
-      "as_of": "2026-11-10"
+      "price": 390.84,
+      "chg_pct": 2.91,
+      "as_of": "2026-11-11"
     },
     {
       "name": "팔란티어",
       "symbol": "PLTR",
-      "price": 168.82,
-      "chg_pct": -0.22,
-      "as_of": "2026-11-10"
+      "price": 172.4,
+      "chg_pct": 2.12,
+      "as_of": "2026-11-11"
     },
     {
       "name": "슈퍼마이크로",
       "symbol": "SMCI",
-      "price": 27.79,
-      "chg_pct": -2.83,
-      "as_of": "2026-11-10"
+      "price": 30.43,
+      "chg_pct": 9.5,
+      "as_of": "2026-11-11"
     },
     {
       "name": "아리스타",
       "symbol": "ANET",
-      "price": 185.02,
-      "chg_pct": -0.62,
-      "as_of": "2026-11-10"
+      "price": 196.68,
+      "chg_pct": 6.3,
+      "as_of": "2026-11-11"
     },
     {
       "name": "델",
       "symbol": "DELL",
-      "price": 334.38,
-      "chg_pct": -3.44,
-      "as_of": "2026-11-10"
+      "price": 373.68,
+      "chg_pct": 11.75,
+      "as_of": "2026-11-11"
     },
     {
       "name": "코어위브",
       "symbol": "CRWV",
-      "price": 48.73,
-      "chg_pct": -0.51,
-      "as_of": "2026-11-10"
+      "price": 60.77,
+      "chg_pct": 24.71,
+      "as_of": "2026-11-11"
     }
   ],
   "expected_stock_count": 63,
   "missing_symbols": [],
   "big_movers": [
-    "엔비디아 -5.5%(반도체)",
-    "센트루스 -6.4%(원전)",
-    "리게티 -6.4%(양자)",
-    "오클로 -6.5%(원전)",
-    "아르킷퀀텀 -6.6%(양자)",
-    "모더나 -6.8%(제약바이오)",
-    "나노뉴클리어 -7.2%(원전)",
-    "어플라이드옵토 -7.3%(광통신)",
-    "퀀텀컴퓨팅 -8.2%(양자)",
-    "디웨이브 -8.6%(양자)"
+    "코어위브 +24.7%(AI·빅테크)",
+    "어플라이드옵토 +15.6%(광통신)",
+    "샌디스크 +13.7%(메모리)",
+    "ARM +12.1%(반도체)",
+    "마이크론 +11.9%(메모리)",
+    "델 +11.8%(AI·빅테크)",
+    "루멘텀 +10.7%(광통신)",
+    "POET테크 +10.3%(광통신)",
+    "씨게이트 +10.0%(메모리)",
+    "슈퍼마이크로 +9.5%(AI·빅테크)",
+    "마벨 +9.3%(반도체)",
+    "코히런트 +9.2%(광통신)",
+    "시에나 +8.8%(광통신)",
+    "웨스턴디지털 +8.3%(메모리)",
+    "인텔 +7.5%(반도체)",
+    "AMD +7.3%(반도체)",
+    "버티브 +6.3%(전력전선)",
+    "아리스타 +6.3%(AI·빅테크)",
+    "램리서치 +6.1%(반도체)",
+    "어플라이드머티리얼즈 +6.1%(반도체)",
+    "파브리넷 +5.9%(광통신)",
+    "파월인더스트리 +5.6%(전력전선)",
+    "KLA +5.2%(반도체)",
+    "리게티 -8.6%(양자)"
   ],
   "top_gainers": [
-    "브로드컴 +3.9%(반도체)",
-    "TSMC +2.0%(반도체)",
-    "아마존 +1.5%(AI·빅테크)",
-    "일라이릴리 +1.4%(제약바이오)",
-    "AMD +1.3%(반도체)"
+    "코어위브 +24.7%(AI·빅테크)",
+    "어플라이드옵토 +15.6%(광통신)",
+    "샌디스크 +13.7%(메모리)",
+    "ARM +12.1%(반도체)",
+    "마이크론 +11.9%(메모리)"
   ],
   "top_losers": [
-    "디웨이브 -8.6%(양자)",
-    "퀀텀컴퓨팅 -8.2%(양자)",
-    "어플라이드옵토 -7.3%(광통신)",
-    "나노뉴클리어 -7.2%(원전)",
-    "모더나 -6.8%(제약바이오)"
+    "리게티 -8.6%(양자)",
+    "아이온큐 -2.7%(양자)",
+    "마이크로소프트 -2.3%(AI·빅테크)",
+    "퀀텀컴퓨팅 -2.1%(양자)",
+    "메타 -2.0%(AI·빅테크)"
   ],
   "news_candidates": [
     {
       "n": 1,
-      "title_en": "Gold Feels the Weight of USD, Yields on Hawkish Fed and CPI",
-      "source": "FOREX.com",
-      "score": 19,
-      "published_kst": "11/11 07:44",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkp0V0FIZ0dkNXkxaEs1QWNSUGZYVFhTLXBNeXFfWTYwT182blhhRHZta29ER19LQjlxOXRqRmNueGM2ZDBZMWNDWU5jcDVsYm9XU2xPTHZmME9BaVYxSUhmZ3BjZEd2WEVBTEVKUXdSdmxOeDNyOVVBcnl4NWVUWUFxcjRXaXZsNklRRFNxazZDVzV5VXdGNEgtLU85Q3N1QXY0cmwtelU?oc=5"
+      "title_en": "Gold climbs as dollar and Treasury yields retreat ahead of US inflation data and Fed guidance",
+      "source": "VT Markets",
+      "score": 23,
+      "published_kst": "11/12 01:51",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjVoZjFjUm8ybFppbkVxYlVPb0RXOXZuXzltV0FsUm94RjVjZmo2ZDhZNTBkbGFnWFFRcVJueUoyRzlOVG9TYTY0YnZGNkpRenMtUHFOaDdscXhUQkNiVnRCWXFrYmlxNTRsem9FSjJlSTlUbmNmY1BuTnY0NWtmQ2NreC1LWVd6dWZmWXBteEl2ZEhuR1lXc0IyNVFvZ2huOHlOd2tXdTZqVE1fMTM4bzlUcFpJRnUyZ08xd1c1LUFYRzF3N2F4VFlPMjhFaXprYVhsSm5R?oc=5"
     },
     {
       "n": 2,
-      "title_en": "USD/JPY Price Forecast: Dollar-Yen Hits 158.80 on Hot US CPI as 159 Resistance and 160 Upside Target Loom",
-      "source": "TradingNEWS",
-      "score": 16,
-      "published_kst": "11/11 06:12",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXhRYWhWSzgtUm4wckxjVThhS2pQQ0ZzUUtOUDBKdmczbkhSOWtIWFdIUE9lNF9iQXRnSTNFMFMyQUlzR0JKWHhVSkFGZVRBQkZRU19oTmpZWmZTcWYzamlZQ3pVQTJRREZScjhQTFRHLWhaVmVOc1FINnFpaFdYdnozSzBiZUlFUnpPMkV0M1JWdGZmejdEUDRFWjlob0lza1l2SFl1S0I1dTBuT01EMUxPTjNTdw?oc=5"
+      "title_en": "US CPI and PPI Preview: How Inflation Could Move Gold Prices",
+      "source": "VT Markets",
+      "score": 22,
+      "published_kst": "11/12 01:43",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWkxVzZvSkFmQ1NlUEQ3Q1VGbTNIdlJFUVVXTXhZX2NkSjR4NHpiajdWRENzNHVjR1dBc0FCM0lsZldMbmxDSWE0b05US1RZQTF1R3RfX3RlT2l4dmlHRWYtT3FFbi14YkN5Wk9HWFJUVU1QUUFRMWNNT0hiV3ZINDBrcnNibHdvLVlLTUxyaFZwNXlhYmJRYmwyYVJoclk?oc=5"
     },
     {
       "n": 3,
-      "title_en": "GBP/USD Price Forecast: Cable Slides to 1.3396 on Hot US CPI - Upside Target 1.3520",
-      "source": "TradingNEWS",
-      "score": 16,
-      "published_kst": "11/11 04:15",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbDVGc3NFLTB2N1ZSbG1rcG45UTl3Z2NZNnR4Z3NMYW11T19VNEZCOHdXWWpCcERLZENVMnVrdE9OMnpiWmZPS2paZ0JVT3cwNnoyNWcwY2Npd1otZ25INkZKVVFTYVFrajJEa1pYVHE5aFlDbFpRYVlXSUhXMnhlU3lXemo3ZmtQOFhVQXQ5RGQtRlRpdkFxYg?oc=5"
+      "title_en": "CoreWeave Reportedly Plans $4B Investment-Grade Loan After Strong Earnings Beat — But Shares Fall After-Hours On Nvidia CEO Drama",
+      "source": "TradingView",
+      "score": 18,
+      "published_kst": "11/12 09:26",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcnFZc3I2MkljRGt5LWNXc0hvb0p6QThMNGhxZXU0RDdGNEl6UmgzdUdVeU9zMmpzaXduWmFMX296ZG1LNWRCZjZibHJ4WVRxM1F1aEJpN3pyM1hucEYxb1RPSGh5eFpSZUJYcnkxbGJla0Fmc0FneUJKZl9fZENNZU1SQnJ4YXZNTUQyTWxaTDNKY2ZvZlhkS0QxMUFBQ194QUtuX1hYc21TT2FSaDI5aHJwTkh4aDFIZWpIaVBDcWs1MVZXY2xBc0YtZ1N2d1BDODhpUzJmUC1Od0dwMy0xYm93UDkyRnpvc2Jtb0RMOEY1cGhnT0k0c3RNcV9BUGFGOU9pamZvNVAtQ1p6UkMxYmRCOXJjZw?oc=5"
     },
     {
       "n": 4,
-      "title_en": "EUR/USD Price Forecast — EUR/USD (1.1184) Breaks 1.1200 on Hot 0.3% US Core CPI — 1.1350 Upside Target",
-      "source": "TradingNEWS",
-      "score": 16,
-      "published_kst": "11/11 02:31",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFJQZFBsaDdGVnFUZmRsd3FpQmRNb3FCeUZsMjFzbDZrQ080VFBtUjFPOVpUb0JsUTM3b2d2dDNuTWVkcm1fMUJoNlNEVTZrQ2M0QVA2OEpiNDdMVEhjRDVCb0lvanl4LVROVjd0OFRGcjI4SURTbUVQWG9IRVNSaFZ5VjQzdFFWS3lQVVdYUVh6NHVsemx4aXJGSlFMNGRYWnpHX0JQajBiUQ?oc=5"
+      "title_en": "NeoGenomics Earnings Call Highlights Growth and Guidance",
+      "source": "TipRanks",
+      "score": 17,
+      "published_kst": "11/12 09:33",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZW5yczVjZmdkYUszUnlzTkhSYjdlNGp1clhHT0VDSnJHODQtYVlVazA2TVNKZDQ5ZTBXeU93RjhpN0ZMeERIZFhBWS0xcXlYN3laWjJfUzhIdHZoYjUyQkFtbVBtMU9iUGxZOHhtUnhRTnFfZFlHaG84UGY5QzZiWHZLNmhPZF96bFl5SFFCdWVMOFJrOVVrYzlJTFV4dElNMkNKTmVZOUQ4QU04?oc=5"
     },
     {
       "n": 5,
-      "title_en": "Propel Holdings Earnings Call Highlights Record Growth",
-      "source": "TipRanks",
-      "score": 15,
-      "published_kst": "11/11 09:30",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbGx3WWdsTWcyWmxGZmJuNTJyYmVyTVdPTHFneXZURVlXTEJ6eWhRM0E5TlB4ME9JMGlyRWxhT1ZnRGdyTWhmTjByaHdUay0yVkdiZDB4Z1dnMGlaN1U5UFc3T1Z3d0Z4anlGVUNmT0h2d2Vzb3JNS2RRaXh3aFBmMkRFZDdDRFVRVkczeUcxdkN5eW5zcGd6TDBfWW92V1ZHZlhBcHVUYmZFdw?oc=5"
+      "title_en": "US chip stocks surge across the board; SanDisk soars over 13%, Philadelphia Semiconductor Index erases earlier losses",
+      "source": "BigGo Finance",
+      "score": 16,
+      "published_kst": "11/12 03:35",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZMlNfMVdwTkVwSGNQUVR5MXRmX0RLb3RWLTZhNno0YXFheWtLdm55U25tTkhFSTU1RDl3SDdLdk52akJseTZYU2Q0WUZGZnJtVm1RV1FRYXU2WHZyUFljZ0R5TFRTTTBNREE2SG5GTFB0bUxLSUE?oc=5"
     },
     {
       "n": 6,
-      "title_en": "US stocks fall in afternoon trading as the 10-year yield holds near 5% after hot October CPI",
-      "source": "MLQ.ai",
+      "title_en": "\"What will happen to the National Pension Service?\"…NVIDIA valuation alone has evaporated by 4 trillion won in four months",
+      "source": "머니투데이",
       "score": 15,
-      "published_kst": "11/11 04:26",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU05RalNuUDhCOEhCS1N2YjV1QWdrRk9vSWxQeVVyc09uOEkxOUxzY2ZWQUlEWnQ2alNael84QktSazQyc1JjTl9FQjFEeXkwU0xmcFRidmRrM0N5Q0hDZTY4UXV3TlE0djZtdVBKVENhMGszaXNJeHFFakIwVFI1ckV4b0xGUXA3RnZUYWpabXhRa3MwOWhPYnNB?oc=5"
+      "published_kst": "11/12 09:54",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93T3J2OWU3U1p3YUd0Z1dKeVpSU19IeXhCNVc3STdHVkpHM1lBNXZHNVZfdWhCT3Z3N0pRMjQ4VWtucnV3LUpXUFFBQ1pZU0hQTGFtRjl2dXFEamc3OUFON1lTYlNDY21lYk95ZA?oc=5"
     },
     {
       "n": 7,
-      "title_en": "AI Stock Selloff Overdone? Asian Chip Stocks Stage Fierce Counterattack as South Korean Market Surges at Open, Triggering Circuit Breaker",
-      "source": "BigGo Finance",
+      "title_en": "Kospi Falls 0.79% Early as Nvidia After-Hours Slump Weighs on Chip Stocks",
+      "source": "bloomingbit",
       "score": 15,
-      "published_kst": "11/10 12:05",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOdXdyd1VHS1g5dDVlOTdrUjJGdkR6Sy1ZdTNBY0pUelJSdlBEVWJKdFl4eGs1d1V3Y0FhaENPZFV4MzZYVlVVb055QjRtWTNWSUxJQkNqaDZWdUZHTi1GeU5fdFV1MHFNVktqZ2VSeHZYTEN4RFE?oc=5"
+      "published_kst": "11/12 09:21",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LajMtWTNabjVmRzBIMnlRZGRlUW5Cb1lYalJpRU9TUFZwRGJoYjREVVFvMGp3cUpiMElRR1ZwZlV1NWY5dUl0bGVaNGhhMDFJZk9KNg?oc=5"
     },
     {
       "n": 8,
-      "title_en": "US stocks fall after a discouraging update on inflation",
-      "source": "Rocky Mount Telegram",
-      "score": 14,
-      "published_kst": "11/11 03:35",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc0FCWkVKeGU0ZEVFMXcyZkVVd250Q1llSzh4OW40TTg5NkR3blB0cnBMck5WaWVPOXRaeUNWZ3Biek9OcldMUjcyZHMwbURLVVhSWWVwWlZZdmFaMk1aM0VTeHVvOGc2aFJ6ZXp6STBMOHk5OC1scF9rVjIySDZvd0w0M1lsR2pTTmo2RWRyWmN0MTJiMEN1S0t5eVc5dUhQNUJOeXlhWHhxQ2JHckRWeVBfbHVDTXFaajVkOFkyNXllTE85MkhXanJ6R2l4Ym96VW5vV2VrZmFQc2lBa2pqeVVZaEp3Zw?oc=5"
+      "title_en": "AI and Chip Rally May Lift KOSPI Further, but Options Expiry and Nvidia Risk Loom",
+      "source": "BigGo Finance",
+      "score": 15,
+      "published_kst": "11/12 08:35",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KcUdyY28zWTZETTJDSTNsbzBSenhCcmNrcmpSR0NHNnVqZnROUm9jNG9RMGs2bFhLYS1CZE5ad0hUNzJwRktySFk0OTBTX2ZIOWY5MTFISHZfSzRsbkd3WGRfZ0VBc0Rsd24yMGVJT3lxUk9MSkE?oc=5"
     },
     {
       "n": 9,
-      "title_en": "Micron stock falls 3%, why this analyst sees 140% upside for the stock?",
-      "source": "Invezz",
-      "score": 14,
-      "published_kst": "11/11 03:19",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2xuelpnaGY4cFc2a3lhdDF0c2VaM1pZTTBlSUVwd3R4RkJyOFBPVkUxZElHV2RaVXdZMEM5QVhaSE5NeVF4SlpFTjdJNjA4R3h2MjQwZDdfWC1UMzR3ckpyeTFVWWNQZnFDOGdKdDVKS2xOZndSTzdyRm1Pcms2SUxGa0dicFZpdUNicjNNUFdlemZxYmJkZW00UExFQkdScjhuc2dn?oc=5"
+      "title_en": "LIVE: Korean chip stocks rise in premarket despite report Nvidia is considering ousting Jensen Huang",
+      "source": "Korea JoongAng Daily",
+      "score": 15,
+      "published_kst": "11/12 08:24",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbG5XRXRMZUxXS1Vobk9zRHQzTkRBMUJ4aDNfSnBjc3IzcE5fZEw5Z2RSQjJOc2ZuQlpHVTdWYkhBaDA4bGJheXlHNnJmd1E3eWtuc1ZraEFXOW9ZSnljTHdROG53eWxFaUhOWW9SbkZCOGVfNGZvMG5QZE51T1lWOVdfMkVRTjBOM2plbmZQUDBEeGJSUDZIOGQ3bUlsWmowd3FDSUU4Y3BGcG9wNjB1OTBva2NuTjZsZkhNMk9mbHg1MS04NXM5VDl2WmRGM0w2RXBXaHFOdzRCczQtN3JjckJ5Y1k1VUE?oc=5"
     },
     {
       "n": 10,
-      "title_en": "South Korea's KOSPI Volatility Surge Blamed on Semiconductor Concentration; Single-Stock Leverage Curbs Trigger 'Balloon Effect'",
-      "source": "BigGo Finance",
-      "score": 13,
-      "published_kst": "11/10 15:36",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ga0ZFY3hheUZlVGlRd0VZcUpNamYzd0M4d1lwMjBkX0w5R1l2YjE0dWJGVWI2NWlyZ29qd1JxeEpOZXBRcFZGcEVpR2xndFV6eloxeHVOZjVSSnNkTHdERkE4WFNXd0x3YlI5a3dBRzh4Z1Nqd0E?oc=5"
+      "title_en": "Nvidia vs. Micron: One AI Stock Faces an Uncertain Future, While the Other Is Worth Buying, Says Top Analyst",
+      "source": "TipRanks",
+      "score": 15,
+      "published_kst": "11/11 23:42",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVnF1Nmdydi0ybmFzLTdmcTNiUHhFeVk2dFlxQ091dE9VeTNhby13aDYxTXQ0Tl9McXNqdjRseHJvT1ozX2hZVmJUWkJCR0N0WU9Eb0lONV8yaTFtd1BEZFZuMGl3SFlPSF9uanRzNmFLZnA3b1lfNW9mWnkyVEk5SEFCaFI5RmI2dmJ6T1l6OE40QUFFdXdOZF85LUpUbGIxdEFjQUZZNTVUSFJJX2l2VkU0U1psbkhwdUhURnd1bVlLQlU?oc=5"
     },
     {
       "n": 11,
-      "title_en": "Orthopediatrics Earnings Call Signals Broad Growth Momentum",
-      "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/11 09:36",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOXNaZ3BWSWcxVUNpX3h4eVE4SlA1cmJ4cnRYdDFSX3FiaXZvbG9BS3JtcUl0U1BkODZCS1ZycVhqUlZEUlB1WXctWi1PZjljUUZGNG9QODZocHB5dG5IYVlUNG5HdVNqWE9MNjRmMXlNZ29RQU5LNEw3blpkcDRWeXBDLXZMMXhNWExwSEJ2QWhfMEI5ZzFNNUluUmtJMXFfQ3ZiVzZGRWxfNFJ4WTVpdQ?oc=5"
+      "title_en": "【US Pre-Market】CoreWeave Jumps Over 16% on Plans to Issue Billions in GPU-Backed Debt; Nvidia Rebounds Over 4%, AMD, Micron Rise Over 6%",
+      "source": "TradingKey",
+      "score": 15,
+      "published_kst": "11/11 21:40",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMmN2bG5mYzNHM2QxMWNjSmZSTmh1UTVpZnpnbjEzZ2M5bEZfcUVMWUhmS0kyaVZSQVRPV1Q0ZTEzbjFBTWh2NnRGel9NamRmZ0w5YTIzQUlHWFR1UG9uRlc3Ri1HVGlCZDJvaE9PTVlQcEE0UUxURU5lVmR0bXd4bHI1NE5Dc2RSNHVWTUZmME5tZ0xveVBhZ1RocGgtNExsSlE?oc=5"
     },
     {
       "n": 12,
-      "title_en": "Ribbon Communications Earnings Call Signals Broad Recovery",
-      "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/11 09:36",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3czeDRSWnowcmsxMkVfUTc4ZXh4dVRqRUwxVzBFQnRvbVQ2M0d3VGNnVzJ5bk1HSHE5dHY2TWhRVTFxUy1MLXlDRG9iTklBem5wMTc1NU5sVDJSR2J1OWs1UWMtZ2ZwZ0R0NjlZdEFmaklIdy1haExIcU5uVkhRUm44SGY4MkZHWTJ4NERIZVJNRWNXRXBKanhMcTBWTUVBTy16WGMyazk2ZDZNTF93?oc=5"
+      "title_en": "Semiconductor Stocks Rebound but Nerves Persist: 'D.N.A' Risks of Data Centers, Nvidia, Anthropic Remain",
+      "source": "BigGo Finance",
+      "score": 15,
+      "published_kst": "11/11 18:06",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UX1NxQi11Nno4Z0NFYi1OUWZEYTEwVWVZNTFLVE1zTDVQM213RDhZSWRyaVktUjE0TkEwT2dFNTFuT2tqNzdtSDFGSEVSQWhZN1AtcDY2akJWQk1ieUdjSEdwdE5CWEZxS2V2QnB1MmRSQ0x6TGc?oc=5"
     },
     {
       "n": 13,
-      "title_en": "Rogers Corp. Earnings Call Signals Broad Growth Momentum",
-      "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/11 09:30",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQnAxdEhjR1J6TkFvZEFlM1Rpall1TWxQT29aQUY0MkJrSTJYVFNtYV90NzY1RTcwLUNVTzlVNUR3dHZ4SWtTcDltMEFXbXZ6TUZsSUMydDY4eUhTb01DV2ZINHUydnlEQXdWd1dCUmNLdlJscHlkUkJSWVhaYWxVYTBDdktMUEJ5YlJQa2hRR1NZVkdHM3VJTEtvQUtxSDQ4bVdNajY0eHh6Zjg?oc=5"
+      "title_en": "Oil production nears pre-Iran war levels, OPEC says",
+      "source": "Al Jazeera",
+      "score": 14,
+      "published_kst": "11/12 06:13",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVl4QjNFcFhZd1N4V2ZIQlM0ejAwcEVmbUxqXzdmamFJeUE0QXBNU3FoQW9ldGNYdF95QnU2MVZxTGlMX1NiYWZrUVY0S2hKTFlVSGJBZTExY0xfWGl1Q2RobDlQa0M5a1ozU1VYSlBNd2lDYzQwS2FKV0pNNnpJUnNUNDV1RmJYZENBNWVXcVM0R0MyVWfSAZsBQVVfeXFMTVdoNlkwaFM0R0ZuOExoUHowckk2eFNRejVwY1NUM1pnZEp1RDdMdVdGLXM3ZFFCeEJIOE5zdWJZeXJwcTlHLVk5azdLUTV2R0EtaGJ1VHMyb0tiTmp3MHhJVzBZSjBJRURLcF8yWkJvcXhHY2UwTS1wd1JFbkZGMkY1eXcwNk9LTlBkNDh6clNWSUlRRXppdG5QelE?oc=5"
     },
     {
       "n": 14,
-      "title_en": "Geodrill Earnings Call Highlights Strong Recovery",
-      "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/11 09:30",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbHV5OGJuekFWVlBOanpDRG50MmVvTm1VQWZ5TFBrdTB3ZTQzNlRUNEVFNVYyUGFua1VNLUxBV1pfdjNFc2NWM01hbmxiRVJmdmpSTnpqajBVRjlpN0RJVE9WNDBrcDJHTEtHYTJ4Y0F0aHpKQVlFOUZfUXB1NnhQWE5fdTRLQVZBemp3UFlqS1hpVHVySHNCYkEyZWV4YkxlQ1ZN?oc=5"
+      "title_en": "Oil Prices at Near Three-Week High as US-Iran Peace Hopes Fade",
+      "source": "EnergyNow.com",
+      "score": 14,
+      "published_kst": "11/12 05:44",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelFMVUg3TmhGN1ZXdnVQODdKYmRzTzFvNG1DWGYyYVdmLXk1N1NvcDBwNjhROWJ0SEJYNTNjQWpmOERSSjRXRjVBVm00eFFYSjhEMVlwM3IyOWNjZmNlYW5MOUI2ZUJoQXhkWUtwLVg5VnRhQXVDOXl4aC1qM2FfLWwwZUhTRm5ka1c5UnVhckltNlhveHNlYXR3?oc=5"
     },
     {
       "n": 15,
-      "title_en": "Acadia Realty Trust Earnings Call Signals Strong Growth",
-      "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/11 09:30",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWmZGLTQ3RHdCZE13RkxUc3E0VFM5OGVvQUNheTI0MUNoSUx5eVBPaXVJZE93VEtsQXlJenlGS2hha2MyV25mQ0NRV0pKd3NFWThhLXNIcHk0NmxyZk56QWdxRHNDMXBoOTBVNUJlcGZFd0Z4RGFxRnJYWUc3eDZkc1RBc3J2czF3Qm5OaldnYlBNQXlWanFkZjc3Wk54aHJOY2RXWWMtYi10Z0U?oc=5"
+      "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
+      "source": "Britannica",
+      "score": 14,
+      "published_kst": "11/12 05:26",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
     },
     {
       "n": 16,
-      "title_en": "Flowserve Earnings Call Highlights Growth Despite Headwinds",
-      "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/11 09:30",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2p5SnRhVjlJY0FOMEpQZ0JrUkFiLTM4MkhkT1pNVkttNXBJNG00M3FZUDN5S25BaWJUdUFKWFB6S200dmFOOG42anBsYk1mYzhSUjgySjl5S0hrczg3VG8tR0dpbWNwQllYTmRRSjQ0c0pyU0FhUGJsSE9fLXdoY1dIejQ0akppT28telVUZVhHQjdvc3E4T1pLdzVISXI1bElHVHBWVWhlXzRBSThkcg?oc=5"
+      "title_en": "OPEC+ Loses Oil Market Sway in Iran War as China Gains Influence",
+      "source": "EnergyNow.com",
+      "score": 14,
+      "published_kst": "11/12 05:10",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHl3S3dvMDV0YjZLZ1dXTDZQbTlHSktXYUtMRk8tVzUzQkF1eEt1RTBLNmZzbnd3YVZieTVVczZxUWw3dzgwdFVNZFlYY2NVUktIMS1peUI3QzRhOUd6Z20wWTVtQ25SU2h6R2pLRnowY1B1V2dmTTE1ZTFzeC1CcUpYQlo3X0YxeDNKSnlrREhMeC1rWjBoM2xR?oc=5"
     },
     {
       "n": 17,
-      "title_en": "Amerigo Resources Earnings Call Highlights Strong Q3 Growth",
-      "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/11 09:30",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEFlbkx6QktBVEdaU0tMSFZlZ2NySldRd0FmWTJDNVBBaGx2NFpCanR2THRoc0RaTjFpOFAxS2RiRER2V2RIeFgtUm1FOWFjUW8zWHlCTlVZUW44cGJoQlJoTVhxX0ZiWGZVcGV5SU04ejdUODByZFRBcHR3SEJwTEZjQlVRS2ZLOGZMVVNmcC1Rd0dBUnE0SkxqWGhwM3VvNGczdkhTcFlod204T2M5Xw?oc=5"
+      "title_en": "Nvidia Rebounds Over 5% in Premarket as US Semiconductor Stocks Rally Broadly",
+      "source": "BigGo Finance",
+      "score": 14,
+      "published_kst": "11/11 21:25",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yZDl5Y2YyUnlBZVphMVctemh5RkI2QVB0bTNSc1pqbXNvdGV4aEtFYmhpV3U3aFR6V3lFVUlvcEZoR2w3aDVkSVVsV2NxQlFBUW1FOHNZcUlnU0M3MndHaDB6dDdiR0dpQkVNRkVhTnJQRUt6Nmc?oc=5"
     },
     {
       "n": 18,
-      "title_en": "EverQuote Earnings Call Highlights Growth and AI Expansion",
+      "title_en": "Why Nvidia Stock Is Plunging 7% in After-Hours Trading — and What Wall Street Sees Next",
       "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/11 09:30",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmhKWC12SmI4WmtBN18wNC1GbFVDU3c5ekozcFNMS29QZDY3ZUNyX1llMDFWNWRDald6bjVlU3lxTXVUWkg1QkhFTmJCLU1lSUlCbEh3dmJXekwtWkd1S21pZ256eG9jRDEydGMyT2ZBX0NPNGQ2dVYteW5RX1JIcHdQek03a0VWWTJqSDVRSk9id3UtSHJfLTFxRnlVWlFKZGh0WWQ2T1FYanNPSXgw?oc=5"
+      "score": 13,
+      "published_kst": "11/12 09:06",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmQya1V6S1FMREJjQWt1ejkwamJGN21IampKSkpUME5XSTFTQVF6ZFYzZmlIWWlvY05QVTZhMmFDdkE3VUVRQ3A3RDktMzBidU1JcG1qR1VQSjJQSWJpbWwyS3F1ZFhsaW5ZMlFsUGljSzExZm1NQV9FcTBxWkdNd0l0Z1d2UFR4YW5Zam82LXVFNXo4MmRWOWg5dDBCaXotMWtrY2F4SkozQ3dnbURyZHRpaTA?oc=5"
     },
     {
       "n": 19,
-      "title_en": "Pet Valu Earnings Call Highlights Growth Amid Pressure",
-      "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/11 09:06",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQak1leW1IZ1BacUxxV25uM2VJdVJpWTZHdTdhemtDTEcwRWdod29FVHhOZjlSdk1Fb0JUYWRrSy0tN2dwbGlYNkFRODdXaF9meGZqLThQMHl5UHVBbTdsTzdoZzd1M19vWDdhNnJVcGQ4RFVmQWljSjJuOUw1ZjBoRC00elV5dUdRdWpBdUQ5VE9XYlpvZnlvQ2VQVklGZXBrb0dyNjM2OUE5UQ?oc=5"
+      "title_en": "GBP/USD Forecast — Pound (1.3274) Slides as Fed Hike Odds Hit 100% — 1.3420 Target",
+      "source": "TradingNEWS",
+      "score": 13,
+      "published_kst": "11/12 03:16",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnhQU0lZVEx1OGxyT0xuSWljZjNUcG15WlRXa0dsM19HMmZyS0d6eVFfbFViYWFweFVZRGl1b2xiOEJNWF9YSi12T19kdlpSLWphUUN2WmtabVh6Y3hxVmNHWU5YQ04xVGljbEItd3M4b29TU0lfS1NwalkzLXBPSE5RR3ktTVBaX0VRNEptMnlKNlJPS3E5a2pDcjQ?oc=5"
     },
     {
       "n": 20,
-      "title_en": "‘Stay Far Away,’ Says Investor About CoreWeave Stock Ahead of Earnings",
-      "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/11 05:25",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkhRZGhQel8zMHlJSWRmWFU0cXdnRWhtbUY5cXkyZ3JFYXpNVnN4MWpjY1prWHF6dVAtaC1tb0Jid0FJYzNlN2ZXTVhTRGpKX05mZmxyU3VXczZWWDNEaGR3YjhHeWVoaUpPNFUxaUlNdFg1blVXdnQyTVBqamw0RjE1emRXNFREU29Dc3k5cF8zSi1VZGxoMWR0Sk9rWEFGWHVBdFdUcGM?oc=5"
+      "title_en": "South Korea's Semiconductor Exports Surge 331%, Lifting Samsung and SK Hynix as KOSPI Rollercoaster Continues",
+      "source": "BigGo Finance",
+      "score": 13,
+      "published_kst": "11/11 13:05",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3OWVEVURtQnlXdkVpdndwUUtVZGhTZTgxODNNZWR3NGZXUWFhQTBkUWRscmUxWW5hVzh0WUxmci04RXY5NjBDWmN2ejBMN2VLUjY2S3liU3VtanFhOVlJMmlLcWRZM2JTZkRTYVlVVHdReF84N2c?oc=5"
     },
     {
       "n": 21,
-      "title_en": "Asian Stocks Surge as Wall Street Recovers and Oil Prices Stabilize Amid Iran De-Escalation Hopes",
-      "source": "Observer Voice",
+      "title_en": "Mobile Infrastructure Earnings Call Shows Strong Operating Momentum",
+      "source": "TipRanks",
       "score": 12,
-      "published_kst": "11/10 18:16",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQkdjRzNCNkp0Q2loWW9sQUZFU0xuaVdJRHlJVlZYWHhYLW13ajZWOE9TR1hKZEk1MGNFZkhfdlRFZkhzQzBob2h1cTJIM3N0Z1Mzd3daU1huN3NjcTl1TUdYdXpmYVJSYXV5SVBhS0ktc28yLXhMQnJpUEhXMHFSM3RYRTlLZHhDbHFuQlVvQnRCcDdDYUhOdVZoenlnMXZOMFJGYjVycHpuc1dsMGhxZTJVMVFaeTkxX1RidFM0MkhidEk3djkwSnk0cw?oc=5"
+      "published_kst": "11/12 10:13",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcG55WkVGN29YZ2JUMUZ3RktwSk0zNXA4SDlhOHh3b3pNSHJIVWd0SE42NkZpNVhqZHB0ODFxYnBFSEY1RGRVeEFQbGd1Rklid1ctdTJZa19IcGpYbzBOR3ByQXNaeGxFcXljemFZbzdWTmhhcWhWclFNSl9hOXVmcVg0cFpZb0YyVWtyeHNhNkw4MlQ0N2pmSE1Wc2VVaXBQX2xTaXh0RnAtSDdtdE1VQTJ3YUNhY1RkVzBZ?oc=5"
     },
     {
       "n": 22,
-      "title_en": "South Korean shares surge over 3% as tech stocks rebound, oil prices ease",
-      "source": "The Economic Times",
+      "title_en": "Gladstone Commercial Earnings Call Highlights Industrial Strength",
+      "source": "TipRanks",
       "score": 12,
-      "published_kst": "11/10 12:28",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaFRhczBQUHI1TmlfUXJEenJWVFIyTllpN1N2ak5seXJlek1xVE02WU9Ya1gwVndQVlNmYWl4VHBBYTNrT2drNzZXREd1WjlqUUgzakpQcjhXeUhfMkJGV1JZVFVzWXpSLU5NdmNJWG5sNkRZZDVOcmJLMGt1c2pJeTdPaUhaMkstcVIwdzlZLXZWNlRBV3llQ2Z4c0hMV21ldXJKUG0tTExXODl0RnBDLWFza0wyM1cwU2h0b0lCcHV4YjVvdzZNUE05QkpucVV2aDJfT0hwS2ZJczBvYkZuYWVrdTR3TWxZOFZzVTBB?oc=5"
+      "published_kst": "11/12 10:13",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQemVackNzeDVUM25VMjdsZXV4WUFndWFyWHlSUno0TG5qc2duZnFxYnlubkhlbTVCRFFvUm9JZVVSUjdpVVVfdm91S3B2cURSNnhOR3pQZktzMmE2RVdUcWlGQktrSUlqN0U3c29VRkhXSkxicmZBdVdPQzRqVGxZc3Q0OVpCVU1JMkRNR3BCQ0w5UXV6bHA5TzJkeXk3ZVNkbGx5UER6OHhVOWdyMnNDNlVJZGI1SGtQ?oc=5"
     },
     {
       "n": 23,
-      "title_en": "As Nvidia begins Huang probe, Korean chipmakers brace for impact",
-      "source": "Korea JoongAng Daily",
-      "score": 11,
-      "published_kst": "11/10 17:39",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVklWdDNFQjVMcFZVanlvR2gxakR3TFlTbTRnUXNVWTJkN1Q5dTNBY0VCQllpbDBEUGV0ZVdob1VFXzBJU19ta2FzVTdnUFV5RTQ5RVllZmZpUWFOcjhqYXZwMEpreG9KT2Z5bnZuNUY5azRYZkNlNlZsWHNkOGhVVUdObmlibDhMWllrTUxsclJuQmRncW9Fb2JyTVBHNDBubVNhQmFSbzViLU5UMnNlSklfaklHNTQ?oc=5"
+      "title_en": "L&T Earnings Call Signals Strong Growth Despite Margin Pressure",
+      "source": "TipRanks",
+      "score": 12,
+      "published_kst": "11/12 09:55",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZk5uNGJEdzdPR2JNcDZTTTVrN2FYOTZ2OG9mT19pQzE5WUtJUWlqekhySEprb1luNGIwS2RKT3RRaUR3T2FHQ3RpT050ZFAtNlIweU41TmZZbUtwZFU4Z0lJOGprUHpSTzBVX1JaX3M1UkN1amFGWVhHRGFrTkJKbWFCbGVrT0RkX244dXFuT1N1aE1CaklST19qU0htdWZOTEtzMmFvUkozeDZIWndKVTNIaEw?oc=5"
     },
     {
       "n": 24,
-      "title_en": "Global investment banks (IBs) are sharply divided over the target stock price of Samsung Electronics..",
-      "source": "매일경제",
-      "score": 10,
-      "published_kst": "11/11 08:50",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fRW5yWkZsMUE5eE94VkxSSUlGcmJRbUhiY0ZxMXpFdHM4VFZndC1sVXU3OUhydEZHQXh0OW9reTg0VENDMldZV3ViTG9lY3c?oc=5"
+      "title_en": "Aware Inc. Earnings Call Signals Progress Amid Uncertainty",
+      "source": "TipRanks",
+      "score": 12,
+      "published_kst": "11/12 09:55",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWFkwb01NNEF0RndMR3FVUzRSdTdKbV9odXdKMkhwdENScjlLcDdVZmFRZ1NFSVYtOUhqS0d4c3F5Ml9wNGpqcDhwak13b1pqMzlKeGxjTDNTblFkYVRDMXhndTBuRjE5RkpEdmZUNEVVQTU5M2k0TE5HWjJmc2xJd0FIVjByanpHanNtZmxhbHpXN05yVjFVeGhTNk9GWnVPdTB2VTkyRzlrYS16cVE?oc=5"
     },
     {
       "n": 25,
-      "title_en": "Taiwan, China tap market rescue funds. Why won't Korea?",
-      "source": "The Korea Times",
-      "score": 10,
-      "published_kst": "11/11 07:01",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1dPR2MzSER6LUl6V2w5YjdNX2pGTDc4ZS0tMGdDQjlCazlMeWFBenpuUHFtNW9PUU9OVHd4bVJEWHhucGF0STI1a1UtdDZ6QjNyT1BydWdHTjZEWFBUcUdIRmNucXRUYmRHTTM0SkxHQmllUXNFYXp2U2RoRW95LXo5NWVSaTlrZkQwMWpKdnNScG1sSWpaa3I3Q2pheTNTbnE40gGjAUFVX3lxTE9DV09HYzNIRHotSXpXbDliN01fakZMNzhlLS0wZ0NCOUJrOUx5YUF6em5QcW01b09RT05Ud3htUkRYeG5wYXRJMjVrVS10NnpCM3JPUHJ1Z0dONkRYUFRxR0hGY25xdFRiZEdNMzRKTEdCaWVRc0VhenZTZGhFb3ktejk1ZVJpOWtmRDAxakp2c1JwbWxJalprcjdDamF5M1NucTg?oc=5"
+      "title_en": "GMR Solutions Earnings Call Shows Growth Amid Headwinds",
+      "source": "TipRanks",
+      "score": 12,
+      "published_kst": "11/12 09:55",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0M0UklCeERtUUhGWFVsWER6XzFUbnA1UkxnWDVMbDNfV3RLUDRObXhLQmtTdjVmYjR4T21rbHlsWjFfT0ZjUTlwMllFbDN0WTJZSUVMVngweFZHVnhVeFU4dVBWQnVJUHF6NlN3RFE4RHlLWUJCdlN1T2RJQXNPM180VFNUcWNtM2tXcW9SdDcydUVLVWMxTHNMVG1vWkIxYnZJM0dQd2h4Zms?oc=5"
     },
     {
       "n": 26,
-      "title_en": "Oil hits two-month lows as Iran fears ease",
-      "source": "New Orleans CityBusiness",
-      "score": 10,
-      "published_kst": "11/11 02:04",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc2ZDZ3llNVVFYV9YeVQ5U0ZvaEZDT2wyeGJvRkt0ZHFnUXdnMWRXQnhoMUdETFZaS1FnRHpRZk9SaVV4WmxMVEg5TFJiQlVzU0ppRUlsa3JRMFFRdm8tOEtYRkYzWnhQbG4tWmZYYV8xWENVYlJ4djR6N0FJb0NIWjNUMFoxTlc0emc?oc=5"
+      "title_en": "Cloudflare Earnings Call Signals Growth and Profitability",
+      "source": "TipRanks",
+      "score": 12,
+      "published_kst": "11/12 09:55",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGdxV2gxSHM0UUdaWE9Rc2ZGVGFwUS1WdjUwSjRPZjRQZW1ZSmxCMGkzakZuV0NLZ2xWRzg0R2I5dFVFTGZFTFg5ZFJ4WlE4UEQwQVpCNFF2RFc0TmFCeWIyMVVBcFoyZEtRY2pWdlBtR0JqM2UzT3BxREYtMWVQTF9Fcm55N0V3RDZwa0c0eFFNQ3BmT2gyNnNEU2tURGNZcTJjSjhKSTkzZHluaHc?oc=5"
     },
     {
       "n": 27,
-      "title_en": "Gold weekly outlook: XAU/USD holds above $4,000 despite strong US jobs data",
-      "source": "FOREX.com",
-      "score": 10,
-      "published_kst": "11/10 22:30",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ215U0MtMTFSbFhKal9KYlIyaWZWWjZfQ1dnWXJ1Sm93Z3JyMUdkcWEyRHp3VjFVZW1aeFJWRXRaRHh0MkljUE9BeGhJVFNnTmVWX0VCWnptRUxpWlF1TGhPZkJIM3d3ZS1Ed1R5dnNrWEJkamlSUWZ2LW92NElFbVhudEEyUUJBWEtuSndqelNFVV9ua0JVOEJMZUZTY0JqZWx4Nkx5MV9zb3JXTDlLVm0wckE4aFNn?oc=5"
+      "title_en": "Acadian Timber Earnings Call Signals Maine Recovery",
+      "source": "TipRanks",
+      "score": 12,
+      "published_kst": "11/12 09:55",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1VrMDNKVjJMUVlHUTZXUjlWMDFyWE1aOFE1aTJnMWZTemdVRnV5SXYyd2lQNTV4VUpTVGlPRWFwcVNFNGNtOXRjUHEyVThaZzNwRlJVNXUtYkMyZWhidFhoeWxKak45Z2xORlR0QzNUNGlqQmEzMTh1emxMa1pnZWNtYXdCekZiZF9DVmxOS3lSVmpoZ2xfbTgzUEUwcXVRS3E2Tk9B?oc=5"
     },
     {
       "n": 28,
-      "title_en": "Jim Cramer Scales Back on Data Centers and Calls Nvidia Less Attractive",
-      "source": "24/7 Wall St.",
-      "score": 10,
-      "published_kst": "11/10 21:36",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSFF0XzVEeFFXajJNY2pQZWVqVDh3ZFhPQ2t2N01zUlNGMi1MN1VMZmthWXpIVzlXWGw4bEhDWmFoaENkVkNWaEdGVlpraV9ETUpobTAzcUJZY0RyMjdoOG1EdlVoRzZpZnFuVDR5ZV9makJpVGlaRWZXOU9UaXQxQXJMR2pKWlFlbUhORkVVRVhHTUMwcGJXTmhFWHI5LUx3SXBOTVVqSzhaQjR5WDh2enNRZ01yQXlXM1VheE4weXRjcGlCNnZxdEYyYTZoSTg?oc=5"
+      "title_en": "H2O America Earnings Call Highlights Growth and Risks",
+      "source": "TipRanks",
+      "score": 12,
+      "published_kst": "11/12 09:55",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeWV3OWd2MXNsUnVWMWhTekRhYTBrRUI3NXRPOXE1Z01XMHRTdEhVOGhPVjdTVnhmZGtBQTNQR3JFUnE1ZTRmc1p6ZWtYTWpTZHEtbXRfclZPRlAtNDdHMDhxZWVHOUYzQ1dfMHg0bXpjU1BScHEwZi1aZnNpd0plTzdfb3Y1MlozLVNPTV9scXQ0cjBCRUEwdlh5ZGtERHZLeUgzY3JDTk9rS1pSaTNCMTZDRF9HZXpkYUUtMmlsZE1MNnhrcUp0blN0bFZQOHBFZHBOb1FHVU1lNmp6Sy1pNXZvcEcyUQ?oc=5"
     },
     {
       "n": 29,
-      "title_en": "Anthropic: AMD, Broadcom, Google, Micron, Mic",
-      "source": "Moomoo",
-      "score": 10,
-      "published_kst": "11/10 20:47",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmt0d1V6ZWhVYW1mZlJjcUI1ZTBDRC1xWll6RHYyc1dFa1ZYMW9qR21xV0oyVmRCb2l6cDRvRTg4MU9hQ0ZpX0RhbVJEVWFHM3Q0N1Y3dkVjMDNMM3d3M25wOTI2TWJPc09NODlobTRMWFAyRFVBUUNYejkycUV5X1BySEpqMGlXNmFBOXZBeVU2dHNZVThJX0xBQWFzcDdpTVBVc2Nzck5zYXFmcjNpY3NTNHJ6Zw?oc=5"
+      "title_en": "Nine Energy Service Earnings Call Signals Profit Growth",
+      "source": "TipRanks",
+      "score": 12,
+      "published_kst": "11/12 09:55",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajQ2UEJlQTY5bWoxUnpoNzJnNnRidDNxWXZtMlBEY1RoTGxlZUtzcUxZNzh1ZnBDQndWay1yd0dKb1FtYWhtOEhkU3phLWI3dHJ0NVdGOXVCQlZTZzFxblFtVzhNNEpHVEw4OE11VHFRSEhnNThFU1RRWmZiWGVzSEQwRkhOd3MxNjFEMDdaRW1laVFDVmRoZ1VrOXBMcGpTN2phVTE4MjdCN2c?oc=5"
     },
     {
       "n": 30,
-      "title_en": "OPEC+ Loses Oil Market Sway in Iran War as China Gains Influence",
-      "source": "EnergyNow.com",
-      "score": 10,
-      "published_kst": "11/10 16:35",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHl3S3dvMDV0YjZLZ1dXTDZQbTlHSktXYUtMRk8tVzUzQkF1eEt1RTBLNmZzbnd3YVZieTVVczZxUWw3dzgwdFVNZFlYY2NVUktIMS1peUI3QzRhOUd6Z20wWTVtQ25SU2h6R2pLRnowY1B1V2dmTTE1ZTFzeC1CcUpYQlo3X0YxeDNKSnlrREhMeC1rWjBoM2xR?oc=5"
+      "title_en": "Ridgepost Capital Earnings Call Signals Broad-Based Growth",
+      "source": "TipRanks",
+      "score": 12,
+      "published_kst": "11/12 09:55",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmJZMF82ODctWndnZWtSY3F6TUExSGljLWUwUjJqU0N2TVJpd092ZjNKOTNPeERzdHVoUWNXRU5tUzVuZEJtNk85bFFXejZZSGZiSHNNVXVDSVhjSjFCelZkOFRlWk14ZTV0dnlJeHppMW5JQzV4Y2ZfdmM0TXBGSEtRVGNJMzBZMS00ai1Zem92clFBRWV3X01mbFpXYUZCSmZ2VlVaRXJQUUxwd3h3?oc=5"
     }
   ],
   "earnings_calendar": [
-    "11/10 · PBR(Petroleo Brasileiro S.A.- Petrobr…) · time-after-hours",
-    "11/10 · PBR.A(Petroleo Brasileiro S.A.- Petrobr…) · time-after-hours",
-    "11/10 · TDG(Transdigm Group Incorporated) · time-pre-market",
+    "11/12 · CSCO(Cisco Systems, Inc.) · time-after-hours",
+    "11/12 · AMAT(Applied Materials, Inc.) · time-after-hours",
+    "11/12 · BN(Brookfield Corporation) · time-pre-market",
+    "11/12 · NU(Nu Holdings Ltd.) · time-after-hours",
     "11/11 · FNV(Franco-Nevada Corporation) · time-after-hours",
     "11/11 · VYLR(Vylor Inc.) · time-after-hours",
-    "11/10 · SE(Sea Limited) · time-pre-market",
-    "11/10 · ALC(Alcon Inc.) · time-after-hours"
+    "11/12 · NBIS(Nebius Group N.V.) · time-pre-market"
   ],
   "korea_points_rule_based": [
-    "미국 10년물 변동 확대: 고PER 성장주와 원·달러 환율 민감도 확인"
+    "필라델피아 반도체 강세: 삼성전자·SK하이닉스·반도체 장비주 수급 확인",
+    "나스닥 변동 확대: 국내 성장주·코스닥·선물 갭 출발 가능성 점검",
+    "미국 AI·반도체 감시군 동반 강세: 국내 HBM·기판·장비 대장주 우선 관찰"
   ]
 }
