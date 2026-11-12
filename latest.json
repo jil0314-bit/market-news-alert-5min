@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-12 11:17",
+  "generated_kst": "2026-11-12 11:28",
   "us_session_date": "2026-11-11",
   "indices": [
     {
@@ -48,22 +48,22 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.85,
-      "chg_pct": 0.61,
+      "price": 102.95,
+      "chg_pct": 0.71,
       "as_of": "2026-11-11"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 85.85,
-      "chg_pct": -0.22,
+      "price": 86.05,
+      "chg_pct": 0.01,
       "as_of": "2026-11-11"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1333.55,
-      "chg_pct": -0.62,
+      "price": 1333.28,
+      "chg_pct": -0.64,
       "as_of": "2026-11-11"
     }
   ],
@@ -737,7 +737,7 @@
       "source": "Korea JoongAng Daily",
       "score": 15,
       "published_kst": "11/12 08:24",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbG5XRXRMZUxXS1Vobk9zRHQzTkRBMUJ4aDNfSnBjc3IzcE5fZEw5Z2RSQjJOc2ZuQlpHVTdWYkhBaDA4bGJheXlHNnJmd1E3eWtuc1ZraEFXOW9ZSnljTHdROG53eWxFaUhOWW9SbkZCOGVfNGZvMG5QZE51T1lWOVdfMkVRTjBOM2plbmZQUDBEeGJSUDZIOGQ3bUlsWmowd3FDSUU4Y3BGcG9wNjB1OTBva2NuTjZsZkhNMk9mbHg1MS04NXM5VDl2WmRGM0w2RXBXaHFOdzRCczQtN3JjckJ5Y1k1VUE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYmd5QlhKTkVVdS1xUngyMXBaQ2pzSFQtNVIweHIxbVlPVUhmc0ZwbVh2dEYwSkNqOUhtc29TTXBTSVJzTHYzTW0yMTJIN0dVeUJiQ3pPRkhpS2ltbHBJbXZXNEhYaXlPWm16dEhTTnc2eTlhQkJLU2R3QmhZRGhsMnBMTU1LM3hlNW1UTmxWeVFYdzN5OU5SbFJrU2lGY3RhUk1qN1U1WEZOaWZjdXpON0REdFlkcUtvZjVCRVY3SF9rdlAyaDFZRjBnYUtkdkVRaGdZSFVB?oc=5"
     },
     {
       "n": 10,
@@ -869,14 +869,6 @@
     },
     {
       "n": 26,
-      "title_en": "FirstSun Capital Earnings Call Signals Margin Momentum",
-      "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/12 09:55",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWJkQnFUWXh1ZVNuMDZ5Rkw3X1ZFei1uV29oODdJUjJhaGFHOXV1cEhzcGpFVXN1X3dibDg3RUNvQnZwVUpYazZiNEtrOHVjUDRWaG5fVUsxbWtyQlNFSmgtdTUtN2Yza3d0eERrR1lyZmZJQTMzTC1KbFd6VzdmeWcwSll0NUJrOUhYS3BPMDhHeHlzMGNIUzhScVNQUkxIQXA0NlYxUlpIZw?oc=5"
-    },
-    {
-      "n": 27,
       "title_en": "H2O America Earnings Call Highlights Growth and Risks",
       "source": "TipRanks",
       "score": 12,
@@ -884,7 +876,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeWV3OWd2MXNsUnVWMWhTekRhYTBrRUI3NXRPOXE1Z01XMHRTdEhVOGhPVjdTVnhmZGtBQTNQR3JFUnE1ZTRmc1p6ZWtYTWpTZHEtbXRfclZPRlAtNDdHMDhxZWVHOUYzQ1dfMHg0bXpjU1BScHEwZi1aZnNpd0plTzdfb3Y1MlozLVNPTV9scXQ0cjBCRUEwdlh5ZGtERHZLeUgzY3JDTk9rS1pSaTNCMTZDRF9HZXpkYUUtMmlsZE1MNnhrcUp0blN0bFZQOHBFZHBOb1FHVU1lNmp6Sy1pNXZvcEcyUQ?oc=5"
     },
     {
-      "n": 28,
+      "n": 27,
       "title_en": "Nine Energy Service Earnings Call Signals Profit Growth",
       "source": "TipRanks",
       "score": 12,
@@ -892,7 +884,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajQ2UEJlQTY5bWoxUnpoNzJnNnRidDNxWXZtMlBEY1RoTGxlZUtzcUxZNzh1ZnBDQndWay1yd0dKb1FtYWhtOEhkU3phLWI3dHJ0NVdGOXVCQlZTZzFxblFtVzhNNEpHVEw4OE11VHFRSEhnNThFU1RRWmZiWGVzSEQwRkhOd3MxNjFEMDdaRW1laVFDVmRoZ1VrOXBMcGpTN2phVTE4MjdCN2c?oc=5"
     },
     {
-      "n": 29,
+      "n": 28,
       "title_en": "Ridgepost Capital Earnings Call Signals Broad-Based Growth",
       "source": "TipRanks",
       "score": 12,
@@ -900,12 +892,20 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmJZMF82ODctWndnZWtSY3F6TUExSGljLWUwUjJqU0N2TVJpd092ZjNKOTNPeERzdHVoUWNXRU5tUzVuZEJtNk85bFFXejZZSGZiSHNNVXVDSVhjSjFCelZkOFRlWk14ZTV0dnlJeHppMW5JQzV4Y2ZfdmM0TXBGSEtRVGNJMzBZMS00ai1Zem92clFBRWV3X01mbFpXYUZCSmZ2VlVaRXJQUUxwd3h3?oc=5"
     },
     {
-      "n": 30,
+      "n": 29,
       "title_en": "American States Water Earnings Call Signals Broad Growth",
       "source": "TipRanks",
       "score": 12,
       "published_kst": "11/12 09:55",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDE3QjNSbHdOM184dUhqTHk0Y1pxbHBVd0FlZlFoYzZfdS1KTXhtUVEyWnhzY2RlRGRpZnllQmVza3FFTEpJOXhhdmQ3U3p1MHFnc1N4blg4Z3M3MHZKdUdLamplbjlQc1Y5UmcyYVJwWUpvMW8ySWFJajJLbGpaR3h0NUpIOUNyd1V2T0w3dVdLQ0JYcnRoZ1lsWUdqZTNMdlNzYmtLaFVHYWlD?oc=5"
+    },
+    {
+      "n": 30,
+      "title_en": "DMC Global Earnings Call Highlights Stronger Quarter",
+      "source": "TipRanks",
+      "score": 12,
+      "published_kst": "11/12 09:54",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTBMZFpnN1pRU3gwaXRIbG4zVFdqYWJPeHJxRG85WEtzVEJoazF6cGRzcl9BVnhTcWJZZEU5MUdIcm5GdmNvY3JpbXBtWkhIejUwWEtZdy1vVk5XSUpYNDMtOXRZWEY3RllWZHJzRVdTMnJ3VjI5NUdQaGtnMzk5Z3IyOVhvVzVOU3M0WnhvX0dlMXBVTEZLMVNjM044eTl4eGRNSEhaVQ?oc=5"
     }
   ],
   "earnings_calendar": [
