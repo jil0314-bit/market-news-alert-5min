@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-13 10:47",
+  "generated_kst": "2026-11-13 10:51",
   "us_session_date": "2026-11-12",
   "indices": [
     {
@@ -48,22 +48,22 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.15,
-      "chg_pct": 0.23,
+      "price": 103.14,
+      "chg_pct": 0.22,
       "as_of": "2026-11-12"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 88.19,
-      "chg_pct": 1.92,
+      "price": 88.24,
+      "chg_pct": 1.98,
       "as_of": "2026-11-12"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1331.38,
-      "chg_pct": -0.37,
+      "price": 1330.88,
+      "chg_pct": -0.4,
       "as_of": "2026-11-12"
     }
   ],
@@ -844,22 +844,6 @@
     },
     {
       "n": 24,
-      "title_en": "Canadian Tire Earnings Call Signals Growth Amid Caution",
-      "source": "TipRanks",
-      "score": 12,
-      "published_kst": "11/13 09:23",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaDV0SmpsZ1libVo2V3VJdVFwUlc5dk1Bc0NsdUlWbkxsZXNEZ0g4WjRDWHJ4NVJjZWc1UGw2RERUbEhqMGV1Vmh0NXcyUVhrLUhFNnpLTFR6UlVMTC1DUTRjcGpPbk9lY1pPZURCR1dDQzdPcTkxS0p5UnM5OVJUYlFiSFotbDlVemdHcy1obG5aeTJULVJ2VTNkZU9FLUVrWTVmZFp3XzVIWEU?oc=5"
-    },
-    {
-      "n": 25,
-      "title_en": "Broadcom stock surges 4%: is there more upside to the stock?",
-      "source": "Invezz",
-      "score": 12,
-      "published_kst": "11/13 09:11",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV0R3eTBPWnRGYjl3aWMyWG5xYjRIVjdfSUtNQUY4VHg0Z3FNYU52WjFUWC12UkJ0dF9mU2JOOVhYSklqNmJaTHItczFWY0dfSDU4SnB6VjlDRldvNWxYRWxmdHg5SDg0NlFvWEJfT014Mlg4R2lQS2VvN3QtQjY1WkJLcDdwYlUwcnF4dHp0clB2X3NkaVA0WThQZUtYMGFyR0paSzNB?oc=5"
-    },
-    {
-      "n": 26,
       "title_en": "Arrowhead Pharmaceuticals falls on earnings miss",
       "source": "Yahoo Finance",
       "score": 12,
@@ -867,7 +851,7 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjJPSC1FUjg0TGNObmgwVXVacklHaXpEZThpMnVFQWRmN2xxSFVjY3E5eHNEZmhYMlJrWVMtZjFtTUgwXzVxOTdOT0UzeEVqd0t5QTQ3M1NzajBremlXa3dmVFFMeFVsc2lIbmJIXzlUYU9Wd2dwdHFKNjJ1NERuNHl6MHRvVEdpYW9CMXkyeWhYZU9sZUp3SS1zOERIbDJWb0VxRkYwN2ZET3BtV0cw?oc=5"
     },
     {
-      "n": 27,
+      "n": 25,
       "title_en": "Virgin Galactic Stock (SPCE) Slides as Q3 Earnings Results Beat Expectations",
       "source": "TipRanks",
       "score": 12,
@@ -875,7 +859,15 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2JEd0FSZWZVLUV6Zkk5QmMzZ3NwVnlKelR5UFQyS0tjSzFKcGRYTFA0eDliTDJRdHBOOUFiUEtsUTJxN0k1aEdmYy1tVXkzZ190UERwby1wcXhtM1RZZnNHd3UxMXV3N3lqSkYxQ1VBZVRmWmFqV294UmtCdldkZjJMYlFncVNXYVRybFp4Qks2aUVTdkt2N2tpR3RSbDVmaVlCeklTdw?oc=5"
     },
     {
-      "n": 28,
+      "n": 26,
+      "title_en": "Broadcom stock surges 4%: is there more upside to the stock?",
+      "source": "Invezz",
+      "score": 12,
+      "published_kst": "11/13 06:10",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdFFHT2ROYkNyMWpYcHlCQU45QXNfbFEydWFpM2VfbkE3VVhkZUQyUFZ2Rk5iclNKV1ZBTmJlN0wwNmtHTVhXOHhuMmpHS1BXb2FfUmhIWm5SSXpxX3ZaUlUwVmUxZU9NUmQwZ0hUaHpuVmc4enE2clEwUkNjaWM3R0VuVGlfbGNrZUNvRjc5TGswR3F1MzlBc280aktGZjh5aDZ1MHRn?oc=5"
+    },
+    {
+      "n": 27,
       "title_en": "NVDA Stock Price Forecast — Top Analysts Give Multiple Downgrades Ahead of November 17 Earnings amid CEO Jensen Huang Fiasco",
       "source": "Yahoo Finance",
       "score": 12,
@@ -883,7 +875,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzU2YmpfQXpJMHVJel9uQWFUc1NVa2tySzllZUdfbUVSeFFFcmQwZkNLNFFVQTNtQkc0QS1LQzVTcEd6N21qNjZqVzc1Y3BRcFFOWW5hX3hMeENBTG1pUFV5UDZ5RjR1ZUtZa29mNlRmRlVUMVNUNVZVTFZDS01xaVhBMzUtdlVIVHVObEZlOXcwaFZuWExrUTlR?oc=5"
     },
     {
-      "n": 29,
+      "n": 28,
       "title_en": "South Korea on Edge Over Jensen Huang Shock Despite Nvidia ‘Kkanbu’ Alliance Gains",
       "source": "bloomingbit",
       "score": 11,
@@ -891,12 +883,20 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWRjNPNnZMczJFME05UDhEYnBvVGpzVk9IaG9STExpUEVySjMzb0pVM1JPSE10UUFEcXhJdXZLX05RaVFKS040TXg3M0J0MWZBQk9JVQ?oc=5"
     },
     {
-      "n": 30,
+      "n": 29,
       "title_en": "Kospi ends lower as questions over Nvidia’s leadership linger — as it happened",
       "source": "Korea JoongAng Daily",
       "score": 11,
       "published_kst": "11/12 17:46",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTnlNOWlDckY2WE1uc3dKVmF3TXNjMVc0TURlODlZWk9vSFJrNkJMN1ZDMmtEM3c3Tll5Y28tb2JHRVpVQlU0OV85ZFV6cml4RFV5RWFBNVgzWDM5M2tPUkkzOWVpNHVSbERBMG9faG4yOW1mcVY3NXA3cUYyVDVpZV93SmZ0dXFaX0g2QlRBamMtTlRWRXY0TFpISVhrVXBuakFNOGNTSWNuYnZORWtXZ0wzQm9zRjZVb2dXVUNlZWFmMm0yS1hF?oc=5"
+    },
+    {
+      "n": 30,
+      "title_en": "U.S. export control risks, not Nvidia scandal, loom over Korea AI memory",
+      "source": "Chosunbiz",
+      "score": 11,
+      "published_kst": "11/12 16:06",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BNU83YnRkM2VzTm5XWU9BR20zTkJ0SDhzUGZuY0NPSnNhNnpnNDhlTlUwTUVFdlU0bDFJVmtDeTVjX3dFQm1CcFpQMjhEbGszOWxSOFh5cTYtQ19zRHQ3eVNOeDh6RTlJb1lLVkFCWTBZQ0N2Wk4wSGR30gGOAUFVX3lxTE9keFVzWFMzb1F4cnJERmpxTS0tZmwyVmVibC1GVzJtQnM5VEVkNTFfaC1FZTdFaERzVmkzV0VVTTFQRHJPY29qSlJPZDk0M0c4dnNTdjZJSDdCY0Z5NVpBdnBleE5jR2xoSXB1UnVfeThoMkh1ZTY3dmZxUm9scVI4TTNSejNUd2xYeXI2NVE?oc=5"
     }
   ],
   "earnings_calendar": [
@@ -909,6 +909,7 @@
     "11/12 · NU(Nu Holdings Ltd.) · time-after-hours"
   ],
   "korea_points_rule_based": [
-    "미국 10년물 변동 확대: 고PER 성장주와 원·달러 환율 민감도 확인"
+    "미국 10년물 변동 확대: 고PER 성장주와 원·달러 환율 민감도 확인",
+    "관세·제재·수출규제 뉴스: 반도체·자동차·2차전지 공급망 영향을 원문 확인"
   ]
 }
