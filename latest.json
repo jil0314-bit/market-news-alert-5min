@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-13 10:51",
+  "generated_kst": "2026-11-13 11:04",
   "us_session_date": "2026-11-12",
   "indices": [
     {
@@ -48,21 +48,21 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.14,
-      "chg_pct": 0.22,
+      "price": 103.13,
+      "chg_pct": 0.21,
       "as_of": "2026-11-12"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 88.24,
-      "chg_pct": 1.98,
+      "price": 88.19,
+      "chg_pct": -0.62,
       "as_of": "2026-11-12"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1330.88,
+      "price": 1330.85,
       "chg_pct": -0.4,
       "as_of": "2026-11-12"
     }
@@ -740,14 +740,6 @@
     },
     {
       "n": 11,
-      "title_en": "Broadcom Stocks Climb 4.54% as Custom AI Chips Gain Appeal After NVIDIA Shake-Up",
-      "source": "Yahoo! Finance Canada",
-      "score": 14,
-      "published_kst": "11/13 02:56",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERaVnduWFY2QU43dkY5T3ZsSHppVENibVJDUzRsYnV2bnhlLTdRTXY4OHRCakx4YjJvRFAyb28xMmtXVkJrS184NWktbzN3SE9Zek5URThSOE93TnFTVnVMbDR5dkVLX29ST1A5bmZ5c0VVdFF0RmJJaV9ZOVBNTg?oc=5"
-    },
-    {
-      "n": 12,
       "title_en": "Chinese, Hong Kong Stocks Retreat as Nvidia CEO Removal Talks Rattle Markets; Alibaba Plunges 7%",
       "source": "BigGo Finance",
       "score": 14,
@@ -755,7 +747,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NTkhTSk4tdGhMcUtHX2ZpYWpnM1JJYVI1UWZFVDNwTHhWV2N1ckw0ZU1laGxvc0JJNXNHNXo5Tml6RmdOSU5ESTdnQ0Fia3VNMG1iNWZKWjQ5ako3TXZPUVBpNDE0VWxpV3FWUjI4NEVKMTZ4SUE?oc=5"
     },
     {
-      "n": 13,
+      "n": 12,
       "title_en": "LIVE: Samsung, SK hynix split on Nvidia turmoil as Kospi slides",
       "source": "Korea JoongAng Daily",
       "score": 14,
@@ -763,7 +755,7 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzRHQnlhRDRwUVc1eW5QTXUyQjVkNmtwTzFKVXp1UGdIOGJ4NFhoaHUyMUZKR3NjRzBZV2RNVFRLaFFDYkhGakgzWm12M0FTS3FPQnI1NTZLbmRrLWZHb0t5Rk1zOG83UGxQcXJDd2UzVXpDeHN1QnBYNTdEd1l2QWFzaHpWUHEwX0lRSG4xMHhRQjF4VEZ1MEw1N0cwOW5PZm9KZjRYN1FfRmRzUlBXdzEwNWVNYTEwQThRekFBMEJrdElaRk9qMG5B?oc=5"
     },
     {
-      "n": 14,
+      "n": 13,
       "title_en": "U.S. stock futures rise after Nvidia CEO exit spooks Wall St",
       "source": "Yahoo Finance",
       "score": 13,
@@ -771,7 +763,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakdzLTNVTjhwd1J2aGphRzJBMTRQU21iMlVLRGNmNE5aUHdxZWk2dUNkN0o3bGU0VC1SWkEtYnkzUEhkY0VmN2lGTUEzaW41V3AwVEdXaHdqa1lUT0w4bzZrTXRvYlVkYUZUUGJyTGhrVDY3WlJmeWRONVNMUVA4Wk5qVGo3WDNYUnl2RTNLSUhHTElPa2Jv?oc=5"
     },
     {
-      "n": 15,
+      "n": 14,
       "title_en": "Kospi Jumps 3%, Kioxia Surges Over 5%, Samsung Electronics and SK Hynix Both Rise Over 3%",
       "source": "TradingKey",
       "score": 13,
@@ -779,7 +771,7 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMG93SjBYU2xCTTBPNVBoQW9UNV94NjNxMGEtQ09DT2dYLTJOZ2wyMk54c20tX09lbThyaUhhT2tXVHJWZ2ZRSFRjcGlPbXMyRzd1NHh5aUJSUHZ6dklLZHk0TGZObFFWRE1RLXJ1czRsMHViVWIzVWVrUVhESzk1OWNqb0lOczh6STAzeVBiZ2tOR01HRWxZYzRaR0lqVERyQ3BiUG9vOUR1eUxZZE9Rc0NRZmFMeVpIR2RxSEhLdHN1QzU1TnIxWHBySWVYeVhVM0lLTTNacU56RmlIV3Uw?oc=5"
     },
     {
-      "n": 16,
+      "n": 15,
       "title_en": "iHeartMedia (IHRT) Shareholder Investigation: Potential Securities Law Violations Examined Following Adjusted EBITDA Guidance Cut",
       "source": "TipRanks",
       "score": 13,
@@ -787,12 +779,20 @@
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQV0xsLXVvS0tyWkZrcjh2amJON0hNdGdQMEZGZWwxVDN2R1BpSE5BZ04yam42a29mWEIzbUR0bWJyZmozZlpTRlAtYmlkZDhzaVBOaGl2ZndSdFUwRDVUQmtYWXZJdmY3TkkzRnJqLVpFcDYtb2h1TnV1RWZQZXNzZXVmUmpYVzV0bDBjckZzUUZYS0IzV3pFcG5aaGluMWRERUNZSzdadG1kaFFTYW5yYndsdDZZc1lPVFJ2QnJja2E5WEk4MHB0S1VMaDk0ZXJGaTNJdGlOZlBhV1c4RmtxSVljTng0VzlDNFZIdTZULXU2T1BMSGVuWERCVVdhdw?oc=5"
     },
     {
-      "n": 17,
+      "n": 16,
       "title_en": "Nvidia Rival Cerebras Rallies 13% After-Hours As Q4 Sales Forecast Blows Past Estimates",
       "source": "Yahoo Finance",
       "score": 13,
       "published_kst": "11/13 07:33",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEYtYTFoV1NxT050ZDdvV1llNWQyX1p6RHMzNlVudnVWSXFuRVZiSUtvQmdRU1BjQWRnZk94R2dpaTl4aVUwU09ILVczdDdjdzg3U0N4SzY3bnd4STdrUHFmYjR0RVI1WktVOHJZOHF5MXBJdFAtWlVVY1BXTGlTOWd6R0R1ZEZUMkpONER4OU1ndjJaUmJ6TWF6NDlYdw?oc=5"
+    },
+    {
+      "n": 17,
+      "title_en": "Budget smartphone makers turn to recycled memory as costs surge, Samsung relies on scale",
+      "source": "https://www.indiagazette.com/",
+      "score": 13,
+      "published_kst": "11/13 06:04",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVnhqUmdFekpHQXFSNzVyaWJMRWpqR3p4dXZ5bFh4QmVMZkp6RUZKU1VWeWg2Nklyb1RYS3lNNDZnbm9fM2tSUC1GZ3BscTdQcm42MFNjdzNIMU5FcjZ5VE9xMEtDcXdZTzVPZUpDcHFkTEJBa3VXV1lYQkVtRnFqeGg1UEUtNkIxdFRGbUpzT2p3ZklEZFgwX0hWcUVrRE5lNDF6TnZoNEc4TVpRNTJHTV8wZTI5dTVma21FNmJTSXRaRUhmaFBVa1V5WQ?oc=5"
     },
     {
       "n": 18,
@@ -876,6 +876,14 @@
     },
     {
       "n": 28,
+      "title_en": "Kospi Drops 0.61% as Nvidia Jitters Split Samsung, SK Hynix",
+      "source": "FinanceFeeds",
+      "score": 11,
+      "published_kst": "11/12 23:43",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmp2dWZISm9QUFBGV1cwQWt4OHZHWl9ROUZqVGM3YkdVRV9VdHJJLU5ac3htYVMxbVBOS0wtdEVsaDBKcERXWnJQSHVFRGIyTC0tR3piOEtVOUpUbHVueEZ1ZWUzcjZTbGZWNm5SZWlqR0hyTVRZMU5HN0VYVmcxYWxFc2IzaTBLOW5R?oc=5"
+    },
+    {
+      "n": 29,
       "title_en": "South Korea on Edge Over Jensen Huang Shock Despite Nvidia ‘Kkanbu’ Alliance Gains",
       "source": "bloomingbit",
       "score": 11,
@@ -883,20 +891,12 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWRjNPNnZMczJFME05UDhEYnBvVGpzVk9IaG9STExpUEVySjMzb0pVM1JPSE10UUFEcXhJdXZLX05RaVFKS040TXg3M0J0MWZBQk9JVQ?oc=5"
     },
     {
-      "n": 29,
+      "n": 30,
       "title_en": "Kospi ends lower as questions over Nvidia’s leadership linger — as it happened",
       "source": "Korea JoongAng Daily",
       "score": 11,
       "published_kst": "11/12 17:46",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTnlNOWlDckY2WE1uc3dKVmF3TXNjMVc0TURlODlZWk9vSFJrNkJMN1ZDMmtEM3c3Tll5Y28tb2JHRVpVQlU0OV85ZFV6cml4RFV5RWFBNVgzWDM5M2tPUkkzOWVpNHVSbERBMG9faG4yOW1mcVY3NXA3cUYyVDVpZV93SmZ0dXFaX0g2QlRBamMtTlRWRXY0TFpISVhrVXBuakFNOGNTSWNuYnZORWtXZ0wzQm9zRjZVb2dXVUNlZWFmMm0yS1hF?oc=5"
-    },
-    {
-      "n": 30,
-      "title_en": "U.S. export control risks, not Nvidia scandal, loom over Korea AI memory",
-      "source": "Chosunbiz",
-      "score": 11,
-      "published_kst": "11/12 16:06",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BNU83YnRkM2VzTm5XWU9BR20zTkJ0SDhzUGZuY0NPSnNhNnpnNDhlTlUwTUVFdlU0bDFJVmtDeTVjX3dFQm1CcFpQMjhEbGszOWxSOFh5cTYtQ19zRHQ3eVNOeDh6RTlJb1lLVkFCWTBZQ0N2Wk4wSGR30gGOAUFVX3lxTE9keFVzWFMzb1F4cnJERmpxTS0tZmwyVmVibC1GVzJtQnM5VEVkNTFfaC1FZTdFaERzVmkzV0VVTTFQRHJPY29qSlJPZDk0M0c4dnNTdjZJSDdCY0Z5NVpBdnBleE5jR2xoSXB1UnVfeThoMkh1ZTY3dmZxUm9scVI4TTNSejNUd2xYeXI2NVE?oc=5"
     }
   ],
   "earnings_calendar": [
@@ -909,7 +909,6 @@
     "11/12 · NU(Nu Holdings Ltd.) · time-after-hours"
   ],
   "korea_points_rule_based": [
-    "미국 10년물 변동 확대: 고PER 성장주와 원·달러 환율 민감도 확인",
-    "관세·제재·수출규제 뉴스: 반도체·자동차·2차전지 공급망 영향을 원문 확인"
+    "미국 10년물 변동 확대: 고PER 성장주와 원·달러 환율 민감도 확인"
   ]
 }
