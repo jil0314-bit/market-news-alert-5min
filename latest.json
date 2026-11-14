@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-14 10:27",
+  "generated_kst": "2026-11-14 10:41",
   "us_session_date": "2026-11-13",
   "indices": [
     {
@@ -78,7 +78,7 @@
     {
       "sector": "전력전선",
       "avg": -1.06,
-      "up": 2,
+      "up": 1,
       "down": 5,
       "count": 7,
       "expected_count": 7,
@@ -591,8 +591,8 @@
     {
       "name": "슈퍼마이크로",
       "symbol": "SMCI",
-      "price": 26.86,
-      "chg_pct": -0.46,
+      "price": 26.87,
+      "chg_pct": -0.44,
       "as_of": "2026-11-13"
     },
     {
@@ -665,14 +665,6 @@
     },
     {
       "n": 3,
-      "title_en": "S&P 500 forecast: SPX struggles for direction ahead of PPI data",
-      "source": "FOREX.com",
-      "score": 16,
-      "published_kst": "11/14 06:41",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzZlM1lORzR2X09kZlVQc1FZM1JiSmNYLUNGV2pPdFlEdFV1YzV5TUprMURzZXJyYy1mVmFSMmh1YmZ6bVZ4RVJPNUFRRGpnWG85MFJrZ00ycC12QUh5dHNNRV9KVlI2WjZ2clB2QVRKeno4cjJBUzNsUDB6djJwNzdhVTVmY1h2bjZqQ2h4SXhYMHZBVlVOLU1SVnJmdUx2QklwZjl6NEY3VnVMalpQZg?oc=5"
-    },
-    {
-      "n": 4,
       "title_en": "Nasdaq futures dip as Nvidia heads for its longest weekly losing streak since 2012 before PPI data",
       "source": "MLQ.ai",
       "score": 16,
@@ -680,7 +672,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbDZLdDUtZzZlTE9XVmowQnF0LVI5NmpXX0dIM1cxZlViQzJ3NUI4czFZdmlheU1mb3JaNm4yV3NoTkVwS2FwSTRiS2ttWkJYb1RaNkZhazRycWJkQnhKNmV3c1duSEVscXM3OWg2MXNhMndHUXFXWnNSazNDTWFJc0NST2JtTG1rSlZaemFwTUotS2t0OTkyUUx3amE3S3Q3cXNPcmk5WGZTUGJVclNVN3pGRmptUG4zNGZZ?oc=5"
     },
     {
-      "n": 5,
+      "n": 4,
       "title_en": "Gotrade Daily: Nvidia Without Huang, PPI Tonight",
       "source": "Gotrade",
       "score": 16,
@@ -688,7 +680,7 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CZG83ekZDcnNLTmlHLUVhVXBLeG5obktPcURIVERfX2NydWgzR0luNVM2VGY0b3ppZFRkYVd2aHBPYnpjb2VveC1HbFRmNFdCZWdmMTQ5ZXdKUGxzODZmYldDaXAxd21IalJLd0tXS3BuV1hsUklj?oc=5"
     },
     {
-      "n": 6,
+      "n": 5,
       "title_en": "Gold rebounds from 13-month low as PPI complicates Fed outlook - Kitco AM Report",
       "source": "Kitco",
       "score": 15,
@@ -696,7 +688,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHhsRVdzdDdzX29SbU5XZElHR1JvQ3I0ekhDckpVU2s2MVJRY2djN29JaTk5dDE2bG5PRGlCY0JHajlyaVZiTGhmdlJ4aDFDQ3h2V3ZYZmVBcnZwYTBUajg5V1prR0xyeS1kbWQxRDlUZ3c1YkhPaFZVS0xwcm5HSGFIZXhScmt4UHd1c01pdzJCbG5OaDNYTVl1TWNObFFqNEF5VElLQmN0NGJudXBVOVFKMDdlaGc?oc=5"
     },
     {
-      "n": 7,
+      "n": 6,
       "title_en": "Wall Street closes mixed as Nvidia and AMD sink; Nasdaq still posts its best week since August",
       "source": "MLQ.ai",
       "score": 14,
@@ -704,7 +696,7 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHotVHN3dGpxMTJURzFhVGdSaGstYnJDdUltbExQUlhsRlRyaW9aR2ZPdF96bnRxck9ka0ZrNUxGS05JWUU4Tk40RW95UlV1WElZandjWjJuUEtzbUgxWC1zMk10djJmMFVVdnlIaktwVWRyMTg5Q0V4WWVNcEEwdWFDQW9qaU93OU5oV3ZYVUxPbnA1UlR6Q2FSTmNDY1ZWc2ZjYmt4M3Q4T2VyZDQ5RTRoQ2s?oc=5"
     },
     {
-      "n": 8,
+      "n": 7,
       "title_en": "Oil Falls After Lebanon and Israel Agree to Ceasefire",
       "source": "EnergyNow.com",
       "score": 14,
@@ -712,7 +704,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdNNFhOakNzanM4OEJDMDJ0SnFnYTNzb2hjV3VjVzdua0VXWS1maXZqNnBOX0h3WEdwb2I4NGRDSllZMlBjalQ2OE95NDFKUGdDWGZjbWNNX0tPaVN1OVRMWVlWNlB1OURmRS1Nc2tEc0JDV1Z3b25aRm5WeGlsYmlhR19DaGxGUC0wSA?oc=5"
     },
     {
-      "n": 9,
+      "n": 8,
       "title_en": "South Korean stocks shrug off Nvidia crisis, chipmakers surge",
       "source": "The Economic Times",
       "score": 14,
@@ -720,20 +712,28 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFVVM2dMSGpSUlRia0dIT3k5YlJFTzJzZGRwd1VNbjNUa0tIcFYwZDB6eWotaTNYbHJfbjdmdDhrZ09KTmZVRkVmcjhYd2NPWk9iaXJsODQyY0dfSHJaNXFZZDZUXzF2TVhTemtCWnFfU1NLOUxaVHA1SURpaEhQUFRrRVoxOTlNT2xxUHdFY2RaOC1uZ3J5OW5KWlc0MjhYdmZuSDBiRjVYNlhSYnZyM3c5a2JQdDRsRWNuLUFnd1NBWS1VVHpLdU5JMk9KdWxoVE1B0gHYAUFVX3lxTE9YWklrWXJfZG83ejhSQjJ2TlgtZTVlM0toTWFlVkd3eHA2c1RkREdZZFN0dFltbVJKLUZnZkktbk5zSDNwa1RDVjJoRGJNNDNnYk4xU09KdURFdklScjRJVTRIaU0wZEJCc3ZnbWRqRV90RXRoajNuR3lyR1NUb2ZsZzlVX00ySEFZb1ZfWjdEYmszOTZ0T2FLWWZLQ2R5V3NoV2MyVVZHVFFrOXhnWFJlOU53c09JaVJ0RG1QS29VN1NwWk10OEVLREFIa1Z4SU1RU2ZkUThzYg?oc=5"
     },
     {
-      "n": 10,
-      "title_en": "NVIDIA Trades at 13 Times Forward Earnings After a 27% Slide. Wall Street Still Sees $325+",
-      "source": "24/7 Wall St.",
-      "score": 13,
-      "published_kst": "11/14 02:03",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWM5UVFEQk8ySWxZcmNDMjdzRE9RM2VNb2N2WUhYaTNVRFNreDlaZlM2bmJ1bnVwYnlzSHJiWmlPZkpBOVhQZHVwZVpaM29rQkpieTlhNG5sM1d0WTJvbU1XNmZjUWx6YXVqSjVaZmtlSXJORENYa01IQklYODJKSlFVMmd3Q0w4a2EyNk1LSlB4T3NPQ0p2MGtvUTJONnB6anM1eVk1OVd6Sk9FXy1GbmI5VzBrbjJPN292MDJlYkc1eU90Yi0yRWV3?oc=5"
-    },
-    {
-      "n": 11,
+      "n": 9,
       "title_en": "What the Nvidia scandal means for the company's earnings next week",
       "source": "Yahoo Finance",
       "score": 13,
       "published_kst": "11/14 00:59",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamtxZ1JjdTA3UF8zODVhLVE4NDNCZWczZmE1REtITGRpTURvLVpGemMtaGJIRy15U1lQal9CVFBjanlXLW5xUzNuS2x0NVM4REhHVVZadGVrejN2bkdUVHZzTjhDWEpvWnl2RWdGM2Q0UDVGWjZ5TkJCZFB3YlJsa3RPV25LNWxUOGFpNEJRdm9iN3hrbm0tNHphZmRRTGxjV1M4UUJkODdKM21kcktzeUtsREptZDhiRmVmLXd5UmQ2bFk?oc=5"
+    },
+    {
+      "n": 10,
+      "title_en": "5 AI Chip Stocks to Buy as Nvidia’s Turmoil Reshapes the Sector",
+      "source": "Investing.com Canada",
+      "score": 13,
+      "published_kst": "11/13 18:35",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzZPSzkzcm1UUHdoc1BJZTZyQVl5YWxoa3RCR2sxMjFxTmlJRXFUQ3JDb3pEMHFaeTNkbkF1UndXcS1uOEdZYkhQTVltRXFZbG42N3JzVDExRTFoT19LazBwWm5zRXIzU1pqMGxtNkZYOWZDaFdIVThLTE02b1A5MHZRXzhKVUxIZUhEdVViSlgxN3lzZURFMy1MdkNOdHRzMGxZOEoyMEJqUQ?oc=5"
+    },
+    {
+      "n": 11,
+      "title_en": "S&P 500 forecast: SPX struggles for direction ahead of PPI data",
+      "source": "FOREX.com",
+      "score": 12,
+      "published_kst": "11/14 00:29",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVJHNk1TN2lGS241N0dmQUZzUUZDMHo2UGplaG1YaTByYTZIcXlTb3ppR3VBamttdHAwcVJXMU12bkttVnp5bUFnbjUzLUxIQzNiWk8wb0FzX3RtMDd1Z3ZLRE4xQWJmVVVvTUdnLVpsRjVlWUh3cEV0aFp0Tm1IQlBFQlgza1V6WUJoMXNadlRLazZFVEZXNUltTkdYRDdoRVRpLUg2QXRqclA5emtiTNIBvAFBVV95cUxPOWI3ZTlrR2lWOHoxdnlzeGhOZXhkUzlQX3BWNDVpak1JQVNiMFozS3pFcmdjR3BhQ0pRblJkd3VSY1dTMW1tekVaVUdvNXFGM1BqaTdSa2J5SW5sb0hXRnJ6M3hoRjFyS1pTd2ZvQ193dDFsZDBnb0hxenVNUUwzOHVlMWNBQUtvV3RJOGRtYmlhMFNIOV9ENi1kaXZpdnIxNEFNYzloMnJ3RThJa2FFY2FoMkVpMWM4RVFObA?oc=5"
     },
     {
       "n": 12,
@@ -753,14 +753,6 @@
     },
     {
       "n": 14,
-      "title_en": "‘A whole civilisation will die tonight’ says Trump as Iran defies looming deadline",
-      "source": "DD News",
-      "score": 11,
-      "published_kst": "11/14 03:25",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVlPcmZod2dnYlFNdVBYRGVUX1U3RlBZWUxNdEwzOEQtUFVNRFljbkp1dlYxY3dKS1ZqZ2UtVS1IRXZQMWl6aWJiSEIwVXdvbng0Y2I2Z2J6T3NsNVhFVFNxUHR1UU4zOTluUlBZNjJFZjU1OGVmalRucElYZU1MSThmSkNFOHZjVXhqVkZVS2pIbS1zTEx6N2V5aGg4dmNVcVctdXZtSFBBQQ?oc=5"
-    },
-    {
-      "n": 15,
       "title_en": "World shares log modest losses as investors assess impact on AI sector from the Nvidia scandal",
       "source": "myMotherLode.com",
       "score": 11,
@@ -768,7 +760,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQXhubktrSWJLVjFHZTU3RnUxQ3p5c0pxa2hJSVVpZ1BVb2pJZE4zcnZobU9XbEx3WkhidVB3cGRLQ2dCYVVJNkxrTDZxNU5XSEljRkN5dnczdnFxTGp4cDB3UTkxa2M3N201a09tWmxVRXVfWXhsZVBQdlZfVjBxMXh6Vy1BVnJqNVh5aHREcXZ5YVpxSm01TmtxejBaNzNIZ0NNYjJEbmpqanhLNmF2UVlCd3NLLVZfQlJkRVVNaHdWaGk3LWNEb2VtUVNzNkU3SnVjSDRyZGFfZktuM1hWQVRqVmdXd9IB5gFBVV95cUxOQXhubktrSWJLVjFHZTU3RnUxQ3p5c0pxa2hJSVVpZ1BVb2pJZE4zcnZobU9XbEx3WkhidVB3cGRLQ2dCYVVJNkxrTDZxNU5XSEljRkN5dnczdnFxTGp4cDB3UTkxa2M3N201a09tWmxVRXVfWXhsZVBQdlZfVjBxMXh6Vy1BVnJqNVh5aHREcXZ5YVpxSm01TmtxejBaNzNIZ0NNYjJEbmpqanhLNmF2UVlCd3NLLVZfQlJkRVVNaHdWaGk3LWNEb2VtUVNzNkU3SnVjSDRyZGFfZktuM1hWQVRqVmdXdw?oc=5"
     },
     {
-      "n": 16,
+      "n": 15,
       "title_en": "Asian shares decline as investors assess impact of Nvidia's fallout on global AI development",
       "source": "The Economic Times",
       "score": 11,
@@ -776,15 +768,15 @@
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONi13bEdkR2p0d3I4bGR5dzMxNHdsQzk4SktnZkNUZHhocGk4RkZlTlJvQXd1Um5EbWFPTEkzSGRDZDBPYnl4d1BnWEFhSmJjTF9KcEVKRWxGekZxMC1NanhULVA0amp4VVFQbGFvNVJURW9wN05iMHQ3UjN4eTUya3U0c0ViRGw5c0tXUk5ObWFsNmhQN2twNzhlTnpnWTJBQzl5X2pNa2hnVGFHUk1mWHBxdTZNQmw3aUJwTzM4enJnQUFXWFVuX21yNHdFdzd4UWN6c1ZDaFVLc0ZmZThQX3NxU3k4dUx3c1QxZktYMFRrcTTSAfgBQVVfeXFMUDFmZ1pkOURrMlZGNnl3LWpITkFNRHR0eDJ1aXJTb0RUT1ltWk5zVnNRRzgzQTJwYWJfbVYwWW0yUHBweTJBTlhDVGFNbnFzb3g0Z3d3dV9ldmFxdmZLTDE1dlY1UElpZlJ1SXNMT3draFlULUF6bkFYRmVRaEpkbkVnRnhjWnlTZnoya0RoQUZVcVRrV3JfZWlhMkFWZWtNYmw4RmI1azBGdThmWmVYRjdnOG1nR0s4bUluc1UyZ0xhV0prTmNiYUJTS0FsTllyTTUzOXZPQnFtemxuZjdEeEFBYVJiOG1jdHI1RFVLTy1oT2hQcXhFZDU?oc=5"
     },
     {
-      "n": 17,
-      "title_en": "(2nd LD) Seoul shares drop nearly 1 pct, erasing earlier gains following Nvidia jitters",
+      "n": 16,
+      "title_en": "(LEAD) Seoul shares drop nearly 1 pct, erasing earlier gains following Nvidia jitters",
       "source": "Yonhap News Agency",
       "score": 11,
-      "published_kst": "11/13 16:34",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9waHJiV2UwRHlQc3NBemthTFF3SGt4S2FfQ3lJNWhObXU4Q1Y2TW4wOWw2MXRQYVIzSy1uanh0cHoyUHZKX2pkLVNFWHlzTW5rN3pqbENkOXNyQQ?oc=5"
+      "published_kst": "11/13 16:01",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aVGE1aDR1Mnl0Q2dXeVdya2xEbVN4N2hpV3lrTEdYU09YcVNyLThoYmxjTU04dnpmVUN6V1pQWGFaM3dodGp2aC1KMEJyMk1hMVZCUnU0OWktZw?oc=5"
     },
     {
-      "n": 18,
+      "n": 17,
       "title_en": "Asian shares are mixed as investors assess impact of Nvidia's fallout on global AI development",
       "source": "Yahoo! Finance Canada",
       "score": 11,
@@ -792,7 +784,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWZHcV9Da2IzclZrV0R0WlBIRDMxRVhieDlOWEpQVHNMUXltV3cySVFtX0JMY2dYZExSMVB5YmVuS1N5b2hkeUc4MklpcnJqYlF2eHRRTHc5X2pnSkZlYzE5RHpYMmhDa1NBNFp6cHppNkUxY3gxLXRQSzg5Q21oX0I0WUZTLVVkX3Yybg?oc=5"
     },
     {
-      "n": 19,
+      "n": 18,
       "title_en": "Samsung, SK Hynix Rise Despite ‘Kkanbu’ Ally Jensen Huang’s Exit From Nvidia",
       "source": "bloomingbit",
       "score": 11,
@@ -800,7 +792,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPQ0djT29mUGl3WnhKYzBZNkRaVTVPdXEyNUFxTF9WNjVfUXFubTA5NTlVc0ZvdnRabF9iMTZnVXgtZUlkbW5ueXRGY3laQ255X1VEUg?oc=5"
     },
     {
-      "n": 20,
+      "n": 19,
       "title_en": "SK Hynix Stock Falls 3% to 1.216 Million Won as Kospi Gives Up 5,504 Intraday High",
       "source": "FinanceFeeds",
       "score": 10,
@@ -808,7 +800,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1R2NFhrNEphUlI1TzgxdjlYM1hvLU14XzIzeFA0NlFmdkZxTlhuUzNlZHJQU19kRU5yRXVDcE1tV25pX1dRTG9qNE0wVmZUVlhxUXRIak5QZWY5LWJaQVJiS294ZXRfQ21TbldXMjVkWFNRbHcyNlFaTnhWdFFISTNyQ2hoS3FVa0gzN2lwSGN4ZEg0QXFOc0s1NEtZVzNlSFhvZFItdW10QQ?oc=5"
     },
     {
-      "n": 21,
+      "n": 20,
       "title_en": "Gold Price Forecast — XAU/USD ($3,883) $4,150 Upside Target on 321-Tonne Central Bank Bid",
       "source": "TradingNEWS",
       "score": 10,
@@ -816,7 +808,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0xvU2lQMmMyR0syc1k2RmhLZ0Q0WU55eXNPcGRHUDdnU1d2MXFlSGpXQTRXcnBkQUd2MndCVjNiaDBlZFRQRTd5VEE0TzhCMlRFemJMWE9LaEpQMVdEY3BhUVlwLVh5QWlKVXMxa2pVdm1QVi1xSXVtTVZ6TkUtSUJnLUFRVXo5T2ZmNTd3YnpPQTRIREtXWEpTVU9HSVpzV1VjSnhheTI5UVZDV2x0WWdFVEpubEk?oc=5"
     },
     {
-      "n": 22,
+      "n": 21,
       "title_en": "Nvidia is Bigger Than Jensen Huang",
       "source": "Brownstone Research",
       "score": 10,
@@ -824,7 +816,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMnhPOThibXd6dUFjdWpzUWtiRGpCcVF3bXJZUTNBWUVXTkVSaVlZZDk4dVdndEhoeG9Rcl9Md0xFWjRBdDNuWGZHMnRZN3AyeDhobWNicndVQmpKVC1ydDVPOFdGNXpSNFNLMjBwdUJrcjZnZkVFWnpyV1NLU1RnWlhzNlhlZXBwaVhF?oc=5"
     },
     {
-      "n": 23,
+      "n": 22,
       "title_en": "Microsoft stock price: Why is MSFT stock price down leading to Microsoft Corp only loser among Nvidia, App",
       "source": "The Economic Times",
       "score": 10,
@@ -832,7 +824,7 @@
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNOG82MWtIWGpseHZSY1pWRWRsR2RNR3I2VlVvRlo3dXA1Rlc5S0FDYkROejdVMzhuZWdHNjhvVWVHTHBFd09iN05qV3RTSUxEY3JIaEdDeDYyN09KVm1HdWxuOTZhV0NxekFEWUNpU2pVb2otWHhHcDdoOEJsU2hXNUhzUXVNR0FCcUdoYUd6a1lncENaeHBPRnlQdGJqNF9jT3pHX0FvMXB4SWR5ZkRwS1ZrRWdwQzdLb3lfREMzWVBvLVJVOGhFX0F5c0V1UnFFV04zREVNMWV2aGh2NUNpOHBPUF9Jb1JvSmZiTFZQV0tYN01xeW5jSW52YlY2MVR2b1ZwNnMzWXM3REFUV1hGSlNualhwcTYydVR4VHl2bVMydURRWFZaT3NxR3NBbEXSAbQCQVVfeXFMTmtsdXJzVy1TRUczWmFXOXZjYkVtY0ZkV2I2Ukpfd2pkaGhiZk5Cdjl3a2gtWDlTZ2hhejJlMnRCV1RFTXR6X1VUbllvZUI0cHlEb3ZjZm1XcThOR0VDTnBvcElxalFhVXBGMFh0VUlHcFlTOFZhb3JRVEpYaGRncGVCU2x1TEJGQ3lwQ3F6ZXRJRmhudGRQS3gyNEpIT0VYVHpsbkpGTkt0OFlpS2ZCRXRxS0pKWlZTZWZQdDg5VVhkS0NESGJHblBJYnBGREF3WlBkT0I3NkhfdGlGcHBLbi04cUtoRmprMVdCYjF6VHJNa3RpNzA5TUJHY3JuWEVZRWliNlZKTHRRUzZieWJUVWdHb3FraGJYaHF1bEYyQnpJcDJDYURlclVVSmxubU5rRVpjc0M?oc=5"
     },
     {
-      "n": 24,
+      "n": 23,
       "title_en": "Wall Street absorbs the hit as Nvidia touches a 52-week low",
       "source": "Wealth Professional",
       "score": 10,
@@ -840,7 +832,7 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ29uNHg5YUVxOWJYcmIxakViZXczRDlTNlZ3LTZxd3ZTUUZlN0R1MmhrTXBSMG1vRFF1WmtKVF93ZE9pdnA5azJkS05rTnctSDNqVUR5TEh2TDhmcnphblJXUlAwWmE2MmZkeHJnNDhCaDRNZVhfVTRBbHhiVkRFenRpdW41RkNtV3hObENPbzFWRG1IaGh4Y2NlZXZrQVA5WmZWamc1eHA4RW5iTDljSWtJSjlPYXNjLXZsek1YN1psclR0OGc?oc=5"
     },
     {
-      "n": 25,
+      "n": 24,
       "title_en": "OPEC+ Loses Oil Market Sway in Iran War as China Gains Influence",
       "source": "EnergyNow.com",
       "score": 10,
@@ -848,7 +840,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHl3S3dvMDV0YjZLZ1dXTDZQbTlHSktXYUtMRk8tVzUzQkF1eEt1RTBLNmZzbnd3YVZieTVVczZxUWw3dzgwdFVNZFlYY2NVUktIMS1peUI3QzRhOUd6Z20wWTVtQ25SU2h6R2pLRnowY1B1V2dmTTE1ZTFzeC1CcUpYQlo3X0YxeDNKSnlrREhMeC1rWjBoM2xR?oc=5"
     },
     {
-      "n": 26,
+      "n": 25,
       "title_en": "Nvidia Forward P/E Is 10.9x, Second Lowest Among AI Giants",
       "source": "Opening Bell Daily",
       "score": 10,
@@ -856,7 +848,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ29rSTBXdDFOVms3LVZ3elprWXZNbElHVTNJX1dTRUVmLXlyNlZSaDhwWUJ4MzU3ZFZOd1hTSzhTVzQwT2ZQTHFlSmhWcDdEeGNzOVh4UENKTC1oRzlfaUJOQ1hXaDdwMUV3MlRmNkhXZUgzb1JFdUZadkhJV3NyMDlnNGVfbU11ekZUSUZOOHRub1JjR180?oc=5"
     },
     {
-      "n": 27,
+      "n": 26,
       "title_en": "Nvidia stock still looks like a buy without Jensen Huang",
       "source": "Opening Bell Daily",
       "score": 10,
@@ -864,12 +856,20 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2V5U2YzTS04REFwWGVOOEV1b1p1Sm1Ca1Z1eUhhZERiSm9vVVMyWlN2b3ZZMFFHbmkySEdRVDNPMTMwZTBXbHZTSnk2TkM2cW1QUFVTbEdRV09JZHNKZjE5YVYtbHZTbzVaaFI5TldTbkhyQWFpUG1hQUtNTGt0UDF5dnJWUFhHemNlQ1A0aXU0S3JCelloaHV1RXVNVm9kWWxIaGVWeW4?oc=5"
     },
     {
-      "n": 28,
+      "n": 27,
       "title_en": "What does Nvidia CEO Jensen Huang spy affair teach investors about risks in global markets? 5 key factors to watch",
       "source": "Livemint",
       "score": 10,
       "published_kst": "11/13 19:52",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPY29seVBlOVhDa1ZvZ1BoRllSakpBVnl1aml6SDZWbjVXcGU2U0RULTNqMnJaNERJWks1SWlCaDRYTWMzLXltLTJTMjdoSkRIZ2V4U0FiUHlEbTA5b2ZraFFxc2JFdUU1U0pXeTMzY3BSckZkcmpTLXJiTHdUbG9PYmZyZ3BYU1Rkb0ZpdEtoazdJNEh2dzZWRW9kYXZreEd3cGs2YXdudHgtRWFodEswV1J0ZW1vU2V2TUhTeEV5UDhXVjZFdnNFZnF1Q0FkamNwQXZLQ0lzSjFDOU1VRFJ6MnRpRExVM1lPZzZrWm5QY0M0dXRxWGdGZHpIdHJaX3NRQmdyS1A3dldNNGsyRnfSAZMCQVVfeXFMUEx5ampXaC02d3QxZ1p0YlZNWkxFQmRKU25QRURteGNsU2pqTmMyNjNVS1dlbFBHSlByVS1MVWFXSUV5RkQ1eG5tVWlLWWlCTFZFLU9jbjlIaXZfaFVuREw5em5LVzNFQzVwemQ5R2VWVWxsVXFaVG1QaF9GUExsX3dtVDF3emtfckJSMlg5aFJVQm5BekdhWU92SUZtN1pCZFl3MWY2QzBoclBKalF5MkZyTFhvUzJrY3lFSzlRaFdEWlJJUmZiLXl1TUZ4Q01rT3FGOHNVRTBfQ3B3VkZHVzhCRkRnWWNQMko3eGV6dWlsVUdSWFBQMXZoTjBELVgzMzdfWlpZTUM3NV9EYTFPeThFSjA?oc=5"
+    },
+    {
+      "n": 28,
+      "title_en": "Gold forecast: Inflation data could determine metal’s next big move",
+      "source": "StoneX",
+      "score": 10,
+      "published_kst": "11/13 18:40",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXlyNEFhcTZFcmxDZ2lFcFBtT2lxcU9TbkNfcjB1ZHBvYmRwVXBvNkNWVy1fVGJMT0psQzFTdUpoSVlNSkpzVFZ6bExQRkFmSThST091c2EtWVlBbVo1c0xVNW5lcElFZjNab0pucUtQY3NqSDRQaFpjWU1kN0dsekd3bE80LTFSdEM5NVRWendfMlgyYVNtdklVYTZXYzkyM1lXTldFUXVZU0t0WUtUdldGdXhsTnRkcGYxLThLbEduc0U?oc=5"
     },
     {
       "n": 29,
@@ -881,11 +881,11 @@
     },
     {
       "n": 30,
-      "title_en": "Gold forecast: Inflation data could determine metal’s next big move",
-      "source": "StoneX",
-      "score": 10,
-      "published_kst": "11/13 10:41",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXlyNEFhcTZFcmxDZ2lFcFBtT2lxcU9TbkNfcjB1ZHBvYmRwVXBvNkNWVy1fVGJMT0psQzFTdUpoSVlNSkpzVFZ6bExQRkFmSThST091c2EtWVlBbVo1c0xVNW5lcElFZjNab0pucUtQY3NqSDRQaFpjWU1kN0dsekd3bE80LTFSdEM5NVRWendfMlgyYVNtdklVYTZXYzkyM1lXTldFUXVZU0t0WUtUdldGdXhsTnRkcGYxLThLbEduc0U?oc=5"
+      "title_en": "Thierry Borgeat Says Chip Stocks Peak Every Two Years. His Chart Points to Another Top",
+      "source": "24/7 Wall St.",
+      "score": 9,
+      "published_kst": "11/14 07:07",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWm1VcDU4a0lYaDNUMFM1S1ZDdmhjaWlneU0tVkRudTdPWHFUbEpsZVV6amp2Sm5vNlpEVnJXYTVsVWpEam1TYjhjald1WF9VQWdSLUdxVUp1SFR2UDQxVVMybExmYWhJblZpaFhJejZzZHFCdjhjZEFwaTBQUDJHLW5fdWpJbVBWTWMtQlp3TGV6VkMxZ2Y2cFZLRnFnbEowYWJkV21XRUpxckVoMWdkcDRDMHM3cUh0NHVtOGRSZG9NajF5dnRzdw?oc=5"
     }
   ],
   "earnings_calendar": [
