@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-18 11:52",
+  "generated_kst": "2026-11-18 11:55",
   "us_session_date": "2026-11-17",
   "indices": [
     {
@@ -48,21 +48,21 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.61,
-      "chg_pct": 0.11,
+      "price": 103.6,
+      "chg_pct": 0.1,
       "as_of": "2026-11-17"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 85.12,
-      "chg_pct": -1.03,
+      "price": 85.1,
+      "chg_pct": -1.06,
       "as_of": "2026-11-17"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1328.65,
+      "price": 1328.64,
       "chg_pct": -0.53,
       "as_of": "2026-11-17"
     }
@@ -722,14 +722,6 @@
     },
     {
       "n": 10,
-      "title_en": "LIVE: Korean chip stocks jump in premarket trading after Nvidia’s results",
-      "source": "Korea JoongAng Daily",
-      "score": 15,
-      "published_kst": "11/18 09:25",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc3ZBUGlDeTNNVTQtVkNEbUJNemNZOUtyX0R1M3k3SDlXTFpVUzZLWm1EU1ZhZlFfT3F6OUNzSUl5eWFNNFJXOFhzMlFWbTV4cFF1dkdxMkVweXpoTmYwNWdhSktGbHBUT0FxbHJaclphM19MUF9PLVRfT0NHZWNvZU92LXJQY1VpRU9rSTRMRXE4VVhHQkRaV3k1cmtRMGZQODhudC1FSWFpcjlBeGZHUWhDNGV4OFI1YTBTUmp6eHVqR1BUSXc?oc=5"
-    },
-    {
-      "n": 11,
       "title_en": "Asian stocks slide as US tech curbs weigh on sentiment, Nvidia earnings awaited",
       "source": "FXStreet",
       "score": 15,
@@ -737,7 +729,7 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmpLenJKdTVuME9LTTZNRjdNR2hOTXhoamV3M2pueDdsRmxXSVVhdnJ4ME1SakhwV1pDWVNBMkpwTTB2TmJhTW5rRFZKaFpZTUF2WW55djlUb1BtVXR1SzNxMHR0Q3ZMV29RSHlwZFdDWlRScWNzLWtRMWdDNkxJNmN5SzVROWNTTGJMZFc3RmRTcGRDam5Vd2E1YTQxOEZRbmRzSTFZeTR3dUl0UnN0cXJlQ0llbVlvUTMtN0NB?oc=5"
     },
     {
-      "n": 12,
+      "n": 11,
       "title_en": "S&P 500, Dow, Nasdaq Futures Power Ahead On Nvidia Outlook Beat — NVDA, TSLA, ANT In Focus",
       "source": "TradingView",
       "score": 14,
@@ -745,7 +737,7 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWXpCN2lvNjlwT016M0hzOWJ4OThDZkQ5YlJBMGtIamlXR0U5dGcwMUJGZzkyejZpS0xDTktDdlNIUWRrdFB3Z19VT1lJcjlDbDR3SjZWNFVpUUVIM19iN0FnQ1B0TTZOckE5RVhEMWphQ1hmNVVzZGN1a0JGdklDSzN6YzRDWFNlTTB3SVJlLW5pMjZBMzIzLU5HMmRUcGZ2eFJBbXpaYUJJeHNiNEpmWHZ6QkRWbW9tSlF0RThyaGFlWlZtalNFR2w4MFNGM0JwUGFsNXdxdEs0OC1VYlE?oc=5"
     },
     {
-      "n": 13,
+      "n": 12,
       "title_en": "Oil Falls After Lebanon and Israel Agree to Ceasefire",
       "source": "EnergyNow.com",
       "score": 14,
@@ -753,7 +745,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdNNFhOakNzanM4OEJDMDJ0SnFnYTNzb2hjV3VjVzdua0VXWS1maXZqNnBOX0h3WEdwb2I4NGRDSllZMlBjalQ2OE95NDFKUGdDWGZjbWNNX0tPaVN1OVRMWVlWNlB1OURmRS1Nc2tEc0JDV1Z3b25aRm5WeGlsYmlhR19DaGxGUC0wSA?oc=5"
     },
     {
-      "n": 14,
+      "n": 13,
       "title_en": "Magnificent 7 US Stocks : Meta, Amazon and Nvidia Lead the Buy List",
       "source": "Coinpedia",
       "score": 14,
@@ -761,7 +753,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVFSTFNfOV9GclFudHFLSzYtRmEtOGpucUZ4NHY0N19sd1B3YkNfaE5Yc2dpX0FQODZUZWZBTUxHZlNsYk0yRXdfdEh5ckdRaEhIQXJKaTZ2bWczWU5sTnBCZ2c1bGVtblFrSnl5bVc5YVpOV1dGbEdValctRVRHQ1RUa1RabHlzdjk2elZ5bkZtcFVNTjJQampuQ0dzZ0RpSUtjS21sbkPSAa4BQVVfeXFMTk1kZm9vSHFQaldHY2xuRnRBdmdJYzJmdDV0YjZBUlFncjZTd3EwZEk3clh5V09WMFN2N3lZQzNSYUhLcXpWVFZ2YkQzQkgyRm1Xc0d0QlZ3YVZURmQ2V2JwaTc3aDFlZFU3dElGX2FkaFpUc2pDbGpLeWI1bHJ5RUd4NndUZlJQbW55MWY5MTQ3alZkX1htclZVcllLa0FNS1dRYzNNS0pYRWlfLWpn?oc=5"
     },
     {
-      "n": 15,
+      "n": 14,
       "title_en": "KOSPI Plunges to 4,968, Breaching 5,000 for First Time in Nine Months as Nvidia-Driven AI Investment Fears Hit Home",
       "source": "BigGo Finance",
       "score": 14,
@@ -769,7 +761,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tVF9qX1ZEeXZ2OUNhZFdnNTM3dktlSkswTmpkTnRUbVdOME1ZMnNwYjd0WjdHZkZZYXdnck43eGRTMlpJTUswbERMdE9MTnV6V3djckNCazh0d1BQQWJkUWI4RDhMMHM4UnlkQTdHSXhIT3I5a1E?oc=5"
     },
     {
-      "n": 16,
+      "n": 15,
       "title_en": "Market Reacts to Nvidia’s (NVDA) Financial Results",
       "source": "TipRanks",
       "score": 13,
@@ -777,7 +769,7 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHZKVlphUTdEUnZDckJnN1U4R2lSZGkzY19BdVEtN0NvODk2eDRvaDVKLXNDV3Q5SVpvUEZBMjhyZXZJekR2THhrTk52a0lsZDcxWUR3bTVoT2hXTk1xVlFKS3lhMEU0OWktY3g0ZVFIQW51N04wbG9LYWp5TGRsOFVUVQ?oc=5"
     },
     {
-      "n": 17,
+      "n": 16,
       "title_en": "U.S. Closes AI Chip Loophole as Fed Flags $1 Trillion Risk",
       "source": "Seoul Economic Daily",
       "score": 13,
@@ -785,7 +777,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXE5UnpRY3JYSEg5b1pjUkhQa0pGYXAzQWlCOGc0X1FfRUNXcGZ2Y2ZvZ1B5TkhUUTU4T29SUEtqekppdnpMY25lcFpLNFpwWW1mcGNWRHU2a2d0WlFBMTZBNHdqRXUwWGo4UUVqNjluS0lzdE5XTFpubEF5VXJDaWFiRWtXZEhUd25WbDI4NXlYVkxLRG9fdkhUMkN4X1E?oc=5"
     },
     {
-      "n": 18,
+      "n": 17,
       "title_en": "Nvidia’s First Report Without Jensen Huang: $115.8 Billion in Revenue, a $130 Billion Forecast, and the Stock Is Up 2.3% After Hours",
       "source": "Yahoo Finance",
       "score": 13,
@@ -793,7 +785,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0taRWswaHNxR25hZy1YTTJ3cDNod2psd3laZXZ0ZVV4OVdLVmJoWUhfa1RxNVFQdnBPNENzb25CV1VzZ0xIYlQtdENSdVJRYWFnSV9NeWJ3MUNPYTdCTEpXUk5KTUg5VlJmUEhaakN1Z0kwdVl6dERyTTRJTmlsUjJCRFlSMkk5dmhMSVNsZ2dKanpkQmVPaG5GWFkwR3NH?oc=5"
     },
     {
-      "n": 19,
+      "n": 18,
       "title_en": "Nvidia Reports in About an Hour. Options Price an 8.5% Move, Twice What the Stock Has Averaged After Its Last 8 Reports",
       "source": "Yahoo Finance",
       "score": 13,
@@ -801,7 +793,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmZmUm9qWGNzSmN1dkhqdHQteDJISlI4dWN4TDhxZVJYa3FKRUtHQVB3dEhiUzU3dG11OWwzYk5OMjB4elZXMDk0STNzZlRNeGlZYUF1cGwyWmk0cnBTcGk4RW1uLUhER3dxWEI1RHZaNnpRTGZoZlhtOWd0STVvNllmcTlyWlpONTE4OEo0QWE1Z0E3aEpaZFRLdG03bTJO?oc=5"
     },
     {
-      "n": 20,
+      "n": 19,
       "title_en": "Iran attacks US military radar system in Bahrain despite talks with mediators",
       "source": "The Business Standard",
       "score": 13,
@@ -809,7 +801,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFg4ZVlablBic3hLR3NxVVoyTXBUSGtRZlYydzBfVm9zcjJXUnZlRU5Va2NCUWFUZGxURmtGVk1lXzRlTzZzQXR1VmwyMkRSVEltSElmbl9ZMS01SEtnUE5ZTW9wYjM3ODUzeU9nQUF3MDFHMEZaU2s4SWJjT0Y2dnc1Nkw2alQ2YUF3WXBCOXU3Ml9URVl2enp4c250VzhfUXhIcWliOGRRZ000MlRfUS1wYlVYbk4xVEVGaThfdw?oc=5"
     },
     {
-      "n": 21,
+      "n": 20,
       "title_en": "Fed Sounds Alarm on Leveraged ETFs: South Korean Investors Bet approximately $3.7 Billion on Triple-Leveraged Semiconductor Product in Three Months",
       "source": "BigGo Finance",
       "score": 13,
@@ -817,7 +809,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlTkk2VU5CdjJJV044SmgxVXJhd3IxX3YtWXJuOHJITHdJWkdldC1OQ1pCSGZZQ1BpS0xSNzFkanlGcjQwd2VvTklaYjM2TEk5bXlDV0NSRWZSMWhzdXFLWVZxcnBJYkJiZnJ1Sk1SMWd1ZWMtSEE?oc=5"
     },
     {
-      "n": 22,
+      "n": 21,
       "title_en": "XP Earnings Call Highlights Growth, Returns and Risks",
       "source": "TipRanks",
       "score": 12,
@@ -825,7 +817,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkdWZlNSTWl3NFNEaEw0MGhLQlVWVG1sc3dXVHlTNW9rSElzWm15QzYtalRxRVpCUzlfWmZoMjVTclAzb01KRTZCRno5SS1FY1A5TmRWT21PajZKVjZwcC16X29iQVk1ZzJKZ3JJUHBqNmFHMUIxUXdMamNCXzFOSEtndllfcTdDUTIyUFR3VDc2bURZU0tISEladkN4eTJ4WW0zOTNyWQ?oc=5"
     },
     {
-      "n": 23,
+      "n": 22,
       "title_en": "Catapult Earnings Call Highlights Growth and Margin Gains",
       "source": "TipRanks",
       "score": 12,
@@ -833,7 +825,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGNwZkEzbmV5ZURubmEtUWV4TEFnZnlfYUlJRnRTa1JJYXVibFdJdFNqVDRoQUFyeklMdW9Kc3lCenlxRnBpaEhUSzFFcUgxd3BqQ2ZwbXdlakd3OVNvSGFLNFdqdHBvelRWZklabGxsMXBqT2w2OVdEdFpYYkJsOGVYeUZ2VmxXV3dTVmJtNnhoekRHd1BFNVlSLVFMQ3lKaFlyZDNFSlpFTkN3b0E?oc=5"
     },
     {
-      "n": 24,
+      "n": 23,
       "title_en": "PicPay Earnings Call Shows Growth Amid Credit Risks",
       "source": "TipRanks",
       "score": 12,
@@ -841,7 +833,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNGg3MExobkt0czNhMTlfMlJZVmdRUVpVU0FvMzNTTHlpMldWVnh4UWw3eG5ybF9XNGhINlNPcHlobVQyQkFxT0k3a2ZoOEZocHQ5Z1NyMWpsT2FJYXJMS2RzZ0lsYmFmMTMtWkU2M3RTQVQzeU1mWkFBSGVyRmxrRlI1REE0SUV6Q1l3MjAtdDlZd2xSVk15MEhnZXM5VUxfS1hiU3g1U0pESFVwUms0cUhHTmxhOGZuMlNVWTc1ZENTYWhJY3pUZWxXV1dlRVNyWElKNnN5RDRwajhFRjBoWW92aw?oc=5"
     },
     {
-      "n": 25,
+      "n": 24,
       "title_en": "Sagicor Earnings Call Shows Growth Amid Market Volatility",
       "source": "TipRanks",
       "score": 12,
@@ -849,7 +841,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOczlZTm9YVVV2dlJ1VklPel9DOFNkQ2V0NF9wS3pOZFE2OGtkUlBCeTVJcEd3TkR0WVhRODJ3WWJzSVdHMWlCY29DM2d4TkhlaDhWMFJ5NUY3LTUwYnI4M3RiR2ptQml4MU9FX0lmYkd1dXF2RjhnUGRra25FSDlhSDh6cjRsS3p0U254c2k0VlpwRkxhbjBYRE1NcWY1d0JENkVCdTVkWGJIR3VCT1E?oc=5"
     },
     {
-      "n": 26,
+      "n": 25,
       "title_en": "Midera Food Processing Raises Outlook After Strong Earnings Call",
       "source": "TipRanks",
       "score": 12,
@@ -857,7 +849,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWNRV1MwcWhnTkFaLW5mZmYzSFJNZjdvb2RnMWxpWlhIa2plcWpSNDJLMzlySjdpZHVYTkpxa09oX1BSQ2hKOTlqVU5zakdSZmJnZmdIRm5QTEIwQkNZdGxoVFNzSVNkc0M2bG1CTmlZbEp5Sl9UR2M3eXhrQWZQb1ZpQzZnQUgzVUxsSllUSFVhZkI2R0VFUlJKNzZOcXZPSEs2ckJUY2Q2TGV6TXNEbVhlRkhUa2c?oc=5"
     },
     {
-      "n": 27,
+      "n": 26,
       "title_en": "Dow Plunges 1,000 Points Intraday Before Chip, Optical Communications Stocks Stage Late Rebound",
       "source": "BigGo Finance",
       "score": 12,
@@ -865,7 +857,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NUmNCZVFhd1gwVFc4WTNDWUpVaGowMmtIMWRYM0ZnYmJaWUdHM2Uzdmc5ZExQMTNqUHhZejFNckx0SDZpaUd6N0FsSGdHZHU5QVFqOTZhU3ZBVURWNzFSUmJMX3JsdGtZdkZTSDBCaEluY2xTLUE?oc=5"
     },
     {
-      "n": 28,
+      "n": 27,
       "title_en": "S&P 500 forecast: SPX struggles for direction ahead of PPI data",
       "source": "FOREX.com",
       "score": 12,
@@ -873,7 +865,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzZlM1lORzR2X09kZlVQc1FZM1JiSmNYLUNGV2pPdFlEdFV1YzV5TUprMURzZXJyYy1mVmFSMmh1YmZ6bVZ4RVJPNUFRRGpnWG85MFJrZ00ycC12QUh5dHNNRV9KVlI2WjZ2clB2QVRKeno4cjJBUzNsUDB6djJwNzdhVTVmY1h2bjZqQ2h4SXhYMHZBVlVOLU1SVnJmdUx2QklwZjl6NEY3VnVMalpQZg?oc=5"
     },
     {
-      "n": 29,
+      "n": 28,
       "title_en": "Trump's Iran dilemma: Strike, negotiate or tighten the blockade",
       "source": "Israel Hayom",
       "score": 11,
@@ -881,12 +873,20 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajFmR3VPczdHemhDbFZUazgteWN4azBBbUZKc3N6bWVzVGpXWTNRRXBDZW5kRk5LQ0tSemJSRVVqelowd25uX1FoT0xDVVdST3dhXzY0R1A5UkZiUGZqQUx1NUJBb3hkNzVZNWJ1YmVON1lHMDRJNEdxWkZIeTQtSncxbmNYQnhtMms3QkRwbERlVHJnUGtQcFVaXzk1dWRHZlE?oc=5"
     },
     {
-      "n": 30,
+      "n": 29,
       "title_en": "Nvidia and other AI stocks hold steady following their latest sell-off",
       "source": "reflector.com",
       "score": 11,
       "published_kst": "11/17 23:40",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMW9RQVhmRkdXUW5CZVFZdnZVQlV3Sjc2QU1jcjBjRXNYOFlIRmlpT1Vza1YtU3NfZUhwa05LM3psa05HbGNTSzNRUXR4QkctelU0d2Y4LVVmblNyZkJSclF1VkVYNm9XZ2NlNndKTWFsNWstaHBpRlA2S2xSdFM4UjBkejMwNTE4YllYT2tfZ21SaUFTN2szSHlmY3F5SDB4OUtjRmRWdVdULVZ1ZDNwcG9pZ2RKdW00MnVNSzhZdVMtdWM4Wi1KclpVUzFWQzcza1o2QUMwUHhqdkxOT3RMdkpZbXlQQ01YTWpwYl9idHdfUQ?oc=5"
+    },
+    {
+      "n": 30,
+      "title_en": "Micron, Sandisk, SK Hynix in focus as GF Securities cuts NAND price forecast, sees glut",
+      "source": "TradingView",
+      "score": 11,
+      "published_kst": "11/17 21:33",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNam9VM0dkV1ZVUHNoSXI1R3VxaFpIWHRXYng1N2t0MkV4ZGtaR29xdEFveWNmOUhBS2szX0hmM3YzYjllT3I5MVhBeXpZYlN0YmtVaVNNYmw3Mm5yaGhORzFGSHVOSGhCSmhLWTdoXzFtdjhOcWFlMXluMW44NE9NRC16VVJjSFNjTENPU3hsMVdlX2tUVHA3SVF4c1FrX3dZRHpFbmZtZHZoaHc3LTd5Vm1KYkVBNXVjRjNsS2VqVlB4XzJLeFBpNzB1QUFOVThwd2ZYV3FJQTJzemdRQlE1QQ?oc=5"
     }
   ],
   "earnings_calendar": [
