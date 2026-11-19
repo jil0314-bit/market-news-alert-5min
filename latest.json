@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-19 11:36",
+  "generated_kst": "2026-11-19 11:45",
   "us_session_date": "2026-11-18",
   "indices": [
     {
@@ -55,15 +55,15 @@
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 82.29,
-      "chg_pct": -1.17,
+      "price": 82.33,
+      "chg_pct": -1.12,
       "as_of": "2026-11-18"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1330.02,
-      "chg_pct": -0.22,
+      "price": 1330.38,
+      "chg_pct": -0.2,
       "as_of": "2026-11-18"
     }
   ],
