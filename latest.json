@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-19 07:17",
+  "generated_kst": "2026-11-19 11:30",
   "us_session_date": "2026-11-18",
   "indices": [
     {
@@ -48,15 +48,22 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.79,
-      "chg_pct": 0.29,
+      "price": 103.88,
+      "chg_pct": 0.02,
       "as_of": "2026-11-18"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 81.89,
-      "chg_pct": -4.79,
+      "price": 82.33,
+      "chg_pct": -1.12,
+      "as_of": "2026-11-18"
+    },
+    {
+      "name": "원·달러",
+      "symbol": "KRW=X",
+      "price": 1330.35,
+      "chg_pct": -0.2,
       "as_of": "2026-11-18"
     }
   ],
@@ -618,9 +625,7 @@
     }
   ],
   "expected_stock_count": 63,
-  "missing_symbols": [
-    "KRW=X"
-  ],
+  "missing_symbols": [],
   "big_movers": [
     "AMD +5.3%(반도체)",
     "아이온큐 -5.5%(양자)",
@@ -643,22 +648,30 @@
   "news_candidates": [
     {
       "n": 1,
-      "title_en": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
-      "source": "Yahoo Finance",
-      "score": 18,
-      "published_kst": "11/19 00:12",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5"
+      "title_en": "[Focus] Nvidia's Jensen Huang Steps Down...What Changes Await the K-Semiconductor Supply Chain?",
+      "source": "뉴스워치",
+      "score": 19,
+      "published_kst": "11/19 09:15",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxb1U1Nkl4YUQ4RVN1enBoSE9ocUJ0VVpWaHJBX1JleFJENjg4bzhNUzBxczRyREpyUkg1OVZEdE0ydnJrbDhXOUt5VTI4eURuOFVVX3VtSktmQXJfWEMyRlBkYUl5cmll?oc=5"
     },
     {
       "n": 2,
       "title_en": "Gold Price Forecast: Can FOMC Minutes Trigger the Next Big Move After CPI and PPI?",
       "source": "VT Markets",
       "score": 18,
-      "published_kst": "11/18 17:58",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdEtOcGFvZlZ0SFE5MEk4TC0yU3VOOS1acTl2Y2JTV3FEaTFhZVpudUNadENiNnk0dzRaYXBMZnJyR3lIYUNtNjVVTzRpXzJnUXdJb19fMzdteDEyU2FZTmN4Z2pqN0tydW5LRjAxMTdJZnV6b1l2dkxRakVwamlWUkNsQWpSN3lmUzRPTHNFeFB0bFlCb1BJNVBNb1dTdEJndmw2WFhDTzFvdTEtYkpnbnZBejN5Ylg3YUg1bWVJdw?oc=5"
+      "published_kst": "11/18 19:07",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQndXb3NDZ3hSejg0emtpazdGWnNEYllfaUN6UmtRR1pyNDRYaTJyN0QyR3pqdnJUODlGWkFJaUJZYWVXT19mNktrNDFoTzJMY2EteDFIcWFRNDE5TmZUbGo2ZDYyZkcxOVpUU05rS3NPa3lPWXZaQkd3VFRKUnJGMFY1NjQyVms3SG5PN3J3b1kwb1pLVlZQMC0wX3F4U1M5b09NNl80dldVZGkydUo2d2VZSVNpTDQ?oc=5"
     },
     {
       "n": 3,
+      "title_en": "After Nvidia’s Earnings, Here’s My Prediction for the Stock Price by the End of the Year",
+      "source": "Yahoo Finance",
+      "score": 17,
+      "published_kst": "11/19 09:25",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXdmbmRvWVAtd3FqQjAtMXdoQXAtbG9lTm0zUVo3TWpYMGRaNlhxMTFrZGRjOGtsOGVuVVFLXy1QdlBMQTBmWEJ5VjJMVXV4b0Fmak1iSVpfQWVodUhOWmMtQlBSeGxtNkxGTUxIbHZPOXZLbHViN3ZuTXhRYU5kV0RpZTVJc2lTTWxPcGhzZzk0SkItT1I0SGdvWmhrTVQxa25kLW5n?oc=5"
+    },
+    {
+      "n": 4,
       "title_en": "Iran attacks US military radar system in Bahrain despite talks with mediators",
       "source": "The Business Standard",
       "score": 17,
@@ -666,23 +679,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFg4ZVlablBic3hLR3NxVVoyTXBUSGtRZlYydzBfVm9zcjJXUnZlRU5Va2NCUWFUZGxURmtGVk1lXzRlTzZzQXR1VmwyMkRSVEltSElmbl9ZMS01SEtnUE5ZTW9wYjM3ODUzeU9nQUF3MDFHMEZaU2s4SWJjT0Y2dnc1Nkw2alQ2YUF3WXBCOXU3Ml9URVl2enp4c250VzhfUXhIcWliOGRRZ000MlRfUS1wYlVYbk4xVEVGaThfdw?oc=5"
     },
     {
-      "n": 4,
-      "title_en": "Nvidia stock erases earnings pop as investors face life after Jensen Huang",
-      "source": "Yahoo Finance",
-      "score": 17,
-      "published_kst": "11/19 02:35",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzhvYkxzRld1VG11TlpOSE5wWjE5WE94RkMwVkJJWnRReDFRTUZ1X1FQWU55Rnh5b1hqU0VvTzBCay10WE5iVzJYWHdtVWJ0dlU5aFhhX2Yxa09Ub0otUkVUQ0hCTC1OUHBhRTU5UDBlRVZfNEx4cUtoVXRRanEwazFaQTBwYmpBREc2MVlsaVlDNWptenNNZkpDNzd2blFtS3pJX0oxWDl2RlcyMFNucDRILTRlRF9iUWFPRTA3VFo5NGRVZUJTaDkyTmpYcF9xcGJtMw?oc=5"
-    },
-    {
       "n": 5,
-      "title_en": "Iran attacks Kuwait, Bahrain as Gulf tensions escalate",
-      "source": "The Jerusalem Post",
-      "score": 17,
-      "published_kst": "11/18 23:52",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GTUg4cVpnQm9PcE9DQ0h1NW9wWFFfRDI2YUpnUXNOWFdESDFfNTVSRHJGNHlsMm1qanV2VUhqNWdqcHk2TW5jckRMYUNOOVN2OTR4X3NUbGpRWm5yZ1JNWDVzY1FVQjNzanc?oc=5"
-    },
-    {
-      "n": 6,
       "title_en": "NVIDIA Rises 3% After Record Quarter as Wells Fargo Sees $250 and Barclays Backs Board on Huang; Taiwan Semiconductor Climbs 3%, Broadcom Gains 2%",
       "source": "Yahoo Finance",
       "score": 16,
@@ -690,20 +687,28 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONU1fYnFqRUJ0TlgweC1LR0c1eUVNaFRjdzg5eTFDajJ5RmZQMWUwaXhyTnVWWkVYZ0ROa3R0ajA0MGhUdTFGWS0zdUliOTRMYVFNcEgzSEhDRWw5V2Z6NTVoMkQ3ZkxMbU1TUU1qMF9Eb0MzTkZVWlRTbXZfcXkyS1RzOUxCaHVGVzdCS0F6RHNfY0hZY0pWNE5n?oc=5"
     },
     {
-      "n": 7,
-      "title_en": "Nvidia Q3 Revenue Hits ₩154 Trillion in Earnings Surprise; KOSPI Rebounds Above 5,100 as Samsung Electronics Jumps 4%, SK Hynix 6%",
-      "source": "BigGo Finance",
-      "score": 15,
-      "published_kst": "11/18 08:55",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rOEhmS3A4cG9fbHZmNlpnS0NBOHNXdEdYOTBoUTFMMXR0cWh1V3l4ZmowV1NKZ1hERkRUeDhHZkJHV1hDRW5md05kb2htZTRtZ2htMW9kQ1NZWkUxNkNrRTZtT3JzT09FUDZZQ1BFUVFOUXlkWGc?oc=5"
-    },
-    {
-      "n": 8,
+      "n": 6,
       "title_en": "Latest news on the war in the Middle East. Tehran: three oil tankers ablaze after hitting mines in the Strait of Hormuz",
       "source": "Il Sole 24 ORE",
       "score": 14,
-      "published_kst": "11/19 06:15",
+      "published_kst": "11/19 06:23",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMGRsRDJlcGR5MzRLOElRUXBCcXY5SFFTS0M5YUp0RkhmUjJtSjN2Q1liaW92dUkyWS03T0Jac3k2c2dGNy1BRmM1QXVoTjBCWDFDRjRoQjFrU0NuV01iRk1MNFpRUmJKQnQ2TG1HWTdsVXN6RG0xZ2F0YjhoOFd4SnZjcWxqOHIyX202Mlp1X0lFdw?oc=5"
+    },
+    {
+      "n": 7,
+      "title_en": "Oil Falls After Lebanon and Israel Agree to Ceasefire",
+      "source": "EnergyNow.com",
+      "score": 14,
+      "published_kst": "11/19 04:21",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdNNFhOakNzanM4OEJDMDJ0SnFnYTNzb2hjV3VjVzdua0VXWS1maXZqNnBOX0h3WEdwb2I4NGRDSllZMlBjalQ2OE95NDFKUGdDWGZjbWNNX0tPaVN1OVRMWVlWNlB1OURmRS1Nc2tEc0JDV1Z3b25aRm5WeGlsYmlhR19DaGxGUC0wSA?oc=5"
+    },
+    {
+      "n": 8,
+      "title_en": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
+      "source": "Yahoo Finance",
+      "score": 14,
+      "published_kst": "11/19 00:12",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5"
     },
     {
       "n": 9,
@@ -723,22 +728,38 @@
     },
     {
       "n": 11,
-      "title_en": "The 14% Chance That Jensen Huang Returns to NVIDIA Keeps Me Buying as Prices Fall Into $150 Range",
+      "title_en": "Stock Market Today, Nov. 18: Nvidia Slips on Strong Results as Succession and China Business Risks Weigh",
       "source": "Yahoo Finance",
       "score": 13,
-      "published_kst": "11/19 02:45",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc294dVljZTZhNUZtSnhIMUNSZUJBckI0YTdoNWFHOUNLcjFFRV9EQktxRk4wM2V0c0hQeXZlYzgtcDRuTjlBclpVbDh3VnQyamp5RWNhOEhQN0VIZWhyZjlTVFI4d1dHcDlYNXh6QkJlc0prNzdfVklrcDNBNk9MQkpqSDlMdE9NVUNWM3RmdFUxOWIwSm9pUDJQaw?oc=5"
+      "published_kst": "11/19 07:11",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3h3S3NXc21SUmw2RnNDazFDT1QtVFpxYUJPTUFGQi1tM2ppd3lRTHRGekdoU0NUYUN4U2FlNDdwV2hhNFVmQkVoM3h0a083VmhBeWdBNVZJY1hRNVN0OVBqQVVMaDZFdlFGZHczUnRCcG1YYVBQRko1dHdHSy13bVNvMUttZ1F5cjl6c2pEUHVidkhX?oc=5"
     },
     {
       "n": 12,
-      "title_en": "Stock Market Midday, Nov. 18: Nvidia Doubles Revenue, but Wall Street's Sell-Off Continues",
-      "source": "Yahoo Finance",
+      "title_en": "Anthropic Will Have to Boost the Market Where Nvidia Faded",
+      "source": "RealMoney Pro",
       "score": 13,
-      "published_kst": "11/19 02:30",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMkVvNFN6NjNvS1d0WVdMQW1jOEJER2E0Q0pTc2xwSm1mcmcxVVkzaEl6UVhyZnJWYnBZckZrXzRFb1JaSGNpZjg3N1AxTHNfOHJDQVFaLXRnTWhhVU1RMlFqSVRIc1B2aDl2WmRfbEVXU0pNZy1Xc1dVc0FnbkJxQ1E3UFVua0gzUVlXenFJTkNDb1pTWnc?oc=5"
+      "published_kst": "11/19 06:15",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzk2SDVfaWhZTURIc3NMSkhQZmJvSzJhcjhQRnJXT2xzc29COFVUOUhTUmNyYVhocVBjdHNzLTNHV3VoXzI1ZG1odVRTUEZ6dHVMRVZkUFJzek5ZMGJuVmh2V1BNRHI0RVEyd2NabHItYm5NYk9HQzJFZnV0eW56enZpNEdMa25qNXRTbXl0VlEtUjQ2UDRVYXQ1Tm9QV1JuVTBLYw?oc=5"
     },
     {
       "n": 13,
+      "title_en": "Nvidia stock erases earnings pop as investors face life after Jensen Huang",
+      "source": "Yahoo Finance",
+      "score": 13,
+      "published_kst": "11/19 02:35",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzhvYkxzRld1VG11TlpOSE5wWjE5WE94RkMwVkJJWnRReDFRTUZ1X1FQWU55Rnh5b1hqU0VvTzBCay10WE5iVzJYWHdtVWJ0dlU5aFhhX2Yxa09Ub0otUkVUQ0hCTC1OUHBhRTU5UDBlRVZfNEx4cUtoVXRRanEwazFaQTBwYmpBREc2MVlsaVlDNWptenNNZkpDNzd2blFtS3pJX0oxWDl2RlcyMFNucDRILTRlRF9iUWFPRTA3VFo5NGRVZUJTaDkyTmpYcF9xcGJtMw?oc=5"
+    },
+    {
+      "n": 14,
+      "title_en": "Iran attacks Kuwait, Bahrain as Gulf tensions escalate",
+      "source": "The Jerusalem Post",
+      "score": 13,
+      "published_kst": "11/18 23:52",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GTUg4cVpnQm9PcE9DQ0h1NW9wWFFfRDI2YUpnUXNOWFdESDFfNTVSRHJGNHlsMm1qanV2VUhqNWdqcHk2TW5jckRMYUNOOVN2OTR4X3NUbGpRWm5yZ1JNWDVzY1FVQjNzanc?oc=5"
+    },
+    {
+      "n": 15,
       "title_en": "Chase Coleman’s Tiger Global Made Nvidia Its Biggest Bet With 12 Million Shares, Dethroning Taiwan Semiconductor. Then the Stock Fell 32%",
       "source": "Yahoo Finance",
       "score": 13,
@@ -746,15 +767,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXhBUm5iT1JyMUJnWGIyNDFzOEw1TEpRU05zZ1JvOTRkeTNsOHYtdWc1cVFMRV9UYVoxWDlKSC1vOHBMSnd3ZVdOVTZObEQ4WXlsV1R1UWEwNDViQ1MtaFZxd0tYRnVaQ3R1aXZEeHpLWUxqdWVJZ1FzUzA4VGhOTjZibmhBLXQtcm4xYVd6Z1hTNGtXcndVUUVIRFc?oc=5"
     },
     {
-      "n": 14,
-      "title_en": "Stock Market Today: Nasdaq, S&P 500 Futures Rise as Nvidia Shares Jump After Strong Earnings Report; Anthropic IPO on Deck",
-      "source": "Yahoo Finance",
-      "score": 13,
-      "published_kst": "11/18 21:58",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWVYNVZ2N0ppNmVQeDFvUHFIUG5vZmRNRUJ3R2o0WlhkUXJxVEExaHZrRWhNZHZmaTBQUDhyQXhSLXhoRng2akdubS1iMW8xOHptbWZ0Z25nMnlwSnJ6blZ0dmNnejg3MGlXSE5FSkx3czkybjNuVDc0aDd3Mk5YbDNSNlUwUi1vMlRMWU95RkUwWGNvSjhz?oc=5"
-    },
-    {
-      "n": 15,
+      "n": 16,
       "title_en": "Adnoc L&S ship attacked in Strait of Hormuz with one crew member missing",
       "source": "The National",
       "score": 13,
@@ -762,7 +775,7 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ3VacGM4Zk9FdHRLZmZaRTZQYVNXQjYzYkJnc2hwcEJWMl84bDdVdWpTVG5xNmJUWENoZ3FtYWlzQnpWSzE2WWUycFVtMzR3aHMtcUlZZUJlVkdKYWVDdTRuVWQ4eDRObDZCb0Q1cXVaNFk1ZG42N1FnUmltQnFzeXdSZXh0Zm5pUk9kOUVydTNEV1VFU0l3TDFxZC1vUVJCanJxWl9SRUdsbmRGTXd4aWt0SnVHVHBLRHZmWHIxeVlUdHkwTW9SV1Jabw?oc=5"
     },
     {
-      "n": 16,
+      "n": 17,
       "title_en": "Iran war live: UAE’s ADNOC says 11 injured after ship attacked in Strait of Hormuz",
       "source": "Arabian Business",
       "score": 13,
@@ -770,39 +783,15 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
     },
     {
-      "n": 17,
-      "title_en": "Nvidia earnings special coverage: \"The street wants to believe in Nvidia after Jensen\"",
-      "source": "Yahoo Finance",
-      "score": 13,
-      "published_kst": "11/18 08:30",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLXVWVmtGRmJOcVVYeUhKMkRJU1BJMnFfMThESkpoM1R1N2hnQWNxTE1kRWJVeUwwVWZsZzhpR3pxN3Z3WHJtZGU3UVRwZWdYR2hvV2tkblhFSVU5bkhWVjRMZDJyWmw0dTJObnJqN2x2U3B0RFN2R1NtNHNVZXV2NXpiM0NTRlEtbWp5VERtSFh3WWZjS2ZGTnh6WkNvaWxZbDhSbDFnYW96UzRsU3kydGV3Uk16MlBwSVlsM2tmN2dTRWFZeUE2d1JR?oc=5"
-    },
-    {
       "n": 18,
-      "title_en": "Stock Market Today, Nov. 17: Nvidia Slides Ahead of Earnings but Soars in After Hours Trading",
+      "title_en": "Universal Technical Institute (UTI) Q4 Earnings Miss Estimates",
       "source": "Yahoo Finance",
-      "score": 13,
-      "published_kst": "11/18 07:23",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0JhTHljQ2hqRS1xZDdIRkNFWXJvQmdTMHRqdnI1R3o1V2ZvNloyLVZyNUxqRVVtZXhFQm1jQkVFbjBhSGFVMkkyNmNoRUN0QS1pRnF2eUV6aV9DalVqcXVoWXc0NTQ3Y05oUTd0WTRUbWszeXNKLVU5cHpMaGtaamhZNU40b3I5Z19kc0JUQU1YSTZz?oc=5"
+      "score": 12,
+      "published_kst": "11/19 06:25",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzRjaWVGdjdqOUx5N1ZmV0IyZ0djaGlpdnV4T0lPV3RGU1JSVnhtTkE0d3pjcG02dWxOSWVrSWpad285dmR0eUUyb1hLUzFld1BOak9BU2pVYTM2SldGYjRNSjNWcHhJWHhlNDh1MFVDTFV5Y1l4RGNkRVgtMUdrdl9NZDI4SUs1R0RxaEE4bVI1Tzh4eUNDcWZnbEVMUFpjdzRB?oc=5"
     },
     {
       "n": 19,
-      "title_en": "Walmart earnings expected to show market share gains as US customers remain under pressure",
-      "source": "Yahoo Finance",
-      "score": 12,
-      "published_kst": "11/19 00:00",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWER5SDlYVWRIUFUtUzdualZsdHFwQk1vakg3V0tlU0Z0VVRGVXI0by1XWDRWbERPSjBZeFYwak9CNDUyN1BBZU80VkJoMGpWa3ZBRW9ZSEZneDR5SFZHdndVazVmR092R2g4NDJHc2VNanE2aTBnQWMzZ3lBTWh3am9xVDhxZE5aSUtnTUJjeWRQN2hMR0dhM25IRm1MVXRvMnJqTWtMSWFxWDJDZENiQ2laYlZXOHFKMV9PdWx0MFRZY2MxT2w1TG5HSGJNX3lGQU9HZXpLMHZrd0QzVXlhVm5GNnFmTlk1QlE?oc=5"
-    },
-    {
-      "n": 20,
-      "title_en": "Iran War Day 264: Iran Launches Strikes on Kuwait, Bahrain",
-      "source": "The American Conservative",
-      "score": 11,
-      "published_kst": "11/19 00:47",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3BuUUV0bnFpcTdzbTZvVU16N0k5dVBjTGJUZm9QMXlmbmp2NVQ3MTZvSXJxZ1NzSU9mNTR3Q0JlUEZWRGVDbDN1U0hxV25Oajk4OHNnc1V6cEo1WHlSc29mNzVTSVJxNEJ4VE1FcDRXbHY4UGhKNWcxdEpfTlUwa1U0OU5vUHp1VEtPdHZ6WkJrTXdERHljNkhjU1B3Zw?oc=5"
-    },
-    {
-      "n": 21,
       "title_en": "Memory Spot Prices Turn Lower, Weighing on Samsung and SK Hynix — AI Curbs, Rates and Nvidia Uncertainty Pile On",
       "source": "BigGo Finance",
       "score": 11,
@@ -810,7 +799,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzVVFLYnJFR0N6TFNDbE5CdkNQUzVUT1hHNXNjWk9nREptNlRPQXZCcFlWb2U2MTZ4X25BM2llZjZ1WDlJekZSVlBFeWFzcWZZWDhKNFUxNldYalFTQmVCaUJkQ2lOVkxuZTZibVpiaXY1dTYzNUE?oc=5"
     },
     {
-      "n": 22,
+      "n": 20,
       "title_en": "What Lifted AMD, Broadcom, CoreWeave and Other AI Names Following Nvidia's (NASDAQ:NVDA) Report?",
       "source": "kalkine.ca",
       "score": 10,
@@ -818,7 +807,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaTN0MmdNUWxBbFhUaUJWQWY2cVZ6cFJlQm9VQlNIS1VhQXIzQ1Q3di1zMDBWNFFieklPT19KRnk5b1Vna2FydGRqTkQtSmpDNG1DOHo4Vk50RW9GRnhnRzV4WHZoZ3RFa3JjVkFlX0J2bEdZN0hZSkJXUi1hMWNySVlZUkd4Rlc1RnNHNVk2bGRhMnFoMmJtT1g0LW9LelNYeFNjc3ozZlI4NjBQdmROZFZXdkN1ZXV3VEdSWFVrRGs1dkFNUm5iTEpHbVd6aEs4d200?oc=5"
     },
     {
-      "n": 23,
+      "n": 21,
       "title_en": "Premarket: AI hardware stocks up 4.0%, Nvidia 2.9%; the four biggest spenders barely move",
       "source": "Techi",
       "score": 10,
@@ -826,7 +815,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbHhNX1NuM3RqR0l2bmVZc1JIWFJaYl9nWVhUVW5qb3dOM05ia2F3VkRTV0ZuWk9zTVNpbjJsWko1Wk1hclJjcjM5a19JczZpTEYwSnFOR2JCR3paZ05icm95NW5Wak1ZRE1wNjRnaFZJSWdBR1pxaE9WVmEzWG5sQQ?oc=5"
     },
     {
-      "n": 24,
+      "n": 22,
       "title_en": "AMD’s Outperformance Over Nvidia Unravels as AI Funding and Sector Financing Risks Take Centre Stage",
       "source": "VT Markets",
       "score": 10,
@@ -834,39 +823,39 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbW9ta29Zc2dLeDAtSTZMVjN5dVphdS1jbWNOeVV6QUhOMDZEcG1WQ2hhTUJXZW0zcDhyT3NoM2RwaHg1M09lRTZKU1NiQkswSFlyLTB4N0xvTG5QSVlSMEhGbTJhNUlxenlUelVnUHFDaWFoYk9HRHNhVk5hNW1nclNKNTlaWU9pVmw2RDhLRHI1cXlDRzJOWmxaTEtNTE1VcDdfRU5hS2R4N0hLb3FlNWF6aU56SlpQd0szbVR4dmJrSk9RTDI1MzhOQVVGVlZMN2diaUlWdTlHUlpwVlE?oc=5"
     },
     {
+      "n": 23,
+      "title_en": "Anthropic vs OpenAI vs SpaceX IPO: Three giants, three different bets for investors",
+      "source": "The Financial Express",
+      "score": 9,
+      "published_kst": "11/19 09:42",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOVVtYzRGYjN0TTRSR3JOTU9PMVByZFkxcG9naUVOMWtScEE5dmQzTDN6d1RHOFg1UEhLVld2RWdTdzBvSmlqMjhVUTBEZWZXYnlDc2pfU3hKeFl2Zk1vTUUzOTR5V21aWnUzOTV6c29BNzhybWhGS28wOEZJZkZPYWIxcDRxRzc0NkdSXzF1eVNBTG5oRG1YYUhvbWZ0NHlHaUJjb2UtN19Cd3ZfaG5RZHBjcGplZmlhNmw5UkFadjM0ejhsN2RDWnNuZVZqSkQxVGpoN1EyMXh5UUNEWFHSAeQBQVVfeXFMTVpGRUljTkhEaDJUSWhxMEZRRGNxQUtYNF9zc3pQNFI2d3RXSDF4aVVQdXNkLXctanRiSnA3MUVfTEJFekVfMEhNSXZqWnpPLXI4TmRmWDNRc1k5Nm5ySUs1STFmQ19QekdRenR2ZGhzaUVnXzc2VmM0QXhza2FkLWNHamU1MllrWDl1T3JldlNDR0dwOWtiM3YtTEpTT283M2NtVVRXVU5CZDZCa0FaQ1BRaE1fMi1zbHhnOVBIQ1hrTzBVNHN5QnZVbnF5VF9qM1E5d0JFczQ1RnB4SkFOVWhsbTlz?oc=5"
+    },
+    {
+      "n": 24,
+      "title_en": "SEMI ETF (ASX:SEMI) Units in Focus: Why Is the ETF Drawing Attention?",
+      "source": "Kalkine Media",
+      "score": 9,
+      "published_kst": "11/19 09:31",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWFUTGVVc0Ytd0V5eUdQZFBBV2ZYTVFLYnp6VjBLVzhIdlZFNDBTbVVURFlUWXZ0Z2loY29qUjVMS1Zja0tyOVlRMnlkZVd6b3lPU1dnMzFpNy1rR3llVlQyYzRKYmE1V0hyQkd2X1dnWlZpZkc4QVJrRjhKSFVMYlR5cXEtWlZaLUU2MUhiZWdnLWdHN2dqVUdXVlhwNVVDOHp5UXpvMlk?oc=5"
+    },
+    {
       "n": 25,
-      "title_en": "Colette Kress Tells Jim Cramer Nvidia Customers and Employees Remain Committed",
-      "source": "TradingView",
-      "score": 10,
-      "published_kst": "11/18 09:56",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdmFxSVNNSkVyV2VvSkoycE5kb0pST3hHeWZld1NPVUlVTS1udVp5eXA2Vk5aWDB3Q0M0U1o3OUNlY3lwV1ZRRDJ1ejZIcjFtTkZpM3hQUGNJNmEzbWxMVE5FUjl5RGdpMUdCekU2cHdHUGhRSVUzNDU5RXhGM1JybUJwWDQ2RFN3b3AzQWl0djUwTFpCeHBrc1BVTzdjNm8zYlZ1UmpnMjd5bjZOLTRtZDV3QnpPbjNBaThwZWVKdE1KVWU5eldmaFFROW1RdDJ4UHhXSmpzcGY?oc=5"
+      "title_en": "The 14% Chance That Jensen Huang Returns to NVIDIA Keeps Me Buying as Prices Fall Into $150 Range",
+      "source": "Yahoo Finance",
+      "score": 9,
+      "published_kst": "11/19 02:45",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc294dVljZTZhNUZtSnhIMUNSZUJBckI0YTdoNWFHOUNLcjFFRV9EQktxRk4wM2V0c0hQeXZlYzgtcDRuTjlBclpVbDh3VnQyamp5RWNhOEhQN0VIZWhyZjlTVFI4d1dHcDlYNXh6QkJlc0prNzdfVklrcDNBNk9MQkpqSDlMdE9NVUNWM3RmdFUxOWIwSm9pUDJQaw?oc=5"
     },
     {
       "n": 26,
-      "title_en": "Oil Falls After Lebanon and Israel Agree to Ceasefire",
-      "source": "EnergyNow.com",
-      "score": 10,
-      "published_kst": "11/18 07:49",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdNNFhOakNzanM4OEJDMDJ0SnFnYTNzb2hjV3VjVzdua0VXWS1maXZqNnBOX0h3WEdwb2I4NGRDSllZMlBjalQ2OE95NDFKUGdDWGZjbWNNX0tPaVN1OVRMWVlWNlB1OURmRS1Nc2tEc0JDV1Z3b25aRm5WeGlsYmlhR19DaGxGUC0wSA?oc=5"
+      "title_en": "Stock Market Midday, Nov. 18: Nvidia Doubles Revenue, but Wall Street's Sell-Off Continues",
+      "source": "Yahoo Finance",
+      "score": 9,
+      "published_kst": "11/19 02:30",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMkVvNFN6NjNvS1d0WVdMQW1jOEJER2E0Q0pTc2xwSm1mcmcxVVkzaEl6UVhyZnJWYnBZckZrXzRFb1JaSGNpZjg3N1AxTHNfOHJDQVFaLXRnTWhhVU1RMlFqSVRIc1B2aDl2WmRfbEVXU0pNZy1Xc1dVc0FnbkJxQ1E3UFVua0gzUVlXenFJTkNDb1pTWnc?oc=5"
     },
     {
       "n": 27,
-      "title_en": "Palo Alto Networks and Fortinet shares skyrocket, what you need to know",
-      "source": "TradingView",
-      "score": 9,
-      "published_kst": "11/19 02:25",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMUE2ZnpJc2ota1IzUHpadDgtV0FscHpDS3o3UzdNeE9LMElvYUZ6ZU43RC1KcVZoSVRIc1JRWFRORnMya1hjTnpUZUNDb3Nsc2Jpb1ZZVVBGS09qTUN2dGZMVnYycW9vUkFTUXB4ZGIweDhHY1hJSUIwaWJHN1NqNHpHTy1GY25rVFRJQk5UelBsbjZ4OFFlbmxFcE9rUGZ2N3lMT3JtbkIxM3NLU3FSWU5sOGJIb3pVT29DWXk0NEVkbE1wUGpVdEg2SQ?oc=5"
-    },
-    {
-      "n": 28,
-      "title_en": "Cannabis expo",
-      "source": "Taipei Times",
-      "score": 9,
-      "published_kst": "11/19 01:00",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nMjVNRVVXNzk3cERTaVRfUS1Pb2s0cThYX0pFS2pKZXZZMEVta1pCUUpwNVp1MWZWMTA4MTFWazJocG45Qnk2S2JUblU5YkhjY09IdFpNZVRtMVR1cVdZZ3dXa1R3bXl5MnV6LWdjcUFPOXV2Y2c?oc=5"
-    },
-    {
-      "n": 29,
       "title_en": "Broadcom Has a $27 Billion Advantage Over Taiwan Semiconductor as Your Portfolio's AI Anchor",
       "source": "24/7 Wall St.",
       "score": 9,
@@ -874,12 +863,28 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaHRLRHNXTkZwR0JZb0pMUGRjRWpxdExvQkVIQlNpcGVsRFFvOE1hbFlYQjl1anEybHRZVjFOSXpGbDJSSk5ZY182RTc4dlpqdkt0c3VuRDF6aElUNVoxV0h3SFRSVmp6WjZTaUhjeUFQdlZHWXhRSlV0X1gtU2JfM0c3blUzRVh2UnpiN2E4MkhwYzFlTTlCRVp2c1BXeW9lcWV6VmQ3NDMyZjNCZUVKR1J6b21kQjA4alIwRkR6UTFvcXdyeUVrLXdqcDRpT2M?oc=5"
     },
     {
-      "n": 30,
+      "n": 28,
       "title_en": "Taiwan Semiconductor Stock (TSM) Looks Too Cheap for Its Growth Outlook",
       "source": "TipRanks",
       "score": 9,
       "published_kst": "11/18 22:08",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdkVJOTVfM1d3SVNMRWI3V0FXU1lEam1PNXZ5Vzhwdk1rUWI0TDhmazdFdEV2Nkdaa3RnQjdXQjBQaXlZSngtTy05NHdlWnFEel95M3BLWmk3QjFyYUMtNnRoZ2pyVnJUbExFalBWdm1MaGJHTXBRc3Z0cnRoQVhMdGd0SWFuR1AtTzhXTll1MF9HX2dzY054N0E3N3pSckVISUhQT1dhT2lkVTg?oc=5"
+    },
+    {
+      "n": 29,
+      "title_en": "Why Is Micron Technology Stock Rising Today?",
+      "source": "Yahoo Finance",
+      "score": 9,
+      "published_kst": "11/18 21:14",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZG1XWC12Nm54SXpHQXlpcDhPNmJQRGxtNmdXcEo4TjZzYnNCeWhKOEwzQUktd08wNUg3Z2pDMm9FX0FXUVFpaVNreTdxeFM5WlBuX2ZNZTVtdHJJYncwaU0zRTBwalJ1NndRQ2dqZDFnbHA3cjFRSjc2VU9GWVh3OVloRkFlaENDRHRNakl0SG5NN0Q1ZXdLRXVWN3Zfc2It?oc=5"
+    },
+    {
+      "n": 30,
+      "title_en": "Jim Cramer Told Nvidia’s Interim CEO “the Cheapest Stock in the World Is Yours”",
+      "source": "Yahoo Finance",
+      "score": 9,
+      "published_kst": "11/18 21:02",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkZxRmpHaWNSMjRIS3VZM3YwOHh4dnJ3c3RuMkpuVkNRTEExQnFkRWNyTVBOQmtTMVctSjRyZTdmRThLdVlfc1c3SU51RWVyUW80eXJockNuaWk4Yjl2Qi0xd0F2bGZCVWtuZDhpUXYwOWJOSEY0UHFoaTRPVWd5Yk81eWdab2U1X2ItYTdDOExoVEVHU214MUtVYw?oc=5"
     }
   ],
   "earnings_calendar": [
@@ -892,7 +897,6 @@
     "11/19 · INTU(Intuit Inc.) · time-after-hours"
   ],
   "korea_points_rule_based": [
-    "유가 급락: 항공·운송 비용 완화와 정유주 약세 가능성 동시 점검",
     "VIX 20 이상: 지수선물 변동성 확대와 옵션 프리미엄 과열 경계",
     "미국 AI·반도체 감시군 동반 강세: 국내 HBM·기판·장비 대장주 우선 관찰"
   ]
