@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-20 11:21",
+  "generated_kst": "2026-11-20 11:32",
   "us_session_date": "2026-11-19",
   "indices": [
     {
@@ -48,22 +48,22 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.95,
-      "chg_pct": 0.08,
+      "price": 103.91,
+      "chg_pct": 0.01,
       "as_of": "2026-11-19"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 82.87,
-      "chg_pct": -0.41,
+      "price": 82.79,
+      "chg_pct": -0.5,
       "as_of": "2026-11-19"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1338.28,
-      "chg_pct": 0.59,
+      "price": 1339.03,
+      "chg_pct": 0.65,
       "as_of": "2026-11-19"
     }
   ],
@@ -86,12 +86,12 @@
       "sector": "전력전선",
       "avg": -1.5,
       "up": 1,
-      "down": 6,
+      "down": 5,
       "count": 7,
       "expected_count": 7,
       "top": [
         "파월인더스트리 +2.5%",
-        "AES -0.0%",
+        "AES +0.0%",
         "넥스트에라 -1.2%"
       ],
       "worst": "버티브 -4.9%"
@@ -452,7 +452,7 @@
       "name": "AES",
       "symbol": "AES",
       "price": 15.02,
-      "chg_pct": -0.0,
+      "chg_pct": 0.0,
       "as_of": "2026-11-19"
     },
     {
@@ -671,14 +671,6 @@
     },
     {
       "n": 4,
-      "title_en": "Iran war live: Houthi attack damages Saudi PIF headquarters in Riyadh",
-      "source": "Arabian Business",
-      "score": 17,
-      "published_kst": "11/20 03:24",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
-    },
-    {
-      "n": 5,
       "title_en": "Record profits but record outflows: 'Sell Korea' trade stalks Seoul market",
       "source": "Reuters",
       "score": 16,
@@ -686,7 +678,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDVJVUxnTV8wWW53ZDBmMC1GX3V1Z2k1N24zdTk0bkdYR2lBYTB2c3J4QVkzUFRiTHJSTkoycmM0ZG5jSWxnSkxVOWJNZzFFX3kydHoyWU9oSURMel9Yck5VMlk3TTVaNkhBX09wU1B1TzVuYlhnYnZhMmhnMEpIMmZLeXVXT09IWEs5cXJLOWtNcklfZkU1NU85WE1NSEE1ZUhzRDBKY2dzaW5pWnQzdTJra3UybUdXVWpDeWRYYw?oc=5"
     },
     {
-      "n": 6,
+      "n": 5,
       "title_en": "Samsung and SK Hynix stocks fall again as Nvidia earnings boost fades",
       "source": "Invezz",
       "score": 15,
@@ -694,7 +686,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVk5SmcwbHBXcHFlLWR0d0NQZFNZdjllME9DdmVLcnZYT1RtX1hrOUlpRVJSS3lrbEotMUV1YjJRbFJYMkRjX19YUzFUN3RCYzBKZWhQLUprQS1mM2x4TzBUTXN2VlR1WVVNanZfU0kyX2RiME02YnRjQlBoZmxqaGFWOFpDbkI1cW5jZFd4TXFVOVBLVE5V?oc=5"
     },
     {
-      "n": 7,
+      "n": 6,
       "title_en": "Nvidia’s $500B AI Machine Is Getting Bigger. Semiconductor ETFs May Need a Rethink",
       "source": "Yahoo Finance",
       "score": 14,
@@ -702,7 +694,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3RRZjJHLU9IOGExVmY2eTVQSHFPLU5hQmRNQkdfZHBxRDVVbVd1YXpoaWxPR2FqaTllYmo4OEEydjhieU8zY1B2TVktLTFpckJYeHJQMzJ0M2tDSFBtYThHNmVsQmxybDJvRFY1ejExZHZjcUVkUTY2WlNMc0dxU21FalpTMmtQUkFRVldIU3JKd0JHZi1JR2xR?oc=5"
     },
     {
-      "n": 8,
+      "n": 7,
       "title_en": "Kospi Falls Below 5,000 Mark, Nikkei 225 Drops Over 3%; SoftBank Plunges 14%, Kioxia Tumbles Over 10%, Samsung and SK Hynix Fall Over 4%",
       "source": "TradingKey",
       "score": 13,
@@ -710,7 +702,7 @@
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR2RmQ2hDMEd6Q1M1VmtmQXUxYm85V0dOenhiOENPZ2JUQk9jb3REaGFsNm5TdzYtampfVXFpdUowaVRlQnVraDF1eVY2OWNDZmNfZVU1dFROZUc2V2NpZFRSdkxGLXRRLUE3TTBRYTlZSlVDel9zalpQQU9NZi1Hb3Y4VzY0Y0lwRXZGNzdMT2htdnhPczJBY05qNjlSSkgtVUJjbUV3VmgwZGdGR1NJSnQyc1NsZmFIMUg4S1VFU1NOQ2lhd3A2OEMyVVE1RFZ6QlZybDZCRm5ZU1BKWXYyOEljSDVpdWNPV3Nz?oc=5"
     },
     {
-      "n": 9,
+      "n": 8,
       "title_en": "California AG subpoenas Nvidia over China leak risks and investor disclosures",
       "source": "Yahoo Finance",
       "score": 13,
@@ -718,12 +710,20 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQTEwSjFtQXVROXhLRGNjX21qTWR1RS04bkpDTy10Y29wNl9GY1ZiX2VMSGIwR3dZdGhxaHhqLS1zb2hsTV9zZUlObnFyNmVIOVFwQ2dOU09TMlJCQllGUmlhdEV0dDRLbU41R1dBVTJ6cUZTTkR2UUVvZGk0V25SZGxhWFFmZzRs?oc=5"
     },
     {
-      "n": 10,
+      "n": 9,
       "title_en": "Intuit (NASDAQ:INTU) EPS Beat Offset by Soft Revenue Guidance and Mailchimp Divestiture",
       "source": "ChartMill",
       "score": 13,
       "published_kst": "11/20 08:04",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVQ3ZGxZM08xVDRwTGw2bnBDRWM1MVF0aWYtbUduVVl5RVVNUXlvbi01eFdLZENMeFhITTQ0OVFTRldFUDFPbVVJLTNmejloSDJLWHU4ZFhmZWVFQjBOYlJZV0FMeEN6RVlsWk1RS3g3ZEFESHMzQVFkQWFzWG1DQXNvN0N5aHUzejM0cFJsTzh5VTZIYWNGRTVmd2xRQjcxTXMxWVZrUHIzN0ROU1NjU3lNLW9aTWs0aXlsZlJLdWl6dEM0YS14bGtiY0JMNlFQOXc?oc=5"
+    },
+    {
+      "n": 10,
+      "title_en": "Iran war live: Houthi attack damages Saudi PIF headquarters in Riyadh",
+      "source": "Arabian Business",
+      "score": 13,
+      "published_kst": "11/20 03:24",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
     },
     {
       "n": 11,
