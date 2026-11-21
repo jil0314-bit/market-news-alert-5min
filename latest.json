@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-21 06:57",
+  "generated_kst": "2026-11-21 11:08",
   "us_session_date": "2026-11-20",
   "indices": [
     {
@@ -48,15 +48,15 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.89,
-      "chg_pct": -0.01,
+      "price": 103.84,
+      "chg_pct": -0.06,
       "as_of": "2026-11-20"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 83.68,
-      "chg_pct": 0.56,
+      "price": 83.62,
+      "chg_pct": 0.49,
       "as_of": "2026-11-20"
     }
   ],
@@ -79,11 +79,11 @@
       "sector": "전력전선",
       "avg": -5.05,
       "up": 0,
-      "down": 6,
+      "down": 7,
       "count": 7,
       "expected_count": 7,
       "top": [
-        "AES +0.0%",
+        "AES -0.0%",
         "넥스트에라 -0.4%",
         "콴타서비스 -4.8%"
       ],
@@ -445,7 +445,7 @@
       "name": "AES",
       "symbol": "AES",
       "price": 15.02,
-      "chg_pct": 0.0,
+      "chg_pct": -0.0,
       "as_of": "2026-11-20"
     },
     {
@@ -682,14 +682,6 @@
   "news_candidates": [
     {
       "n": 1,
-      "title_en": "Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
-      "source": "Yahoo Finance",
-      "score": 20,
-      "published_kst": "11/21 02:20",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmlaZDdveTVTR1NZaE1BMVVzRGhXRkthLWZqRlJwenIxZE5YdDhFOGpoXzhxbndwR1YtZkJPMkU0aWRUb3ZTTXB4bHJOYzNDc2dBeUtiYzhHYjhsTlJfNklHbGgxTTUzSUZfZ0J4em54LUoyTDBUWnhtU25OVmp3TUQ0ZnROQnFYQzhBcnJvelMwdXFXeEE?oc=5"
-    },
-    {
-      "n": 2,
       "title_en": "Iran attacks US military radar system in Bahrain despite talks with mediators",
       "source": "The Business Standard",
       "score": 17,
@@ -697,12 +689,20 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFg4ZVlablBic3hLR3NxVVoyTXBUSGtRZlYydzBfVm9zcjJXUnZlRU5Va2NCUWFUZGxURmtGVk1lXzRlTzZzQXR1VmwyMkRSVEltSElmbl9ZMS01SEtnUE5ZTW9wYjM3ODUzeU9nQUF3MDFHMEZaU2s4SWJjT0Y2dnc1Nkw2alQ2YUF3WXBCOXU3Ml9URVl2enp4c250VzhfUXhIcWliOGRRZ000MlRfUS1wYlVYbk4xVEVGaThfdw?oc=5"
     },
     {
+      "n": 2,
+      "title_en": "Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
+      "source": "Yahoo Finance",
+      "score": 16,
+      "published_kst": "11/21 02:20",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmlaZDdveTVTR1NZaE1BMVVzRGhXRkthLWZqRlJwenIxZE5YdDhFOGpoXzhxbndwR1YtZkJPMkU0aWRUb3ZTTXB4bHJOYzNDc2dBeUtiYzhHYjhsTlJfNklHbGgxTTUzSUZfZ0J4em54LUoyTDBUWnhtU25OVmp3TUQ0ZnROQnFYQzhBcnJvelMwdXFXeEE?oc=5"
+    },
+    {
       "n": 3,
-      "title_en": "Nvidia shares climb after hours as quarterly revenue hits $115.8 billion",
-      "source": "Crypto Briefing",
+      "title_en": "Nvidia’s reported SEC probe has an accounting focus. The specifics are still missing.",
+      "source": "Digg",
       "score": 14,
-      "published_kst": "11/21 06:25",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DazVDLXZUbDdLczAxZU1jMEJWZnQ2R2pPRzU0TmQxMXZFMThiYXI2NzZudXc3ZVdKUTBBT0o1b3h2TGxNdmExcDRXcWdjNEp2emlyaFFIOEl6ZHZfVHNXQVhKLUhYRTNLRnZUZk03c3B2d0U?oc=5"
+      "published_kst": "11/21 08:21",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BT1NHX0c0dFNmWEdyZjVOV2hobkRzNGQwN0RHOWtrZTZMbHZ3SDJGamtVU1ZBdnRhSjBoRFIyY3lwb1NJV0R6cUxpZUZ3a0dIWWc?oc=5"
     },
     {
       "n": 4,
@@ -714,38 +714,22 @@
     },
     {
       "n": 5,
-      "title_en": "Micron vs. Sandisk: One AI Stock Has the Edge, but Is It a Buy, Asks Investor",
-      "source": "TipRanks",
-      "score": 14,
-      "published_kst": "11/21 02:42",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeHVCaFZ3d1BDTGIzYktRSVVBMWFFbENYYkphTjBGd2FlQ0c3UllJaXA1MEZ6NXlkMFFMamp5dlFxVVhZZDFSNFVpZFVIelpDV3RJWGFEamk1UVNyX1BqNldOY3pfbXFSSnUxbnNuVnUzSTU5akdNaDE5Uk9NV0pUdWZrTzFzQjNNZWQ3aXZWWl9Pd0xWcHhaNG5IdW9XanRROXItZUdfU2NsWmZkLXRjYg?oc=5"
+      "title_en": "Japan, South Korea Stocks Close Strongly Higher; KOSPI Surges Over 1.6%, Nikkei Reclaims 65,000 as SoftBank Soars 12%",
+      "source": "TradingKey",
+      "score": 13,
+      "published_kst": "11/21 07:13",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcFRpR3JfZWFLb2lkOHZodlQzT0IxdUNLVGg0VER1NmQ4dXgxam43aWJQZk9ZS3c2bUhmbzVXUU1sbjFsQ01hb2c2ajBOWUpZYU1VVVhXczV2eHhWbXA0R1NXTHNEa0ZTaVplNjNoRWtNSVNSMHdjem5xX1RtQ0QwcmpQZ0VfWTcweW9xa1RCYjNDLVg5R3lJREdQVzk3N19nR2VQVG9QZ0pFbUVZLXlGc0lsTlpfaXFjcDJNY2VsTnFfQTgwQzlleUUtZ1JLT2FxdkdpSVNaMVA1M3RXUmF6VlNKSVhnS2c?oc=5"
     },
     {
       "n": 6,
-      "title_en": "COMMENTARY: China is Balancing Asia’s Crude Oil Demand by Itself: Russell",
-      "source": "EnergyNow.com",
-      "score": 14,
-      "published_kst": "11/21 00:02",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDlPZERreTB1RldlV2ZtR3p1NmdNdUU0TXV2U05UTzh0ODB6UXo2S0xxRW1HbEVncmhvOTd2MElYNzJjd2o5SEFoYm1OZWg4M1FveXBLeGpIU2lESFcwZDBJOGw0WC1FcVNoQ1dVQUxEem1QbWJ3anpjcnhSOUZRcHZlN19kaWVrREtOYlRZUWxwVlJlOWV6dTRPaHUwVWJQU0I0?oc=5"
+      "title_en": "Nvidia shares climb after hours as quarterly revenue hits $115.8 billion",
+      "source": "Crypto Briefing",
+      "score": 13,
+      "published_kst": "11/21 06:25",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DazVDLXZUbDdLczAxZU1jMEJWZnQ2R2pPRzU0TmQxMXZFMThiYXI2NzZudXc3ZVdKUTBBT0o1b3h2TGxNdmExcDRXcWdjNEp2emlyaFFIOEl6ZHZfVHNXQVhKLUhYRTNLRnZUZk03c3B2d0U?oc=5"
     },
     {
       "n": 7,
-      "title_en": "NVIDIA Is Down 37% in a Month. Can NVDA Stock Get Back to $200?",
-      "source": "24/7 Wall St.",
-      "score": 13,
-      "published_kst": "11/21 03:02",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNkdNSmhOWTNyRUc1NnRDTTJOZFRkVGRRMTM3M0h6cGs2Mnk2SXV5WjdpWUJfUlRIaElnQXdmYTdCSVZQdzJQbjFpcGduSEJjeGIzSzlTbm9naTkxdTRKQ04weHVNWEtubEhBT0VyLTUxV21tbTVqTGVCQkJPbkhmcENQMTNzSkg4VXc3am9ieEZFMzFBUWF3ZVRxM25xYWZxN3BuaXZB?oc=5"
-    },
-    {
-      "n": 8,
-      "title_en": "Nvidia Falls Behind Alphabet, Loses $2.3 Trillion In Market Value Since October Peak",
-      "source": "Yahoo Finance",
-      "score": 13,
-      "published_kst": "11/21 00:51",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDZibUVMWTBIU2NHbTVKdTBWR2F2VXoxM0RTTmJTR01TMTg4a3NHOHNMRTN0cjlOOWFNaXpoUE1GV0lRdTZIOFZ6bXlqQWRvZXpVYlRCUHhvZzRhTlljTG5TNFpMWEk5T3psYXhPN2RsZkEyMXY5OW01UDJqRUxsT24yNUZmeTFYMktLUTBwV3lkb3JLLWdHNXExYkNqWWVl?oc=5"
-    },
-    {
-      "n": 9,
       "title_en": "The post earnings slide in Nvidia stock is getting uglier by the day",
       "source": "Yahoo Finance",
       "score": 13,
@@ -753,7 +737,7 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYVo0b1dObGhWclp0S0JnV095MjVJVEx3QW1hQ3FIdk9VZ3NNZWt2cHp3YnVqbm9EVFJ1UXFlOG1YRmpNdV9CSEFTQ2Z1b0FfdGpaMFJjNVRxZEl5bDJzQ21oLTM1NnNkdHV2LXRvd3p5UjRnQktpanhIcHFPM3FONTlUZTZOU3lqME9rbEdXNVBlcER0WDZNSUxGOWkxaDhDRXI1YUFfcmFvWjliZDQ4UnhVeTNNVUpyN2Z6RUVMRkM4Q2lTdkJsYjBKajM?oc=5"
     },
     {
-      "n": 10,
+      "n": 8,
       "title_en": "Anthropic cofounders each worth about $20 billion after record IPO",
       "source": "Crypto Briefing",
       "score": 12,
@@ -761,39 +745,63 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15N1poeWdGNnY4MzlmS1RhWFY1N1lSaTd1S2hCRjI1cURzTDlUSFVaOWZzN05QaXJHeHA1M0pqcUZXTnBwbVhRUEJOd01qUGpYcnpSa2l2X0RlNzlGd2RfTDhOamNnS2wwaFJWZDB5S21lYWpGcVJKMGVn?oc=5"
     },
     {
-      "n": 11,
-      "title_en": "Navitas Semiconductor Drops 12.6% After Hours, Outpacing Rivals",
+      "n": 9,
+      "title_en": "Thanksgiving Week Earnings: 73 Companies Report in Just Three Days",
       "source": "24/7 Wall St.",
       "score": 12,
-      "published_kst": "11/21 06:04",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWXFEQlpZSmtENVJKWXh3ekQySGRoaGhNTDZSOUtGSUI2ZVBOUWJpVnFCRGszZ3NjaFc0SGVCa3FpX2V4UkEteWdLV0RyMGM5MlVMaktGaS1nMGU2YWpBd1d0enYwTEZXS1NLbUlTcEVLMGhXUnZZa2pYNmw5MUlnZWZYVHRGZ0s2ZWdMS0k5b1o1NmNmZ0lrUUJ3VlVKOV9Zalhz?oc=5"
+      "published_kst": "11/21 04:34",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlN0M0Z3bTFHUXdfNzdRdEVNaFZWZUkybE5iOTZ6WU5yR2xUdER4UDdoeXZHT0FMLWZ5eGZ3SVUwc1JnOHBYTmp1aHpCMnY3MVFlXzZnTUVnRjcwc3NINHZYWE85QWtDWWdhLU9jTGI2amdac3ByYUNpUEJPdnEtbDhaX2VNRGhZUUo2cjJQVW1sYzFJZ0pHdFZsZWJFZWJlVHNDc2xoRXhpY21RemVpcWV3RzhrMFpWdlI2R2QwdW1hdlVUdzVkXy1US0w4ZjRJbV80?oc=5"
     },
     {
-      "n": 12,
-      "title_en": "Record profits but record outflows: 'Sell Korea' trade stalks Seoul market",
-      "source": "Reuters",
-      "score": 12,
-      "published_kst": "11/20 08:37",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDVJVUxnTV8wWW53ZDBmMC1GX3V1Z2k1N24zdTk0bkdYR2lBYTB2c3J4QVkzUFRiTHJSTkoycmM0ZG5jSWxnSkxVOWJNZzFFX3kydHoyWU9oSURMel9Yck5VMlk3TTVaNkhBX09wU1B1TzVuYlhnYnZhMmhnMEpIMmZLeXVXT09IWEs5cXJLOWtNcklfZkU1NU85WE1NSEE1ZUhzRDBKY2dzaW5pWnQzdTJra3UybUdXVWpDeWRYYw?oc=5"
+      "n": 10,
+      "title_en": "U.S. Chip Export Curbs Widen; Samsung Halts AI Chip Shipments to China",
+      "source": "Seoul Economic Daily",
+      "score": 10,
+      "published_kst": "11/21 10:35",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQVNyUkRLd2FRenAtMXo4QnZSNUNpUEEwMHp4MDF4YnkwZVZyOEJ3amRaV1Vib3FSalRuTmVmOWcyZkVyNmxJM05EZGtoNlhrUW9SME1rX0pZWmJLOGRZTGlHeDFxRWxpUkhQVHpESFpydDNDQXc0RjhUVHR0cHdEbVVXcmo1UHZFRHM5MTBfeVdlT2pVWXZaTVlqY0p5OVZWY3c?oc=5"
     },
     {
-      "n": 13,
+      "n": 11,
       "title_en": "SKHY News Today | Why did SK hynix stock drop today?",
       "source": "MarketBeat",
       "score": 10,
-      "published_kst": "11/21 05:24",
+      "published_kst": "11/21 07:23",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wR0NsMmUzajcyVGNlTkhSWDJsd0JDZ25KSEJXaG5FSTEzTm1iSEdoRG1EQV9wM0ZhdW1JbUZqdXR6a1VOQVhBbG5xX1YyRXd2anVsdmhqQXkzUFFtalVrUw?oc=5"
     },
     {
-      "n": 14,
-      "title_en": "Micron, SanDisk, TSMC Stocks Drop Premarket as Anthropic Retreats After a Roaring IPO",
+      "n": 12,
+      "title_en": "South Korea’s Stock Market Falls 5.2% After US Chip Selloff",
+      "source": "JournalArta",
+      "score": 10,
+      "published_kst": "11/21 05:12",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZlY3cktOa2psQ1J2VXI5NjlmMnBFUUhqYmRiOEduV1RFRGhYNlZNLUFyb3J4blpMZ1pXeHVIY1ZRbllGdlMxbHp3bGZtYzF4MU1pNGRHWG1felVTMUVwd21haXNrN1Y2NkVybE9SSmVFQjlSbFhWdjYxMzRKcUdxS0ZOc3Y?oc=5"
+    },
+    {
+      "n": 13,
+      "title_en": "Micron vs. Sandisk: One AI Stock Has the Edge, but Is It a Buy, Asks Investor",
       "source": "TipRanks",
       "score": 10,
-      "published_kst": "11/20 20:48",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORDh1d1ItTVVrNGh6QzZFLWpJMk1YTDQ3UlpzNTU2TnQ5d0xEVEhIVVc0RzU0czZOUnJqN29vNFhoTU40SWptak9EdlhLd19ka1ZLMWdCZEpZR2JrOGk1QWttMHlmTUxZelZIeEp2eHVkTWFGaVFNWDJnbkpFR3dGNlpYQ3hTeDh6b2QzalFiaGdnYkNydWR0RFZHaWkxZUQxZ0pfMkVDaXBuelg1RVE?oc=5"
+      "published_kst": "11/21 02:42",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeHVCaFZ3d1BDTGIzYktRSVVBMWFFbENYYkphTjBGd2FlQ0c3UllJaXA1MEZ6NXlkMFFMamp5dlFxVVhZZDFSNFVpZFVIelpDV3RJWGFEamk1UVNyX1BqNldOY3pfbXFSSnUxbnNuVnUzSTU5akdNaDE5Uk9NV0pUdWZrTzFzQjNNZWQ3aXZWWl9Pd0xWcHhaNG5IdW9XanRROXItZUdfU2NsWmZkLXRjYg?oc=5"
+    },
+    {
+      "n": 14,
+      "title_en": "US Stocks Close Sharply Lower, With Nvidia Down 14%",
+      "source": "Stock Titan",
+      "score": 10,
+      "published_kst": "11/20 21:13",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1pkSDgwTy1oYTVWcjc4MWozdkxFQURSWkI5aDd4ZFpxVlRHazA5aG9wVkMxdjVWaEV1YnJKbWZ2Y05iRVc1aklpZ0xvRTRDZzNYQnowVnJsUGdBZHhlU3VkNVY5djdrdFNmbWZyNXJqenQ0ZjN0a3AzTG51R2hvd1VB?oc=5"
     },
     {
       "n": 15,
+      "title_en": "Nvidia, Google and Amazon Back Anthropic as Founders Cash Out Nearly $2 Billion",
+      "source": "TradingView",
+      "score": 10,
+      "published_kst": "11/20 20:59",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWVhfTTk3RXh0RUlIaXNKZGdyLU10Mk9oZFJKeFV5RzJlbkdPNE1CVUNSUmlwM2I2bnp6QUlLMVdMSVBkanFjczMwZHQwWEpVcUNLRFRsVU5Nemc1RktTSWFTYUxVclhhV3VrQzQ3azRGdlY2SXZMN2V6U19McmlNNGNrR05STWJfZWxHbzZDSW4xZHhHbXNsdEVyWWh6SlhReWxycXN6N2dVdlFIbE5fVTdXMUpKQ1RQbUdIQTBzMUpJTEF2Y2RWS1Jra2JqQXhDeGNR?oc=5"
+    },
+    {
+      "n": 16,
       "title_en": "South Korea's KOSPI Is Really a 'Semiconductor Index,' Damodaran Says — and Korean Investors Should Steer Clear of AI",
       "source": "BigGo Finance",
       "score": 10,
@@ -801,7 +809,31 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zdHMxWGVFQTFSUTBhSU1HOThqTGNJNFJWYjFQSzV5MU0xN3JUbVFIdHNibEJhXy1rMmlhRDdkeU9Uc2pBemFJZTVvcU9NQjZLYUJEaXFTWU92VngyZGhkcEdkNVQtOHNRSzU5STVVVi1ybUhZSXc?oc=5"
     },
     {
-      "n": 16,
+      "n": 17,
+      "title_en": "Is CrowdStrike buying Zscaler? The two are in talks, reports say, but there is no deal yet",
+      "source": "Nacionale",
+      "score": 9,
+      "published_kst": "11/21 09:53",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZjZjVGludGcteF9Ec1ZpZXVoX2JXWXlsWm8yY1FsRGZscC1aS080TXdGU3h5RFVxeTNvSGw2QWQ2WVlMY3JKRHR3VnU4MWV5d25hRlVnR3ZPUFBTb0RaS2c5Q3lqR0ZQeThPdk9yN0xQY1QxMS1NbnctS1B6NmlJeU1EdG1BSFVYUV9jZThaOXhQTDNoZ3BVVEF2dXQ4dW9DMnZzQmkwUE9KNWpYSk8tTmFjTi1kN29T?oc=5"
+    },
+    {
+      "n": 18,
+      "title_en": "PayPal names Claire Bramley CFO, with a turnaround on her to-do list",
+      "source": "Digg",
+      "score": 9,
+      "published_kst": "11/21 08:23",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zR3E0SzhGcXUwSEhkZkZZeUdYSnhSSnpjZkZCNHZXOEJxSVBkWWpmSmotMEQ3aGE3c3U0dXRkZHk5a1pPMS1oVVRmMzJqZkwyVlE?oc=5"
+    },
+    {
+      "n": 19,
+      "title_en": "Top Funds' Activity in Q3 2026",
+      "source": "Pension Pulse blog",
+      "score": 9,
+      "published_kst": "11/21 08:19",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0JLd1FSLUFKTnJxU2FVOHdQbEFHXy1md0YxRWdKd1RTN0Jmdi1QS3MyTmd2bWlwSUd5M01DTG4zNkJ2SHFqX1hnelB1WU1YaXpCSlVFb3p6X0dEQVRIcGhIa3dlczNqMDB1NUV0Vkw0dVhmT2RmdDNkSlVldjYtTw?oc=5"
+    },
+    {
+      "n": 20,
       "title_en": "BNP Paribas sees 'panic selling' as the AI selloff drags the S&P 500 into a correction and wipes out the Nasdaq’s 2026 gains",
       "source": "Fortune",
       "score": 9,
@@ -809,7 +841,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQXQtZ1dFNHhyRENpTXoxQURFUHBYMWIwQmxwb09kbDA0clNFQ3NWclFBUkZsZ0t0SWJRUUZsNkJVdWFWbmVIeW42bFNma2ZHTTVxbkxVQmNhSVdYNDcxOXZOaDE4SGtCejdWb081YTFKakNxN3YxdXY0Yl9tS3RNTXY5enMxeEdhOG4xdnVSbndXTFRIOUNxOFhoMXNxSkctb3BSaUdnMA?oc=5"
     },
     {
-      "n": 17,
+      "n": 21,
       "title_en": "Anthropic shares slide about 9% as the IPO confetti settles",
       "source": "Digg",
       "score": 9,
@@ -817,7 +849,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FZ0N2NVpyTU9PbTd4eU5ZeXptV29BT2VfMU9jeG44ZFhzZVg4WEFyMXdweFI2dnhDamNhYklYVDlCWHlrUjJXY3ZBaERmaTNxNGc?oc=5"
     },
     {
-      "n": 18,
+      "n": 22,
       "title_en": "Meta Stock Forecast — META ($569.36) $625 Upside Target on $135B–$145B Capex Bill",
       "source": "TradingNEWS",
       "score": 9,
@@ -825,7 +857,7 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHU2M3kwSk5sdk9zZUUyX0ZfZ25CX2d3SWZIQko4MkFCbUluOGY2dlFRb2hLMERwMElFRExpcXFqMVhzRWVSUHBoRTRnQ0RNN1oxenRMQVRFd01JYVNrWjVULThRUnNHZWtlcDNNY0kxQktxNVZhcDZrV3JGTnhTTld6SmVOb0tmaVdvX1ZReXA2QkhwNEZSYXBlWDZzdGZFeE5KTW5pNHZkMFpoN0lSTkRIWi1qUzlYUGFPTUp4dTFTUEVNRjJTZjl3?oc=5"
     },
     {
-      "n": 19,
+      "n": 23,
       "title_en": "Anthropic Closes IPO: 1.127B Shares, $26B From 7 Backers",
       "source": "shattered.io",
       "score": 9,
@@ -833,23 +865,23 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONWtHdEk1RE1wbFpTcHhtSDVuSnFRMHI2VWRJcDdiSU9hNXhPQUZXSnpocE12b0sxUmphX3R1SHpSMTZCM1pqQTlNOVZPQWN6S3UwUnFZNEFfZ1VjYmZxdWNheURrNEwycG9VdFZzSWlsODhSOFFIZGZoUjVCa3ZrU0RtTjNQTFpvLU95QWYweVlieXgySUtGVm45WngydnZxUGVKblJmd0NKZw?oc=5"
     },
     {
-      "n": 20,
-      "title_en": "Anthropic shares fall 12% on second day of trading, move closer to $83, the IPO price",
-      "source": "The Financial Express",
+      "n": 24,
+      "title_en": "NVIDIA Is Down 37% in a Month. Can NVDA Stock Get Back to $200?",
+      "source": "24/7 Wall St.",
       "score": 9,
-      "published_kst": "11/21 01:02",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcElPUE5Xb1VCWWZPZlZDRDgyZXd1SF9YaWpqeGxCdl9MOWszLXAxb2JrcTVyck5NYTFIT2dCS3lHVENIYjFLcV9tVkR4LUNrbFZRX3pBNnJlQ044VzF0elZ5eS1UVTYwbDZLZkV6eENpeDYxUW1vYTBuU1hyLWFhdzhDQUY5ZFdxUGdicFM4WjdDb2Y5WGMySGw5WnBEVnVBejNYNURZVUVHN2lOWU4zNFdtbXRuejFmRlA3S0Q3d0kwT0JRSGFIcEN2U09CMzVaS3Q1ZWNxUVZYZlZlM1HSAeQBQVVfeXFMTjdNaTMxMl9tb0lJYTNOZ1hyNEtjeS1TT2VEY2UwWEljRU1vOUxwS3NpeGQ1MU5hNmg1bEttTzI1cDVMYWt0eU1ZX2V1MWJWTm1aNUhjX1FmNFhzVWZSR3lfMnhXUDZ5QUxTd0hSNUY0TGNZVkNTVjZXMXBwYmtDMzVXc3ltdWNrejlWdERoQnFyOTZxblBFVzd4ejRiUEZaMlo0Z1Q2RXVSWk5VT25TY0lHd0pwQy1QazR2amlTZHEtc2hEaFpzdmhZZlpaaEQzTXlXZU00V1JkR2tuVVVUT3lPNWJ0?oc=5"
+      "published_kst": "11/21 03:02",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNkdNSmhOWTNyRUc1NnRDTTJOZFRkVGRRMTM3M0h6cGs2Mnk2SXV5WjdpWUJfUlRIaElnQXdmYTdCSVZQdzJQbjFpcGduSEJjeGIzSzlTbm9naTkxdTRKQ04weHVNWEtubEhBT0VyLTUxV21tbTVqTGVCQkJPbkhmcENQMTNzSkg4VXc3am9ieEZFMzFBUWF3ZVRxM25xYWZxN3BuaXZB?oc=5"
     },
     {
-      "n": 21,
-      "title_en": "US Stocks Close Sharply Lower, With Nvidia Down Nearly 14%",
-      "source": "Stock Titan",
+      "n": 25,
+      "title_en": "Nvidia Falls Behind Alphabet, Loses $2.3 Trillion In Market Value Since October Peak",
+      "source": "Yahoo Finance",
       "score": 9,
-      "published_kst": "11/20 21:13",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1pkSDgwTy1oYTVWcjc4MWozdkxFQURSWkI5aDd4ZFpxVlRHazA5aG9wVkMxdjVWaEV1YnJKbWZ2Y05iRVc1aklpZ0xvRTRDZzNYQnowVnJsUGdBZHhlU3VkNVY5djdrdFNmbWZyNXJqenQ0ZjN0a3AzTG51R2hvd1VB?oc=5"
+      "published_kst": "11/21 00:51",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDZibUVMWTBIU2NHbTVKdTBWR2F2VXoxM0RTTmJTR01TMTg4a3NHOHNMRTN0cjlOOWFNaXpoUE1GV0lRdTZIOFZ6bXlqQWRvZXpVYlRCUHhvZzRhTlljTG5TNFpMWEk5T3psYXhPN2RsZkEyMXY5OW01UDJqRUxsT24yNUZmeTFYMktLUTBwV3lkb3JLLWdHNXExYkNqWWVl?oc=5"
     },
     {
-      "n": 22,
+      "n": 26,
       "title_en": "South Korea's KOSPI Plunges 5%; Retail Investors Bet approximately $1.1 Billion on Samsung Electronics, SK Hynix Dip",
       "source": "BigGo Finance",
       "score": 9,
@@ -857,7 +889,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51SUxfeWh6TVlFeU8xMFNwX1ZudzZCZzU5NU5mbjNxakxPcXJMbUFZc2ZlbzUzaDJmSmp1TGVDbzlwalA3LUNGWEpDX2JhNEJNUkJSUGYzekxrU3dweW9qTjQ0NW1KQS1UcTExNG9fTGoxeWd3Umc?oc=5"
     },
     {
-      "n": 23,
+      "n": 27,
       "title_en": "South Korea stocks face foreign investor exodus despite record AI profits",
       "source": "The Economic Times",
       "score": 9,
@@ -865,7 +897,7 @@
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMk12cjVYVG9VamRiZm9NSDhEVGZGS2Vvc1JKTTY2MEZrNjZYdjNlaVlvY3V1a1ZjQ3lZRGlZN2djUXI1MW5INFlEd0JwU3g4alFqWExsVjMwaTQtQ0xJb21NaW9aV0R4ZkdHTEI4VXl4dy15YzNQZEJXNzFHdXdHNXFJMUx2N0sxd0dBTXg5Um1HM19CZ0E0RWk2cE1SdzFjeDIzaS1TcFRIaVpHU3dvRDBuQ3V3TXh3UlVaY3pCdDJ0T2h6Um1UalJLYngtbTBudDRXZHBkVUZPS0laUFJiR091OHQ1dFpwU21wVzI5NWxwRjdTb3VuTVZXYThpbnJEZ3fSAfsBQVVfeXFMTUpHelZDZHNnLTBHNXlXOUdUQmVYVms3aUZGdGRRLWs0OGJnSUhudUROYnM0cmpVb05kSHAyZ1FzOHdLTkVRR2gzY0dDcC1GTXlwZlQzRHJ2bzM3ZnBRSnVpMW0zZUJQNV9NajA4ZV9vNHpxSWF2dGVIVjJ4OUtSeE5xVFhnRE4waDVyNFRacThvSnhJWUJQZzdpdWc1Z2RHbUJpMHpVaW1ZVUdmR2k3SmdFU2RCLWFHQjE0VG5CQ2x1cWR3cXJOUGNhT0FnMjVkRHZTRWpFUlo4WE5acm9Gay1tM0ZtYUQ0YjNBcGZpWUNMWGM1ZXplSFNYaHM?oc=5"
     },
     {
-      "n": 24,
+      "n": 28,
       "title_en": "South Korea and Nikkei 225 plunge over 4% amid AI selloff hitting chipmakers Samsung, SK hynix, and TSMC.",
       "source": "Pluang",
       "score": 9,
@@ -873,55 +905,25 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2hKdm9YMlRQaFpNZXdVS1A4SFVnZFdZWnBtaW5KX2JNaUxkRlBLTWl3NWpndGdnNWQtR2xITUpyZmFKeEd6ZGlVN25BUVhnMTNKam1vblVaZmowVWpWRElKRk90WmFfdHRsa19UMENhSkMtRng1M2J2cVFxd1ZyWFRYZkpiQ09tdWRWME1oWllFY1dYR2UzRXhDU3V6eE1yRHl0UHUxN3JGQjZ1X25uRQ?oc=5"
     },
     {
-      "n": 25,
-      "title_en": "Kospi Falls Below 5,000 Mark, Nikkei 225 Drops Over 3%; SoftBank Plunges 14%, Kioxia Tumbles Over 10%, Samsung and SK Hynix Fall Over 4%",
-      "source": "TradingKey",
-      "score": 9,
-      "published_kst": "11/20 09:41",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR2RmQ2hDMEd6Q1M1VmtmQXUxYm85V0dOenhiOENPZ2JUQk9jb3REaGFsNm5TdzYtampfVXFpdUowaVRlQnVraDF1eVY2OWNDZmNfZVU1dFROZUc2V2NpZFRSdkxGLXRRLUE3TTBRYTlZSlVDel9zalpQQU9NZi1Hb3Y4VzY0Y0lwRXZGNzdMT2htdnhPczJBY05qNjlSSkgtVUJjbUV3VmgwZGdGR1NJSnQyc1NsZmFIMUg4S1VFU1NOQ2lhd3A2OEMyVVE1RFZ6QlZybDZCRm5ZU1BKWXYyOEljSDVpdWNPV3Nz?oc=5"
-    },
-    {
-      "n": 26,
-      "title_en": "KOSPI plunges 4% at open as Wall Street AI rout hits Seoul",
-      "source": "Aju Press",
-      "score": 9,
-      "published_kst": "11/20 09:06",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlOHZ2WGtwZ3B0RDhRcExveDV1NHBLaDB3TlJCYm1aSW9TTnZTT3pwXzA2R1A4eHdTZzFLYTRmZTlIa2lPUVl6X1hFMF82ZXVOZkdaWDVfWlhOTWs?oc=5"
-    },
-    {
-      "n": 27,
-      "title_en": "South Korea stocks face record foreign outflows as AI trade unwind pressures KOSPI",
-      "source": "Traders Union",
-      "score": 9,
-      "published_kst": "11/20 08:55",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUFkwTEo3V0hFS2NXRFhWUVhzU0VLbEJHTDRFY0VQTFFQN0h1TTZLeDkzdFhveXR3TVYwemVTRW9abWE3Z09OTWc2LXlZY0lNdWptT0ZqTTN5WVBkVlM2Q3VGcjRsWGNqdG1QSHFQWEcxckVVU0pub2tkOTg5dlItQ3NRb3NRLU5KTTJuVmtIMk9QWXM?oc=5"
-    },
-    {
-      "n": 28,
-      "title_en": "Chips suffer worst week since 2001 as the Nasdaq 100 nears a bear market",
-      "source": "Yahoo Finance",
-      "score": 8,
-      "published_kst": "11/21 06:23",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmc2cHN6ZXN3Y1BKcGNfazRTNUNYTWp2enR1RVp4d2VEWnE4NE4yWFhwQkpYSDRMdzU5U3RTQTdtMzFOSGtVYmd4RnZNYWthSGdPUVY2MmRab3FUX0lLQWdZZ19tSmh0NktIWUxLMXVQRVl3dDByUExZbzVENzhiY25vRTl2cnNJcEtkR202Q0tIdlFWWURQTEFDaHVORU1FYkR6MXJQaFpZdTU3Q1hvcjRPdXU3NXI3ekZKclJycmVROU84Q0E?oc=5"
-    },
-    {
       "n": 29,
-      "title_en": "Ross Stores: 3 Key Takeaways for Long-Term Investors",
-      "source": "Yahoo Finance",
-      "score": 8,
-      "published_kst": "11/21 05:47",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN04weGJzdGlxLU5GNGpfVFFKbHN4QnB0SHdzcU40WlBHazN3RmhEdXZPbTJQbXVBRUs1SlVkWGhNcWxFN0dnY2tVOUJFX0VjWl85cDItVU5qc3BsbzdubURSaFdPeU13MGxEbE8tNTh4aWlkNnJ6V2kwcXRrVm9kZEpLa2FXbHcwQUNfZEEzamM3UWl1OFpn?oc=5"
+      "title_en": "South Korean shares plunge over 4% to 10-month low as AI trade fears hit chipmakers",
+      "source": "The Economic Times",
+      "score": 9,
+      "published_kst": "11/20 12:53",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOU0YzeWpka3VMNi1QSDVUUlg1cmtrQ20tVE1YcGlxandnUENOU0txV2o2YXZkVHBEN1dlMG5ncjNFVTBKWEtvT0VXc2w2TXJjNDJuVXJ6MTRUUjlScVNMZ2d4SjZEaFRwNURJMjRNS2RtVXNUdC1VOFhZXzE3MDVTSzdxZzJaNzlOaHpIYmpPZjZWUERjLTJhMjhLZU5uZ2JkWWZyRGhKQVNjRS1FX1BQems4QkxIVkxtNF9fRlhMRlRleGM4amVjZXFaSUxRbnFYVWhUOG9EYm5scFVjb21rX3poTEJQS04taEhYVEo5cTTSAfYBQVVfeXFMTk0yRnQtY3ZDYWpCNW1mcElldlpvQkRHODlhbUZDbDQ3S2hVS09SMW83d1ZXdWRXOHIzbGtnQXpDVUJqdHdPT1liTXh6SDVDTW9SUmhudzdGcWNLN25lYWZyN2xvNlh2TVd6NUJKMHVoaWhuMUxYUnYwQzNiMUV1OW56OU51UnVNZFRIdy0yMWotRjNjN3hVWmk5RGFRUXdjZTlod1VNaWM4UHN5RWZxRmtscHAweXc1UGJ0a1RrOVpQQnl0eXhjdDYtampKaTBOcUg3VWlVOFBFZmthY3Y2TWZwcW1EckZhRGZtVmdwbWk3QnlRa0VR?oc=5"
     },
     {
       "n": 30,
-      "title_en": "Top stock gains: US stocks posting the highest gains today",
-      "source": "Yahoo Finance UK",
+      "title_en": "Stock Market Today, Nov. 20: Amazon Shares Slide on AI and Mega-Cap Tech Sell-Off",
+      "source": "Yahoo Finance",
       "score": 8,
-      "published_kst": "11/21 04:31",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jVjZkSUN3Q1VtNDRDUTI2cE5HV2JKelY5RG1pZU8xcEMya2xzbUFka0RpTzY4ZGp2SXphSld0dTl6emlQSFlJanVpVHVFaHprXzZ4Vll4ZDRPbUlyTnNuRXZB?oc=5"
+      "published_kst": "11/21 07:50",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVg3SE1HQVVoQS16TU1uVkFwbGhMN3NHOE9CYmZxNjE4aTlKME9sX19YOHBPckpLQ1JUOXRGbG9zc3ZzRVQxLTlWSDdERUdnWF9BSDRYSUlhYnpYRl80NTc4bV9VLTM3bl9kVl9BbkhLN0lKWTdpbTBXWGlBcjJoR3loMngtLXpRMkxPYVEtNWpVR29V?oc=5"
     }
   ],
-  "earnings_calendar": [],
+  "earnings_calendar": [
+    "11/20 · BSP(Bending Spoons S.p.A.) · time-pre-market"
+  ],
   "korea_points_rule_based": [
     "필라델피아 반도체 약세: 국내 반도체 시가와 외국인 선물 방향 경계",
     "나스닥 변동 확대: 국내 성장주·코스닥·선물 갭 출발 가능성 점검",
