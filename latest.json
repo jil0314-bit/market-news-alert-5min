@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-24 14:20",
+  "generated_kst": "2026-11-24 14:28",
   "us_session_date": "2026-11-23",
   "indices": [
     {
@@ -48,7 +48,7 @@
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1342.52,
+      "price": 1342.58,
       "chg_pct": -0.13,
       "as_of": "2026-11-23"
     }
@@ -683,14 +683,6 @@
     },
     {
       "n": 2,
-      "title_en": "Hewlett Packard Enterprise (NYSE:HPE) Slides as In-Line Revenue and Margin Mix Overshadow Strong Earnings and Guidance",
-      "source": "ChartMill",
-      "score": 17,
-      "published_kst": "11/24 08:05",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcXR4WEVFeXgwSWZqTUtwN2xQbm10V3NjSmpHeFRjMnpPdTdudDJvUzZWQ2JkM0NUTWlFcEN4ZDhYdW5JX3lYLUk1Zzh4WUx6d0pEWFcyVGtvQ0RoUmRHdW95dmJET0lxalBsTzBra0J6dHBsaXh5V1d6N0NIOEV5cVVUZmE4N0lPR24ydVFxU1dlbVZSMURibGdiWlVwS3N0SzFqNS1VVzBCTk9RMGd1c1BQaFRwbTYzRTVDZVM2MnZxZVNGYktDRTlXQndvbnlidHExbjQxdzd4WXp1WDRkSkg4VDRXTkVMbzI3V3RYUk44dXR0VnRCYy1B?oc=5"
-    },
-    {
-      "n": 3,
       "title_en": "Jensen Huang Returns as NVIDIA Shakes South Korea’s Stock Market",
       "source": "Korea IT Times",
       "score": 15,
@@ -698,7 +690,7 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40MGZHUkxNTGIxWGpmNG05ZVFaaFBXRmtqVVNiQ0pVdmhWOU9ueTU5M2IwSzhVcFhvS0ZpUFlMVmRZQm1TZEJfbEhFc1ZaOUlNTmVWdEttMmlyckpJcDJlWFhKWGsycXhNSGFRQ25SX18?oc=5"
     },
     {
-      "n": 4,
+      "n": 3,
       "title_en": "Analysts comment on market impact of Huang’s return as Nvidia CEO",
       "source": "93.3 The Drive",
       "score": 15,
@@ -706,15 +698,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUG9fOFhCTGpEVG01eWwxMUZubmxRWFQ4MW9Sc1dfMEY5WnpucGtobTZoUE5DX2RCWHhfbE9vWFdDUzY2Y0hleEszREdIQ25fUHVjbXdpMGNrZnhIVmF6QkRJeFFCSjlVY29YN29NZ1dpYU5VR191SWFoMTF0SmE2ckdSNzZrX212dF9LazNyV0tVSHBxUmxJRlpqaTJobUQ3dnZoeHp0Zw?oc=5"
     },
     {
-      "n": 5,
-      "title_en": "Jensen Huang Returns to Nvidia After 11 Days, Stock Soars 31.5%",
-      "source": "Seoul Economic Daily",
-      "score": 15,
-      "published_kst": "11/24 10:53",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNFJaUmdWTlRhbWhGUnJkRHlJczJReFJLWUNXa2tTVDB4cDNySk1tcWFNWnBDVjFOcUZCaDRYcm1CZTJDX2pTaGlGRzZZVWRDODVrN1lGbzU5dUtmWDRSX085aTR5bWlSWGhpbklCSjJxVWIwTEEySmRCTjZvdHNjTmdDaHNRRWhZVTV0Qm85WjJDX2pGcW1fX1dZU0E?oc=5"
-    },
-    {
-      "n": 6,
+      "n": 4,
       "title_en": "Jensen Huang's Return Just Added About $500 Billion to Micron, Dell, TSMC and the AI Stocks That Depend on Nvidia",
       "source": "24/7 Wall St.",
       "score": 15,
@@ -722,7 +706,7 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaExNcUVvVGhSOEk5Yld4cWgyWWh3NTV0cUowSnpNX2FMLTJENVZ6VFJoMzVsc25wc2F6V0NDcXh1c0ppRnVZMkhKTWF6WGhmVjFybFp2OGE2ckhzV1pxdVRNZkM0T05HbXItRjh5N016NzV5NUd4Mm5xTkZXc0pTMWpjMWlVMWZyT1V2Vmg2RmVtQ09wQWVlZlEwdFFSTE01MVR1LVBXRWp1czNNdGt3cVVTYTg5eTlPQzJxRWhvdUpqaGdobi1VaUZhSVBtdnA3SmpGS3RYN0VKQi1TaXRFQkNwLVJVQkJs?oc=5"
     },
     {
-      "n": 7,
+      "n": 5,
       "title_en": "AI stocks rebound as AMD, Broadcom, Micron, TSMC recover after Nvidia CEO's return | Hindustan Times",
       "source": "Hindustan Times",
       "score": 15,
@@ -730,7 +714,7 @@
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWDFSNWh2QUp1TUp4MDUyTTdpVmRHSmhZcW85NzhOVmRvS2FUUWVVUWQtdlNTdGZnZHlfaFFwTTNjTk9XQms0ZXU1SXN4bHJTb1ljcEJZNUpPX3FrTjVaZ1Fuak1HdXdyb3hzMDJmR3VHLXhEWHdDMnpoV1l6bXZZMElTSTVjVzlyc3ptWExleUhmZlROS3FOUHVJZWtSWG1BWEhEaWtfVEhtdWRScEp5QTZIX2ZUVUJoR0gzSnZ4dE4yYXl0anJVY00xQjFOeW51NXk5b2VDelR5SUxNb29HdWRpaHhUa1BhNzhrV0tqYTBCOHFfeG1wZ2Y4djF1cEJxcEI0Q1R5Y0l1d9IBjwJBVV95cUxQbDBCVDNpTDZ4Z21LWUU5dEc3UjdqRjZBVDBsZGFIbkRVZVZpN1MwY2UycGFQU0NtalEyOW5zbHVQMTlucmFaT0dJS09kc2QtaVhNaENFZDcyNl8zVEtVd2JTcUZtR1dmMlVybFVXNDZMb3NuY2Z0ZE10MWFzTy1aVmRFRy1LWkprdUpycGl3bGhJYVpuTk15UUMxR0V5QnJIS244MkNTQWdZa2ZVb1NFVDRGTzhRVnZFOFBueGkzNXpCTkNWVEZuNUMwd0NudzIwTHdWeTliVlNZSFBvQkhGdENHWFdCR1djcHlPQUF1WndrNm9TOC13T1plZng5cFdqNWcySlJnSFJyc1dweEtn?oc=5"
     },
     {
-      "n": 8,
+      "n": 6,
       "title_en": "Huang's Return Eases South Korea's Semiconductor Uncertainties",
       "source": "조선일보",
       "score": 14,
@@ -738,7 +722,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUXBXZnZrVWhtM2Q4ZzZvQ25aY003YTJNUmszbmZEUFlzbzE4QmNvSVJBTWdzaDFsWVp6anMxd3JQczUzcWg1OXNMb1BldjNydWZKOHpCbjFfX1U5OTZmQlA4cGhYQ0hQeEhTWjZ0S1hzTGxGc0tzRWpFUWZGemIyeEhfZ0daLVNi?oc=5"
     },
     {
-      "n": 9,
+      "n": 7,
       "title_en": "Israeli airstrike kills at least three Palestinians in southern Gaza, medics say",
       "source": "Reuters",
       "score": 14,
@@ -746,15 +730,15 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzdHQ2gzSWhrMmF1X2lxVWVyTVdvQXg1QTVjcUJ6bXVxd0htbC1qSV9HbGg1aU4xdzlwaE41TlNWd3dDRng2NllYN1BMaktmX1JaU1A2RURQa0h5OHlBMS15Um1vRVlIVjRmY3F5RVhJXy1IWUpPbTJGNG4zV3ZJOHp6NTE3UG1wUUJDeWJJbVlUSEpBcHE0bF94UHhNT0ZpVVVIUWdscUZXSDJFT3QxZHQyaU45bGdDTnVmTEhjQnM4UUpLX0E?oc=5"
     },
     {
-      "n": 10,
-      "title_en": "Stocks Rebound Sharply as Nvidia Reinstates CEO Huang",
-      "source": "TradingView",
+      "n": 8,
+      "title_en": "Oil Falls After Lebanon and Israel Agree to Ceasefire",
+      "source": "EnergyNow.com",
       "score": 14,
-      "published_kst": "11/24 06:28",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWo3VzFnTk82Smg5djNaT25CT1BEbGpEWW5mTGd2VnpuQlFLdmxKdWpkb2lORmtyRmQxTmFQeGw4Y0dXMlhjS3Q4a1ZCZ3VBT0M3ZmgzYUFxVmFaSUdRT29WbWViZlBJSUhkbHJ6U3lTT0xBeHAxYmRGTU96eUxlakV1dUJUQWVoOXlsUjQ2NGVmSDg2UjdETld5RTgxckR5REFfdzUtNU9aTFpWYTYwLVB3?oc=5"
+      "published_kst": "11/24 07:43",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdNNFhOakNzanM4OEJDMDJ0SnFnYTNzb2hjV3VjVzdua0VXWS1maXZqNnBOX0h3WEdwb2I4NGRDSllZMlBjalQ2OE95NDFKUGdDWGZjbWNNX0tPaVN1OVRMWVlWNlB1OURmRS1Nc2tEc0JDV1Z3b25aRm5WeGlsYmlhR19DaGxGUC0wSA?oc=5"
     },
     {
-      "n": 11,
+      "n": 9,
       "title_en": "U.S. stock futures steady after Nvidia-led Wall Street rally",
       "source": "Yahoo Finance",
       "score": 13,
@@ -762,7 +746,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFkzaTBpMy1QY3pYOG1fR1dlUG0yZ0ZEcEtpYlpXeGxsNXZaQzczVzlTLUdSOXFZUTlRX2pDd0F0TVRfVmpLYng2ZUE1NU9hSVVLalVxcEVKT1p5Uzd1S19UWDVVUjJNb1JPSmRUSDVEYUVkMElmSzU3eHU3dDhzSktWOXRjOWV6YkZWMDc4WjBqdm5aaXpXaUJ3?oc=5"
     },
     {
-      "n": 12,
+      "n": 10,
       "title_en": "Nvidia gains nearly $1T as Trump says nobody could 'revive the stock like it's being revived'",
       "source": "Yahoo Finance",
       "score": 13,
@@ -770,7 +754,7 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR1l0YldHVjdWbVRmRXVkTWxOQTN0bWlZTU9rbkRMaS1MRlh6eW9zS2hESkNxVEdWODFIM3VLNkRsYmxCcUdEWGNLdlUtRU8zN3FUNGlPY3c4aWVPV0tiQ1lJN3E5VmlINjg3ZmhjdUNmZS1oZnFHenhNTXRZLWpNWWVHaDE2N0pIZURQVWlxWURBZnNSaE9YMTlyOTc3UzN0QmFWX296RzZJbEJqYnNjQjJfWVZ5MlBFNm9GbXVqMl9iTDVjSEQ1SDVfT0ZFTFhBYzE4dVNnS2JObHlmMFY4?oc=5"
     },
     {
-      "n": 13,
+      "n": 11,
       "title_en": "Agilent (A) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
       "source": "Yahoo Finance",
       "score": 12,
@@ -778,7 +762,15 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOU1WT0piNk8xS2VWTmZNeE0xcEtFdFBseVRDYVIwbDdWMUNUWEVMdmxXUnlyOVllTWpMakxLUGpYcGhFUEJIQmJZSkpabTRTVWNiUk9xX0tfWi1CaVlQVHJWclNvWm5TeTFlQlpoRHprZFVSR3VBUGNPaW5ULVR0Z2FOTF8zNUhQaHk0Yy0tXzJKY1dDclF2M1hYWTk?oc=5"
     },
     {
-      "n": 14,
+      "n": 12,
+      "title_en": "Huang's Return Quells 'AI Bubble' Fears... Stocks Soar as Panic Gives Way in a Day",
+      "source": "파이낸셜뉴스",
+      "score": 10,
+      "published_kst": "11/24 11:40",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54YlpIQ2FjS1UyS1g3WmtXNDl6bUJQdkh0c0otazZNVGxHWUVvU3BrbDdVNVJka3lJN3NTcTNXdnNfc0docG96b0FTMWdscUFpdFV2djN4TXk?oc=5"
+    },
+    {
+      "n": 13,
       "title_en": "Huang’s Return Eases HBM Supply Chain Concerns for Samsung, SK hynix",
       "source": "Businesskorea",
       "score": 10,
@@ -786,7 +778,7 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpMWdWLXVuNFpmdy1OODZHOXFxVzl1ZEVhWlNGbHpPa1dxRC1ENW90MlZsT3lwVktYUDYzbWE1VUIwVmFSOUJEVXduaXMxSllXRGNHS3FRLTg2R2ZsOGFuOFF0T0JGdDJzTDY4TmRKd1ZMYkJj?oc=5"
     },
     {
-      "n": 15,
+      "n": 14,
       "title_en": "Samsung, SK Hynix Stocks Halve Amid AI Bubble Anxiety",
       "source": "조선일보",
       "score": 10,
@@ -794,7 +786,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1ZXaFFVNWllbDhtM2ROMS00d0pZXzNYd0tLU2NFOUQzVGo4c3IxdmZxQ0k2RTF5cVpXcndYMmRtank0R2tjZlJ1NjRXbWpoazBRX0M4QTI1ZTJ2OVoxRUI2NTl1anpuZDlkejlxblpZeW83dkF2Q2xTLW9vMjhwWG9MMWJfNXVz?oc=5"
     },
     {
-      "n": 16,
+      "n": 15,
       "title_en": "Citi, UBS Cut U.S. Equity Ratings as Chip Export Curbs Widen",
       "source": "Seoul Economic Daily",
       "score": 10,
@@ -802,7 +794,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWlHdzM2WjhZZi1CX3ZxZFlfdjRfWUozbnpjWHYtMFdoZ3g5TUxKa0h1VjhISmdJd0xta201a3NDMEsyV0pnVHBBa0JkUXdaemg1NV9kWXRmV3FxbjZ5VlJKUnlaRnYtcEN4R3BuSEVkSUlBWjJDcExQUXFuTFAyOUlMejMxbW01UllDRHd5bjQ1UWVKTVJWMS1BNWVRVllf?oc=5"
     },
     {
-      "n": 17,
+      "n": 16,
       "title_en": "Kospi Jumps More Than 5%, Briefly Reclaims 5,000 on US AI Stock Rebound; Buy Sidecar Triggered",
       "source": "bloomingbit",
       "score": 10,
@@ -810,7 +802,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FVVJ2V0RYVi1kVWR5R1ZHd1N6U2JzR1cyWWozam9Ia01VU2ZzU212dFJZWGhaV18wMU5jeC12cE1DWnllaWJuVl9BdFRZaVdlQ3RYUQ?oc=5"
     },
     {
-      "n": 18,
+      "n": 17,
       "title_en": "Huang's return could lift Korean chip stocks, Daishin Securities says",
       "source": "Chosunbiz",
       "score": 10,
@@ -818,7 +810,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM1dwVUNoRlNiQ01EXzI1S0xrTC1DckdPeUEtQl9iNm1YT0RUS0p2dXBsbXdZdGRpV2c1VlVZdUpZR1JsbWhFMFFpQW1ndlZHU2hKdmhOeHZQaVNuQl9QRmIyRi04Rk9TSHRFMy02U2JfRUI1VnBFcFBjUGllMkJZctIBlAFBVV95cUxOQ1ZfeFRZcjRfdmhfdzc4eDJaWlpnQXhVZVMwV0sxU29Tb2NJbnBnM1N6ZVVlOEg5cFdjV2haWS1kV3QwVDBFcVRMbVF6Y3BZNmhjN1RuTGxITEU0Ti1KOU85UmpWR0tObXRDRGV4UVl0WWdBYjg3czQ2SThqSTJ2SmhWVng4aVpUQXZjT1ZBM2tsQ3Vt?oc=5"
     },
     {
-      "n": 19,
+      "n": 18,
       "title_en": "Corporate Self-Purchases Become Market's Relief Pitcher",
       "source": "조선일보",
       "score": 10,
@@ -826,12 +818,20 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkQ5cnlsTjN6UnM1bDhTbk5lM3FMUGpJLUVNaGJLZThQaHZac3ZCVElfR05qVXk4bEZFV0JzMndWWEh2WHJ4UnZDS0hocEhSa2tfT0ZhUmUyT3F0aVdKcHpjdC1QMTBIbjBhdzB0WFpOeFJ1NWxhUFV6UnVjU2I0NGFXV0tueXhSalZhNU9B?oc=5"
     },
     {
-      "n": 20,
+      "n": 19,
       "title_en": "Unexpected signs of a rebound came from the U.S. stock market while the KOSPI, which had been lookin..",
       "source": "매일경제",
       "score": 10,
       "published_kst": "11/24 08:15",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jd2txZzQ1MkhoQTFGa2UxQkRSQ0pNdGF4MEM0U3o1Wkgyald0OERWa1JVTHBhRjk4Rjg0dElKTnE0SGV6cmV3QlA4dU5lNVU?oc=5"
+    },
+    {
+      "n": 20,
+      "title_en": "Stocks Rebound Sharply as Nvidia Reinstates CEO Huang",
+      "source": "TradingView",
+      "score": 10,
+      "published_kst": "11/24 06:28",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWo3VzFnTk82Smg5djNaT25CT1BEbGpEWW5mTGd2VnpuQlFLdmxKdWpkb2lORmtyRmQxTmFQeGw4Y0dXMlhjS3Q4a1ZCZ3VBT0M3ZmgzYUFxVmFaSUdRT29WbWViZlBJSUhkbHJ6U3lTT0xBeHAxYmRGTU96eUxlakV1dUJUQWVoOXlsUjQ2NGVmSDg2UjdETld5RTgxckR5REFfdzUtNU9aTFpWYTYwLVB3?oc=5"
     },
     {
       "n": 21,
