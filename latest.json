@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-24 14:17",
+  "generated_kst": "2026-11-24 14:20",
   "us_session_date": "2026-11-23",
   "indices": [
     {
@@ -48,8 +48,8 @@
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1343.28,
-      "chg_pct": -0.08,
+      "price": 1342.52,
+      "chg_pct": -0.13,
       "as_of": "2026-11-23"
     }
   ],
@@ -747,6 +747,14 @@
     },
     {
       "n": 10,
+      "title_en": "Stocks Rebound Sharply as Nvidia Reinstates CEO Huang",
+      "source": "TradingView",
+      "score": 14,
+      "published_kst": "11/24 06:28",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWo3VzFnTk82Smg5djNaT25CT1BEbGpEWW5mTGd2VnpuQlFLdmxKdWpkb2lORmtyRmQxTmFQeGw4Y0dXMlhjS3Q4a1ZCZ3VBT0M3ZmgzYUFxVmFaSUdRT29WbWViZlBJSUhkbHJ6U3lTT0xBeHAxYmRGTU96eUxlakV1dUJUQWVoOXlsUjQ2NGVmSDg2UjdETld5RTgxckR5REFfdzUtNU9aTFpWYTYwLVB3?oc=5"
+    },
+    {
+      "n": 11,
       "title_en": "U.S. stock futures steady after Nvidia-led Wall Street rally",
       "source": "Yahoo Finance",
       "score": 13,
@@ -754,20 +762,12 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFkzaTBpMy1QY3pYOG1fR1dlUG0yZ0ZEcEtpYlpXeGxsNXZaQzczVzlTLUdSOXFZUTlRX2pDd0F0TVRfVmpLYng2ZUE1NU9hSVVLalVxcEVKT1p5Uzd1S19UWDVVUjJNb1JPSmRUSDVEYUVkMElmSzU3eHU3dDhzSktWOXRjOWV6YkZWMDc4WjBqdm5aaXpXaUJ3?oc=5"
     },
     {
-      "n": 11,
+      "n": 12,
       "title_en": "Nvidia gains nearly $1T as Trump says nobody could 'revive the stock like it's being revived'",
       "source": "Yahoo Finance",
       "score": 13,
       "published_kst": "11/24 06:58",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR1l0YldHVjdWbVRmRXVkTWxOQTN0bWlZTU9rbkRMaS1MRlh6eW9zS2hESkNxVEdWODFIM3VLNkRsYmxCcUdEWGNLdlUtRU8zN3FUNGlPY3c4aWVPV0tiQ1lJN3E5VmlINjg3ZmhjdUNmZS1oZnFHenhNTXRZLWpNWWVHaDE2N0pIZURQVWlxWURBZnNSaE9YMTlyOTc3UzN0QmFWX296RzZJbEJqYnNjQjJfWVZ5MlBFNm9GbXVqMl9iTDVjSEQ1SDVfT0ZFTFhBYzE4dVNnS2JObHlmMFY4?oc=5"
-    },
-    {
-      "n": 12,
-      "title_en": "US premarket chip stocks surge across the board; SK Hynix up over 10%, Nvidia up more than 9%, gold and silver rise in tandem",
-      "source": "BigGo Finance",
-      "score": 13,
-      "published_kst": "11/23 20:05",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1QTl0RG93VUxFX0tNVTNteEFMNGt2b2xZV0doSHpFQXZoQWE3SC1VSmdib2QxMWVVczBkZ29UNXl2RkdaNWFwd2pBQ20yVGZQMnYzUWJiWG1WXzROdjhuVVAtaFFZNHQtSnBBR29nd1FCbkR6WVE?oc=5"
     },
     {
       "n": 13,
@@ -859,14 +859,6 @@
     },
     {
       "n": 24,
-      "title_en": "5 Companies That Win Big From Jensen Huang's Return to Nvidia, From CoreWeave to TSMC as AI Trade Roars",
-      "source": "International Business Times Australia",
-      "score": 10,
-      "published_kst": "11/24 01:04",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdk5iOUJGOGJlMWwtcjBsRGVqSl9sM0FVb0w2MTVjdXMyZlppallJMVlFY2llVVBDU0plMEZCdlEzSlUtQ0RCTGlFWU5CWkNFY0dUZkkzc0RoM3VGNFlMaUlQN3NaVWd3TTdkbEE0Mk9JbWhjMm1ScVZkbm40eklBVUVMaFhGZw?oc=5"
-    },
-    {
-      "n": 25,
       "title_en": "Services Firms Feel the Squeeze as Oil Rally From Iran War Fails to Spur Drilling",
       "source": "EnergyNow.com",
       "score": 10,
@@ -874,7 +866,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXlqdTNaeFJzemNQZEVMa2hMcVgxZXlPVDVNenp5S2ZaMm9zaHExeVNLaE02RjY2cHJaWVhnQ0QxYUUyc0VZeURHQTB6V1FfUzBEQllWT3h0ZmViM01OSWxvM3RvU21wTk4zYmJvQmZ3RVBWNlRxQXRsV1Y4TU9mUWFyRmhJQ3Z3a0dxZ3Q3d0FTZVNPSUlWTm9TUnhfMEpMVFhSS2wyMTlmMThNUV9xRXh3?oc=5"
     },
     {
-      "n": 26,
+      "n": 25,
       "title_en": "Anthropic and Nvidia Rebound in U.S. Stock Market After Sharp Selloff — Is an AI Stock Bottom In?",
       "source": "BigGo Finance",
       "score": 10,
@@ -882,15 +874,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qWGFrQ1V2S18wM3RLNThwek1kM2xYRVF2Z2NpTHpZNk85LUhRY0dBMDJ6bG9fM0ZyUFB6QnZVR3UyQXBBWjR1TjJJQTZPOHpWak5Td1JwcXk4ZDNoLWtmTWJ6U0JQbzJQeDNSTG5UeWFPNTM1NXc?oc=5"
     },
     {
-      "n": 27,
-      "title_en": "Premarket: AI hardware stocks up 7.4% after Friday's rout; Nvidia up 9.4%",
-      "source": "Techi",
-      "score": 10,
-      "published_kst": "11/23 18:52",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFdJZUJQeVJ0c0lTQUZ4MXphYUktV1ZKbWUzbEhaZ1dNbTJjRVFQcVh2YnVkV3BzRWY0cEZ6U21YMjczM20xdjN1ZmVuWTZKdkItZkhLajhiZEJYcnFPRlJaNkVBU1NGR2lJY2hWZjRrLUNoRUFYRjVhRjZOaWJmZVVKeWVURjRqWnBR?oc=5"
-    },
-    {
-      "n": 28,
+      "n": 26,
       "title_en": "Top Funds' Activity in Q3 2026",
       "source": "Pension Pulse blog",
       "score": 9,
@@ -898,7 +882,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0JLd1FSLUFKTnJxU2FVOHdQbEFHXy1md0YxRWdKd1RTN0Jmdi1QS3MyTmd2bWlwSUd5M01DTG4zNkJ2SHFqX1hnelB1WU1YaXpCSlVFb3p6X0dEQVRIcGhIa3dlczNqMDB1NUV0Vkw0dVhmT2RmdDNkSlVldjYtTw?oc=5"
     },
     {
-      "n": 29,
+      "n": 27,
       "title_en": "Anthropic Drops 6.6% as AI-Complex Selling Hits Partners",
       "source": "24/7 Wall St.",
       "score": 9,
@@ -906,12 +890,28 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOUpXTmowd0VwMXp0dmowbXEwMUJtSDRSVDBaV0dwaGVRNUxEWGR0bkJNWHJDSlhTSjI2WGhEUnpleEM5ZWRLTmMwVl9JdTF1cklwcm9ZSHJKajY2dklvckhlU0Nna0JVdko4bTQxSVpOQWtwVmE3QTNJWWJ3Vl94Zjk1cExoU29KNVQ1U3E0Q0Q0UQ?oc=5"
     },
     {
-      "n": 30,
-      "title_en": "Michael Burry and Elon Musk Disagree on NVIDIA. It's Up 32% Today, so What's Next for NVDA Stock?",
-      "source": "24/7 Wall St.",
+      "n": 28,
+      "title_en": "Nasdaq futures tripped a circuit breaker built for market crashes as Jensen Huang returned to Nvidia",
+      "source": "Yahoo Finance",
       "score": 9,
-      "published_kst": "11/24 03:54",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkZWNEdkMEdpMjh6T1ZfTWtLRVFGd05YWGxRSXJsZjhJYktKeV9ydFh3VGNNOHNvMUZ0NUJkRXBfcUthRmdOaWNIZHk2Wm5LMG1Xd000NkxSd2loWXpFSGhRdUZyblYwbmd6ZW9QOUF4YlFlNUczTHhhR1NzNTZXWURvTkV4Y3c5cVRQV1lESVUxS0FBUm14SE1DTVRteXNTeVYzZUFpUlc1QWgweDZldjc3Ql9ENXJnWk1KMjdqYUh3cHdPLTVRdGVyWjl1MEtp?oc=5"
+      "published_kst": "11/24 01:25",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMUU4TU5rZk5fRHVMMnZyVVJSU2ctQWFjR0tYVlNaZUp2d1cwOXp5bGlyWm9sZmRzWHlCUmdEU3JwZ3Z5LW12TXR5cW5QY3pCNUxKT2tUbEQ2d2NnMlg3bDdkSWVTWEJCYVFvQVBXX05ESU5UMzV2aXJ5eThVbXBZcVU5NFltaFpFcDdLS3RfV2g3QUUxclV4TGVzcGM0VGpiNDVCYldhSmpnQ0U4ZmdvU2ZNTkhvdU0xWTlBbzBqQ096dDRwSFlGY0FGRHBiUGphVXd3U0dOQVVMMnF1blR6T2NuYzhNUXh2eUd5c1NVbE1EcWV3XzFV?oc=5"
+    },
+    {
+      "n": 29,
+      "title_en": "Nvidia Poised For Biggest One Day Gain In History Of Stock Market As Jensen Huang Returns",
+      "source": "Yahoo Finance",
+      "score": 9,
+      "published_kst": "11/24 00:03",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUllNzZaazk0eDdDc2xuZUx1c1lxczdlR3BITFJ3ZG43OTZlcjlmTUM0NS1BYnVKOEc1N3pZYzJiY0d6UGIzb1VYdDF1TkYwei04cTBVaHFwRjZhWW5FN25kNlZoSFlkWHFla2ZRLWptTThxTUNpYThmeXZvMmViZ3VreVRCbURNSGxjanFJLTI1WWV2LW9NdVpR?oc=5"
+    },
+    {
+      "n": 30,
+      "title_en": "PrimeXBT Q3 earnings recap: why strong results failed to lift share prices",
+      "source": "Invezz",
+      "score": 9,
+      "published_kst": "11/23 19:52",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0daOVh6bU9PY2RWMGRlcnZPQVQyTllDQVZzcE1TMFZNQjBxbFdZMGQ4MTVCbGZLWE5nVW1sMHkxMmRSZF9yanJqLURQLUNXUXNMMlh3VE56Y1RrU1FmS0xGR1N5cE9KWGhNX29JT0VSZC1RS1JXZWNWX1VNMFllWDQ1NVpoMlRBTWNObzA0UnVOMDVsR210T0NoVjJiRGh6Zzh5RmxHamlqbVpTSGc?oc=5"
     }
   ],
   "earnings_calendar": [
