@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-25 13:15",
+  "generated_kst": "2026-11-25 13:32",
   "us_session_date": "2026-11-24",
   "indices": [
     {
@@ -48,21 +48,21 @@
     {
       "name": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.98,
+      "price": 103.97,
       "chg_pct": 0.16,
       "as_of": "2026-11-24"
     },
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 80.68,
-      "chg_pct": -1.67,
+      "price": 80.77,
+      "chg_pct": -1.56,
       "as_of": "2026-11-24"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1343.32,
+      "price": 1343.27,
       "chg_pct": 0.17,
       "as_of": "2026-11-24"
     }
@@ -742,11 +742,11 @@
     },
     {
       "n": 9,
-      "title_en": "Stocks retreat as AI rebound stumbles, tariff threats loom",
-      "source": "Global Banking & Finance Review",
+      "title_en": "Jensen Huang Boost Fades Fast as Taiwan Stocks Tumble 8%",
+      "source": "Bloomberg.com",
       "score": 13,
-      "published_kst": "11/25 10:57",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1k1ZnJGem1XclVDcE9ZNm51TUdua3BWNGwxcWM5TFQ0U0J0amZFUmxBZnJkSjZHazBSLWhLeWZZdy1jSXpkMTVabVZmSExqRnpsYmdBdFk4TnhhUnhKZlhwby1BazBWQ3ZpeExEc081TWhudGpQS1FjeGx2djlOVEFIX1ZmRnBEX3IzdFUtMXl1cFFpZ2ZOUjlsWQ?oc=5"
+      "published_kst": "11/25 13:03",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSndDcWFkVFpWQUhnOHh4X0xYYlRXOE5MaHp4eUxXS2E2YkN3aUZQSlRCQktESDdsd2NrTlV1WnlLQ1B6WFhoZzY3VlZXcHNWbVRQcGszNWxWbVp6NkZiQUxTc0ttUHVObVYxZ1FmaXdPSzJJY29sYXRiWUhIWnlpR3UzeHplWnlTM1BJMVdxdGgtRGNjUVlpWGU3ajF5UG8tTmRmdHN1Y0dJQQ?oc=5"
     },
     {
       "n": 10,
@@ -758,14 +758,6 @@
     },
     {
       "n": 11,
-      "title_en": "Anthropic falls below IPO price as Nvidia gives back gains",
-      "source": "Yahoo Finance",
-      "score": 13,
-      "published_kst": "11/25 06:45",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM19uMmlhdndRY3BMQmN4WlBRLWdvbTliRjdxMUhxSnhyd1ZJbG5IWHBtUkhWeE5OLUhNeFVLTWY1UE9HM3NEVkVMMGQ4cV9pRVA1VlRtR0dObHVRNWxjVllIMG1vTy13Zlg2V3pUUl8zU0pvX2dyWDNIUjZDd2FmUFhReGVUZUxkSkpLN093UXlMZ2gtU2t0NWtyeG9RYUNuT3ZFWl96S0c?oc=5"
-    },
-    {
-      "n": 12,
       "title_en": "LIVE updates: Asian stocks surge on Nvidia rally as US futures edge higher",
       "source": "Latest news from Azerbaijan",
       "score": 13,
@@ -773,7 +765,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdXpLT01FNUlKaHMxOFhqbDJURVFsdkI3SG5IZEl6cDBBQjBJa3VlUkp5R3U3NTE5Q0M2MlRrU1Z4TURwZldQTERYWUZ1MlZnMmdiTHVkNURTYXJYblljWnZHeDRBSE1XS3p1SXZCUlFoQXNNZHRRZGhHMVNVWGlmWXE1bVpiVDlJNmp0VDNEZnhEcDlJaXlGaGRn?oc=5"
     },
     {
-      "n": 13,
+      "n": 12,
       "title_en": "Jensen Huang's Comeback Halo Fades Overnight as Nvidia Plunges Over 5%, Erasing $250 Billion in Market Value",
       "source": "BigGo Finance",
       "score": 13,
@@ -781,15 +773,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SODlfelZWeUZsT2JsSzdQX01QSnlaMWV5Vmd3RU1Fclpxa1pHQjZWdmV0WDJSdWxZRXcwMWw4V3VtUmxfMVF0V05EdGF5YzlLcE9TeXJUNnBtUWdNZGUwcnhhYUp6ZTc4OFI3ZGVPRnJXdnR2eUE?oc=5"
     },
     {
-      "n": 14,
-      "title_en": "IREN Fell 42% This Month Even After The Market Jump on NVIDIA News: This Wall Street Pro Maintains That 440% Returns Are Coming After Q3 Earnings Downgrades",
-      "source": "Yahoo Finance",
-      "score": 13,
-      "published_kst": "11/24 22:45",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQamtIUkxNQndhTGhvN3h1aXNSRUF5ZEc4MjVsamdka0duLWhReXo0b0VBYjBkbGo0NTVzMEk4RWNHX3RZbTAtaVRsVHpCQlRYTWs5akZKRmhPYy1hYjBPV0pTak81SFNlYXd1Y2pLaEFRdFVvRWFSdkZjYVd2ZUlETHBDM3NZc2tzMkY2VmF2cC1jdw?oc=5"
-    },
-    {
-      "n": 15,
+      "n": 13,
       "title_en": "US probes Iran role in dozens of cyberattacks on tankers",
       "source": "Israel Hayom",
       "score": 13,
@@ -797,39 +781,7 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kTDh5dnc4ZHo3WnBpcnhDVVE3V1VZVm40TEVQWFBINFRsa25zRUl0YlB0WVg4bG5DQlotYlRub1g1RVo4M3h4ZElTWHZRWHkwbm8ycGlsOUxxMy1iekF1RFVxazFqcFZ0NFZla1B3ZmV2RGhad2JENmZqeWlHNWc?oc=5"
     },
     {
-      "n": 16,
-      "title_en": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
-      "source": "Yahoo Finance",
-      "score": 12,
-      "published_kst": "11/25 10:42",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDZ0bDdjN0JUTWU4T0c1eU5YZGdUckxKMTh3ZHVnd2VkVjQwTWRHWGcxMFA1cTlwMlJrYW9rNXhjV2NheHVzeXZrdHl6alZaNk5ZNzZUdTFNZXNUaXFYQzRWVk02dmtMdVFWTU9ZclBwc1ZOOHhiTmZ4Ym0xRHBmZzU3bFJDdEg0R3BITXkyOXQ?oc=5"
-    },
-    {
-      "n": 17,
-      "title_en": "Dell Just Reported Earnings and Raised Its Forecast by $10 Billion. Is the Stock a Buy After Tuesday's Selloff?",
-      "source": "Yahoo Finance",
-      "score": 12,
-      "published_kst": "11/25 07:14",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWlHWllGZUZKazVoVVlPQ3hyb2poY2N4SjRObEhZcDB6R1RabEoyUXZfWjFiSmJNNi1aNGFpV05lRGtkV2NsQUdYbDV1MngydDRuQnJUSVFqeHFzOWtYdVdmcElQU1VId0p6Z3dJUTlodExYdnI2R2ktQzltMFA3SF9lUFF6VG04bHJDdGh4aFZYY1F6Z1ZLcnh5VjdvbFpq?oc=5"
-    },
-    {
-      "n": 18,
-      "title_en": "S&P 500 forecast: SPX struggles for direction ahead of PPI data",
-      "source": "FOREX.com",
-      "score": 12,
-      "published_kst": "11/24 20:14",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzZlM1lORzR2X09kZlVQc1FZM1JiSmNYLUNGV2pPdFlEdFV1YzV5TUprMURzZXJyYy1mVmFSMmh1YmZ6bVZ4RVJPNUFRRGpnWG85MFJrZ00ycC12QUh5dHNNRV9KVlI2WjZ2clB2QVRKeno4cjJBUzNsUDB6djJwNzdhVTVmY1h2bjZqQ2h4SXhYMHZBVlVOLU1SVnJmdUx2QklwZjl6NEY3VnVMalpQZg?oc=5"
-    },
-    {
-      "n": 19,
-      "title_en": "Wall Street's 2027 earnings hopes may be dead on arrival unless the Fed blinks in December",
-      "source": "Yahoo Finance",
-      "score": 11,
-      "published_kst": "11/25 02:41",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSWRkbE8tRFBpVXJpVTBDWU5oN3hoajRwejNvSUd2MFIwTXVlYVFqQTR1RHRMWGVieHVNdWVPMngzT3JvTUNXMzVULTZDWFlIbEVzSmZvNG1HUnBtUHdjVnBlSHhGcnluY1o4dl95cE5uNzRmQ1Yxdlk3bXh2cTczd3pmOFJJaGozRHdmRUxMV3BPZlVMSzhPckFheHR1UW5QcVluYlh4TWJ2dXBJRzFWZFIzVExZMk4xR3NsZ2xDUmZUOWtlMExJRC10aVFBTHNiVWRyQmVBanFWT1p2Q0RJ?oc=5"
-    },
-    {
-      "n": 20,
+      "n": 14,
       "title_en": "Analysts comment on market impact of Huang’s return as Nvidia CEO By Reuters",
       "source": "Investing.com",
       "score": 11,
@@ -837,7 +789,7 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFN1NjhsUFg5VTNfMGZ4bVZnTjk1MTl0bTJYNElDMnlyV3pqblpUUUp4ZnNxM0VoZUdpRkpKSzJ2OERSYVhJYWJ1Z002MjVkN1hUc2hGbXNwNDJJQ2oyNFRveTFsVzV2MEZrbmxZY1hnNzNFSVUwUHo3VzRuNUxJaXQxdGdvS2p1b0pSZ1BWdFF3cGtnZUhsVjhxMG9FcTQ2eFUtSEtNZk04dGhqSjZXRVV0RXhKU2RJbVc2OWJR?oc=5"
     },
     {
-      "n": 21,
+      "n": 15,
       "title_en": "TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO — Top Analyst Flags Risks To AI Recovery",
       "source": "TradingView",
       "score": 11,
@@ -845,7 +797,7 @@
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWEhDdVZ3YlNOcXBQRnBpTmp2SG43ZW9qZU1faEN2NHpBSzYzT1JxWVJJN3pUMXd3U1VQQ0kzeG0tRTh4SlpLa0w5eTU2bW1HdU5vX09GWngtX2FCMzJzT2pJTU1QSmN0enB4bWFFOVZYa3EybV82REg3UkJsLTdlN0pIRFVBdWgzSnFueDVTSVRqQlViUkdZUWlDLUJ6SFFpSmRhVC1pdGtFWTFYd1NWYWIwYmJrSDFkM0ItNllJU1VBX3FjYU1mMFNpb1J1bjl3QlJUdTF6LUI2aWtVbTdHb2EzUkJLWlM5ZU44bDJ0QnJuNEVQRW5jYQ?oc=5"
     },
     {
-      "n": 22,
+      "n": 16,
       "title_en": "South Korea's chipmakers rally on Huang's return",
       "source": "Yahoo Finance",
       "score": 10,
@@ -853,15 +805,15 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXRmSUFnVWRGNDJ2bk51NXhvRlBBdHdPLUVYVWtNTlEzaENrNkZYZDFPTDhhRVhhNGI3Z25VUURUZzdOZDVpaUFrMXdMcmZpLU1fd0trWmVpckh2UWVFbnZoR0tOLWFsX3RjSUhqdTdVc0p4blN5bU11VkliQmdNSUN4MlZaX1JfTU9weHdGckJwQ3BLQmNpdFRacjZtUQ?oc=5"
     },
     {
-      "n": 23,
+      "n": 17,
       "title_en": "SKHY News Today | Why did SK hynix stock drop today?",
       "source": "MarketBeat",
       "score": 10,
-      "published_kst": "11/25 10:42",
+      "published_kst": "11/25 10:11",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wR0NsMmUzajcyVGNlTkhSWDJsd0JDZ25KSEJXaG5FSTEzTm1iSEdoRG1EQV9wM0ZhdW1JbUZqdXR6a1VOQVhBbG5xX1YyRXd2anVsdmhqQXkzUFFtalVrUw?oc=5"
     },
     {
-      "n": 24,
+      "n": 18,
       "title_en": "Japan, South Korea Stocks Drop as Kospi Falls Nearly 5%, Samsung and SK Hynix Slide Over 6%, Kioxia Falls Over 12%",
       "source": "TradingKey",
       "score": 10,
@@ -869,7 +821,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMlhMX1JjMmhkcWF2NGluYS01bmVHc0VmcElTbjRvOEdBOW53elhvQjc2X0llQXFNd3g4SVBvZjRBbHdWTTZFbVdzN0xUMWlvTkJDRS1QX2M5X1JhWTlfM0JZY1NDa0ZpZXR0bW9ILXF0bDBRbTBPZFRlQ0JtbnJVZ2JYUHJmUHVXZFdJOE5SRXduQWJBYzJBdnFvYnFhVy1Kdi1yM1BuV2xBcV9GR0hoOWVMeUFySnYtdlJnSlp5ZE4xR0k5MFdKNHNhbFluS1lQS253WkVR?oc=5"
     },
     {
-      "n": 25,
+      "n": 19,
       "title_en": "KOSPI slips back below 5,000 after one-day Jensen Huang boost",
       "source": "디지털투데이",
       "score": 10,
@@ -877,7 +829,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlF3Ukx4dGJqWWxEVjFiaU9nV3AzTkZuRjRndGVDM1JzVnVlSnQ4SDNUSnB2WXRUMVphYV83cmhzS3I4Z1ZSTHNnWUR6ck15UWdabjdZZGtTR2pXTktxS2lSeGJRdnFtY29yaUk0c2lETS1KSVVlS0JwWEFRQjZ3WTA2YmpWNWtpZGQzdUhNNUxMbnd2VnlHcWNtaUlsektvTjhZbXNwXzZhQQ?oc=5"
     },
     {
-      "n": 26,
+      "n": 20,
       "title_en": "Hanwha Investment & Securities: South Korea's KOSPI Has Bottomed Out; Samsung Electronics and SK Hynix Shareholder Return Value Not Priced In",
       "source": "BigGo Finance",
       "score": 10,
@@ -885,7 +837,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pNl9DRVJDUTg0b1VaYnZoX0FlcVNyMVBKQ0lmS2REVm9ra0dQRzNocE9VSWJKLXN5bG9ibVN2bVJwWkdVOWdjYTl2N0JsZXRYRGNCV1pVX2xaamdVSG9EbUF5aHdfOG8yVkZjdTJzdXE0S3RLaVE?oc=5"
     },
     {
-      "n": 27,
+      "n": 21,
       "title_en": "KOSPI has passed its bottom, Hanwha Securities says",
       "source": "Chosunbiz",
       "score": 10,
@@ -893,7 +845,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1VvRHZlNnJsSG0zVzRFNDkzUDQ1RHc2Q3dfYXZBNzU3VDl0TmczdTZfV0pfLXl3M2hGeWRYRlhIQWdCLUhhdEMxamlEWVU0TWFEQk1zUEt0WFJtY3hNeC1yRlBYUjFrQUlYaUlkZklac1phU20xdW9tV21EYW9UTdIBlAFBVV95cUxNNDF2SGpZWXc2UnBJUDd5bUhoSWRrUVRJa2VGM2FBSWN2ektQZzNsa0hQS19fRkFveU0yOXpVRVJWZ2ZTWXNSbFlfT0hEMmxYWnhfc1BtOWNZbHZTNUN2LUZrWkwtM3lUV2prZDhlbGdRNUVKM0h0Z2wyZjZrUGFHRUE5NktGMlcwdmZSSlliQ3dqTERu?oc=5"
     },
     {
-      "n": 28,
+      "n": 22,
       "title_en": "'Jensen Huang Effect' Fades in a Day as U.S. Chip Selloff Hits Samsung, SK hynix",
       "source": "Seoul Economic Daily",
       "score": 10,
@@ -901,7 +853,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0RqTVpnOTFVZTRLaFNuSi1kbHFHZ0MxSlBhc0ttVnhNbW5DUm1JZl82OERVRkR4aXB0Tm5IZnlZSmowVXhSVGFXS3N0M01CN3k2WS1PeTM4aW9uVEJPanRfSVJXN1RGaW9ZaEQxUC1hd1BBQV9UbVlUZ21FM1FsS0VnYUE3WmZUdTNERXZKVWVYUGhPYWRVOWsyYXlrZVRu?oc=5"
     },
     {
-      "n": 29,
+      "n": 23,
       "title_en": "KOSPI Jumps Past 5,000 as Huang Returns",
       "source": "조선일보",
       "score": 10,
@@ -909,12 +861,60 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTZBTWhzOXlfN0tKRjByTlIwcDdERW5JdFZKVVRLWjQ3TV9hMm0tR2hXR1FtMnNqQnlXQThYUDJtem9jdlhsa1JoRXY3Yjh6c0xOVGxMSE1OMF9nQ1dqd21KOEpMVXEtRjVHeFdvNEw3b0c3aDZTNGYtOG9JOC1SZEgzZXRvdEpES0VXVG5n?oc=5"
     },
     {
-      "n": 30,
+      "n": 24,
       "title_en": "South Korea's Kospi Closes Down Over 3%, Samsung Electronics Falls Over 3%, SK Hynix Drops Over 2%; Japan Markets Closed",
       "source": "TradingKey",
       "score": 10,
       "published_kst": "11/25 07:05",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWhLeE4wMk12eUpneVlqbU1EM2MyaHNzV2pXQldkYzh0WDZ5V0phazN2LWRuTDhBQVVBVV96V0l4VVJWWV9sY1IwaC1VQUo3RTdZLXZIa2o2UW9ZRFEtV3J4TU1fTU44T1dLOUJGUW15R3FFX2wxdjUzWUgwMDNVa0N5YzBYMm55OV9ZdTZvZ0lOYUlWdVNMSUk5NGstWVRCUzZxTE1BWUZqN0xKZ1Q2NXRB?oc=5"
+    },
+    {
+      "n": 25,
+      "title_en": "Oil Falls After Lebanon and Israel Agree to Ceasefire",
+      "source": "EnergyNow",
+      "score": 10,
+      "published_kst": "11/24 21:59",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczFFaTdtdTRPMjd0dmVBMUlKVjZDUTV2ZUdmMW9BUlF3VGIyVWNxU3BVa2NVempEY0puVFRGZXBZZGxhNkV2T2hLSlFSYU9oX2ZuNzhEaVExbmpZRVhWZWNxeGxQRjRmYUNXZExpVTlTMXlyRWVKWldoY0J4TWhiMEpPekhQVy1yY2dn?oc=5"
+    },
+    {
+      "n": 26,
+      "title_en": "LIVE updates: Asian markets jump, US futures gain after Huang's return to Nvidia",
+      "source": "Latest news from Azerbaijan",
+      "score": 10,
+      "published_kst": "11/24 21:14",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2NpZmZiNlV2d3JOLW9MNHVJS3hjbGEzWkJQb0hQWHh4bFlSd3Z4bW93RXNPajFSQjFpRU4zZG5yc0FEdzRBMmI4YmE4c1Fadm1lVFUxamI5YVBvSmNYaW5WVGt3RENzREtwLXVmaGtiV2YxVlhfcTNwbzBIQm5tdjVkaldFcElYWTVtdFpoWUlFYlBsYkpleWxpbFlOSVRY?oc=5"
+    },
+    {
+      "n": 27,
+      "title_en": "COMMENTARY: China is Balancing Asia’s Crude Oil Demand by Itself: Russell",
+      "source": "EnergyNow.com",
+      "score": 10,
+      "published_kst": "11/24 20:59",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDlPZERreTB1RldlV2ZtR3p1NmdNdUU0TXV2U05UTzh0ODB6UXo2S0xxRW1HbEVncmhvOTd2MElYNzJjd2o5SEFoYm1OZWg4M1FveXBLeGpIU2lESFcwZDBJOGw0WC1FcVNoQ1dVQUxEem1QbWJ3anpjcnhSOUZRcHZlN19kaWVrREtOYlRZUWxwVlJlOWV6dTRPaHUwVWJQU0I0?oc=5"
+    },
+    {
+      "n": 28,
+      "title_en": "Oil Prices at Near Three-Week High as US-Iran Peace Hopes Fade",
+      "source": "EnergyNow",
+      "score": 10,
+      "published_kst": "11/24 20:54",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0dobWFMMG9yT29rOFBobWVVVkk1XzJaN0JtVWMzMHZiQmphdEk4d2JSb2xDMG1oODhzVW9BbGVOYVBISFRKd0p1QWMxUkItcmFmaGhIbTB6aWtaUzlsWFVhSHIxQ3lhZmlEQl9nZGxKT1dCcGFnUm90eWtlaE1YRGpsUG14VVNzbWpiLTR0SGgybVFWay0w?oc=5"
+    },
+    {
+      "n": 29,
+      "title_en": "TSMC Stock Slides Nearly 4% to $349.20 as Chip Rally Stalls",
+      "source": "JournalArta",
+      "score": 9,
+      "published_kst": "11/25 08:11",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUxYM2VTRmN1YlBuVEVyWklNNWpsQzZfZE5DUHZWVFFMYlQ2NHhFZ3VnNVZ3VGprRHcxbEF0SFRDNGFSTmpOSFZrYXllZ0szTkpNWWhfMzhhR0FmU3ZqYlJSRWozQUtXT193TnpzRlZfdTFOLUk2eHk3X2xWbUx5VmVFbV94SGM?oc=5"
+    },
+    {
+      "n": 30,
+      "title_en": "Asian markets surge as chip stocks rally; Taiwan leads gains",
+      "source": "Daijiworld",
+      "score": 9,
+      "published_kst": "11/24 16:06",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pczlqUzZZRkx5NHJXNUpsLTgwQ3hVajFjTloxVmdMYW9ILUNLTUR4S3A1T0h5M2FkdlEwZzg0U3RCb0NXcmZ0bDZMZzdKMFczdXZFMWxMT2lhR2VyYWdLOWprcTk?oc=5"
     }
   ],
   "earnings_calendar": [
@@ -930,7 +930,6 @@
     "필라델피아 반도체 약세: 국내 반도체 시가와 외국인 선물 방향 경계",
     "나스닥 변동 확대: 국내 성장주·코스닥·선물 갭 출발 가능성 점검",
     "VIX 20 이상: 지수선물 변동성 확대와 옵션 프리미엄 과열 경계",
-    "미국 AI·반도체 감시군 동반 약세: 국내 반도체 추격매수보다 지지 확인 우선",
-    "관세·제재·수출규제 뉴스: 반도체·자동차·2차전지 공급망 영향을 원문 확인"
+    "미국 AI·반도체 감시군 동반 약세: 국내 반도체 추격매수보다 지지 확인 우선"
   ]
 }
