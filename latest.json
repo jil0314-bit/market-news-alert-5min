@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-26 12:36",
+  "generated_kst": "2026-11-26 12:44",
   "us_session_date": "2026-11-25",
   "indices": [
     {
@@ -55,15 +55,15 @@
     {
       "name": "WTI 유가",
       "symbol": "CL=F",
-      "price": 84.26,
-      "chg_pct": 0.69,
+      "price": 84.4,
+      "chg_pct": 0.86,
       "as_of": "2026-11-25"
     },
     {
       "name": "원·달러",
       "symbol": "KRW=X",
-      "price": 1343.98,
-      "chg_pct": 0.1,
+      "price": 1343.8,
+      "chg_pct": 0.09,
       "as_of": "2026-11-25"
     }
   ],
@@ -714,6 +714,14 @@
     },
     {
       "n": 9,
+      "title_en": "TSMC CoWoS Fully Booked as Orders Overflow; Research Firm Estimates ASE and Amkor's CoWoS-Like Demand to Surge 5.5x by 2027",
+      "source": "finance.biggo.com",
+      "score": 12,
+      "published_kst": "11/26 12:36",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xT1NhOGVxWnBUcnVRRUJ0MmNyS3R2aV9LSnl2R0hSZmFjWEdFR2pFbTBEUFZhUU5hMER3ME1hdERGOWJxSTRfdC1PYXk2SzdWQ2ZYSkNQVnJQLXN5NGtYZm9oTkZvdFdjRTZiejByUGQzYVNWT3c?oc=5"
+    },
+    {
+      "n": 10,
       "title_en": "NVIDIA Tumbles 9% as Jensen Huang Rally Fades and Michael Burry Eyes a Fresh Short Near $200; AMD Plunges 10%, Intel Falls 8%",
       "source": "24/7 Wall St.",
       "score": 12,
@@ -721,7 +729,7 @@
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOalFTUFhWR205QmUxdnBIaldhMmZNaHBRSS1BRzVhazZCRWN3c0VjVTlPS1ZhRDRWd1NlQWtIeTBIdjJycmNFYXdlc1h3aXdqQmU1YnVqNUUyVXVPZV9mRHBydlJNVU1WQmoyd1ZvTHpTS2RHT3ZSejBBY010dzNsaVZDcEdQM0p0SG1oMHhmQ3kxN1BUdndhalM0X2Z0RjhJXzhOUmdYdkttUU1QS0Q3d2NTN2UxZERkNFhrU29vc21rZFVDYWdZdE0xODJMODVYVHowNnM1bVFrWHZuZWF6a1lPUE1JWkg1WFpXOW1yRmMydXVxSHc?oc=5"
     },
     {
-      "n": 10,
+      "n": 11,
       "title_en": "Opendoor Technologies (OPEN) Surges 12.3% to $1.28 in Regular Trading",
       "source": "24/7 Wall St.",
       "score": 11,
@@ -729,7 +737,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdV8wRjlaMEp5RF9MZVE4aXJFSXJsb1Z2bWNNREtkWHV0eU1WU2ZLcHBMVEVtQXRaWGxmQm5UWHdGTnRKdURWQUZ2VThqNFVJRVd6OGtuSGlXaVBFYVd0MHhSYzdwUTAzdDVhUHJPLVlraHBnSGdyZ3VoM2hkOG1VU1lvbFdXejh2SzI0VnFXX2pMTEcwdUdKaQ?oc=5"
     },
     {
-      "n": 11,
+      "n": 12,
       "title_en": "Micron Shares Halve From Peak as BNP Paribas Cuts Target by Half, Warning of Memory Chip Oversupply",
       "source": "BigGo Finance",
       "score": 11,
@@ -737,7 +745,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmQnV5alJpczRxWmR6Y3hyenM3UG1qcGhRdl8xckY4ZWpndUN6X3BlNGVaS29PMlJMcVlENmY2c0t0U2pXY1RaVWowMi1MUkxFc3F2SmxpdUJMbG5oQ2t5cjIyZ01oN3NWOEtjblpETnpXSTk3cUE?oc=5"
     },
     {
-      "n": 12,
+      "n": 13,
       "title_en": "KOSPI sinks 6% as chip outlook, US tariff concerns weigh",
       "source": "The Korea Times",
       "score": 11,
@@ -745,7 +753,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFR6T0U3elU5TVlzOWNFc1hKdTR3NXhUaWVhWEo2VXhDYjdhU0dfLThCbUFpbUFtcTZFSmFJeWd5YUVoUjRIcUhabVBxRnliOW5BSTZRaTg4ZnNkX1Yycl9UQVViWjhZa1AyZ1VaNFZyaUtvMDRCRVctZDg0ODVFNHIzS0FpMFMxTGJxeklFVzRIblhuSWRYSW5Ta3FNZ052ZXfSAacBQVVfeXFMTloyUkFEZXI4ZVkzVTFtZ1ZTZExOa3Z5MWpIRHZjdHY2c09EZ05EbkFXWXpLZHpFeFJNOENvekhoVVFXNllOZHQ3OVJ2cnJhbW5sWlBodDN5VGNUc1paVlJuTmJxNVhXMG5Ra0lwRThOQ2ptckVURk1KandmakljaTk2Q3pCMEppVVpmZkdHQ1dicVZXaks3cUNMS1pzUjRFSklWeWRfQlU?oc=5"
     },
     {
-      "n": 13,
+      "n": 14,
       "title_en": "Asian Markets Fall as Kospi Slides Over 5% and Nikkei Drops Nearly 3% Amid Renewed AI Sell-Off and US Tariff Concerns",
       "source": "Kotak Neo",
       "score": 11,
@@ -753,15 +761,23 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObW00UXlWT2RUYXpadW1HV3dRUVJoaElOVExJaDJKdEZ5azZ5eUJVZmtQS3Y4U29jWXUwV3BucWJfNzdydVJUVzE0VjlOeERCelFDSnduTkx3Z1dpcFd6Nll1T25wLU4yYkwydHZ2TnFoUW1xYkJDaXVENlJla05QbVdUOVBHN3o1VXZ4dFloQy1qQUc3d0o5RkhfSG5SdEx3QlFGNXBUMG1RWjdneU5GN3F6RGZuSjdPSWtJSUNHTmM4TGt2MkhNeDI0ZFNIUks1dmNESU56RTlXMG1Z?oc=5"
     },
     {
-      "n": 14,
+      "n": 15,
       "title_en": "SKHY News Today | Why did SK hynix stock go down today?",
       "source": "MarketBeat",
       "score": 10,
-      "published_kst": "11/26 09:25",
+      "published_kst": "11/26 10:07",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wR0NsMmUzajcyVGNlTkhSWDJsd0JDZ25KSEJXaG5FSTEzTm1iSEdoRG1EQV9wM0ZhdW1JbUZqdXR6a1VOQVhBbG5xX1YyRXd2anVsdmhqQXkzUFFtalVrUw?oc=5"
     },
     {
-      "n": 15,
+      "n": 16,
+      "title_en": "China Memory Order Cuts Weigh on Samsung, SK Hynix; Eugene Investment Says North American Absorption Is Key to Rebound",
+      "source": "BigGo Finance",
+      "score": 10,
+      "published_kst": "11/26 10:05",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lend1UEQ5Y1FBVUNfbGpfTVg2NDlCTWFiTVM4MUFPSnR1d09SLTRFTlhRanlOQVFfR1UxVVJzT2dDMEpJNVNWbzdmQUY5dG8zajZvdG9kZXhzVl83TFhpSG50Y0t5eHlFZDd4Zkp3TTk5QXA0MHc?oc=5"
+    },
+    {
+      "n": 17,
       "title_en": "Nasdaq sinks 4% as AI stocks tumble and tariff proposals pile on",
       "source": "Digg",
       "score": 10,
@@ -769,7 +785,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUMldzNEJDUW5WelhvSTdqb1lDMmNoTURmaDNGOVhYTWpFSDVpeG80bW5QRGpfYVdzZXE4WG9nd3RwQkxFakRYU0wyMkZybGE4OWc?oc=5"
     },
     {
-      "n": 16,
+      "n": 18,
       "title_en": "How the Anthropic IPO could affect Amazon, Google, Nvidia and AI stocks",
       "source": "www.equiti.com",
       "score": 10,
@@ -777,7 +793,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3VEREZZcnNIU0FLaDhXR1ZZRUI3SnZ0V1NBbUR6dXpPWXlYaWtZeTZJY01tQVh3TjUzYWhWeUwzQkFwckEwMmFnR2JmbHVqSWdmT2JoN1d2cmxyMVNOa1NjUVd0VDROVnlfNW5TVDNSWnA5SThIYzlQR2ltU0hyRTZiblZtTjdtbmw1c3NRVUNVcTdsRlNZMW16TjJxYWx2Y3c?oc=5"
     },
     {
-      "n": 17,
+      "n": 19,
       "title_en": "Chip Stocks Just Pulled a Whipsaw Last Seen at the April 2025 Tariff Pause",
       "source": "24/7 Wall St.",
       "score": 10,
@@ -785,7 +801,7 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaFpyVFN0aktTbHZRWEtKcS1PQUFPSDk2M25iMDN3VEprWVpsbUREemhSU0Y2NVBWbG0tSW1GX3pqR0dFeW9XRWdianVkdnd5RlFiNzF5dTJ1R0FUMlRfRGlMaTliRHVEQlpHMFk0TWxuZS1faGhESGtScEZLLWlyRFRDTUJpeS1tZF92UnA5MEdZYlBFYzFTcDF3YUFHRUxnUm5LLUdfVWtLbjdsQk9ROUlTdFlmV01mN3c?oc=5"
     },
     {
-      "n": 18,
+      "n": 20,
       "title_en": "Nvidia Options Now Most Expensive in a Year Amid Mounting AI Fears: Options Chatter",
       "source": "Moomoo",
       "score": 10,
@@ -793,15 +809,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTk3dVpWM3FSa3FOMVY5cFNhaXd0T3B5R1V4TnhxN2p3Ny1uNmlhYnpYOGJ6cFhFejdlQnFyaDJZcmJUclR4MXZnbDlfbWJfaGo3MWR5cEgxUXBtZktIbWRPc1ZDMVEtRUluM3g3bUtWVHRwc2xZUFUyVGVCRDRBamVDNVQ5LVRsZDJtdmRCbHI2TUpmQjR6aEpEdWU4ZE5nZ09wVWQyc0lrNUtwbk4tbw?oc=5"
     },
     {
-      "n": 19,
-      "title_en": "Chip Stocks Sink Again as AI Payback Fears, Asia Rout and Trump's Nvidia Stake Talk Spook Investors",
-      "source": "BigGo Finance",
-      "score": 10,
-      "published_kst": "11/25 21:05",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2bXNLZGMtbi14cGhrRnBQZm5jb0huTGNBcVhMcmMweHFHVHk3YUFuODE4VlVLNXNnRG54REc4V0xUdFRtVzVVUzVIQXdtT1ptLTdNQkJXNzcxUG10c2lYVFI5VnpVN1YwREVmajY3WEFYeFU3QWc?oc=5"
-    },
-    {
-      "n": 20,
+      "n": 21,
       "title_en": "AI hardware stocks erase Monday’s Huang rally before the bell as tariff reports weigh",
       "source": "Techi",
       "score": 10,
@@ -809,7 +817,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWxxY0h1blVDSmljclZEX0xfbE5LeGwtSGJMU2lPZEI1Wkl0ak5PaEVOUDR6N1EwM3VoSXFrV2ozcFdra3liaTB3TWtFc044TDg5U1Y1Yko5ZERHXzk5ZXFjMlYyRTRPVlJzdElCb0tub2pxQ1JGamhnemtmbzhmVTJHbGdBS3BPVDJ0N1NHVXhzUEtrblVJ?oc=5"
     },
     {
-      "n": 21,
+      "n": 22,
       "title_en": "Jensen Huang Rally Fades Within Two Days as South Korea's KOSPI Battles Around 5,000; \"Time to Look at Robots and Non-Semiconductors\"",
       "source": "BigGo Finance",
       "score": 10,
@@ -817,7 +825,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1VElucEE3cGJ1akotSmhkUmN0eGY0c2ZGaXNKc21ZQUMzM1ZaOW4xc2FYa2pobm5OR1RIYi1HS2tQUUpFRHFhbWFxOGl1bzktWDlYUVkyakxYaGlnWXQtazNCWVhpSmFFTjc0UTJSY2hSV2c0NkE?oc=5"
     },
     {
-      "n": 22,
+      "n": 23,
       "title_en": "Anthropic names Dario Amodei's X account an official channel for investor news",
       "source": "MLQ.ai",
       "score": 9,
@@ -825,7 +833,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTm5iZExjYUkxQnd5WUJlRGNWVkJjYWh4MmpRalZNVC1MT3lqZmpDa1BDdERxYkZDM3VoOFp3eVFRY1N3OHJuSm8tallrVmdjUlZwenFfNC1KWXdRUnllX2syTGhtWjVoZG1KeXVLQko0NXRNRl9JSF9ySXdsQUNnVTZ1cG5mM05qRDNnVnExMmlOb1hacEFnNzRCV1RsZnc?oc=5"
     },
     {
-      "n": 23,
+      "n": 24,
       "title_en": "Equal-weight S&P 500 fund beat the index by 1.08 points Wednesday as chips slipped and materials climbed",
       "source": "Quantisnow",
       "score": 9,
@@ -833,7 +841,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaE8tcUZYdmRRdHlqSV84TmN1WUxRYkZTdWl1S3JMOTNGOWlrbzk5aloxbGN6R2J6M01PSVE2TFpZWjBLd1pVSTRENGFubXlMRlJsMUNYNU9fZ2pKb05vdVlBbUdUT290WnVsTGJNODlZdG9GbHJUTlJ2TVowTWpIeVhhV1FNZ2ZuWFNlWklCRmZFVDI0SW44dm9rTkdRRnlfeGV2QnRlcUhZV0U?oc=5"
     },
     {
-      "n": 24,
+      "n": 25,
       "title_en": "AMD Stock Price Today",
       "source": "JournalArta",
       "score": 9,
@@ -841,7 +849,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZU9FelNMcjZGNnBNcHdTYVJodHhTNlJqWGhSeklYYWczdERXTFVJYzNPQjhoUDc1V3pyX01YcDZFMUNtQkpLS3VwZ3dvX3BFUGI4Ri1vZlVRUFFkQTNvcmZUenMyenZYbG5iT3NJUEZ3ak5ubnNabno3bHVrZEpIWkMyUzQxRHpLbURUTEV2OXphOUt2eEw5Z1oySEszMXRfZUE?oc=5"
     },
     {
-      "n": 25,
+      "n": 26,
       "title_en": "South Korea's KOSPI Plunges 6%, Dragging 81% of Listed Stocks Lower; Five November IPOs Withdrawn, Most in Five Years",
       "source": "BigGo Finance",
       "score": 9,
@@ -849,7 +857,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JbUJCT3JRdWUzcExVaEQzNkhuRDdNMTZmUC1YM2hGY0NrLVVkcGJsckZrdnhEckRjelpWMlYwTVVHcnpkS19lVkRLZUVMVlhMN1ZNR04zYUxMSmJ4eFhVaElNejBmRVUzUlV1eTI0X3NONkpCeGc?oc=5"
     },
     {
-      "n": 26,
+      "n": 27,
       "title_en": "Kospi plunges back below 5,000 as chip sell-off returns",
       "source": "Korea JoongAng Daily",
       "score": 9,
@@ -857,7 +865,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGs2WEltSmN4M0VKeFVXMERQbzFJRVA4VkQwYTlnZ0pWZV9RLVE0OWV4cF9ySnhVcFY0MERhTTZWY3ZqQ0tVMzNOVHE3Zl9pVEJaRTJzZXhSOFpWS2htZXdTMHJIQTVEZzExUHBwWlNnaEFkb1NsUTUyZ2t0dnhmYlU5eUhobV9WNEt6SXlUcTNIOEplYzBXeGU3Q3JLT25MZFlsRm1MbFdoQQ?oc=5"
     },
     {
-      "n": 27,
+      "n": 28,
       "title_en": "AI Rally Proves Fleeting as South Korean Stocks Plunge 6.16% in a Single Session; Samsung, SK Hynix Fall in Tandem",
       "source": "BigGo Finance",
       "score": 9,
@@ -865,7 +873,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJbk02d2lKS3I1SmVjN29pQlJadnhuMjZpVnZGZkFiaEdVVHBJa2dRNm1tanF2eXdpeDhxdllpdktYU3hUcEtmU1RBYkxXNzdCbVVUOEtWblZRMnpaa2VXeERTUVpidTYwZWxNWG1tZ0dKV1VXeWc?oc=5"
     },
     {
-      "n": 28,
+      "n": 29,
       "title_en": "Stock Market Today: The AI Rally Lasts One Day as Nvidia Retreats and Anthropic Slips Below Its IPO Price",
       "source": "ChartMill",
       "score": 9,
@@ -873,20 +881,12 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNlNnSlBpMXFaSUNvekNTTlNHTXVKV1VzdVFCUmNMNmRna0VBT3FRUm9wSWxRSDdvajRfR2Vla19IbG1ZNXlfOC0zUTJGbWZ0bTQzYU53WkF4cjdqbmxlX1lRaVFVbWhwS0daT1JtQmcxTHFWcGhzQzYtOU5CbjhfZ1dmMEhWRWtFUWJYUWk4YjF1MDB6UGFjbjNqbXpSUU5pNVh4RTM3WDdzN3FMSDlwUllSODVQVkg3NmlWTXNQSUREQWRRc0k0bnRMUWpUUEZWUGlZSQ?oc=5"
     },
     {
-      "n": 29,
+      "n": 30,
       "title_en": "Jensen Huang Boost Fades Fast as Taiwan Stocks Tumble 8%",
       "source": "Bloomberg",
       "score": 9,
       "published_kst": "11/25 13:03",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSndDcWFkVFpWQUhnOHh4X0xYYlRXOE5MaHp4eUxXS2E2YkN3aUZQSlRCQktESDdsd2NrTlV1WnlLQ1B6WFhoZzY3VlZXcHNWbVRQcGszNWxWbVp6NkZiQUxTc0ttUHVObVYxZ1FmaXdPSzJJY29sYXRiWUhIWnlpR3UzeHplWnlTM1BJMVdxdGgtRGNjUVlpWGU3ajF5UG8tTmRmdHN1Y0dJQQ?oc=5"
-    },
-    {
-      "n": 30,
-      "title_en": "Anthropic rises 6.1% after-hours as AI sector rallies",
-      "source": "24/7 Wall St.",
-      "score": 8,
-      "published_kst": "11/26 11:48",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDFVcVFQSzcta2U3eDhNZUFLUkxBVzY3TnJwR2loSklIMFlUNEFUNjdCSUZ6ckVmMnFiUWM4QmhaT2FrLUh6cnFSQl9pUEhFVEYyVkpNVzBYUml2QlFETkRVc0VIUl9MUEYzTjhTaUNwMVhyUkV3U3BGUXRjZnoyM2VPTGRUTzN3UEhzcHgzalVkdw?oc=5"
     }
   ],
   "earnings_calendar": [],
