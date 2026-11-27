@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-27 12:36",
+  "generated_kst": "2026-11-27 12:39",
   "us_session_date": "2026-11-25",
   "indices": [
     {
@@ -659,6 +659,14 @@
     },
     {
       "n": 5,
+      "title_en": "Japan, South Korea Stocks Pare Gains, Kospi Closes Up 0.29%; Kioxia Surges Over 12% With Nvidia",
+      "source": "NewsBreak: Local News & Alerts",
+      "score": 14,
+      "published_kst": "11/26 15:58",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVDJQMHY5UHdadEdROFhNbncyUWVoRVNSemMxa0JzUTlrbGdVSnNlVXFGMDB6ZjlqSTFUbGU4Y2lYSHYtOXpaTWNEU3ZDZGZFeFJYZC1JREFrNWJpQ0M4SXpBVGVISmxXeWo3MkVKTWFSY0VKNE9PanM2dFhwbjR0RFhkN0IybmdCQlJmSE93cURrQ0xtQXdmNDVRMEVrZUtuQlVJYU5nM2QxU2FoQU1jX0gxU2Zfd01zMlV6NFl3SkdwclROQi0tRG1DUlRLb0wtS000ZF9EUGU3WGNMTk9UU1dxZUlsZw?oc=5"
+    },
+    {
+      "n": 6,
       "title_en": "South Korean Anchor Cries Live on TV as KOSPI Crashes 6.16%; Samsung and SK Hynix Shares Plunge",
       "source": "theopenpress.in",
       "score": 13,
@@ -666,7 +674,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnVwa3d1OWRlU1ZsUDVKSEhaY0ZZTVUyRWtCRnZjTUVZcnQ1TTFlcGQ4eGcycTNBZ1VxQ3Y0TUtnS1RFZTJXNk9BSUZKNV8yZHRUdGZWOU1sT0tHQ09GdVZZQ1VyYTA0b2dVRFBJSmxrNXNMLTdpdXoxTUdNTHNIVjQ2Wk1zZVhDMEhuMVNZUkk?oc=5"
     },
     {
-      "n": 6,
+      "n": 7,
       "title_en": "Israeli Attacks Kill Nine in Gaza, Including Deputy Education Minister",
       "source": "The Defense Post",
       "score": 13,
@@ -674,20 +682,12 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGZpaFE5S254dV8tNE5JSFJKOU56SjVKVTdHNHZaMlRja3FHVzBWa3o4d0lXMUk2SG5KNGhYOTlibUFBeGtGYjRnOV80bkZCM3lrNW82S1dRR1RhVEJXa0xmZkUzS1RqSFdqM00wemtYVFlYbG1sTnZkemRqWUIxVjk4d2vSAYoBQVVfeXFMT0IwTEtZQ0E1R0VYTEdFV0JsdEFVRWtvZFhHWUhQV1Nma0pJR29xNmRXeENvUjFTd0hiUXZNLTM4clhXVU5aYUV3eDcxMFM5TDNiYnROdUJVY2RsQnVJQk1vOW9nRV8xZTV6ZGdYdDhTR04wLXVWVnVHbXdqVGJNM1ZlMmNtaC1VTFJ3?oc=5"
     },
     {
-      "n": 7,
+      "n": 8,
       "title_en": "Jim Cramer Says Micron Stock Is “Comically Cheap” at About 3 Times Earnings",
       "source": "Yahoo Finance",
       "score": 13,
       "published_kst": "11/26 22:53",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkNkQWRRRS1zTGJ3VDFkOUNkTmpqTTJ5aE5UZi1iY2lsTm9VX1pEZ1Z6T2tsd1pvN2w0Z05XV1dlckxaWHRVM01mblBqZEZxNlk5bU1fbjdCb3Brc0E2aFlROGp6QldQTWdnQXM3UEJxT1RVc2xMOVd0TFZoSGVSZGZKYTJmYjdDMVJEWU9KanRLNGRnbTVjaw?oc=5"
-    },
-    {
-      "n": 8,
-      "title_en": "MongoDB Stock (MDB): Wells Fargo Says Buy Ahead of Earnings After Positive Customer Survey",
-      "source": "Yahoo Finance",
-      "score": 12,
-      "published_kst": "11/27 07:26",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUpXQ2twVkRhd2lwSGx5UHhDWlZ5b25rWGw3ZEpydkJmcDh6SHVEY2pNZk9jcjVkeTJtY2N5Qm9SWWhjWi1ydjdKSU5IS0g0cW9DQ2E2aFBJTUxmU2JXMkU3d0x4RGxKaFhXSHQxcVBNYi1uSHhCM0M0RGRFMUVIRVhYM0FPRmV3WTY2aFBBVkhqTnYzc0NYV0Fn?oc=5"
     },
     {
       "n": 9,
@@ -715,14 +715,6 @@
     },
     {
       "n": 12,
-      "title_en": "SKHY News Today | Why did SK hynix stock go up today?",
-      "source": "MarketBeat",
-      "score": 10,
-      "published_kst": "11/27 08:36",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wR0NsMmUzajcyVGNlTkhSWDJsd0JDZ25KSEJXaG5FSTEzTm1iSEdoRG1EQV9wM0ZhdW1JbUZqdXR6a1VOQVhBbG5xX1YyRXd2anVsdmhqQXkzUFFtalVrUw?oc=5"
-    },
-    {
-      "n": 13,
       "title_en": "Record Diesel Prices Could be Trump’s Achilles’ Heel: Bousso",
       "source": "EnergyNow.com",
       "score": 10,
@@ -730,7 +722,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcmszWUlLY2NkMHV4Zko2QlhubUpBSTFMdHBvaWptU1JOUXU2cmU5ZUkxMEtfQ0xrZEVnb1B2U0QyZFUycGxQNmZWM2xxaGpNYzhhMXBYRmdrS20xOXFJMktoRmFBeko3VjZvcDZoMURHY01kNDdSZ3dpZExMVXh1b2FWamwtUUpwLTlVMTgzVmRzZw?oc=5"
     },
     {
-      "n": 14,
+      "n": 13,
       "title_en": "Oil Prices at Near Three-Week High as US-Iran Peace Hopes Fade",
       "source": "EnergyNow.com",
       "score": 10,
@@ -738,7 +730,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelFMVUg3TmhGN1ZXdnVQODdKYmRzTzFvNG1DWGYyYVdmLXk1N1NvcDBwNjhROWJ0SEJYNTNjQWpmOERSSjRXRjVBVm00eFFYSjhEMVlwM3IyOWNjZmNlYW5MOUI2ZUJoQXhkWUtwLVg5VnRhQXVDOXl4aC1qM2FfLWwwZUhTRm5ka1c5UnVhckltNlhveHNlYXR3?oc=5"
     },
     {
-      "n": 15,
+      "n": 14,
       "title_en": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
       "source": "EnergyNow.com",
       "score": 10,
@@ -746,15 +738,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNE1fMzFiSjhrOFpJV21kajdMYkJEd20zcGM4Sm0yREpWU09IZnBwX0VyUk9LTWlHYWhDYXZCOS04eng0d1lPdVlKX2pZUjFwYzAwZkM4NWlDazVaSUFfRHlLaTczenpiZTdrb0lXd09XZTRiWHpNVGYxcDRjaHhoZ3JvcVFtb1VZM29raVc4RE9kUXBZWVdkbmktRU5FbV9hb1Fweg?oc=5"
     },
     {
-      "n": 16,
-      "title_en": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer",
-      "source": "Yahoo Finance",
-      "score": 9,
-      "published_kst": "11/27 02:35",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3ZDaWhTMllvUEx6RzRWLUpFQW11TnpqYXZiTi1VZzdjUVl2aUhYUUVVeHctWVdiMmJCXzVaRDhFX2xmS2k1QWM2M1VpcWtqQVBiUDV2dXRXNWQ3MEI4N2pmcjB3UVo5bXNqbDFMMG5MOU9sWVIyTlk4b3ZhRTVUZDEwd3prLVVxX092d2xZc1dqZmYwcE5yemF5S2s?oc=5"
-    },
-    {
-      "n": 17,
+      "n": 15,
       "title_en": "South Korea's KOSPI Plunges 6%, Stock Expert Breaks Down on Live TV: \"Cash Is the Answer\"",
       "source": "BigGo Finance",
       "score": 9,
@@ -762,7 +746,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVHN1WThBQ3BzM2Y5SjVBLXlBc05wM2d5NU9kakpucm5HRW10REJ1aE1MQ1Jick9MeE9fTGNlck55RkJ4cTQyVExpLTNzQUx2a183cnU4R3R2YTJTcmE3LXhybE8xR0NqeDlLam9oOGVDQWVVR0E?oc=5"
     },
     {
-      "n": 18,
+      "n": 16,
       "title_en": "World shares push higher, while markets in U.S. will be closed for Thanksgiving",
       "source": "BNN Bloomberg",
       "score": 9,
@@ -770,7 +754,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1UtbUFpQVJRY2tFMHBtZm1WQnpYUFBkV0JjZVRhb3BzUTJ6ZnZ4SGtnSHFURU1yOUt0YnZabVp2NnF1T01VaGxSYUNwRXE3V0FBTlVXQ3pSZjFEWEt4X0N3MGFodTI1ekJDbHlaTWkzb056ZnUxdGt1Z0VGb2djZEZsQkJEX1czRDktRUxzQjloVHhFb1RTY1JoZlNobjNCUTJfT1JCRTFtQWVIUXVDWmlxampfd3BJY09KT2I4ZTBrZw?oc=5"
     },
     {
-      "n": 19,
+      "n": 17,
       "title_en": "South Korea's KOSPI Rebounds, but Samsung Electronics and SK Hynix Stock-Loan Balances Surge as Short-Selling Bets Grow",
       "source": "BigGo Finance",
       "score": 9,
@@ -778,7 +762,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0NG1nSlFmaG81ak5BWERfTndsX2xmNUlZRzAtS1FBQ0tyeXJFNEpyRlVXUlRUeU5uajg3TzFXQlVRNkVKNWZFR196c296UWMtSDFGbUNKZzNWY1RZSnBQTHIzSGxGa3VYX3RUcThId3hUellTVXc?oc=5"
     },
     {
-      "n": 20,
+      "n": 18,
       "title_en": "South Korea's KOSPI Plunges 6% in a Single Day Despite Stock Stabilization Fund Boost",
       "source": "BigGo Finance",
       "score": 9,
@@ -786,7 +770,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WSmJOMi1IWlZERi1sVWszelJWRzhoYkdfTEoxWjc5b21NOWs5elRpSzBiUjNndTZ2bW5lUmZ5SUZlLXE5T1pZN3N6MVQ0cDgyR2U4MG1SYll0elhlbFdnWG1HSkN5NHltMVktVWtqVk4wT29mM3c?oc=5"
     },
     {
-      "n": 21,
+      "n": 19,
       "title_en": "Walmart (WMT) Stock Gets Fair Value Boost After Q3 Price Target Increases",
       "source": "Yahoo Finance",
       "score": 8,
@@ -794,7 +778,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0paY2tGbzVENWJJNVFrZWpPc1FqNmF1c1FGejR3R04wWDJpVV9VZUphbnA4NkFHeGNVWXVvMWdCaS1aTGRBd3VYNWtyTVk2aTBhSnBpcTIteGVUQjNsM2gzcUgzaUJtbVduOUJRUlJzLUdCVGpwbzF5d1AwbHIybUtfN3NTV19sUDdIcUVsTDJqdlN5d0ZB?oc=5"
     },
     {
-      "n": 22,
+      "n": 20,
       "title_en": "Is Hays (LSE:HAS) Overvalued After Its 45% Rally And Profit Upgrade?",
       "source": "Yahoo Finance",
       "score": 8,
@@ -802,7 +786,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZnlEUDVROGh2ck51cl9CWFFRUXZFQUpKS1dHN0lRaFBpSDV1QXFDS19lUmhoamg0NWZicThKaWtQOUFadVA0Y0V5SU11UFZIaXlfZy12aUF2SC10WVdPdlF4ZE9SajVaSDREd3FObmphQ25VbkFGUVUxMWw0LXpkU3lXMnREekEyQUswMldFRnZYWXpvZ2dfeQ?oc=5"
     },
     {
-      "n": 23,
+      "n": 21,
       "title_en": "Loonie weakens amid Thanksgiving holiday lull, Canadian labor market data",
       "source": "Yahoo Finance",
       "score": 8,
@@ -810,7 +794,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTjNGVFNJbGdhR2twQlJ3WDMxcGhoSDMyWU9LNkNoXzNuRzU0b1hDWHZvQ0VrRldqcW4zNTVPN25FN09URTlNMmx5ZE5SbUs4aTEzQ0otbWFRZGxlV2RkeU1BSEkzcm1pSFk2VDExU0VRWUlac04yTW5SUkY4c0lNRzItNmdHSEt0bDh4UGM3VFFHdjF6UHlrWU92Ym5yRzlRcm13WnUwYXZXMDFMZFE?oc=5"
     },
     {
-      "n": 24,
+      "n": 22,
       "title_en": "S&P 500 Postmarket Decliners After Latest U.S. Session: VRTX, PANW, TRGP, FITB",
       "source": "ChartMill",
       "score": 8,
@@ -818,7 +802,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUklkak5kY3Blb0JJNTJaSTEtQU9fYXR4ODdzUDN6U2ZyWjRETE1kVVhuc0FBUmFzY1lHSzE4cGRXblF0cmhWanpBek0wVm1Sam1OeVl3bTRRZUExSnFfTTVWbmNCNlhEWFJLX3Ewa29SaVpQSlN3M3dpbnA5aU5kLU94RlZJbnpONXhaalBrMGMybnJiZUNJOHVPMGREZ2dvQmJNc0VOTmlsMTNEcHI5SVdlbHlkZVhwSWhNTzhDVGw?oc=5"
     },
     {
-      "n": 25,
+      "n": 23,
       "title_en": "Disney Stock Just Closed at Its Highest Level Since April 2022",
       "source": "Yahoo Finance",
       "score": 8,
@@ -826,7 +810,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmJNb3d5Y2VmTzZFRzg0MHZVeng5bDFFSExPQ1Fwdm15OHpVUGd6RWJGVDh0a0loejVNNVNEemRoWW8xTzN3QmIxVG9TN19nQlZOWkJkZWZELV96S2ZXX196M1ZUMWJjejZuM0pYSlhidHBORy1xNVFIN2FIY2tZQnpxQ0dseWNzbXY4UGpTTFRRUmZ2N1k5aHFaWVBTQQ?oc=5"
     },
     {
-      "n": 26,
+      "n": 24,
       "title_en": "Remember AMC? The Meme Stock Is Up 106% This Year",
       "source": "24/7 Wall St.",
       "score": 8,
@@ -834,7 +818,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRDNxRFFGam5PbWNYLWNhNndDaTl2Nl9qNXp3azdzN2tjNkJqNkJXZ2thUUtVR2lGWHRUX251MVlIRUItenF6Tm1hZHk4ekZpSzlabUJaVFducVRkNVFCM2VDLVVTNGVEZlpCaFZqWEhKWHh0c19za3QyZ2hrVDRpUW8tSk41RXJDUkxDa1UydW9MUWd5ZVE?oc=5"
     },
     {
-      "n": 27,
+      "n": 25,
       "title_en": "HP Stock Just Had Its Best Day Since May and Blew Past Wall Street’s Price Target",
       "source": "Yahoo Finance",
       "score": 8,
@@ -842,28 +826,44 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTNndXFkS2ZqSElxU3o2OFJhdVZNNVo2bUZuZ3VYN2YyQTY5a05NU3RQS1NmYXoxY0wwR0lYd3h3N29kQzRrZWpXX1F0eWVoUy04S3lPOVFmcGNYdGh4VUU2UVFZVHVGSVZuT2JMcTdIMm50bmNJdG9ybE9CNzdSRS1ISDVVdmJQbHFtajhWWUY?oc=5"
     },
     {
-      "n": 28,
-      "title_en": "Sandisk Trades at Under 3x Earnings After an 8-for-1 Split and a 70% Crash. Why SNDK Stock Isn’t Doomed Despite NAND Price Warnings.",
+      "n": 26,
+      "title_en": "Goldman Sachs resets Broadcom's 12-month price target before earnings",
       "source": "Yahoo Finance",
       "score": 8,
-      "published_kst": "11/27 04:30",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1MtdnJ5czh0eTIxdHR4TmpZTnN4N3R0bUplNnRZOF9MZ3I3RzBRMy15bHhRUnFSRkpBdjBoZ1o3Zmg4WXp1cDlUd2RlUjgybENhMEEwU05qa2Z2LVFWSVM1Y1VhZ3p2WnpUR0FndUc4T2lSbE5wTGxnaTFoRWtRMm9keWJLOTNiQ05DSElUYWp6azZ6NTlMdC0zWjBXZw?oc=5"
+      "published_kst": "11/27 04:33",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMGpHSjVqME5UcS13eHltS2FTb2M4SUl2U1JoZnpqVmpxVHgyQVdQcGlCZGNXdVRySzFtX05RMkgzRzFyd1ZaTEp6RHFqcGh5WjFqdjVQTGk5TmVmNXJudEh5cDFIXy02UmE2RG90ZGRJZTJvenVaVVNwMG15TWFYOGVJSmtZRzB5VEJlTU5IMTN2TFU0U3VYazlFd1ZCcUk?oc=5"
     },
     {
-      "n": 29,
-      "title_en": "How Investors May Respond To Constellation Energy Stock After Earnings Estimate Upgrades",
-      "source": "Yahoo Finance",
-      "score": 8,
-      "published_kst": "11/26 15:15",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUjFBVmhXbk5uR3RQUThPQVpuT0tSemx0U29uNTdrTjR2bDhsd2ZvT3ZHZzlPMEFrdzUza1VEMUttWE5DcGMzcC1pVlhxYWU5UjhRdEMtdW9tVTVTYWhnNVhZREJWMVV1WHAwWVM3MkEyUm1oNE1GR0xYNlBidkZHU3RVRWZVeHFVVkVNTVN1ZnBoM01tbUFLRnVoT0JQUHVCalYtdURCNUhDVm8?oc=5"
-    },
-    {
-      "n": 30,
+      "n": 27,
       "title_en": "Iran, US-Israel War Highlights| US strikes Iran in second day of renewed fire; IRGC targets bases in Bahrain & Kuwait",
       "source": "Deccan Herald",
       "score": 7,
       "published_kst": "11/26 22:35",
       "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNRlFFdG8ycWROa2JJcXB2MXhkRGxuZktMNEtmVjZOVXlaZi1JeUZrOERVOHhEY3dqWHB4cFJZQ1JWMWI5clA0eDlLd3JLMkoxcmY5YlFXaEpZX1VSZVA3enZ2cmxvdlB1OE13YW5pQ0EzMEZyTktFdDBhd21XeEM4NGpGUkh4cVdVOXJ2TjVnY0RfY09Jb21NN3oyWGY5NHcwU0NtMDFGSU9XcEFSNS1ZTjFjQXlOM1ZfdUFuRTNmelFLdW9oM01PU2lOVzBUN09xUjhYcjZoS3RzbFFxSjdOc0dSZlJWdTgwRjZNd0VqSmZJYWZvMy1YQ2FuejR6Umo3WFVLdFRYRmkzakpka1J4S19pSThQblVseUtySXdhYnAybkZhbUtFbjlxTFFyYklnbkk1MTZKcW5IYVVXT0dod01mR0htUmFORUQ4YjhZcWYwQ1lHU3lyWU5RZlBJRWxCNUR6emRsQm9hdjBvX3VJdDZiU3VkSWNxTkRNeHUzUUdNT0FuV3hqbzhkNjR1dmhVN2JMVkMzNTNZLS1UWjZJYW1rUnlCM19qNVRyWVl1cGQxbWloMV80TGtHQzZHWEE?oc=5"
+    },
+    {
+      "n": 28,
+      "title_en": "Hopes for Middle East peace grow with Israel and Lebanon eyeing ceasefire",
+      "source": "DD News",
+      "score": 7,
+      "published_kst": "11/26 18:50",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS3lvUzIwekV0LUtWZW9CR2paUU1Ya05GaUUxd0RraHpOb3FJMEp3TnFmekFiTzhOTUp0SndSSVEtd3F2VGxwUXVkbmlfMXItS2J6R3BoV2xGSmZTbVZXVW0tVmN6ckxPdFhWdTRQeDFaQlFUdEt4d0tDcmR2YnVmYmRtTHU2UTJ4Qk93U0J0RHYzb2VxOWstZzdjYVFtQ2dC?oc=5"
+    },
+    {
+      "n": 29,
+      "title_en": "Syria seizes Revolutionary Guards weapons bound for Lebanon, CENTCOM says",
+      "source": "Iran International",
+      "score": 7,
+      "published_kst": "11/26 17:38",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96dUNHdDliUTdlS1Q3c3RvR3pXTDlxMk1HMGgwVlllcjh0NHAyM1hPdzZ5TlZ6RmgxMzB6TF9PZ21MODlKdkh1ZkhFZlB0YUdFMXc?oc=5"
+    },
+    {
+      "n": 30,
+      "title_en": "Samsung and SK Hynix Drag KOSPI Down 6%, and Foreign Investors Are Running",
+      "source": "BeInCrypto",
+      "score": 6,
+      "published_kst": "11/27 00:01",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDM0s2Xzl0ZVlJNy11R0R0LUp0M09MbVEwREVxck1xSFFtV212Z19Qc0xJdks4M3A4UmdJWWNuNnBfbXo1dWhKTWx4YUhSREJUcF9tUTdjc19GcTFmM25FN2x1VFJWb0IwRjhTdg?oc=5"
     }
   ],
   "earnings_calendar": [],
