@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_kst": "2026-11-28 12:20",
+  "generated_kst": "2026-11-28 12:28",
   "us_session_date": "2026-11-27",
   "indices": [
     {
@@ -690,14 +690,6 @@
     },
     {
       "n": 4,
-      "title_en": "Samsung, SK Hynix Eye YMTC Tech: What It Means for Micron and SanDisk",
-      "source": "TipRanks",
-      "score": 11,
-      "published_kst": "11/27 21:03",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVkFHTkpfc1oza25kZEVZaDRBTU1fRWVQVFdDTlIwSkZYY0k4bEdHa1RoRjdiMmd1ampLQkxoTGJkZ1pRMDUtUDU1NHpYanNRRVJvLWlqSFItckRyV2hpMWJnLV9MRUkwUUZXazRxcnNqcUxjU1ZkRjhBSXRWXzdfU3JwTnU1bEtRUGRGUVRyXzMyaVVVdEplVGg5dlhkZw?oc=5"
-    },
-    {
-      "n": 5,
       "title_en": "South Korean Retail Investors Pile Into Nvidia Dip-Buying: Purchases Up 4.5x, Holdings Still Down 9.6%",
       "source": "BigGo Finance",
       "score": 11,
@@ -705,7 +697,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2cjdIMXlFZDZTV2hLZmYtOGNyQmJqSkxaREZGbWNHWWV3aGRKV1ZyRkhVRWxSU0ZjRF80emRaQnhCMVN3VUVfUTBCTDdXZmlGQ1dYck9qZDlkUGlYT0RwakEyVnBnck43TVoyemZPV0l4TmszWmc?oc=5"
     },
     {
-      "n": 6,
+      "n": 5,
       "title_en": "US overcapacity ruling puts South Korea's chip boom under a 25% tariff threat",
       "source": "Yahoo Finance",
       "score": 11,
@@ -713,7 +705,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT01mcXpPajg0MndCSm1lQndUR0RITEZGVkNOZUdnVGMwUmFDNm1YcnJXbUJKZTljWW41UFRrbFd5d1JpWmtHX3dZVU1ZUHlnamRnMm1HRDBHR2d6OXByWGlULXJyMm5KeFB3MnhIQ09NNFc2V05ySGlnVW5Nd1NsZTlUNDRRdWp3VkgwSE9TNndMeVVLTHFrWFk0eVdTQlk?oc=5"
     },
     {
-      "n": 7,
+      "n": 6,
       "title_en": "SKHY News Today | Why did SK hynix stock go up today?",
       "source": "MarketBeat",
       "score": 10,
@@ -721,7 +713,7 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wR0NsMmUzajcyVGNlTkhSWDJsd0JDZ25KSEJXaG5FSTEzTm1iSEdoRG1EQV9wM0ZhdW1JbUZqdXR6a1VOQVhBbG5xX1YyRXd2anVsdmhqQXkzUFFtalVrUw?oc=5"
     },
     {
-      "n": 8,
+      "n": 7,
       "title_en": "Broadcom's Custom AI Chips Emerge as Nvidia's Toughest Rival, Not AMD",
       "source": "BigGo Finance",
       "score": 10,
@@ -729,7 +721,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VVUlpa1B3cEJxajc5VUFuU3FjZUI4amN1RndrYXQ2X2RFbC1OVE5UbU95VlZCSHpaMV9LYUc1RmNIWGJReFY4LTEzYW00RWZ4d0lqZE5RSVlSZU11RG5sWGVtRFpsaVN0VEtFc0t2cm80NVZZc2c?oc=5"
     },
     {
-      "n": 9,
+      "n": 8,
       "title_en": "Micron Share Price Jumps Nearly 6% to $636.19 in Midday Trading",
       "source": "JournalArta",
       "score": 10,
@@ -737,7 +729,7 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZW5lX21VREx4LTN5WmkzNW9QLUtmcmh5WlNoMnVMMnJhYUwyN0Z0R0VKLVd4RWEwR0VhempkZVRmRm9ueUhEcEp6VGFtNUlaci05aDNOMU45MTdGalM2bVQ0ZGNXV3NBRTJGTDhwMUJBXzdWZlZqbVBqN21QOVdhWG5JS041X0NpeWtDM0xGSDZlM25vWXVwNUdwSDY1VlN6dEpFSFVfRlVsTkxq?oc=5"
     },
     {
-      "n": 10,
+      "n": 9,
       "title_en": "Who owns Anthropic? shareholders, big tech stakes and Dario Amodei’s net worth",
       "source": "www.equiti.com",
       "score": 9,
@@ -745,7 +737,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGlvVUlUTVJqeTFwNDBlTVBiVFFfYldIcVZZaW1jakVnOVRJTlJpRks3eWZJM0NmSkdqMC1QYlZnWDNsSUhBZXVFZnNQOFZYbFhsU2FBWmJBNWFKMTlWNGhjQVlKT25FZ0RMeS1yNWl0ZW1kS2FVUks1ZFU3d2kyUzFPcUlTbnpGSWFOcDBwUWV2QnFkNFlCZzZ1TDFTVEJFRGxXWA?oc=5"
     },
     {
-      "n": 11,
+      "n": 10,
       "title_en": "Nasdaq Jumps 2.31% to 24,129.50 as Chip Stocks Lead Black Friday Rebound",
       "source": "BBN Times",
       "score": 9,
@@ -753,7 +745,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmpVY19nbUhmWTlOUjlRMm9PMXBtSUFrckoyYWJSR0lyeDZCS0JuX241RUVydWFxYUh1U3ZPLTd2RnRSTTh4akctSjYtUG0xcUlvdTlCbFRuZjZQS2FUVkNxSmotYzJmSDFmQTNxcHhjODFYeXR5OEZUbElzRC1qalBSNFFJXzZDY0pnMnJUb3Vmd3NZUEVwYlhCZWdkaUVpLUJta0hRekdObTg?oc=5"
     },
     {
-      "n": 12,
+      "n": 11,
       "title_en": "Broadcom (AVGO) Stock Jumps 3.82% to $312.34 in Afternoon Trading",
       "source": "JournalArta",
       "score": 9,
@@ -761,15 +753,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX1IzNG85Z0Utc0w3NkQtYU9sYUUyQXhLQnE5dTJ5ZkhQa25kUTloQi1CY056Uk80cF9QN1RHUGxpYTNaQ29wZHBUcHJJYUhEbl91elRtYUpEclE5U3M4cmtXckl2QVNmM0dvaTdUNWlEbnhtQ0RLbGNjdDdrYUpRbXVkR05SQUYyWHprNEx5cl9TeTY5aGY1TzNLcDNKSk1C?oc=5"
     },
     {
-      "n": 13,
-      "title_en": "LME intervention eases aluminum squeeze, but stocks remain low, CNBC reports",
-      "source": "Digg",
-      "score": 9,
-      "published_kst": "11/28 04:21",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53c3dvb0NQNlZBcDl0cGdDbTJDQTJRYWw4bkZES1MzQjNUZWQwRkJsQThUdnZJd0ZqZUNISGZMcEd2Z2FQVlpxQkhkZHlnSUh1REE?oc=5"
-    },
-    {
-      "n": 14,
+      "n": 12,
       "title_en": "Kioxia Stock Has Soared 21% in Two Days After an Nvidia SSD Test",
       "source": "24/7 Wall St.",
       "score": 9,
@@ -777,15 +761,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWV9ONDcwSWoxdkZKTmQ4OXlOck1QYXg2TjFESWtOSFdRckc5dmtWLWUydHRNLUtlblA2OUlMd3N1eHR6YUhfV2hoZm84QlB2WDhLa242clhyU1ZzRGZqQ3FNclNfdUtuRVJyOWdjekcyWGU5Q1VqNGEwWWh4MmlMQUs1N2RqVnpOVlRLZnRvUUR4R2hURE5XTWlEVGZRSEhmWGhBa0hQWGRZVjQ?oc=5"
     },
     {
-      "n": 15,
-      "title_en": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-      "source": "Yahoo Finance Australia",
-      "score": 9,
-      "published_kst": "11/27 22:24",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E?oc=5"
-    },
-    {
-      "n": 16,
+      "n": 13,
       "title_en": "Memory Stocks Surge: South Korean Retail Investors Face Market Impact & Key Investment Trends",
       "source": "36Kr",
       "score": 9,
@@ -793,7 +769,15 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IRUlYSkNiVVZwU0ItTjczcHBTaXlQT1dySXBvVlpYYWM0VVRGcGtHcUpKUDRBX3B1TmhUMEpINDNOYmJaZ092VHB2aWFNclB3QmFF?oc=5"
     },
     {
-      "n": 17,
+      "n": 14,
+      "title_en": "Biotech, Robotics and Battery Stocks Surge as Kosdaq Jumps 8%",
+      "source": "bloomingbit",
+      "score": 9,
+      "published_kst": "11/27 17:54",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0WWNTN3ltRVl4c0NtZmhiMmYtOHh3U25vUDczQnp6UldtdTdJbWRDZkk4dFFldVFKb1ZuT3FVa3FTdXg3ZDhPQVhySm93WFlBWmo4dQ?oc=5"
+    },
+    {
+      "n": 15,
       "title_en": "KOSPI surges over 4%, Kosdaq gains top 8% on hopes for market stabilization fund",
       "source": "The Korea Times",
       "score": 9,
@@ -801,7 +785,7 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaS1TZlp6aXZmQVY5ZlZ5V0VJMXM5MGNhN3k0UkFJT3RoQnh1VkpZU01YLTBEbnpUZ0hIZXB6c2tJSTNxTElvLUxDQWN5enY1MF91TTd2WWRVaWY2WlRBZGNjb1ZFdjFVd21sM3VwOHZWT0hWc2NOc0Y0VnY1bDJ3UkxDc2NNVFBIaUhXU2ZCd05oV1ludmNYT182Zm1EVWFNSjlnUjZrR2VISGRnbWJlbkd3YnF4UzFjdDlsWmROLTFwNjUwTFHSAcYBQVVfeXFMUGktU2Zaeml2ZkFWOWZWeVdFSTFzOTBjYTd5NFJBSU90aEJ4dVZKWVNNWC0wRG56VGdISGVwenNrSUkzcUxJby1MQ0FjeXp2NTBfdU03dllkVWlmNlpUQWRjY29WRXYxVXdtbDN1cDh2Vk9IVnNjTnNGNFZ2NWwyd1JMQ3NjTVRQSGlIV1NmQndOaFdZbnZjWE9fNmZtRFVhTUo5Z1I2a0dlSEhkZ21iZW5Hd2JxeFMxY3Q5bFpkTi0xcDY1MExR?oc=5"
     },
     {
-      "n": 18,
+      "n": 16,
       "title_en": "Kosdaq Surges 6.7% as Chip Stocks Lead Asia",
       "source": "Wisevoter",
       "score": 9,
@@ -809,7 +793,7 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTzRlbmV0ei1vS0RfeXdnME9fbTFPMlU5S0xkeTRJdzVfVzAteWxTaFRGRlUzazRBUGZqQmFXU1JONk12RG9Nakc2QnhNNy04cTRvZmpMY05kVGxRMXBTQm1fY3U2V3pDNlJrX1NFT08tWUR0RFBVSk05VWxhWXYxUkp2ZDJ1VkU?oc=5"
     },
     {
-      "n": 19,
+      "n": 17,
       "title_en": "South Korean Anchor Cries Live on TV as KOSPI Crashes 6.16%; Samsung and SK Hynix Shares Plunge",
       "source": "theopenpress.in",
       "score": 9,
@@ -817,7 +801,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnVwa3d1OWRlU1ZsUDVKSEhaY0ZZTVUyRWtCRnZjTUVZcnQ1TTFlcGQ4eGcycTNBZ1VxQ3Y0TUtnS1RFZTJXNk9BSUZKNV8yZHRUdGZWOU1sT0tHQ09GdVZZQ1VyYTA0b2dVRFBJSmxrNXNMLTdpdXoxTUdNTHNIVjQ2Wk1zZVhDMEhuMVNZUkk?oc=5"
     },
     {
-      "n": 20,
+      "n": 18,
       "title_en": "South Korean Retail Investors Bear Brunt of KOSPI's 48% Slide From Record High",
       "source": "BigGo Finance",
       "score": 9,
@@ -825,7 +809,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84c29rYjhuVzlSUTl2eFFVdTNXTWF0TmR2VmpzUHlHbHR1SHMxVS1DazZ1RUI5N2FURkxvT0FJbUlDUTFUMm1FR1FyNlNrdnRkWkRSRmF4N3dnN0Ftei1TLW95SDRUWE5hTTM0SlZHeTZOTWFLa3c?oc=5"
     },
     {
-      "n": 21,
+      "n": 19,
       "title_en": "QXO (QXO) Stock May Look Reasonable After Its $50 Billion Revenue Goal",
       "source": "Yahoo Finance",
       "score": 8,
@@ -833,7 +817,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFo5cDJOeFBGcFAwQ1lWMzBJU01sNU5WOUNTVkZPLWhTdGloelE3Z1BoczhxemJvZXhEQUdTdXYtZ25udWZFazYwMVVRNmV3X1ZlRXBoc2d6c1FpTlExTzAzV0RZUTk1SFZTeUFlbnZicmk1NTJ6SWUzZTFqZjhfMGZmVlgwTjllY19lLVM5cGQ?oc=5"
     },
     {
-      "n": 22,
+      "n": 20,
       "title_en": "Weekly Roundup: Turbulent Swing Turns Positive as Market Loses its Footing",
       "source": "RealMoney Pro",
       "score": 8,
@@ -841,7 +825,7 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzN0ZHJwTVFSWF9uVHppeVRBZHY2bnNvdFl2aEFMb0JBSUxnV3BwSDc0cjdWcUlIMHhEVG9zV0VwOXZpSE9SeTdDVEM1UDdXOUxfU0l3eFdjNmhjYU02eGpaWUpPbm9jS0ctTldtSlFZSWZTdzh6TGZBcWkxX0VsOGJoU1ZIT1YyLTRIbHJVcmpmUERaZTBYX2l2cmtic2lrU1U3S0lKWHdZLWVjMUpLNUw4bXFYUQ?oc=5"
     },
     {
-      "n": 23,
+      "n": 21,
       "title_en": "Telenor (OB:TEL) Stock Looks Below Fair Value Today",
       "source": "Yahoo Finance",
       "score": 8,
@@ -849,7 +833,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNXYtMVdRSkdveVQxc3Baam5FcXNuMHNqOE4wWVBSSkZJMEJXQms5a2VXWkhBSW9IMkw0QXdwSWhadUJNQXJkNW9rTDVXcmhPYlZxc004Y2d3R1JkdUhZWkdYSVo1bHVRSDRnOTczMGYtWHJIMHBsbmxJTDV6MmlUTjFxNFZKMlBwQ1hXYWlzMU5KdUc2QkE?oc=5"
     },
     {
-      "n": 24,
+      "n": 22,
       "title_en": "After-Hours Market Movers for Nov. 27, 2026",
       "source": "ChartMill",
       "score": 8,
@@ -857,7 +841,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnk1OWMtM0lVZldZeG8wVEZkcmxLSmZ6cEVPbF9EV0JHUFUxRFRVYWVZcUhFU2cxYzB5cUpOazJiQmRnU2hEeENkcXZaM0o0WHhrYllUUXZ2NV9PUFZndkRRM083amxUT3RMdlYybmo3ZUpQN2lrbFFqNWFfd2pIQU92eHNZMU4zdWlsOEJHeXhvLUVEenV3Uw?oc=5"
     },
     {
-      "n": 25,
+      "n": 23,
       "title_en": "Why DELL Stock Is Rising Today — and Why Analysts Still See 70%+ Upside",
       "source": "Yahoo Finance",
       "score": 8,
@@ -865,7 +849,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT1RGcWVIcHA2cUtLa3FRcXpqNzFpZlhoV0xFajVmamQ4TmoxRE94VFNFT0h5aUFSZVFrclNuZDZzcGRNcGpmXzVRR1J2LTVRME1FU09zd3BtMGFxWkFOVmtOY1FUT3ZlU0VPYldqdjB6QzRGTzZ2VFptaWRoVEtBX090aEg5QjBPc1RDeTNLTDRxcHBFX2lv?oc=5"
     },
     {
-      "n": 26,
+      "n": 24,
       "title_en": "US Tech Roars Back: Meta-Led 'Mag-Seven' Lifts Nasdaq; Chip Stocks Surge To Cap Volatile Week",
       "source": "NDTV Profit",
       "score": 8,
@@ -873,7 +857,7 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeVVwUWRaWk1KNHI1U0hLVzBfS3VnWUhGbkZTbWE4bi1ucnN2VU1PU2VFZE56VWEtdkxXbDk2WHQ3VDc1RlZLMkRIMWRtNjB5ZjVUckE1TzJ1WUdjVnF4OFVyN0pkaG1mUmhtcFplMHV0TDBkdk1SYkhxbDhBdmdRd2NZWEFsOFdBR2QzOEl1WnZlVU5wdVJlUEk1Mm1VUE05OHBLUFpsZ09BOXh6REtiTXJ6TV9nblkzQWdpUUhoWXJ5aXRNT3dNRUN4ZnpDZ9IB1gFBVV95cUxPTnpsNFphclRmT0dKdHR1N01xbHRidXlmOHNQZ1FiMFRvVDM3dmduMGV1Xzh1b2NaNzdjajZCNVppNVpHajFkWDc2UkZVdVJhejdCekJQUGV3dWpsRnV4SktwX3dEbUFiSkpMbGxmTTM3LW9oVlR0Wi1HV1I1ZlJhN2hNN0Y4UnJQMktCbk5rckh6UUpCTk1oV0xZeldCQnh4eDYzTDdFOEJLX2JJQlpaZTVmbWxJVkpKWU1jazVxSE13aEdZdFM1QzJTT2RVcU5tQ3d1MTZn?oc=5"
     },
     {
-      "n": 27,
+      "n": 25,
       "title_en": "5 Top-Ranked Stocks Likely to Deliver Earnings Beats",
       "source": "Yahoo Finance",
       "score": 8,
@@ -881,7 +865,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQjlpQ1R5eU40SzhRa1JMZG4zbG9UbEk2dG5kTjhla1VRV0lLUmc0OG5KV3g1R2swTVl4VFF5RWw4WTlJR1FsRkF1R0hDT0VBQV9YWDJSc3NUZ3JuTWxtNENaM0c3YVp3UGNudUhCU21CMzl1MU5zWlFjVE5TdzV6QjR6SWhMcFVxcVJlZ0k5NjkwZUgxM3c?oc=5"
     },
     {
-      "n": 28,
+      "n": 26,
       "title_en": "China stocks surge most in two years as Beijing vows stronger market support",
       "source": "Yahoo Finance",
       "score": 7,
@@ -889,7 +873,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGNXdUhLb3NNTUhsbjNxMjUxeno3cGNlVU5LbThqU09QLTJxQ2lRemYxREtuMFlhVnlRMXVDOHZKdkZWRDVUc053Mng0VFFrRjREdnBEOUZlWTd6cGZLQmJZeHNqRVRIMXpqbTlPRGFTclFIWUNxcV9EVGNJeEU1UGNWc1RkZEhfV3VPOWp4WG5MNWswNTRJ?oc=5"
     },
     {
-      "n": 29,
+      "n": 27,
       "title_en": "US, Iran separately talk with mediators in latest bid to end war",
       "source": "DD News",
       "score": 7,
@@ -897,12 +881,28 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlpzbHhEaG5qR2dqVHVmUXJtT19vUS0wVkthX3dJeXdzYlF4U3AwcWs1S055TFlWVEdjZG1Fb0I0YURCN3NxR3kyaEdjaUZYaDRqdllxd0xPeW9WNnhLd0M3eDI0WENjUVc0TWJEQ2xBMXBtX2M4SkxRaVFHdnJtWGlRTGZGSEg4Um8tMTFZcVotbms?oc=5"
     },
     {
-      "n": 30,
+      "n": 28,
       "title_en": "Can South Korea's Stock Market Rescue Fund Stop the AI Stock Selloff?",
       "source": "CryptoRank",
       "score": 6,
       "published_kst": "11/28 02:33",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbzJmYVF2c2FUbDc4ejF1bkd6YXBQTUFzUVRyYVdub0lXWEpETF9lam8xRlMwRVVJcG9YRUMzeGhEbEdpMVZBd0JkTWk5VW55VHJNZzNBRzVRdEdBREo3RlBXS1pOSnV3c2c5eUxHeWpWMllYUUpzU0JBU0pCUVFTUFNhQ3N4NGtHcFlmcno3dUpveEhDZzNjT1RfVEQzR2YyS3BSOVQyRWxnUQ?oc=5"
+    },
+    {
+      "n": 29,
+      "title_en": "Samsung and SK Hynix Drag KOSPI Down 6%, and Foreign Investors Are Running",
+      "source": "BeInCrypto",
+      "score": 6,
+      "published_kst": "11/28 01:00",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDM0s2Xzl0ZVlJNy11R0R0LUp0M09MbVEwREVxck1xSFFtV212Z19Qc0xJdks4M3A4UmdJWWNuNnBfbXo1dWhKTWx4YUhSREJUcF9tUTdjc19GcTFmM25FN2x1VFJWb0IwRjhTdg?oc=5"
+    },
+    {
+      "n": 30,
+      "title_en": "Why Investors Should Consider South Korea ETFs for the Long Term",
+      "source": "TradingView",
+      "score": 6,
+      "published_kst": "11/28 00:39",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTHNZcm9aaG8yZS03cmljUGFFNDNpUUpGZkV1UFRlN2FwYTlHTkxteWowd0M5bXhYbTNQVjNvQnhRSzBHMHk4MGJTWkVPaTNvXzFuRkpmYjZlM1BmY3o3UkFlb3l2WllWaHlvV1I3eEtGZTRnbDYyeTBJLVU5cVFReFA3WDVSZGNnR0VRWGZDZ08yOGNFTkVORjZOZUpLb0wxV1ByN0xjeUlrcnFkcmpTaV80V2xYUkpTdlZN?oc=5"
     }
   ],
   "earnings_calendar": [],
